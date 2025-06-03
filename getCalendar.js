@@ -19,7 +19,7 @@ async function fetchAndConvert() {
 
         const pubDate = DateTime.fromRFC2822(item.pubDate?.[0] || "", {
           zone: "America/Toronto",
-        });
+        }).toUTC();
 
         if (!pubDate.isValid) return null;
 
@@ -35,6 +35,7 @@ async function fetchAndConvert() {
           title,
           description,
           start,
+          startInputType: "utc", // ✅ This tells `ics` the time is UTC
           duration: { hours: 2 },
           uid: `resmtl-${index}@resistancemontreal.org`,
         };
