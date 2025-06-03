@@ -42,7 +42,8 @@ async function main() {
       end,
       summary: title,
       description,
-      floating: false, // Ensures TZID is embedded on DTSTART/DTEND
+      timezone: "America/Toronto", // This tells ical-generator to write TZID
+      floating: false,
     });
   }
 
