@@ -1,59 +1,46 @@
-const axios = require("axios");
-const xml2js = require("xml2js");
-const { DateTime } = require("luxon");
-const { writeFileSync } = require("fs");
-const { createEvents } = require("ics");
+import axios from "axios";
+import { parseStringPromise } from "xml2js";
+import ical from "ical-generator";
+import { DateTime } from "luxon";
+import { writeFileSync } from "fs";
 
-async function fetchAndConvert() {
-  const url = "https://resistancemontreal.org/rss/events";
+const feedUrl = "https://www.resistancemontreal.org/rss/events";
+const calendar = ical({
+  name: "Résistance Montréal",
+  timezone: "America/Toronto", // This embeds VTIMEZONE
+  prodId: "//resistancemtl//rss-to-ical//EN",
+});
 
-  try {
-    const res = await axios.get(url);
-    const parsed = await xml2js.parseStringPromise(res.data);
-    const items = parsed.rss.channel[0].item;
+async function main() {
+  const { data: xml } = await axios.get(feedUrl);
+  const parsed = await parseStringPromise(xml);
 
-    const events = items
-      .map((item, index) => {
-        const title = item.title?.[0] || "Untitled Event";
-        const description = item.description?.[0] || "";
+  const items = parsed.rss.channel[0].item;
 
-        const pubDate = DateTime.fromRFC2822(item.pubDate?.[0] || "", {
-          zone: "America/Toronto",
-        }).toUTC();
+  for (const [i, item] of items.entries()) {
+    const title = item.title?.[0] || "Untitled Event";
+    const description = item.description?.[0] || "";
+    const rawDate = item.pubDate?.[0];
 
-        if (!pubDate.isValid) return null;
+    if (!rawDate) continue;
 
-        const start = [
-          pubDate.year,
-          pubDate.month,
-          pubDate.day,
-          pubDate.hour,
-          pubDate.minute,
-        ];
+    const dt = DateTime.fromRFC2822(rawDate, { zone: "America/Toronto" });
 
-        return {
-          title,
-          description,
-          start,
-          startInputType: "utc", // ✅ This tells `ics` the time is UTC
-          duration: { hours: 2 },
-          uid: `resmtl-${index}@resistancemontreal.org`,
-        };
-      })
-      .filter(Boolean);
+    if (!dt.isValid) continue;
 
-    const { error, value } = createEvents(events);
-
-    if (error) {
-      console.error("ICS creation error:", error);
-    } else {
-      writeFileSync("docs/resistance-mtl.ics", value);
-
-      console.log("✅ Saved: resistance-mtl.ics");
-    }
-  } catch (err) {
-    console.error("Failed to fetch or parse RSS:", err);
+    calendar.createEvent({
+      id: `resmtl-${i}`,
+      start: dt,
+      end: dt.plus({ hours: 2 }),
+      summary: title,
+      description,
+      timezone: "America/Toronto",
+    });
   }
+
+  writeFileSync("docs/resistance-mtl.ics", calendar.toString());
+  console.log(`✅ Generated calendar with ${calendar.events().length} events.`);
+  console.log(`📁 Saved to: docs/resistance-mtl.ics`);
 }
 
-fetchAndConvert();
+main().catch(console.error);
