@@ -20,13 +20,17 @@ async function main() {
   for (const [i, item] of items.entries()) {
     const title = item.title?.[0] || "Untitled Event";
     const description = item.description?.[0] || "";
-    const rawDate = item.pubDate?.[0];
+    const firstLine = description.trim().split("\n")[0].trim();
 
-    if (!rawDate) continue;
+    let dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
+      zone: "America/Toronto",
+    });
 
-    const dt = DateTime.fromRFC2822(rawDate, { zone: "America/Toronto" });
-
-    if (!dt.isValid) continue;
+    if (!dt.isValid) {
+      // fallback to pubDate if the description date fails
+      const pub = item.pubDate?.[0];
+      dt = DateTime.fromRFC2822(pub || "", { zone: "America/Toronto" });
+    }
 
     calendar.createEvent({
       id: `resmtl-${i}`,
