@@ -1,5 +1,6 @@
 const axios = require("axios");
 const xml2js = require("xml2js");
+const { DateTime } = require("luxon");
 const { writeFileSync } = require("fs");
 const { createEvents } = require("ics");
 
@@ -15,16 +16,19 @@ async function fetchAndConvert() {
       .map((item, index) => {
         const title = item.title?.[0] || "Untitled Event";
         const description = item.description?.[0] || "";
-        const pubDate = new Date(item.pubDate?.[0]);
 
-        if (isNaN(pubDate)) return null;
+        const pubDate = DateTime.fromRFC2822(item.pubDate?.[0] || "", {
+          zone: "America/Toronto",
+        });
+
+        if (!pubDate.isValid) return null;
 
         const start = [
-          pubDate.getFullYear(),
-          pubDate.getMonth() + 1,
-          pubDate.getDate(),
-          pubDate.getHours(),
-          pubDate.getMinutes(),
+          pubDate.year,
+          pubDate.month,
+          pubDate.day,
+          pubDate.hour,
+          pubDate.minute,
         ];
 
         return {
@@ -35,7 +39,7 @@ async function fetchAndConvert() {
           uid: `resmtl-${index}@resistancemontreal.org`,
         };
       })
-      .filter(Boolean); // Remove nulls
+      .filter(Boolean);
 
     const { error, value } = createEvents(events);
 
