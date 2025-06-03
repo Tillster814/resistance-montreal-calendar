@@ -42,7 +42,7 @@ async function fetchAndConvert() {
     if (error) {
       console.error("ICS creation error:", error);
     } else {
-      writeFileSync("calendar/resistance-mtl.ics", value);
+      writeFileSync("docs/resistance-mtl.ics", value);
 
       console.log("✅ Saved: resistance-mtl.ics");
     }
