@@ -1,0 +1,29 @@
+name: Update RSS Calendar
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # every day at 3AM UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npm run generate
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add calendar/resistance-mtl.ics
+          git commit -m "Update calendar" || echo "No changes"
+          git push
