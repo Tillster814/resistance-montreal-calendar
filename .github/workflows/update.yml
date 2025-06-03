@@ -26,4 +26,4 @@ jobs:
           git config user.email "actions@github.com"
           git add docs/resistance-mtl.ics
           git commit -m "Update calendar" || echo "No changes"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
