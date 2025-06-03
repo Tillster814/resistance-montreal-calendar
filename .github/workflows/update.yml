@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add calendar/resistance-mtl.ics
+          git add docs/resistance-mtl.ics
           git commit -m "Update calendar" || echo "No changes"
           git push
