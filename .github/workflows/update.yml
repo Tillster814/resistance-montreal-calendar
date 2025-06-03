@@ -21,9 +21,11 @@ jobs:
       - run: npm run generate
 
       - name: Commit changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add docs/resistance-mtl.ics
           git commit -m "Update calendar" || echo "No changes"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
