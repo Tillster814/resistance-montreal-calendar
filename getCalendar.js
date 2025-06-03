@@ -9,7 +9,7 @@ const feedUrl = "https://www.resistancemontreal.org/rss/events";
 const calendar = ical({
   name: "Résistance Montréal",
   prodId: "//resistancemtl//rss-to-ical//EN",
-  timezone: "America/Toronto", // Embeds VTIMEZONE
+  timezone: "America/Toronto", // Embeds VTIMEZONE component
 });
 
 async function main() {
@@ -22,11 +22,12 @@ async function main() {
     const description = item.description?.[0] || "";
     const firstLine = description.trim().split("\n")[0].trim();
 
-    // Parse and keep in America/Toronto
+    // Try to parse start time from the first line of the description
     let dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
       zone: "America/Toronto",
     });
 
+    // Fallback to pubDate if parsing fails
     if (!dt.isValid) {
       const pub = item.pubDate?.[0];
       dt = DateTime.fromRFC2822(pub || "", { zone: "America/Toronto" });
@@ -37,11 +38,11 @@ async function main() {
 
     calendar.createEvent({
       id: `resmtl-${i}`,
-      start: start.toJSDate(),
-      end: end.toJSDate(),
+      start,
+      end,
       summary: title,
       description,
-      timezone: "America/Toronto", // ⬅ Ensures TZID is applied to DTSTART/DTEND
+      floating: false, // Ensures TZID is embedded on DTSTART/DTEND
     });
   }
 
