@@ -9,7 +9,7 @@ const feedUrl = "https://www.resistancemontreal.org/rss/events";
 const calendar = ical({
   name: "Résistance Montréal",
   prodId: "//resistancemtl//rss-to-ical//EN",
-  timezone: "UTC", // iCal best practice for portability
+  timezone: "America/Toronto", // Embeds VTIMEZONE
 });
 
 async function main() {
@@ -22,7 +22,7 @@ async function main() {
     const description = item.description?.[0] || "";
     const firstLine = description.trim().split("\n")[0].trim();
 
-    // Parse in Montreal timezone (EDT/EST), then convert to UTC
+    // Parse and keep in America/Toronto
     let dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
       zone: "America/Toronto",
     });
@@ -32,15 +32,16 @@ async function main() {
       dt = DateTime.fromRFC2822(pub || "", { zone: "America/Toronto" });
     }
 
-    const startUTC = dt.toUTC();
-    const endUTC = startUTC.plus({ hours: 2 });
+    const start = dt;
+    const end = start.plus({ hours: 2 });
 
     calendar.createEvent({
       id: `resmtl-${i}`,
-      start: startUTC.toJSDate(),
-      end: endUTC.toJSDate(),
+      start: start.toJSDate(),
+      end: end.toJSDate(),
       summary: title,
       description,
+      timezone: "America/Toronto", // ⬅ Ensures TZID is applied to DTSTART/DTEND
     });
   }
 
