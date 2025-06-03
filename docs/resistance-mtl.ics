@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:resmtl-0@resistancemontreal.org
 SUMMARY:Lancement de livre : "Être chez nous"
-DTSTAMP:20250603T023548Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250603T230000Z
 DESCRIPTION:2025-06-03 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nLes Éditions Somme Toute
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-1@resistancemontreal.org
 SUMMARY:BRULANCES
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250604T050000Z
 DESCRIPTION:2025-06-04 00:00:00\n2450 rue Workman\nhttps://www.openstreetma
 	p.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édition de 
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 UID:resmtl-2@resistancemontreal.org
 SUMMARY:Présentation/discussion autour du livre "Combattre la gentrificatio
 	n"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250604T220000Z
 DESCRIPTION:2025-06-04 17:00:00\n3714 du Parc (métro Place-des-Arts)\nhttps
 	://www.openstreetmap.org/node/11729165947\nÀ partir d'une présentation du 
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3@resistancemontreal.org
 SUMMARY:Table ronde - Pourquoi pas les coops ?
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250604T233000Z
 DESCRIPTION:2025-06-04 18:30:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\nTable ronde sur le modèle coopératif
@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4@resistancemontreal.org
 SUMMARY:BRULANCES
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250605T050000Z
 DESCRIPTION:2025-06-05 00:00:00\n2450 rue Workman\nhttps://www.openstreetma
 	p.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édition de 
@@ -115,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5@resistancemontreal.org
 SUMMARY:Journée mondial de l'environnement
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250605T220000Z
 DESCRIPTION:2025-06-05 17:00:00\n(métro Place-des-Arts)\nhttps://www.openst
 	reetmap.org/way/341520323\nJournée mondiale de l'environnement\nJeudi 5 ju
@@ -165,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6@resistancemontreal.org
 SUMMARY:Lancement de livre : "11 brefs essais sur la nation"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250605T220000Z
 DESCRIPTION:2025-06-05 17:00:00\n1426 Beaudry (métro Beaudry)\nhttps://www.
 	openstreetmap.org/node/4852683788\n11 brefs essais sur la nation\n\nRadjou
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7@resistancemontreal.org
 SUMMARY:Getting our Tech Together / Rassemblons notre techno
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250605T230000Z
 DESCRIPTION:2025-06-05 18:00:00\n5031 St-Denis (métro Laurier)\nhttps://www
 	.openstreetmap.org/node/11972883637\nPouvons-nous imaginer un secteur tech
@@ -228,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8@resistancemontreal.org
 SUMMARY:À l’aube des last calls
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250606T000000Z
 DESCRIPTION:2025-06-05 19:00:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\nLa Livrerie vous invite à un spectac
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9@resistancemontreal.org
 SUMMARY:BRULANCES
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250606T050000Z
 DESCRIPTION:2025-06-06 00:00:00\n2450 rue Workman\nhttps://www.openstreetma
 	p.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édition de 
@@ -268,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10@resistancemontreal.org
 SUMMARY:Food Fight : a telethon battle of the bands against food insecurity
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250606T230000Z
 DESCRIPTION:2025-06-06 18:00:00\n5589 du Parc\nhttps://www.openstreetmap.or
 	g/node/11666297042\n\n\nmore details and livestream link tba... Karaoke Af
@@ -306,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11@resistancemontreal.org
 SUMMARY:BRULANCES
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250607T050000Z
 DESCRIPTION:2025-06-07 00:00:00\n2450 rue Workman\nhttps://www.openstreetma
 	p.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édition de 
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 UID:resmtl-12@resistancemontreal.org
 SUMMARY:Lancement de l'OPA (Opération populaire d'aménagement) - (co)habite
 	r le terrain vague 
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250607T140000Z
 DESCRIPTION:2025-06-07 09:00:00\n(métro Viau)\nhttps://www.openstreetmap.or
 	g/way/1052525272\n Mobilisation 6600 lance la première étape de l'opératio
@@ -351,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13@resistancemontreal.org
 SUMMARY:Vente de livres de gauche
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250607T170000Z
 DESCRIPTION:2025-06-07 12:00:00\n1900 Le Ber (métro Charlevoix)\nhttps://ww
 	w.openstreetmap.org/node/6074430797\nLeftwingbooks.net\, in conjunction wi
@@ -372,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14@resistancemontreal.org
 SUMMARY:Bouffe contre le fascisme
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250607T170000Z
 DESCRIPTION:2025-06-07 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps://
 	www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organise à o
@@ -384,7 +384,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15@resistancemontreal.org
 SUMMARY:Vigil for Palestine
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250607T180000Z
 DESCRIPTION:2025-06-07 13:00:00\n(métro Mont-Royal)\nhttps://www.openstreet
 	map.org/node/1456304180\n\n\nJune 7 @ 13 h 00 min - 15 h 00 min\n\nPAJU VI
@@ -398,7 +398,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16@resistancemontreal.org
 SUMMARY:Bike ride for Palestine
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250607T180000Z
 DESCRIPTION:2025-06-07 13:00:00\nstatue george étienne-cartier\nhttps://www
 	.openstreetmap.org/node/504314275\nBike protest de Cyclistes pour la Pales
@@ -409,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17@resistancemontreal.org
 SUMMARY:Violet Hour Book Club: "Daughters of the Deer"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250607T200000Z
 DESCRIPTION:2025-06-07 15:00:00\n6450 avenue Christophe-Colomb\nhttps://www
 	.openstreetmap.org/way/1080082859\nJoin us for the next meeting of the Vio
@@ -455,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18@resistancemontreal.org
 SUMMARY:Benefit for Brazil punks 4 - 10$
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250608T013000Z
 DESCRIPTION:2025-06-07 20:30:00\nAsk a punk\n\nHeadbangers night at La Biu 
 	a Benefit for Brazil Punks.\n\nPlease come out an support the underground 
@@ -474,7 +474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19@resistancemontreal.org
 SUMMARY:BRULANCES
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250608T050000Z
 DESCRIPTION:2025-06-08 00:00:00\n2450 rue Workman\nhttps://www.openstreetma
 	p.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édition de 
@@ -487,7 +487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20@resistancemontreal.org
 SUMMARY:Fête du Bâtiment 7 !
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250608T170000Z
 DESCRIPTION:2025-06-08 12:00:00\n1900 Le Ber (métro Charlevoix)\nhttps://ww
 	w.openstreetmap.org/node/6074430797\nOn célèbre notre 7e anniversaire !\n\
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 UID:resmtl-21@resistancemontreal.org
 SUMMARY:Grande manif-action contre ray-mont logistiques : L'appel du printe
 	mps
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250608T180000Z
 DESCRIPTION:2025-06-08 13:00:00\n(métro Pie-IX)\nhttps://www.openstreetmap.
 	org/node/11900040351\nRésister et fleurir contre Ray-Mont et ses conteneur
@@ -528,7 +528,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-22@resistancemontreal.org
 SUMMARY:Block Party du Syndicat des locataires de Centre-sud
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250608T180000Z
 DESCRIPTION:2025-06-08 13:00:00\n(métro Beaudry)\nhttps://www.openstreetmap
 	.org/way/487427517\n\n\n\n\n\n\nATTENTION CENTRE-SUD / GAY VILLAGE\n\n\n\n
@@ -555,7 +555,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-23@resistancemontreal.org
 SUMMARY:Cercle de lecture : Devenir fasciste
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250608T200000Z
 DESCRIPTION:2025-06-08 15:00:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\nCERCLES DE LECTURE À LA LIVRERIE&nbs
@@ -594,7 +594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-24@resistancemontreal.org
 SUMMARY:Droits humains à l'affiche : Pour le droit international
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250611T000000Z
 DESCRIPTION:2025-06-10 19:00:00\n1500 Balmoral (métro Place-des-Arts)\nhttp
 	s://www.openstreetmap.org/node/8025526254\nCLIQUEZ ICI POUR VOUS INSCRIRE!
@@ -615,7 +615,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-25@resistancemontreal.org
 SUMMARY:Mural Unveiling
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250611T223000Z
 DESCRIPTION:2025-06-11 17:30:00\nRuelle verte entre Hutchison &amp\; Duroch
 	er\n
@@ -624,7 +624,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-26@resistancemontreal.org
 SUMMARY:Lancement de livre : "Annapurna's Bounty"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250611T230000Z
 DESCRIPTION:2025-06-11 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nLes éditions Dundurn et 
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 UID:resmtl-27@resistancemontreal.org
 SUMMARY:Déborder Bolloré : lancement-discussion | extrême-droitisation des 
 	médias et du monde de l'édition
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250611T230000Z
 DESCRIPTION:2025-06-11 18:00:00\n6758 St-Laurent\nhttps://www.openstreetmap
 	.org/node/12034441028\nJoignez-vous à nous pour le lancement de l'ouvrage 
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 UID:resmtl-28@resistancemontreal.org
 SUMMARY:Marche guidée: Luttes pour le logement dans Hochelaga-Maisonneuve (
 	inscription)
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250612T180000Z
 DESCRIPTION:2025-06-12 13:00:00\n3250 Rue Sainte-Catherine E\, Montréal\, Q
 	C H1W 2C6\nPlongez dans l’histoire des luttes pour le droit au logement da
@@ -715,7 +715,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-29@resistancemontreal.org
 SUMMARY:Action contre la hausse de la STM
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250612T200000Z
 DESCRIPTION:2025-06-12 15:00:00\n(métro lionel-groulx)\nhttps://www.openstr
 	eetmap.org/node/7164242333\nDétails à venir\n
@@ -724,7 +724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-30@resistancemontreal.org
 SUMMARY:Lancement et causerie : "Wages for Housework"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250612T233000Z
 DESCRIPTION:2025-06-12 18:30:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nLes éditions du remue-mé
@@ -762,7 +762,7 @@ BEGIN:VEVENT
 UID:resmtl-31@resistancemontreal.org
 SUMMARY:Lancement de "La Cantine"\, nouvel outil de prévention carcéral de 
 	l'AQPSUD
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250613T220000Z
 DESCRIPTION:2025-06-13 17:00:00\n1710 Rue Beaudry (métro Beaudry)\nhttps://
 	www.openstreetmap.org/way/181295868\nL’Association québécoise pour la prom
@@ -786,7 +786,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-32@resistancemontreal.org
 SUMMARY:Bouffe contre le fascisme
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250614T170000Z
 DESCRIPTION:2025-06-14 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps://
 	www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organise à o
@@ -798,7 +798,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-33@resistancemontreal.org
 SUMMARY:Battle set fundraiser for Palestine 15$
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250615T010000Z
 DESCRIPTION:2025-06-14 20:00:00\n1900 Le Ber (métro Charlevoix)\nhttps://ww
 	w.openstreetmap.org/node/6074430797\n\n8 bands\, 4 sets\, song for song\n\
@@ -811,7 +811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-34@resistancemontreal.org
 SUMMARY:Anarchist Bookclub
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250616T230000Z
 DESCRIPTION:2025-06-16 18:00:00\n3720 avenue du Parc\nhttps://www.openstree
 	tmap.org/node/11972918877\nLooking to challenge the status quo ? Curious a
@@ -826,7 +826,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-35@resistancemontreal.org
 SUMMARY:Pique-nique contre le profilage
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250617T170000Z
 DESCRIPTION:2025-06-17 12:00:00\n2\, rue des Jardins\nhttps://www.openstree
 	tmap.org/way/392464714\nC'est jour de conseil municipal ! \n\nOn vous invi
@@ -856,7 +856,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-36@resistancemontreal.org
 SUMMARY:Causerie sur le livre "Industrial Roots"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250617T220000Z
 DESCRIPTION:2025-06-17 17:00:00\n1426 Beaudry (métro Beaudry)\nhttps://www.
 	openstreetmap.org/node/4852683788\n\n\n\n\n\n&nbsp\;\n\n\n\n\n\n\n\n\n17 j
@@ -870,7 +870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-37@resistancemontreal.org
 SUMMARY:BBQ végétarien de Rage Climatique
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250617T230000Z
 DESCRIPTION:2025-06-17 18:00:00\n2035 St-Laurent\, 2e étage (métro St-Laure
 	nt)\nhttps://www.openstreetmap.org/way/243082943\nBBQ VÉGÉTARIEN DE RAGE C
@@ -896,7 +896,7 @@ BEGIN:VEVENT
 UID:resmtl-38@resistancemontreal.org
 SUMMARY:Finançons l'accessibilité universelle du métro ! Mobilisation du gr
 	and Sud-ouest
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250619T210000Z
 DESCRIPTION:2025-06-19 16:00:00\n(coin Wellington/Galt)\nhttps://www.openst
 	reetmap.org/node/11045538596\nPour des ascenseurs à la station De L'Église
@@ -919,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-39@resistancemontreal.org
 SUMMARY:Causerie sur le livre "Sirop de poteau"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250619T230000Z
 DESCRIPTION:2025-06-19 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\nLB Éditeur et la Livrerie vous invit
@@ -954,7 +954,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-40@resistancemontreal.org
 SUMMARY:Journée des peuples autochtones
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250621T050100Z
 DESCRIPTION:2025-06-21 00:01:00\n(détails à venir)\nDétails à venir\n
 DURATION:PT2H
@@ -962,7 +962,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-41@resistancemontreal.org
 SUMMARY:Bouffe contre le fascisme
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250621T170000Z
 DESCRIPTION:2025-06-21 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps://
 	www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organise à o
@@ -974,7 +974,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-42@resistancemontreal.org
 SUMMARY:Marche funèbre pour les lieux disparus
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250622T170000Z
 DESCRIPTION:2025-06-22 12:00:00\nCoin Esplanade/Mont-Royal (métro Mont-Roya
 	l)\nhttps://www.openstreetmap.org/way/1323434978\n\nRVD PARC JEANNE-MANCE\
@@ -1016,7 +1016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-43@resistancemontreal.org
 SUMMARY:10 years of Metonymy Press : A Cabaret 20$
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250623T003000Z
 DESCRIPTION:2025-06-22 19:30:00\n4873 St-Laurent (métro Laurier)\nhttps://w
 	ww.openstreetmap.org/node/1570292450\n\nhttps://tickets.venuepilot.com/e/1
@@ -1072,7 +1072,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-44@resistancemontreal.org
 SUMMARY:Lancement de la 16e saison du Cinéma sous les étoiles
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250626T000000Z
 DESCRIPTION:2025-06-25 19:00:00\nParc Lafontaine (métro Sherbrooke)\nhttps:
 	//www.openstreetmap.org/node/7363083869\nC’est au Théâtre de Verdure que s
@@ -1090,7 +1090,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-45@resistancemontreal.org
 SUMMARY:Cinéma sous les étoiles : "The Pickers"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250626T020000Z
 DESCRIPTION:2025-06-25 21:00:00\nParc Lafontaine (métro Sherbrooke)\nhttps:
 	//www.openstreetmap.org/node/7363083869\nThe Pickers\, nous emmène dans le
@@ -1101,7 +1101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-46@resistancemontreal.org
 SUMMARY:Lecture : "Frétillant et agile"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250626T230000Z
 DESCRIPTION:2025-06-26 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps:/
 	/www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nDans le cadre de En juin
@@ -1127,7 +1127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-47@resistancemontreal.org
 SUMMARY:À Bas le Patriarcat ! Show Rock 20$
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250627T010000Z
 DESCRIPTION:2025-06-26 20:00:00\n4848 St-Laurent (métro Laurier)\nhttps://w
 	ww.openstreetmap.org/way/352197557\nLa Sotterenea\nPortes: 20h\nSpectacle:
@@ -1164,7 +1164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-48@resistancemontreal.org
 SUMMARY:Cinéma sous les étoiles : "La panthère des neiges"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250627T020000Z
 DESCRIPTION:2025-06-26 21:00:00\n3500 Girouard (métro Vendôme)\nhttps://www
 	.openstreetmap.org/way/1079194844\nAu cœur des hauts plateaux tibétains\, 
@@ -1179,7 +1179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-49@resistancemontreal.org
 SUMMARY:Cercle de réparation textile
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250627T190000Z
 DESCRIPTION:2025-06-27 14:00:00\n6450 avenue Christophe-Colomb\nhttps://www
 	.openstreetmap.org/way/1080082859\nLes bénévoles du cercle de réparation e
@@ -1211,7 +1211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-50@resistancemontreal.org
 SUMMARY:Masse critique de juin
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250627T220000Z
 DESCRIPTION:2025-06-27 17:00:00\nCoin du Parc/Rachel (métro Mont-Royal)\nht
 	tps://www.openstreetmap.org/way/143352036\n 𝗠𝗔𝗦𝗦𝗘 𝗖𝗥𝗜𝗧𝗜𝗤𝗨𝗘 au Parc du Mont
@@ -1253,7 +1253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-51@resistancemontreal.org
 SUMMARY:Book Launch : "Seed Beetle"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250627T230000Z
 DESCRIPTION:2025-06-27 18:00:00\n1426 Beaudry (métro Beaudry)\nhttps://www.
 	openstreetmap.org/node/4852683788\nPlease join us for the Montreal launch 
@@ -1298,7 +1298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-52@resistancemontreal.org
 SUMMARY:Bouffe contre le fascisme
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250628T170000Z
 DESCRIPTION:2025-06-28 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps://
 	www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organise à o
@@ -1310,7 +1310,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-53@resistancemontreal.org
 SUMMARY:Souper ORA x Comité BAILS
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250629T230000Z
 DESCRIPTION:2025-06-29 18:00:00\n1800 Letourneux (métro Pie-IX)\nhttps://ww
 	w.openstreetmap.org/way/363150208\nAvec la crise du logement et le 1er jui
@@ -1321,7 +1321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-54@resistancemontreal.org
 SUMMARY:Cinéma sous les étoiles : "Les perdants"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250701T020000Z
 DESCRIPTION:2025-06-30 21:00:00\n(métro Papineau)\nhttps://www.openstreetma
 	p.org/way/165260353\nLes perdants suit trois personnes candidates aux élec
@@ -1339,7 +1339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-55@resistancemontreal.org
 SUMMARY:Cinéma sous les étoiles : "Come se non ci fosse un domani"
-DTSTAMP:20250603T023549Z
+DTSTAMP:20250603T030918Z
 DTSTART:20250701T020000Z
 DESCRIPTION:2025-06-30 21:00:00\n70 Av. Shamrock (métro de Castelnau)\nhttp
 	s://www.openstreetmap.org/node/8512069849\nCome se non ci fosse un domani 
