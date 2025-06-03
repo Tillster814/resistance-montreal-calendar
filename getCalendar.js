@@ -5,9 +5,10 @@ import { DateTime } from "luxon";
 import { writeFileSync } from "fs";
 
 const feedUrl = "https://www.resistancemontreal.org/rss/events";
+
 const calendar = ical({
   name: "Résistance Montréal",
-  timezone: "America/Toronto", // This embeds VTIMEZONE
+  timezone: "America/Toronto",
   prodId: "//resistancemtl//rss-to-ical//EN",
 });
 
@@ -15,21 +16,34 @@ async function main() {
   const { data: xml } = await axios.get(feedUrl);
   const parsed = await parseStringPromise(xml);
 
-  const items = parsed.rss.channel[0].item;
+  const items = parsed.rss?.channel?.[0]?.item || [];
 
   for (const [i, item] of items.entries()) {
     const title = item.title?.[0] || "Untitled Event";
     const description = item.description?.[0] || "";
     const firstLine = description.trim().split("\n")[0].trim();
 
-    let dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
-      zone: "America/Toronto",
-    });
+    let dt;
+
+    // Try parsing "2025-06-03 18:00:00" from description as Montreal time
+    if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/.test(firstLine)) {
+      dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
+        zone: "America/Toronto",
+      });
+    }
+
+    // Fallback to pubDate but treat it as Montreal time, ignore "EST"
+    if (!dt || !dt.isValid) {
+      const pub = item.pubDate?.[0] || "";
+      const cleanedPub = pub.replace(/ [A-Z]{2,4}$/, ""); // remove EST
+      dt = DateTime.fromFormat(cleanedPub, "dd LLL yyyy HH:mm:ss", {
+        zone: "America/Toronto",
+      });
+    }
 
     if (!dt.isValid) {
-      // fallback to pubDate if the description date fails
-      const pub = item.pubDate?.[0];
-      dt = DateTime.fromRFC2822(pub || "", { zone: "America/Toronto" });
+      console.warn(`❌ Skipping invalid date for item: ${title}`);
+      continue;
     }
 
     calendar.createEvent({
