@@ -9,8 +9,13 @@ const feedUrl = "https://www.resistancemontreal.org/rss/events";
 const calendar = ical({
   name: "Résistance Montréal",
   prodId: "//resistancemtl//rss-to-ical//EN",
-  timezone: "America/Toronto", // Embeds VTIMEZONE component
+  timezone: "America/Toronto",
 });
+
+function extractInstagram(description) {
+  const match = description.match(/@([\w.]+)\s+sur\s+instagram/i);
+  return match ? `https://instagram.com/${match[1]}` : null;
+}
 
 async function main() {
   const { data: xml } = await axios.get(feedUrl);
@@ -19,30 +24,58 @@ async function main() {
 
   for (const [i, item] of items.entries()) {
     const title = item.title?.[0] || "Untitled Event";
-    const description = item.description?.[0] || "";
-    const firstLine = description.trim().split("\n")[0].trim();
+    const rawDescription = item.description?.[0] || "";
 
-    // Try to parse start time from the first line of the description
-    let dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
+    // Clean and break into lines
+    const lines = rawDescription
+      .trim()
+      .split("\n")
+      .map((l) => l.trim())
+      .filter(Boolean);
+
+    const rawTime = lines[0] ?? "";
+    const locationLine = lines[1] ?? "";
+    const urlLine = lines[2]?.startsWith("http") ? lines[2] : "";
+    const rest = lines
+      .slice(urlLine ? 3 : 2)
+      .join("\n")
+      .trim();
+
+    const instagramUrl = extractInstagram(rawDescription);
+
+    // Attempt to parse datetime
+    let dt = DateTime.fromFormat(rawTime, "yyyy-MM-dd HH:mm:ss", {
       zone: "America/Toronto",
     });
-
-    // Fallback to pubDate if parsing fails
     if (!dt.isValid) {
-      const pub = item.pubDate?.[0];
-      dt = DateTime.fromRFC2822(pub || "", { zone: "America/Toronto" });
+      dt = DateTime.fromRFC2822(item.pubDate?.[0] ?? "", {
+        zone: "America/Toronto",
+      });
     }
 
-    const start = dt;
+    const start = dt.setZone("America/Toronto");
     const end = start.plus({ hours: 2 });
+
+    // Construct the full description (with time + optional Instagram)
+    const descriptionParts = [
+      rawTime,
+      locationLine,
+      urlLine,
+      rest,
+      instagramUrl,
+    ].filter(Boolean);
+
+    const finalDescription = descriptionParts.join("\n\n");
 
     calendar.createEvent({
       id: `resmtl-${i}`,
-      start,
-      end,
+      start: start.toJSDate(),
+      end: end.toJSDate(),
       summary: title,
-      description,
-      timezone: "America/Toronto", // This tells ical-generator to write TZID
+      description: finalDescription,
+      location: locationLine,
+      url: urlLine,
+      timezone: "America/Toronto",
       floating: false,
     });
   }

@@ -8,1089 +8,1135 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250603T180000
-DTEND:20250603T200000
-SUMMARY:Lancement de livre : "Être chez nous"
-DESCRIPTION:2025-06-03 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nLes Éditions Somme To
- ute et la Livrerie vous invitent au lancement d’Être chez nous : Panora
- ma de l'immigration internationale dans les régions du Québec de Jean-Lo
- uis Bordeleau.\n\n—\n\nJean-Louis Bordeleau a d’abord œuvré comme jo
- urnaliste à Québec et à Sept-Îles avant de se joindre en 2020 à l’
- équipe du Devoir à Montréal. Touche à tout et capable de s’exprimer 
- en six langues\, il sillonne les campagnes québécoises pour écrire sur 
- la ruralité\, les innovations en entreprise et les questions d’immigrat
- ion. Être chez nous est son premier livre.\n\n—\n\nÊTRE CHEZ NOUS\n\nU
- n essai illuminateur et personnel sur l'immigration au Québec.L'immigrati
- on internationale n'est plus la chasse gardée des grandes villes. Avec la
-  récente vague d'immigrants temporaires en région\, les villages et les 
- campagnes attirent plus que jamais. La régionalisation de l'immigration\,
-  qui a longtemps été souhaitée\, est maintenant une réalité bien enra
- cinée. Jean-Louis Bordeleau propose dans Être chez nous plus d'une centa
- ine de rencontres avec des néo-Québécois provenant d'Italie\, d'Ukraine
- \, du Liban\, du Sénégal\, de Tunisie\, d'Haïti\, des Philippines et d'
- ailleurs\, dans quatorze régions. La rencontre de ce Québec régional ch
- angeant et méconnu nous fait ouvrir les yeux autant sur les spécificité
- s locales que sur les grandes tendances des migrations globales. Être che
- z nous raconte leurs parcours\, leurs difficultés\, leurs espoirs\, leurs
-  désillusions et leurs succès.\n\n&nbsp\;\n\n\n\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250604T000000
+DTEND;TZID=America/Toronto:20250604T020000
+SUMMARY:BRULANCES
+LOCATION:2450 rue Workman
+DESCRIPTION:2025-06-04 00:00:00\n\n2450 rue Workman\n\nhttps://www.openstr
+ eetmap.org/way/347548168\n\n🔥 FESTIVAL QUEER RADICAL 🔥\nLa 3e éditi
+ on de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 20
+ 25 !\nPréparez-vous pour une semaine d’effervescence\, de révolte\, de
+  réflexions\, de convergences… et de fêtes.\n@brulances sur instagram 
+ pour la programmation\n\nhttps://instagram.com/brulances
+URL;VALUE=URI:https://www.openstreetmap.org/way/347548168
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250604T000000
-DTEND:20250604T020000
-SUMMARY:BRULANCES
-DESCRIPTION:2025-06-04 00:00:00\n2450 rue Workman\nhttps://www.openstreetm
- ap.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édi
- tion de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 
- 2025 !\n\nPréparez-vous pour une semaine d’effervescence\, de révolte\
- , de réflexions\, de convergences… et de fêtes.\n\n@brulances sur inst
- agram pour la programmation\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250604T170000
+DTEND;TZID=America/Toronto:20250604T190000
+SUMMARY:Présentation/discussion autour du livre "Combattre la gentrificat
+ ion"
+LOCATION:3714 du Parc (métro Place-des-Arts)
+DESCRIPTION:2025-06-04 17:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
+ nhttps://www.openstreetmap.org/node/11729165947\n\nÀ partir d'une présen
+ tation du livre par l'autrice\, Sophie Thiébaut\, coordonnatrice d'Attac 
+ Québec\, nous entendrons le point de vue de Marie-Josée Corriveau\, memb
+ re d'Attac et ancienne coordonnatrice du FRAPRU ainsi que de Manuel Johnso
+ n\, citoyen de Milton parc et avocat en droit social. Et vous lecteurs/tri
+ ces\, qu'en pensez-vous ?\nPrésentation du livre (disponible sur place po
+ ur 20$):\nÀ partir de l’expérience vécue pendant 12 années\, en poli
+ tique municipale dans l’arrondissement du Sud-Ouest de Montréal\, l’a
+ utrice\, une ex-travailleuse communautaire sur ce même territoire\, locat
+ aire et immigrante\, raconte comment elle a vécu le développement de son
+  secteur. Au sein de quartiers en plein boom immobilier\, et du parti Proj
+ et Montréal\, avant et après son accession au pouvoir\, cet essai souhai
+ te partager une perspective des plus privilégiée.\nEn racontant\, de l
+ ’intérieur\, l’histoire de quartiers ou de sites emblématiques comme
+  Griffintown\, les abords du canal de Lachine ou la Canada Malting\, Sophi
+ e Thiébaut partage ses observations et le cheminement qui mène aux déci
+ sions d’éluEs locaux. Issue du terrain et d’un milieu citoyen et comm
+ unautaire militant\, revendiquant ardemment un développement immobilier q
+ ui ait comme objectif de réponde aux besoins de base de la population\, c
+ elle-ci témoigne du fonctionnement intime d’une administration qui voit
+  l’intérêt des développeurs immobiliers des années 2000\, comme une 
+ manne pour les revenus municipaux. Elle démontre ainsi l’addiction d’
+ une ville québécoise comme Montréal et ses arrondissements\, aux revenu
+ s fonciers\; et l’enjeu de répondre adéquatement aux besoins immenses 
+ et bien réels en habitation de nombreux ménages montréalais ainsi que l
+ a responsabilité municipale de bâtir des quartiers dynamiques et complet
+ s.\nPar ailleurs\, les souvenirs partagés dans ce recueil permettront de 
+ mieux comprendre l’évolution d’un parti politique comme Projet Montr
+ éal\, bâti sur l’énergie de ses militants et leur volonté de changer
+  la ville\, enjeu par enjeu. En lien avec les besoins en habitation écono
+ miquement abordable\, les engagements en aménagement urbain et l’attrai
+ t des revenus liés à l’augmentation de l’assiette fiscale\, l’autr
+ ice cherchera à démontrer la transformation du discours\, de la position
+  d’opposition à celle du pouvoir.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250604T170000
-DTEND:20250604T190000
-SUMMARY:Présentation/discussion autour du livre "Combattre la gentrificat
- ion"
-DESCRIPTION:2025-06-04 17:00:00\n3714 du Parc (métro Place-des-Arts)\nhtt
- ps://www.openstreetmap.org/node/11729165947\nÀ partir d'une présentation
-  du livre par l'autrice\, Sophie Thiébaut\, coordonnatrice d'Attac Québe
- c\, nous entendrons le point de vue de Marie-Josée Corriveau\, membre d'A
- ttac et ancienne coordonnatrice du FRAPRU ainsi que de Manuel Johnson\, ci
- toyen de Milton parc et avocat en droit social. Et vous lecteurs/trices\, 
- qu'en pensez-vous ?\n\nPrésentation du livre (disponible sur place pour 2
- 0$):\nÀ partir de l’expérience vécue pendant 12 années\, en politiqu
- e municipale dans l’arrondissement du Sud-Ouest de Montréal\, l’autri
- ce\, une ex-travailleuse communautaire sur ce même territoire\, locataire
-  et immigrante\, raconte comment elle a vécu le développement de son sec
- teur. Au sein de quartiers en plein boom immobilier\, et du parti Projet M
- ontréal\, avant et après son accession au pouvoir\, cet essai souhaite p
- artager une perspective des plus privilégiée.\nEn racontant\, de l’int
- érieur\, l’histoire de quartiers ou de sites emblématiques comme Griff
- intown\, les abords du canal de Lachine ou la Canada Malting\, Sophie Thi
- ébaut partage ses observations et le cheminement qui mène aux décisions
-  d’éluEs locaux. Issue du terrain et d’un milieu citoyen et communaut
- aire militant\, revendiquant ardemment un développement immobilier qui ai
- t comme objectif de réponde aux besoins de base de la population\, celle-
- ci témoigne du fonctionnement intime d’une administration qui voit l’
- intérêt des développeurs immobiliers des années 2000\, comme une manne
-  pour les revenus municipaux. Elle démontre ainsi l’addiction d’une v
- ille québécoise comme Montréal et ses arrondissements\, aux revenus fon
- ciers\; et l’enjeu de répondre adéquatement aux besoins immenses et bi
- en réels en habitation de nombreux ménages montréalais ainsi que la res
- ponsabilité municipale de bâtir des quartiers dynamiques et complets.\nP
- ar ailleurs\, les souvenirs partagés dans ce recueil permettront de mieux
-  comprendre l’évolution d’un parti politique comme Projet Montréal\,
-  bâti sur l’énergie de ses militants et leur volonté de changer la vi
- lle\, enjeu par enjeu. En lien avec les besoins en habitation économiquem
- ent abordable\, les engagements en aménagement urbain et l’attrait des 
- revenus liés à l’augmentation de l’assiette fiscale\, l’autrice ch
- erchera à démontrer la transformation du discours\, de la position d’o
- pposition à celle du pouvoir.\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250604T183000
+DTEND;TZID=America/Toronto:20250604T203000
+SUMMARY:Table ronde - Pourquoi pas les coops ?
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2025-06-04 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nTable ronde sur le modèle c
+ oopératif comme moteur de transformation économique.\nAvec Margot Silves
+ tro\, Isabelle Faubert Mailloux et Julia Posca.\nDétails à venir !\n&nbs
+ p\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250604T183000
-DTEND:20250604T203000
-SUMMARY:Table ronde - Pourquoi pas les coops ?
-DESCRIPTION:2025-06-04 18:30:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\nTable ronde sur le modèle coopér
- atif comme moteur de transformation économique.\nAvec Margot Silvestro\, 
- Isabelle Faubert Mailloux et Julia Posca.\n\nDétails à venir !\n\n&nbsp\
- ;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250605T000000
+DTEND;TZID=America/Toronto:20250605T020000
+SUMMARY:BRULANCES
+LOCATION:2450 rue Workman
+DESCRIPTION:2025-06-05 00:00:00\n\n2450 rue Workman\n\nhttps://www.openstr
+ eetmap.org/way/347548168\n\n🔥 FESTIVAL QUEER RADICAL 🔥\nLa 3e éditi
+ on de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 20
+ 25 !\nPréparez-vous pour une semaine d’effervescence\, de révolte\, de
+  réflexions\, de convergences… et de fêtes.\n@brulances sur instagram 
+ pour la programmation\n\nhttps://instagram.com/brulances
+URL;VALUE=URI:https://www.openstreetmap.org/way/347548168
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250605T000000
-DTEND:20250605T020000
-SUMMARY:BRULANCES
-DESCRIPTION:2025-06-05 00:00:00\n2450 rue Workman\nhttps://www.openstreetm
- ap.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édi
- tion de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 
- 2025 !\n\nPréparez-vous pour une semaine d’effervescence\, de révolte\
- , de réflexions\, de convergences… et de fêtes.\n\n@brulances sur inst
- agram pour la programmation\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250605T170000
+DTEND;TZID=America/Toronto:20250605T190000
+SUMMARY:Journée mondial de l'environnement
+LOCATION:(métro Place-des-Arts)
+DESCRIPTION:2025-06-05 17:00:00\n\n(métro Place-des-Arts)\n\nhttps://www.
+ openstreetmap.org/way/341520323\n\nJournée mondiale de l'environnement\nJ
+ eudi 5 juin\, de 17 h à 20 h 30 (coucher du soleil)\nParc Lucia Kowaluk (
+ à l'angle de Pine et Parc)\nOrganisé par le Comité des citoyens de Milt
+ on Parc\nRejoignez le Comité des citoyens de Milton Parc pour la Journée
+  mondiale de l'environnement ! Cette année\, le thème est la pollution p
+ lastique. Venez nous rejoindre pour un repas\, des activités artistiques\
+ , des discours et des spectacles !\nUn repas végétarien et des boissons 
+ seront servis avec un barbecue sur place.\nLe programme comprendra des int
+ ervenant.e.s issus de diverses initiatives communautaires\, environnementa
+ les et militantes\, ainsi que des spectacles musicaux et circassiens. Expr
+ imez-vous : partagez vos réflexions et/ou participez au micro ouvert des 
+ citoyen.ne.s !\nActivités : Bingo environnemental. Activité artistique d
+ e cyanotypie. Activité artistique collective « le meilleur des déchets 
+ » .\nConcours zéro déchet : collectez dès maintenant tous vos plastiqu
+ es jetables et apportez-les à l'événement dans un sac. Nous les peseron
+ s et distribuerons des prix !\nLE SAVIEZ-VOUS ? Le monde produit 381 milli
+ ons de tonnes de déchets plastiques par an\, un chiffre qui devrait doubl
+ er d'ici 2034. Tous ces déchets se décomposent en microplastiques\, que 
+ l'on retrouve même dans les tissus cérébraux humains. Les êtres humain
+ s consomment en moyenne l'équivalent d'une carte de crédit de plastique 
+ par semaine à travers leur alimentation\, l'eau\, l'air\, les produits de
+  toilette et même leurs vêtements.\nChangeons le système\, pas le clima
+ t !\nPour la programmation complète : https://docs.google.com/.../10AMTc7
+ 90arQFzEilKw7g.../edit...\n=====================\nWorld Environment Day\nT
+ hursday\, June 5th\, 5pm to sunset (8:30pm)\nLucia Kowaluk Park (corner of
+  Pine and Parc)\nOrganized by the Milton Parc Citizens’ Committee\nJoin 
+ the Milton Parc Citizen’s Committee for World Environment Day! This year
+  the theme is plastics. Join us for food\, art activities\, performances\,
+  and speeches!\nVegetarian meal and drink will be served with a BBQ onsite
+ .\nThe programme will include speakers from various community\, environmen
+ tal\, and activist initiatives\, as well as musical and circus performance
+ s. Have your say: share your thoughts or and/or perform in the citizens’
+  open mic!\nActivities: Environmental bingo. Cyanotyping art activity. Bes
+ t-out-of-waste collective art activity.\nZero waste competition: Collect a
+ ll of your disposable plastics from now on and bring them to the event in 
+ a bag. We will weigh them and give out prizes!\nDID YOU KNOW? The world pr
+ oduces 381 million tonnes of plastic waste yearly – this is set to doubl
+ e by 2034. All of this breaks down into microplastics\, which can even be 
+ found in human brain tissue. Humans consume on average a credit-card’s w
+ orth of plastic weekly through our food\, water\, air\, toiletries\, and e
+ ven our clothes.\nSystem change not climate change!\nFor the full programm
+ e: https://docs.google.com/.../10AMTc790arQFzEilKw7g.../edit...\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/341520323
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250605T170000
-DTEND:20250605T190000
-SUMMARY:Journée mondial de l'environnement
-DESCRIPTION:2025-06-05 17:00:00\n(métro Place-des-Arts)\nhttps://www.open
- streetmap.org/way/341520323\nJournée mondiale de l'environnement\nJeudi 5
-  juin\, de 17 h à 20 h 30 (coucher du soleil)\nParc Lucia Kowaluk (à l'a
- ngle de Pine et Parc)\nOrganisé par le Comité des citoyens de Milton Par
- c\n\nRejoignez le Comité des citoyens de Milton Parc pour la Journée mon
- diale de l'environnement ! Cette année\, le thème est la pollution plast
- ique. Venez nous rejoindre pour un repas\, des activités artistiques\, de
- s discours et des spectacles ! \n\n Un repas végétarien et des boissons 
- seront servis avec un barbecue sur place.\n Le programme comprendra des in
- tervenant.e.s issus de diverses initiatives communautaires\, environnement
- ales et militantes\, ainsi que des spectacles musicaux et circassiens. Exp
- rimez-vous : partagez vos réflexions et/ou participez au micro ouvert des
-  citoyen.ne.s !\n Activités : Bingo environnemental. Activité artistique
-  de cyanotypie. Activité artistique collective « le meilleur des déchet
- s » .\n Concours zéro déchet : collectez dès maintenant tous vos plast
- iques jetables et apportez-les à l'événement dans un sac. Nous les pese
- rons et distribuerons des prix !\n\nLE SAVIEZ-VOUS ? Le monde produit 381 
- millions de tonnes de déchets plastiques par an\, un chiffre qui devrait 
- doubler d'ici 2034. Tous ces déchets se décomposent en microplastiques\,
-  que l'on retrouve même dans les tissus cérébraux humains. Les êtres h
- umains consomment en moyenne l'équivalent d'une carte de crédit de plast
- ique par semaine à travers leur alimentation\, l'eau\, l'air\, les produi
- ts de toilette et même leurs vêtements.\n\nChangeons le système\, pas l
- e climat !\n\nPour la programmation complète : https://docs.google.com/..
- ./10AMTc790arQFzEilKw7g.../edit...\n\n=====================\n\nWorld Envir
- onment Day\nThursday\, June 5th\, 5pm to sunset (8:30pm)\nLucia Kowaluk Pa
- rk (corner of Pine and Parc)\nOrganized by the Milton Parc Citizens’ Com
- mittee\n\nJoin the Milton Parc Citizen’s Committee for World Environment
-  Day! This year the theme is plastics. Join us for food\, art activities\,
-  performances\, and speeches! \n\n Vegetarian meal and drink will be serve
- d with a BBQ onsite.\n The programme will include speakers from various co
- mmunity\, environmental\, and activist initiatives\, as well as musical an
- d circus performances. Have your say: share your thoughts or and/or perfor
- m in the citizens’ open mic!\n Activities: Environmental bingo. Cyanotyp
- ing art activity. Best-out-of-waste collective art activity.\n Zero waste 
- competition: Collect all of your disposable plastics from now on and bring
-  them to the event in a bag. We will weigh them and give out prizes!\n\nDI
- D YOU KNOW? The world produces 381 million tonnes of plastic waste yearly 
- – this is set to double by 2034. All of this breaks down into microplast
- ics\, which can even be found in human brain tissue. Humans consume on ave
- rage a credit-card’s worth of plastic weekly through our food\, water\, 
- air\, toiletries\, and even our clothes.\n\nSystem change not climate chan
- ge!\n\nFor the full programme: https://docs.google.com/.../10AMTc790arQFzE
- ilKw7g.../edit...\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250605T170000
+DTEND;TZID=America/Toronto:20250605T190000
+SUMMARY:Lancement de livre : "11 brefs essais sur la nation"
+LOCATION:1426 Beaudry (métro Beaudry)
+DESCRIPTION:2025-06-05 17:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
+ //www.openstreetmap.org/node/4852683788\n\n11 brefs essais sur la nation\n
+ Radjoul Mouhamadou\nRémi Villemure\nBéatrice St-Pierre\nAmadou Sadjo Bar
+ ry\nÉtienne-Alexandre Beauregard\nSylvain Campeau\nPhilippe Lorange\nJuli
+ e-Isabelle Laurin\nFélipe Goulet-Letarte\nMarilou André\nKristel Trembla
+ y\nUn livre qui fait dialoguer des perspectives contraires sur l’avenir 
+ de l’État-nation dans une situation planétaire en plein chamboulement.
+ \nLe basculement planétaire dans les crises de l’Anthropocène renouvel
+ le l’interrogation sur l’État-nation comme cadre politique adéquat p
+ our adresser l’urgence climatique\, les désordres géopolitiques\, les 
+ crises économiques\, les crises pandémiques\, les séismes\, les incendi
+ es\, des inondations\, les sècheresses\, les catastrophes et les conflits
+  qui ne manqueront pas d’accélérer les migrations massives de populati
+ ons migrantes du Sud global vers les vieilles nations occidentales.\nDans 
+ ce contexte de mégacrises\, la nation est-elle toujours une forme politiq
+ ue porteuse d’avenir ou vouée à disparaître ? Quelles alternatives pe
+ uvent lui être substituées ? Bien que la nation continue de jouer le rô
+ le de principal garant de la citoyenneté\, de l’égale participation\, 
+ de la justice et de la solidarité sociale\, son charme s’estompe et sa 
+ cohésion interne s’effrite. Cet ouvrage collectif examine la capacité 
+ de la forme nation à se hisser à la hauteur des besoins d’appartenance
+  et du devoir d’actualisation qu’imposent les défis émergents qui in
+ stallent d’ores et déjà le réfugié (climatique\, politique\, économ
+ ique\, etc.) comme la principale figure du XXIe siècle.\nPréface de Juli
+ e Martineau\nSous la direction de Radjoul Mouhamadou\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250605T170000
-DTEND:20250605T190000
-SUMMARY:Lancement de livre : "11 brefs essais sur la nation"
-DESCRIPTION:2025-06-05 17:00:00\n1426 Beaudry (métro Beaudry)\nhttps://ww
- w.openstreetmap.org/node/4852683788\n11 brefs essais sur la nation\n\nRadj
- oul Mouhamadou\n\nRémi Villemure\n\nBéatrice St-Pierre\n\nAmadou Sadjo B
- arry\n\nÉtienne-Alexandre Beauregard\n\nSylvain Campeau\n\nPhilippe Loran
- ge\n\nJulie-Isabelle Laurin\n\nFélipe Goulet-Letarte\n\nMarilou André\n\
- nKristel Tremblay\n\n\nUn livre qui fait dialoguer des perspectives contra
- ires sur l’avenir de l’État-nation dans une situation planétaire en 
- plein chamboulement.\n\nLe basculement planétaire dans les crises de l’
- Anthropocène renouvelle l’interrogation sur l’État-nation comme cadr
- e politique adéquat pour adresser l’urgence climatique\, les désordres
-  géopolitiques\, les crises économiques\, les crises pandémiques\, les 
- séismes\, les incendies\, des inondations\, les sècheresses\, les catast
- rophes et les conflits qui ne manqueront pas d’accélérer les migration
- s massives de populations migrantes du Sud global vers les vieilles nation
- s occidentales.\n\nDans ce contexte de mégacrises\, la nation est-elle to
- ujours une forme politique porteuse d’avenir ou vouée à disparaître ?
-  Quelles alternatives peuvent lui être substituées ? Bien que la nation 
- continue de jouer le rôle de principal garant de la citoyenneté\, de l
- ’égale participation\, de la justice et de la solidarité sociale\, son
-  charme s’estompe et sa cohésion interne s’effrite. Cet ouvrage colle
- ctif examine la capacité de la forme nation à se hisser à la hauteur de
- s besoins d’appartenance et du devoir d’actualisation qu’imposent le
- s défis émergents qui installent d’ores et déjà le réfugié (climat
- ique\, politique\, économique\, etc.) comme la principale figure du XXIe 
- siècle.\n\nPréface de Julie Martineau\n\nSous la direction de Radjoul Mo
- uhamadou\n\n&nbsp\;\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250605T180000
+DTEND;TZID=America/Toronto:20250605T200000
+SUMMARY:Getting our Tech Together / Rassemblons notre techno
+LOCATION:5031 St-Denis (métro Laurier)
+DESCRIPTION:2025-06-05 18:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
+ ://www.openstreetmap.org/node/11972883637\n\nPouvons-nous imaginer un sect
+ eur technologique qui remplace la Silicon Valley par l’intérêt public?
+ \nParlons de comment transformer le secteur numérique à Montréal en un 
+ espace ouvert\, innovant\, et ancré dans des valeurs communautaires.\nSEI
+ ZE présente l’Écologie du logiciel libre: une vision pour un avenir qu
+ e nous pouvons commencer à bâtir dès aujourd’hui. La présentation se
+ ra suivie par une discussion ouverte dont le but est d’intégrer vos id
+ ées et vos commentaires.\nProgrammeur∙euses\, organisateur∙trices de 
+ syndicats\, travailleur∙euses-propriétaires\, expert∙es et amateurs
+ ∙trices des politiques publiques\, artistes et professionnel∙les du se
+ cteur numérique: vous êtes tous et toutes les bienvenu∙es!\nRejoignez-
+ nous pour une soirée remplie d’échanges\, de bouffe et des boissons. C
+ onstruisons ensemble une coalition robuste pour transformer l’économie 
+ (et réseautons un peu pendant que nous y sommes) !\n&nbsp\;\n&nbsp\;\n//\
+ nCan we imagine a tech sector that replaces Silicon Valley with the public
+  interest? Let’s talk about how to transform Montreal’s IT sector into
+  something open\, innovative\, and community-driven.\nSEIZE will present t
+ he Open Source Ecology: our proposed vision of the future that we can star
+ t implementing immediately. This will be followed by an open discussion ai
+ med at integrating your ideas and feedback.\nCoders\, union organizers\, w
+ orker-owners\, policy wonks\, artists\, and tech sector workers are invite
+ d!\nJoin us for an evening of food\, drink\, and discussion. Let’s build
+  a powerful coalition to transform the economy (and network a little while
+  we’re at it).\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250605T180000
-DTEND:20250605T200000
-SUMMARY:Getting our Tech Together / Rassemblons notre techno
-DESCRIPTION:2025-06-05 18:00:00\n5031 St-Denis (métro Laurier)\nhttps://w
- ww.openstreetmap.org/node/11972883637\nPouvons-nous imaginer un secteur te
- chnologique qui remplace la Silicon Valley par l’intérêt public? \n\nP
- arlons de comment transformer le secteur numérique à Montréal en un esp
- ace ouvert\, innovant\, et ancré dans des valeurs communautaires. \n\nSEI
- ZE présente l’Écologie du logiciel libre: une vision pour un avenir qu
- e nous pouvons commencer à bâtir dès aujourd’hui. La présentation se
- ra suivie par une discussion ouverte dont le but est d’intégrer vos id
- ées et vos commentaires.\n\nProgrammeur∙euses\, organisateur∙trices d
- e syndicats\, travailleur∙euses-propriétaires\, expert∙es et amateurs
- ∙trices des politiques publiques\, artistes et professionnel∙les du se
- cteur numérique: vous êtes tous et toutes les bienvenu∙es!\n\nRejoigne
- z-nous pour une soirée remplie d’échanges\, de bouffe et des boissons.
-  Construisons ensemble une coalition robuste pour transformer l’économi
- e (et réseautons un peu pendant que nous y sommes) !\n\n&nbsp\;\n\n&nbsp\
- ;\n\n//\n\nCan we imagine a tech sector that replaces Silicon Valley with 
- the public interest? Let’s talk about how to transform Montreal’s IT s
- ector into something open\, innovative\, and community-driven.\n\nSEIZE wi
- ll present the Open Source Ecology: our proposed vision of the future that
-  we can start implementing immediately. This will be followed by an open d
- iscussion aimed at integrating your ideas and feedback.\n\nCoders\, union 
- organizers\, worker-owners\, policy wonks\, artists\, and tech sector work
- ers are invited!\n\nJoin us for an evening of food\, drink\, and discussio
- n. Let’s build a powerful coalition to transform the economy (and networ
- k a little while we’re at it).\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250605T190000
+DTEND;TZID=America/Toronto:20250605T210000
+SUMMARY:À l’aube des last calls
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2025-06-05 19:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nLa Livrerie vous invite à u
+ n spectacle-performance-lecture de Cristina Moscini.\nÀ l'aube des last c
+ alls\, c'est une une chronologie vers et hors les comptoirs de bars récit
+ é de façon bien simple dans un partage littéraire et authentique.\nEnco
+ re tabou\, l’alcoolisme féminin n’est discuté à ciel ouvert que dep
+ uis peu. Avec un humour tranchant et une absence de censure\, la lecture c
+ omporte des nouvelles inédites sous le thème de la dépendance et du che
+ minement que c’est de se relever.\nUne plongée des années 2000 et ses 
+ quatres litres de draft aux lumières tamisées des tavernes jusqu'à la c
+ larté de la promenade de la rivière du Saint-Maurice des années 2020. U
+ ne invitation à une levée de voile sur les mystères de fonds de bouteil
+ le\, et du travail sur soi quand on en ressort\, de cet autre côté.\n—
+ \nAutrice de S'aimer ben paquetée (L'instant même\, 2023) livre et monol
+ ogue théâtral ayant fait tournée au Québec de 2022 à 2024 tiré de so
+ n cheminement personnel\, La fameuse Femme-Québec (L'instant même\, 2024
+ ) et Bang Bang (De Courberon\, 2008)\, Cristina Moscini évolue en Maurici
+ e où elle écrit pour DICI et Mitsou Magazine. Ses textes ont été publi
+ és dans Le Sabord et Nouveau Projet. Elle a publié plus de 100 textes su
+ r l'alcoolisme et le rétablissement sur son blogue depuis 2020.&nbsp\;\n&
+ nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250605T190000
-DTEND:20250605T210000
-SUMMARY:À l’aube des last calls
-DESCRIPTION:2025-06-05 19:00:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\nLa Livrerie vous invite à un spec
- tacle-performance-lecture de Cristina Moscini.\n\nÀ l'aube des last calls
- \, c'est une une chronologie vers et hors les comptoirs de bars récité d
- e façon bien simple dans un partage littéraire et authentique.\n\nEncore
-  tabou\, l’alcoolisme féminin n’est discuté à ciel ouvert que depui
- s peu. Avec un humour tranchant et une absence de censure\, la lecture com
- porte des nouvelles inédites sous le thème de la dépendance et du chemi
- nement que c’est de se relever.\n\nUne plongée des années 2000 et ses 
- quatres litres de draft aux lumières tamisées des tavernes jusqu'à la c
- larté de la promenade de la rivière du Saint-Maurice des années 2020. U
- ne invitation à une levée de voile sur les mystères de fonds de bouteil
- le\, et du travail sur soi quand on en ressort\, de cet autre côté.\n\n
- —\n\nAutrice de S'aimer ben paquetée (L'instant même\, 2023) livre et 
- monologue théâtral ayant fait tournée au Québec de 2022 à 2024 tiré 
- de son cheminement personnel\, La fameuse Femme-Québec (L'instant même\,
-  2024) et Bang Bang (De Courberon\, 2008)\, Cristina Moscini évolue en Ma
- uricie où elle écrit pour DICI et Mitsou Magazine. Ses textes ont été 
- publiés dans Le Sabord et Nouveau Projet. Elle a publié plus de 100 text
- es sur l'alcoolisme et le rétablissement sur son blogue depuis 2020.&nbsp
- \;\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250606T000000
+DTEND;TZID=America/Toronto:20250606T020000
+SUMMARY:BRULANCES
+LOCATION:2450 rue Workman
+DESCRIPTION:2025-06-06 00:00:00\n\n2450 rue Workman\n\nhttps://www.openstr
+ eetmap.org/way/347548168\n\n🔥 FESTIVAL QUEER RADICAL 🔥\nLa 3e éditi
+ on de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 20
+ 25 !\nPréparez-vous pour une semaine d’effervescence\, de révolte\, de
+  réflexions\, de convergences… et de fêtes.\n@brulances sur instagram 
+ pour la programmation\n\nhttps://instagram.com/brulances
+URL;VALUE=URI:https://www.openstreetmap.org/way/347548168
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250606T000000
-DTEND:20250606T020000
-SUMMARY:BRULANCES
-DESCRIPTION:2025-06-06 00:00:00\n2450 rue Workman\nhttps://www.openstreetm
- ap.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édi
- tion de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 
- 2025 !\n\nPréparez-vous pour une semaine d’effervescence\, de révolte\
- , de réflexions\, de convergences… et de fêtes.\n\n@brulances sur inst
- agram pour la programmation\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250606T180000
+DTEND;TZID=America/Toronto:20250606T200000
+SUMMARY:Food Fight : a telethon battle of the bands against food insecurit
+ y
+LOCATION:5589 du Parc
+DESCRIPTION:2025-06-06 18:00:00\n\n5589 du Parc\n\nhttps://www.openstreetm
+ ap.org/node/11666297042\n\nmore details and livestream link tba... Karaoke
+  After ...\nIWant2BeOnTV LIVE from Lawnya Vawnya : a tantalizing theatrica
+ l concert and theatre piece about a battle of the bands telethon discussin
+ g food insecurity in so-called "canada"\nLIVESTREAM SCREENING Presented by
+  Suoni Per Il Popolo and IFO at P'Tit Ours\nHOSTED BY Connor MacKinnon (al
+ so doing video collage)\nFood Drive + Donations will be accepted on site.\
+ nWritten\, Directed and Produced by : Alex Apostolidis and Charvel Rappos\
+ nBANDS :\nRat and Ratt\nDesmond and James met at the Rock and Roll concert
+ . They were the only ones wearing hats\, so they knew they would be an ext
+ remely powerful duo (because of the hats). One day Desmond and James ate s
+ o many hamburgers that music started coming out of their mouths and James 
+ used a recording machine to put it on the computer. That was the day Rat &
+ amp\; Ratt was born.&nbsp\;Rat &amp\; Ratt is music for rats by rats about
+  rats. Rat &amp\; Ratt is chaotic digital thinking music. The Rat &amp\; R
+ att Live act is high energy crazy type stuff. Desmond turns into a real li
+ fe rat every time they perform live.\nRad Gushue -Rad Gushue is four teens
+  from St. John's\, Newfoundland. Celebrating the awesomeness that is being
+  a teen in Newfoundland.&nbsp\;Indie folk punk. High energy\, dancing\, la
+ ughing\, curling. Strange joyous music.\nAndy and the Dannys\nFormed in 20
+ 18\, Andy &amp\; the Dannys is a Montreal based garage rock outfit. The ba
+ nd is composed of a revolving door of musicians from across Canada\, who a
+ ll share the common goal of playing light hearted\, fun\, high energy gara
+ ge rock music. An Andy &amp\; the Dannys song is characterized by short su
+ mmery hooks\, playful lyrics\, scrappy guitar chords\, and energetic drums
+ . These elements work together to produce music that is upbeat\, shiny and
+  truly fun.&nbsp\;Andy &amp\; the Dannys aims to translate love of rock mu
+ sic into an engaging\, high energy performance\, and create an enjoyable s
+ how-going experience for audience members\, leaving short hooky earworms o
+ n your mind.\nhttps://iwant2beontv.neocities.org/\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11666297042
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250606T180000
-DTEND:20250606T200000
-SUMMARY:Food Fight : a telethon battle of the bands against food insecurit
- y
-DESCRIPTION:2025-06-06 18:00:00\n5589 du Parc\nhttps://www.openstreetmap.o
- rg/node/11666297042\n\n\nmore details and livestream link tba... Karaoke A
- fter ...\n\nIWant2BeOnTV LIVE from Lawnya Vawnya : a tantalizing theatrica
- l concert and theatre piece about a battle of the bands telethon discussin
- g food insecurity in so-called "canada"\n\nLIVESTREAM SCREENING Presented 
- by Suoni Per Il Popolo and IFO at P'Tit Ours\n\nHOSTED BY Connor MacKinnon
-  (also doing video collage)\n\nFood Drive + Donations will be accepted on 
- site.\n\nWritten\, Directed and Produced by : Alex Apostolidis and Charvel
-  Rappos\n\nBANDS :\n\nRat and Ratt\n\nDesmond and James met at the Rock an
- d Roll concert. They were the only ones wearing hats\, so they knew they w
- ould be an extremely powerful duo (because of the hats). One day Desmond a
- nd James ate so many hamburgers that music started coming out of their mou
- ths and James used a recording machine to put it on the computer. That was
-  the day Rat &amp\; Ratt was born.&nbsp\;Rat &amp\; Ratt is music for rats
-  by rats about rats. Rat &amp\; Ratt is chaotic digital thinking music. Th
- e Rat &amp\; Ratt Live act is high energy crazy type stuff. Desmond turns 
- into a real life rat every time they perform live.\n\nRad Gushue -Rad Gush
- ue is four teens from St. John's\, Newfoundland. Celebrating the awesomene
- ss that is being a teen in Newfoundland.&nbsp\;Indie folk punk. High energ
- y\, dancing\, laughing\, curling. Strange joyous music.\n\nAndy and the Da
- nnys\n\nFormed in 2018\, Andy &amp\; the Dannys is a Montreal based garage
-  rock outfit. The band is composed of a revolving door of musicians from a
- cross Canada\, who all share the common goal of playing light hearted\, fu
- n\, high energy garage rock music. An Andy &amp\; the Dannys song is chara
- cterized by short summery hooks\, playful lyrics\, scrappy guitar chords\,
-  and energetic drums. These elements work together to produce music that i
- s upbeat\, shiny and truly fun.&nbsp\;Andy &amp\; the Dannys aims to trans
- late love of rock music into an engaging\, high energy performance\, and c
- reate an enjoyable show-going experience for audience members\, leaving sh
- ort hooky earworms on your mind.\n\nhttps://iwant2beontv.neocities.org/\n\
- n&nbsp\;\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T000000
+DTEND;TZID=America/Toronto:20250607T020000
+SUMMARY:BRULANCES
+LOCATION:2450 rue Workman
+DESCRIPTION:2025-06-07 00:00:00\n\n2450 rue Workman\n\nhttps://www.openstr
+ eetmap.org/way/347548168\n\n🔥 FESTIVAL QUEER RADICAL 🔥\nLa 3e éditi
+ on de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 20
+ 25 !\nPréparez-vous pour une semaine d’effervescence\, de révolte\, de
+  réflexions\, de convergences… et de fêtes.\n@brulances sur instagram 
+ pour la programmation\n\nhttps://instagram.com/brulances
+URL;VALUE=URI:https://www.openstreetmap.org/way/347548168
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T000000
-DTEND:20250607T020000
-SUMMARY:BRULANCES
-DESCRIPTION:2025-06-07 00:00:00\n2450 rue Workman\nhttps://www.openstreetm
- ap.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édi
- tion de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 
- 2025 !\n\nPréparez-vous pour une semaine d’effervescence\, de révolte\
- , de réflexions\, de convergences… et de fêtes.\n\n@brulances sur inst
- agram pour la programmation\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T090000
+DTEND;TZID=America/Toronto:20250607T110000
+SUMMARY:Lancement de l'OPA (Opération populaire d'aménagement) - (co)hab
+ iter le terrain vague 
+LOCATION:(métro Viau)
+DESCRIPTION:2025-06-07 09:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
+ map.org/way/1052525272\n\nMobilisation 6600 lance la première étape de l
+ 'opération populaire d'aménagement - l'OPA du parc-nature Résister et f
+ leurir !!\nTu connais bien le Terrain vague à l'est du quartier Hochelaga
+ -Maisonneuve? Tu viens souvent te promener sur le bord de la track? Tu tra
+ verse les boisés\, tu rencontres des voisin.e.s\, tu observe la vie?\nOn 
+ t'invite!\nTu sais pas trop ce qui es prévu par là et parfois\, ça te p
+ réoccupe? Ou tu sais exactement c'est quoi les enjeux et ça t'inquiète?
+ \nOn t'écoute!\nTu aime le Boisé Vimont\, le boisé Steinberg\, la prair
+ ie fleurie\, les étangs vernaux\, la friche à défendre\, le terrain vag
+ ue? On veut connaitre tes usages et tes manières d'habiter les lieux.\nOn
+  t'attend au lancement de l'OPA.\nIl est important de se questionner sur l
+ es aménagements nécessaires\, souhaitables\, rêvés\, acceptables.\nLa 
+ faune\, la flore\, les humains\, comment cohabiter?\n** Les enfants du qua
+ rtier sont aussi invités à participer\, avec l'OPA des enfants qui aura 
+ lieu en même temps aux jardins vagues\, à quelques pas du chapiteau. **\
+ nhttps://www.facebook.com/events/1765940294017305/\nHORAIRE\n8h00\nArrivé
+ e des bénévoles\, montage du site\n9h30\nArrivée des participant.e.s\, 
+ café et déjeuner\nPrésentation de l'OPA\n10h15\nConférence d'ouverture
+ : Entre ménagement et aménagement\, penser nos relations au Terrain vagu
+ e\n10h45\nVisite guidée du territoire\n12h30\nDiner\n14h00\nDiscussions t
+ hématiques\n16h30\nRetour sur la journée\nProchaines étapes\n17h30\n5 
+ à 7 de la friche\, détente et discussion\nDémontage du site\nOn a très
+  hâte de vous entendre!
+URL;VALUE=URI:https://www.openstreetmap.org/way/1052525272
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T090000
-DTEND:20250607T110000
-SUMMARY:Lancement de l'OPA (Opération populaire d'aménagement) - (co)hab
- iter le terrain vague 
-DESCRIPTION:2025-06-07 09:00:00\n(métro Viau)\nhttps://www.openstreetmap.
- org/way/1052525272\n Mobilisation 6600 lance la première étape de l'opé
- ration populaire d'aménagement - l'OPA du parc-nature Résister et fleuri
- r !!\n\n Tu connais bien le Terrain vague à l'est du quartier Hochelaga-M
- aisonneuve? Tu viens souvent te promener sur le bord de la track? Tu trave
- rse les boisés\, tu rencontres des voisin.e.s\, tu observe la vie?\nOn t'
- invite!\n\n Tu sais pas trop ce qui es prévu par là et parfois\, ça te 
- préoccupe? Ou tu sais exactement c'est quoi les enjeux et ça t'inquiète
- ?\nOn t'écoute!\n\n Tu aime le Boisé Vimont\, le boisé Steinberg\, la p
- rairie fleurie\, les étangs vernaux\, la friche à défendre\, le terrain
-  vague? On veut connaitre tes usages et tes manières d'habiter les lieux.
- \nOn t'attend au lancement de l'OPA.\n\nIl est important de se questionner
-  sur les aménagements nécessaires\, souhaitables\, rêvés\, acceptables
- .\nLa faune\, la flore\, les humains\, comment cohabiter?\n\n** Les enfant
- s du quartier sont aussi invités à participer\, avec l'OPA des enfants q
- ui aura lieu en même temps aux jardins vagues\, à quelques pas du chapit
- eau. **\nhttps://www.facebook.com/events/1765940294017305/\n\nHORAIRE\n8h0
- 0\nArrivée des bénévoles\, montage du site\n\n9h30\nArrivée des partic
- ipant.e.s\, café et déjeuner\nPrésentation de l'OPA\n\n10h15\nConféren
- ce d'ouverture: Entre ménagement et aménagement\, penser nos relations a
- u Terrain vague\n\n10h45\nVisite guidée du territoire \n\n12h30\nDiner\n\
- n14h00\nDiscussions thématiques \n\n16h30\nRetour sur la journée\nProcha
- ines étapes \n\n17h30\n5 à 7 de la friche\, détente et discussion\nDém
- ontage du site\n\nOn a très hâte de vous entendre!\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T120000
+DTEND;TZID=America/Toronto:20250607T140000
+SUMMARY:Vente de livres de gauche
+LOCATION:1900 Le Ber (métro Charlevoix)
+DESCRIPTION:2025-06-07 12:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
+ s://www.openstreetmap.org/node/6074430797\n\nLeftwingbooks.net\, in conjun
+ ction with friends from other local publishers literature projects\, organ
+ izes occasional pop-up sales in the Montreal area.&nbsp\;\nOur next pop up
+  is being held in collaboration with our comrades at Archives Révolutionn
+ aires:\n12h–17h\nSaturday\, June 7\nBâtiment 7\, 1900 rue Le Ber\nFaceb
+ ook event\nThe events are free\, and everyone is welcome.&nbsp\;\n***\nLef
+ twingbooks.net\, en collaboration avec des camarades d'autres maisons d'é
+ dition et projets de diffusion\, organise occasionnellement des ventes pop
+ -up dans la région de Montréal.\nNotre prochaine vente de livres se tien
+ dra en collaboration avec nos camarades d'Archives Révolutionnaires:\n12h
+ –17h\nsamedi le 7 juin\nBâtiment 7\, 1900 rue Le Ber\nÉvènement Faceb
+ ook\nLes événements sont gratuits et tout le monde est le bienvenu.&nbsp
+ \;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T120000
-DTEND:20250607T140000
-SUMMARY:Vente de livres de gauche
-DESCRIPTION:2025-06-07 12:00:00\n1900 Le Ber (métro Charlevoix)\nhttps://
- www.openstreetmap.org/node/6074430797\nLeftwingbooks.net\, in conjunction 
- with friends from other local publishers literature projects\, organizes o
- ccasional pop-up sales in the Montreal area.&nbsp\;\n\nOur next pop up is 
- being held in collaboration with our comrades at Archives Révolutionnaire
- s:\n\n12h–17h\nSaturday\, June 7\nBâtiment 7\, 1900 rue Le Ber\nFaceboo
- k event\n\nThe events are free\, and everyone is welcome.&nbsp\;\n\n\n***\
- n\nLeftwingbooks.net\, en collaboration avec des camarades d'autres maison
- s d'édition et projets de diffusion\, organise occasionnellement des vent
- es pop-up dans la région de Montréal.\n\nNotre prochaine vente de livres
-  se tiendra en collaboration avec nos camarades d'Archives Révolutionnair
- es:\n\n12h–17h\nsamedi le 7 juin\nBâtiment 7\, 1900 rue Le Ber\nÉvène
- ment Facebook\n\nLes événements sont gratuits et tout le monde est le bi
- envenu.&nbsp\;\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T120000
+DTEND;TZID=America/Toronto:20250607T140000
+SUMMARY:Bouffe contre le fascisme
+LOCATION:Verdun (métro de l&#039\;Église)
+DESCRIPTION:2025-06-07 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
+ ttps://www.openstreetmap.org/node/2925377065\n\nOn est un groupe qui s’o
+ rganise à offrir du monde des repas gratuits\, des ateliers et de la musi
+ que\, tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits
+  les samedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Égli
+ se).
+URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T120000
-DTEND:20250607T140000
-SUMMARY:Bouffe contre le fascisme
-DESCRIPTION:2025-06-07 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps
- ://www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organis
- e à offrir du monde des repas gratuits\, des ateliers et de la musique\, 
- tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits les s
- amedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Église).\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T130000
+DTEND;TZID=America/Toronto:20250607T150000
+SUMMARY:Vigil for Palestine
+LOCATION:(métro Mont-Royal)
+DESCRIPTION:2025-06-07 13:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
+ streetmap.org/node/1456304180\n\nJune 7 @ 13 h 00 min - 15 h 00 min\nPAJU 
+ VIGIL PALESTINE: SATURDAY June 7\, Mont-Royal avenue\nMÉTRO MONT-ROYAL 47
+ 0 Mont-Royal Ave E\, Montréal\, Québec\, Canada\nPAJU VIGIL PALESTINE: S
+ ATURDAY June 7\, Mont-Royal avenue SATURDAY June 7 from 1 pm to 3 pm on Mo
+ nt-Royal avenue reserved for pedestrians in front of the metro Mont-Royal\
+ n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/1456304180
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T130000
-DTEND:20250607T150000
-SUMMARY:Vigil for Palestine
-DESCRIPTION:2025-06-07 13:00:00\n(métro Mont-Royal)\nhttps://www.openstre
- etmap.org/node/1456304180\n\n\nJune 7 @ 13 h 00 min - 15 h 00 min\n\nPAJU 
- VIGIL PALESTINE: SATURDAY June 7\, Mont-Royal avenue \n\nMÉTRO MONT-ROYAL
-  470 Mont-Royal Ave E\, Montréal\, Québec\, Canada\n\n\nPAJU VIGIL PALES
- TINE: SATURDAY June 7\, Mont-Royal avenue SATURDAY June 7 from 1 pm to 3 p
- m on Mont-Royal avenue reserved for pedestrians in front of the metro Mont
- -Royal\n\n&nbsp\;\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T130000
+DTEND;TZID=America/Toronto:20250607T150000
+SUMMARY:Bike ride for Palestine
+LOCATION:statue george étienne-cartier
+DESCRIPTION:2025-06-07 13:00:00\n\nstatue george étienne-cartier\n\nhttps
+ ://www.openstreetmap.org/node/504314275\n\nBike protest de Cyclistes pour 
+ la Palestine / Bikers for Palestine\n13h à statue george étienne cartier
+ \n@bikers4pal
+URL;VALUE=URI:https://www.openstreetmap.org/node/504314275
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T130000
-DTEND:20250607T150000
-SUMMARY:Bike ride for Palestine
-DESCRIPTION:2025-06-07 13:00:00\nstatue george étienne-cartier\nhttps://w
- ww.openstreetmap.org/node/504314275\nBike protest de Cyclistes pour la Pal
- estine / Bikers for Palestine\n\n13h à statue george étienne cartier\n\n
- @bikers4pal\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T150000
+DTEND;TZID=America/Toronto:20250607T170000
+SUMMARY:Violet Hour Book Club: "Daughters of the Deer"
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2025-06-07 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\nJoin us for the next meeting of 
+ the Violet Hour Book Club\, a reading group devoted to classic and contemp
+ orary works of LGBTQ literature. The book we will be discussing is Daughte
+ rs of the Deer (2022) by Danielle Daniel\, a special selection to mark Nat
+ ional Indigenous History Month in Canada.\nToustes sont invités·es au Vi
+ olet Hour Book Club\, et chacun.e est bienvenu.e à partager ses pensées 
+ sur le livre en anglais ou en français.\nWe will be meeting at our new ve
+ nue\, the Espace des Possibles Petite-Patrie (6450 Avenue Christophe Colom
+ b\, Beaubien Metro).\nL’Espace des Possibles a comme mission d’offrir 
+ un lieu d’entraide\, d’apprentissages et d’implication dédié à la
+  transition sociale et écologique (la transition socio-écologique). The 
+ space is wheelchair accessible.\nThe space is given to us for free\, but V
+ HBC participants are welcome to make voluntary contributions to help suppo
+ rt our mandate to create LGBTQ literary events for Montrealers.\nA reminde
+ r: All VHBC titles are available at Librairie Paragraphe Bookstore (2220\,
+  McGill College Ave) and Librairie Pulp Books &amp\; Cafe (3952 Wellington
+  St.) at 10% off.\nABOUT THE BOOK ///\nIn this haunting and groundbreaking
+  historical novel\, Danielle Daniel imagines the lives of women in the Alg
+ onquin territories of the 1600s\, a story inspired by her family’s ances
+ tral link to a young girl who was murdered by French settlers.\n1657. Mari
+ e\, a gifted healer of the Deer Clan\, does not want to marry the green-ey
+ ed soldier from France who has asked for her hand. But her people are thre
+ atened by disease and starvation and need help against the Iroquois and th
+ eir English allies if they are to survive. When her chief begs her to acce
+ pt the white man’s proposal\, she cannot refuse him\, and sheds her deer
+ skin tunic for a borrowed blue wedding dress to become Pierre’s bride.\n
+ 1675. Jeanne\, Marie’s oldest child\, is seventeen\, neither white nor A
+ lgonquin\, caught between worlds. Caught by her own desires\, too. Her hea
+ rt belongs to a girl named Josephine\, but soon her father will have to fi
+ nd her a husband or be forced to pay a hefty fine to the French crown. Amo
+ ng her mother’s people\, Jeanne would have been considered blessed\, her
+  two-spirited nature a sign of special wisdom. To the settlers of New Fran
+ ce\, and even to her own father\, Jeanne is unnatural\, sinful—a woman t
+ o be shunned\, beaten\, and much worse.\nWith the poignant\, unforgettable
+  story of Marie and Jeanne\, Danielle Daniel reaches back through the cent
+ uries to touch the very origin of the long history of violence against Ind
+ igenous women and the deliberate\, equally violent disruption of First Nat
+ ions cultures.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T150000
-DTEND:20250607T170000
-SUMMARY:Violet Hour Book Club: "Daughters of the Deer"
-DESCRIPTION:2025-06-07 15:00:00\n6450 avenue Christophe-Colomb\nhttps://ww
- w.openstreetmap.org/way/1080082859\nJoin us for the next meeting of the Vi
- olet Hour Book Club\, a reading group devoted to classic and contemporary 
- works of LGBTQ literature. The book we will be discussing is Daughters of 
- the Deer (2022) by Danielle Daniel\, a special selection to mark National 
- Indigenous History Month in Canada.\n\nToustes sont invités·es au Violet
-  Hour Book Club\, et chacun.e est bienvenu.e à partager ses pensées sur 
- le livre en anglais ou en français.\n\nWe will be meeting at our new venu
- e\, the Espace des Possibles Petite-Patrie (6450 Avenue Christophe Colomb\
- , Beaubien Metro).\nL’Espace des Possibles a comme mission d’offrir un
-  lieu d’entraide\, d’apprentissages et d’implication dédié à la t
- ransition sociale et écologique (la transition socio-écologique). The sp
- ace is wheelchair accessible.\n\nThe space is given to us for free\, but V
- HBC participants are welcome to make voluntary contributions to help suppo
- rt our mandate to create LGBTQ literary events for Montrealers.\n\nA remin
- der: All VHBC titles are available at Librairie Paragraphe Bookstore (2220
- \, McGill College Ave) and Librairie Pulp Books &amp\; Cafe (3952 Wellingt
- on St.) at 10% off.\n\nABOUT THE BOOK ///\n\nIn this haunting and groundbr
- eaking historical novel\, Danielle Daniel imagines the lives of women in t
- he Algonquin territories of the 1600s\, a story inspired by her family’s
-  ancestral link to a young girl who was murdered by French settlers.\n\n16
- 57. Marie\, a gifted healer of the Deer Clan\, does not want to marry the 
- green-eyed soldier from France who has asked for her hand. But her people 
- are threatened by disease and starvation and need help against the Iroquoi
- s and their English allies if they are to survive. When her chief begs her
-  to accept the white man’s proposal\, she cannot refuse him\, and sheds 
- her deerskin tunic for a borrowed blue wedding dress to become Pierre’s 
- bride. \n\n1675. Jeanne\, Marie’s oldest child\, is seventeen\, neither 
- white nor Algonquin\, caught between worlds. Caught by her own desires\, t
- oo. Her heart belongs to a girl named Josephine\, but soon her father will
-  have to find her a husband or be forced to pay a hefty fine to the French
-  crown. Among her mother’s people\, Jeanne would have been considered bl
- essed\, her two-spirited nature a sign of special wisdom. To the settlers 
- of New France\, and even to her own father\, Jeanne is unnatural\, sinful
- —a woman to be shunned\, beaten\, and much worse.\n\nWith the poignant\,
-  unforgettable story of Marie and Jeanne\, Danielle Daniel reaches back th
- rough the centuries to touch the very origin of the long history of violen
- ce against Indigenous women and the deliberate\, equally violent disruptio
- n of First Nations cultures.\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250607T203000
+DTEND;TZID=America/Toronto:20250607T223000
+SUMMARY:Benefit for Brazil punks 4 - 10$
+LOCATION:Ask a punk
+DESCRIPTION:2025-06-07 20:30:00\n\nAsk a punk\n\nHeadbangers night at La B
+ iu a Benefit for Brazil Punks.\nPlease come out an support the underground
+  in our mission to bring bands from Brazil here to tour Quebec and Ontario
+  this summer.\nOpening the evening we have two new bands on the scene\nNeu
+ rotoxic Cocktail- cross over thrash\nhttps://www.instagram.com/neurotoxic.
+ cocktail?igsh=MW1qMHVxY3hjeGlicg==\nSablier -stoner doom metal\nhttps://ww
+ w.instagram.com/sablier6mtl?igsh=MnI3dzE5ZDU3MGtq\nKiller Radar - hardcore
+ \nhttps://www.instagram.com/kllrrdr?igsh=OGNvNGZwemdxMDhm\n91 dominos - ga
+ rage rock\nhttps://www.instagram.com/91dominos?igsh=MW13aWFzMDVvemFwbQ==\n
+ Null404 - ebm/industrial\nhttps://www.facebook.com/share/1A38tqLq3Z/?mibex
+ tid=wwXIfr\nDoors at 830pm\nShow 9pm\n10$ P.W.Y.C.\nLocation Thrash Can/La
+  Biu - Ask a punk\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250607T203000
-DTEND:20250607T223000
-SUMMARY:Benefit for Brazil punks 4 - 10$
-DESCRIPTION:2025-06-07 20:30:00\nAsk a punk\n\nHeadbangers night at La Biu
-  a Benefit for Brazil Punks.\n\nPlease come out an support the underground
-  in our mission to bring bands from Brazil here to tour Quebec and Ontario
-  this summer.\n\nOpening the evening we have two new bands on the scene\n\
- nNeurotoxic Cocktail- cross over thrash\n\nhttps://www.instagram.com/neuro
- toxic.cocktail?igsh=MW1qMHVxY3hjeGlicg==\n\nSablier -stoner doom metal\n\n
- https://www.instagram.com/sablier6mtl?igsh=MnI3dzE5ZDU3MGtq\n\nKiller Rada
- r - hardcore\n\nhttps://www.instagram.com/kllrrdr?igsh=OGNvNGZwemdxMDhm\n\
- n91 dominos - garage rock\n\nhttps://www.instagram.com/91dominos?igsh=MW13
- aWFzMDVvemFwbQ==\n\nNull404 - ebm/industrial\n\nhttps://www.facebook.com/s
- hare/1A38tqLq3Z/?mibextid=wwXIfr\n\nDoors at 830pm\n\nShow 9pm\n\n10$ P.W.
- Y.C.\n\nLocation Thrash Can/La Biu - Ask a punk\n\n&nbsp\;\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250608T000000
+DTEND;TZID=America/Toronto:20250608T020000
+SUMMARY:BRULANCES
+LOCATION:2450 rue Workman
+DESCRIPTION:2025-06-08 00:00:00\n\n2450 rue Workman\n\nhttps://www.openstr
+ eetmap.org/way/347548168\n\n🔥 FESTIVAL QUEER RADICAL 🔥\nLa 3e éditi
+ on de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 20
+ 25 !\nPréparez-vous pour une semaine d’effervescence\, de révolte\, de
+  réflexions\, de convergences… et de fêtes.\n@brulances sur instagram 
+ pour la programmation\n\nhttps://instagram.com/brulances
+URL;VALUE=URI:https://www.openstreetmap.org/way/347548168
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250608T000000
-DTEND:20250608T020000
-SUMMARY:BRULANCES
-DESCRIPTION:2025-06-08 00:00:00\n2450 rue Workman\nhttps://www.openstreetm
- ap.org/way/347548168\n\n\n🔥 FESTIVAL QUEER RADICAL 🔥\n\n\nLa 3e édi
- tion de notre flamboyant festival queer radical se tiendra du 4 au 8 juin 
- 2025 !\n\nPréparez-vous pour une semaine d’effervescence\, de révolte\
- , de réflexions\, de convergences… et de fêtes.\n\n@brulances sur inst
- agram pour la programmation\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250608T120000
+DTEND;TZID=America/Toronto:20250608T140000
+SUMMARY:Fête du Bâtiment 7 !
+LOCATION:1900 Le Ber (métro Charlevoix)
+DESCRIPTION:2025-06-08 12:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
+ s://www.openstreetmap.org/node/6074430797\n\nOn célèbre notre 7e anniver
+ saire !\n8 JUIN - 12H À 17H - 1900 RUE LE BER\nBBQ - hot dogs à 50 cents
+  !\nSamosas &amp\; Poulet Briyani par Nasima ($)\nBar avec drinks avec et 
+ sans alcool ($)\nGâteau et cupcakes (gratuit)\nÉchange de pièces de vé
+ lo par Cycle 7\nExposition "Lux Illuminous" à L'École d'art\nActivité h
+ istorique avec le MEM\nActivité avec l'atelier céramique\nSpectacle de S
+ t-Gabriel Earth's Best Band\nArcade gratuite avec Press Start\nTOUT LE MON
+ DE EST BIENVENU !\n+ de détails à venir\n---\nCelebrating our 7th annive
+ rsary!\nJUNE 8 - 12 TO 5 P.M. - 1900 RUE LE BER\nBBQ - hot dogs for 50 cen
+ ts!\nSamosas &amp\; Chicken Briyani by Nasima ($)\nBar with alcoholic and 
+ non-alcoholic drinks ($)\nCake and cupcakes (free)\nCycle 7 bike parts swa
+ p\n“Lux Illuminous” exhibition at Art School\nHistorical activity with
+  MEM\nActivity with the ceramics workshop\nSt-Gabriel Earth's Best Band sh
+ ow\nFree arcade with Press Start\nEVERYONE IS WELCOME!\n+ more details to 
+ com\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250608T120000
-DTEND:20250608T140000
-SUMMARY:Fête du Bâtiment 7 !
-DESCRIPTION:2025-06-08 12:00:00\n1900 Le Ber (métro Charlevoix)\nhttps://
- www.openstreetmap.org/node/6074430797\nOn célèbre notre 7e anniversaire 
- !\n\n8 JUIN - 12H À 17H - 1900 RUE LE BER\n\n BBQ - hot dogs à 50 cents 
- !\n Samosas &amp\; Poulet Briyani par Nasima ($)\n Bar avec drinks avec et
-  sans alcool ($)\n Gâteau et cupcakes (gratuit)\n\n Échange de pièces d
- e vélo par Cycle 7\n Exposition "Lux Illuminous" à L'École d'art\n Acti
- vité historique avec le MEM\n Activité avec l'atelier céramique\n Spect
- acle de St-Gabriel Earth's Best Band\n Arcade gratuite avec Press Start\n\
- nTOUT LE MONDE EST BIENVENU !\n\n+ de détails à venir\n\n---\n\nCelebrat
- ing our 7th anniversary!\n\nJUNE 8 - 12 TO 5 P.M. - 1900 RUE LE BER\n\n BB
- Q - hot dogs for 50 cents!\n Samosas &amp\; Chicken Briyani by Nasima ($)\
- n Bar with alcoholic and non-alcoholic drinks ($)\n Cake and cupcakes (fre
- e)\n\n Cycle 7 bike parts swap\n “Lux Illuminous” exhibition at Art Sc
- hool\n Historical activity with MEM\n Activity with the ceramics workshop\
- n St-Gabriel Earth's Best Band show\n Free arcade with Press Start\n\nEVER
- YONE IS WELCOME!\n\n+ more details to com\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250608T130000
+DTEND;TZID=America/Toronto:20250608T150000
+SUMMARY:Grande manif-action contre ray-mont logistiques : L'appel du print
+ emps
+LOCATION:(métro Pie-IX)
+DESCRIPTION:2025-06-08 13:00:00\n\n(métro Pie-IX)\n\nhttps://www.openstre
+ etmap.org/node/11900040351\n\nRésister et fleurir contre Ray-Mont et ses 
+ conteneurs\, la Ville et ses dérogations\, le CN et ses pollutions.\nAlor
+ s que les crises s'aggravent\, la lutte pour la défense du Terrain Vague 
+ d'Hochelaga continue d'animer nos esprits et nos corps.\nRejoignez-nous po
+ ur une manifestation familiale et radicale\, festive et inclusive\, émanc
+ ipatrice et perturbatrice.\nL'an dernier\, nous avons bloqué Assomption. 
+ Grâce à notre combat\, la Ville a été forcée de reculer. Ce printemps
+ \, répondons à l'appel ! Continuons de nous mobiliser pour défendre nos
+  milieux de vie.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11900040351
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250608T130000
-DTEND:20250608T150000
-SUMMARY:Grande manif-action contre ray-mont logistiques : L'appel du print
- emps
-DESCRIPTION:2025-06-08 13:00:00\n(métro Pie-IX)\nhttps://www.openstreetma
- p.org/node/11900040351\nRésister et fleurir contre Ray-Mont et ses conten
- eurs\, la Ville et ses dérogations\, le CN et ses pollutions. \n\nAlors q
- ue les crises s'aggravent\, la lutte pour la défense du Terrain Vague d'H
- ochelaga continue d'animer nos esprits et nos corps.\n\nRejoignez-nous pou
- r une manifestation familiale et radicale\, festive et inclusive\, émanci
- patrice et perturbatrice.\n\nL'an dernier\, nous avons bloqué Assomption.
-  Grâce à notre combat\, la Ville a été forcée de reculer. Ce printemp
- s\, répondons à l'appel ! Continuons de nous mobiliser pour défendre no
- s milieux de vie. \n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250608T130000
+DTEND;TZID=America/Toronto:20250608T150000
+SUMMARY:Block Party du Syndicat des locataires de Centre-sud
+LOCATION:(métro Beaudry)
+DESCRIPTION:2025-06-08 13:00:00\n\n(métro Beaudry)\n\nhttps://www.openstr
+ eetmap.org/way/487427517\n\nATTENTION CENTRE-SUD / GAY VILLAGE\nYour very 
+ own neighbourhood tenants’ union is throwing a block party.\nWhen: June 
+ 8th\, 1PM - 5PM\nWhere: Parc Robert Prévost\, 1821 Rue Saint-Timothé\nCo
+ me along and meet your neighbours\, eat delicious free food\, and perhaps 
+ even find a solution to the problems your having with your pesky landlord 
+ (hint: it may involve joining your local tenants union).\nThere will be:\n
+ - Food\n- Face Paint\n- Childcare\n- A Workshop\n- And much more.\nHope to
+  see you there\n— The Centre Sud Tenants Union\n***\nÀ L’ATTENTION DE
+  CENTRE-SUD\nVotre syndicat de locataires organise une fête de quartier.\
+ nQuand ? 8 juin de 13h à 17h\nOù ? Parc Robert Prévost\, 1821 rue Saint
+ -Timothé\nVenez rencontrer vos voisins\, manger de délicieux plats gratu
+ its et peut-être même trouver une solution aux problèmes que vous avez 
+ avec votre propriétaire (indice : il se pourrait que la solution soit de 
+ rejoindre le syndicat des locataires de votre quartier).\nIl y aura :\n- D
+ e la nourriture\n- peinture de visage\n- Des services de garde d’enfants
+ \n- Un atelier de formation\n- Et bien d’autres choses encore.\nAu plais
+ ir de vous y voir\n- Syndicat des locataires de Centre Sud
+URL;VALUE=URI:https://www.openstreetmap.org/way/487427517
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250608T130000
-DTEND:20250608T150000
-SUMMARY:Block Party du Syndicat des locataires de Centre-sud
-DESCRIPTION:2025-06-08 13:00:00\n(métro Beaudry)\nhttps://www.openstreetm
- ap.org/way/487427517\n\n\n\n\n\n\nATTENTION CENTRE-SUD / GAY VILLAGE\n\n\n
- \nYour very own neighbourhood tenants’ union is throwing a block party.\
- n\n\n\nWhen: June 8th\, 1PM - 5PM\n\nWhere: Parc Robert Prévost\, 1821 Ru
- e Saint-Timothé\n\n\n\nCome along and meet your neighbours\, eat deliciou
- s free food\, and perhaps even find a solution to the problems your having
-  with your pesky landlord (hint: it may involve joining your local tenants
-  union). \n\n\n\nThere will be: \n\n\n\n- Food\n\n- Face Paint\n\n- Childc
- are \n\n- A Workshop\n\n- And much more. \n\n\n\nHope to see you there\n\n
- \n\n— The Centre Sud Tenants Union\n\n\n\n***\n\n\n\nÀ L’ATTENTION DE
-  CENTRE-SUD\n\n\n\nVotre syndicat de locataires organise une fête de quar
- tier.\n\n\n\nQuand ? 8 juin de 13h à 17h\n\nOù ? Parc Robert Prévost\, 
- 1821 rue Saint-Timothé\n\n\n\nVenez rencontrer vos voisins\, manger de d
- élicieux plats gratuits et peut-être même trouver une solution aux prob
- lèmes que vous avez avec votre propriétaire (indice : il se pourrait que
-  la solution soit de rejoindre le syndicat des locataires de votre quartie
- r). \n\n\n\nIl y aura : \n\n\n\n- De la nourriture\n\n- peinture de visage
- \n\n- Des services de garde d’enfants \n\n- Un atelier de formation\n\n-
-  Et bien d’autres choses encore. \n\n\n\nAu plaisir de vous y voir\n\n\n
- \n- Syndicat des locataires de Centre Sud\n\n\n\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250608T150000
+DTEND;TZID=America/Toronto:20250608T170000
+SUMMARY:Cercle de lecture : Devenir fasciste
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2025-06-08 15:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nCERCLES DE LECTURE À LA LIV
+ RERIE&nbsp\;— Volet Essai | avec Francis Arkinson\nProchain cercle : le 
+ dimanche 8 juin\, de 15h à 17h.\nDevenir Fasciste\, de Marc Fortier\, che
+ z Lux Éditeur.\n---\nÀ la fois décontractées et enrichissantes\, ces r
+ encontres prendront la forme de discussions et de réflexions autour d'un 
+ livre et ses avenues : thématiques\, personnages\, auteur·rice·s\, cont
+ extes d'écriture\, etc.\nAinsi\, à quelques semaines d’intervalle\, un
+  volet essai (animé par Francis Arkinson) et un volet fiction (animé par
+  Karelle Villeneuve) se feront écho. Vous pouvez prendre part à l’un o
+ u l’autre des cercles et même aux deux. Les livres sont en vente à la 
+ Livrerie (10% de rabais aux participant·e·s).\nInscription obligatoire\,
+  à l’adresse suivante : info@lalivrerie.com\nDEVENIR FASCISTE\n«La pre
+ mière étape de la thérapie de conversion au fascisme\, c’est le lâch
+ er-prise. Le sujet doit s’ouvrir intérieurement au changement\, laisser
+  agir en lui la peur\, s’abandonner aux petites lâchetés et aux compro
+ missions opportunes. Cela ne va pas de soi. Heureusement\, des personnalit
+ és exemplaires nous montrent comment on peut accepter le changement par d
+ egrés\, subrepticement\, sans coup d’éclat.»\nL’extrême droite a p
+ ris le pouvoir dans une foule de pays et elle menace de triompher dans plu
+ sieurs autres. Mark Fortier s’inquiète\, mais il est aussi très las. R
+ ésolument campé à gauche dans ses convictions politiques\, il constate 
+ que s’il ne veut pas être la proie des prochains maîtres du monde\, il
+  lui faudra changer de camp.\nBien entendu\, ce «journal de conversion» 
+ est une satire\, un pamphlet cinglant et comique qui s’en prend aux fasc
+ istes\, mais en premier lieu à tous ceux qui ont laissé la démocratie s
+ e dissoudre. L’auteur s’y compose une psyché autoritariste et s’eff
+ orce d’adhérer avec enthousiasme aux convictions de la droite radicale.
+  Il offre surtout un portrait saisissant de la dégradation de nos institu
+ tions et une description affligeante de ce qui point lorsque l’on cesse 
+ de résister. Heureusement\, la thérapie échoue\, laissant tout de même
+  ce qu’il faut de raison pour ne pas céder entièrement au désespoir.\
+ n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250608T150000
-DTEND:20250608T170000
-SUMMARY:Cercle de lecture : Devenir fasciste
-DESCRIPTION:2025-06-08 15:00:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\nCERCLES DE LECTURE À LA LIVRERIE&
- nbsp\;— Volet Essai | avec Francis Arkinson\n\nProchain cercle : le dima
- nche 8 juin\, de 15h à 17h.\n\nDevenir Fasciste\, de Marc Fortier\, chez 
- Lux Éditeur.\n\n---\n\nÀ la fois décontractées et enrichissantes\, ces
-  rencontres prendront la forme de discussions et de réflexions autour d'u
- n livre et ses avenues : thématiques\, personnages\, auteur·rice·s\, co
- ntextes d'écriture\, etc.\n\nAinsi\, à quelques semaines d’intervalle\
- , un volet essai (animé par Francis Arkinson) et un volet fiction (animé
-  par Karelle Villeneuve) se feront écho. Vous pouvez prendre part à l’
- un ou l’autre des cercles et même aux deux. Les livres sont en vente à
-  la Livrerie (10% de rabais aux participant·e·s).\n\nInscription obligat
- oire\, à l’adresse suivante : info@lalivrerie.com\n\nDEVENIR FASCISTE\n
- \n«La première étape de la thérapie de conversion au fascisme\, c’es
- t le lâcher-prise. Le sujet doit s’ouvrir intérieurement au changement
- \, laisser agir en lui la peur\, s’abandonner aux petites lâchetés et 
- aux compromissions opportunes. Cela ne va pas de soi. Heureusement\, des p
- ersonnalités exemplaires nous montrent comment on peut accepter le change
- ment par degrés\, subrepticement\, sans coup d’éclat.»\n\nL’extrêm
- e droite a pris le pouvoir dans une foule de pays et elle menace de triomp
- her dans plusieurs autres. Mark Fortier s’inquiète\, mais il est aussi 
- très las. Résolument campé à gauche dans ses convictions politiques\, 
- il constate que s’il ne veut pas être la proie des prochains maîtres d
- u monde\, il lui faudra changer de camp.\n\nBien entendu\, ce «journal de
-  conversion» est une satire\, un pamphlet cinglant et comique qui s’en 
- prend aux fascistes\, mais en premier lieu à tous ceux qui ont laissé la
-  démocratie se dissoudre. L’auteur s’y compose une psyché autoritari
- ste et s’efforce d’adhérer avec enthousiasme aux convictions de la dr
- oite radicale. Il offre surtout un portrait saisissant de la dégradation 
- de nos institutions et une description affligeante de ce qui point lorsque
-  l’on cesse de résister. Heureusement\, la thérapie échoue\, laissant
-  tout de même ce qu’il faut de raison pour ne pas céder entièrement a
- u désespoir.\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250610T190000
+DTEND;TZID=America/Toronto:20250610T210000
+SUMMARY:Droits humains à l'affiche : Pour le droit international
+LOCATION:1500 Balmoral (métro Place-des-Arts)
+DESCRIPTION:2025-06-10 19:00:00\n\n1500 Balmoral (métro Place-des-Arts)\n
+ \nhttps://www.openstreetmap.org/node/8025526254\n\nCLIQUEZ ICI POUR VOUS I
+ NSCRIRE!\nQuand ?\nMardi\, le 10 juin 2025 de 19 h à 21 h\nLes portes ouv
+ rent à 18 h 30 et se ferment à 19 h 05.\nAucun retardataire ne sera admi
+ s en salle après 19 h 05.\nOù ?\nL'événement aura lieu à\nSalle Alani
+ s-Obomsawin\nOffice national du film du Canada (ONF)\n1500\, rue Balmoral\
+ , Montréal Métro Place-des-Arts\nAccessible aux personnes à mobilité r
+ éduite\nAu programme\nDocumentaire projeté\nLe procureur\n94 minutes\, O
+ NF\, 2010\, réalisation : Barry Stevens.&nbsp\;\nLuis Moreno-Ocampo enqu
+ ête et poursuit les responsables des crimes atroces perpétrés contre l'
+ humanité. Si les survivants des génocides voient en lui un héros\, il a
+  néanmoins des adversaires acharnés de droite et de gauche.\nPanélistes
+ \nÀ venir\nAnimation\nPaul-Etienne Rainville\, responsable de dossiers po
+ litiques\, LDL\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/8025526254
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250610T190000
-DTEND:20250610T210000
-SUMMARY:Droits humains à l'affiche : Pour le droit international
-DESCRIPTION:2025-06-10 19:00:00\n1500 Balmoral (métro Place-des-Arts)\nht
- tps://www.openstreetmap.org/node/8025526254\nCLIQUEZ ICI POUR VOUS INSCRIR
- E!\n\nQuand ?\nMardi\, le 10 juin 2025 de 19 h à 21 h\n\nLes portes ouvre
- nt à 18 h 30 et se ferment à 19 h 05.\nAucun retardataire ne sera admis 
- en salle après 19 h 05.\n\nOù ?\nL'événement aura lieu à\nSalle Alani
- s-Obomsawin\nOffice national du film du Canada (ONF)\n1500\, rue Balmoral\
- , Montréal Métro Place-des-Arts\nAccessible aux personnes à mobilité r
- éduite\n\nAu programme\n\nDocumentaire projeté\n\nLe procureur\n94 minut
- es\, ONF\, 2010\, réalisation : Barry Stevens.&nbsp\;\n\nLuis Moreno-Ocam
- po enquête et poursuit les responsables des crimes atroces perpétrés co
- ntre l'humanité. Si les survivants des génocides voient en lui un héros
- \, il a néanmoins des adversaires acharnés de droite et de gauche. \n\nP
- anélistes \nÀ venir\n\n\nAnimation\nPaul-Etienne Rainville\, responsable
-  de dossiers politiques\, LDL\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250611T173000
+DTEND;TZID=America/Toronto:20250611T193000
+SUMMARY:Mural Unveiling
+LOCATION:Ruelle verte entre Hutchison &amp\; Durocher
+DESCRIPTION:2025-06-11 17:30:00\n\nRuelle verte entre Hutchison &amp\; Dur
+ ocher
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250611T173000
-DTEND:20250611T193000
-SUMMARY:Mural Unveiling
-DESCRIPTION:2025-06-11 17:30:00\nRuelle verte entre Hutchison &amp\; Duroc
- her\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250611T180000
+DTEND;TZID=America/Toronto:20250611T200000
+SUMMARY:Lancement de livre : "Annapurna's Bounty"
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2025-06-11 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nLes éditions Dundurn et La 
+ Livrerie vous invitent au lancement du recueil de nouvelles Annapurna's Bo
+ unty de Veena Gokhale\, écrivaine du quartier.\nLa lecture sera suivie d'
+ une discussion en français.\n—\nVeena Gokhale\, immigrante aux multiple
+ s facettes\, a travaillé comme journaliste\, enseignante\, commissaire li
+ ttéraire et dans le milieu communautaire. Elle est l’autrice de deux œ
+ uvres de fiction — Bombay Wali and Other Stories et Land for Fatimah. Ay
+ ant vécu dans dix villes réparties sur trois pays\, elle considère dés
+ ormais Tiohtiá:ke/Montréal comme son chez-soi.\n—\nANNAPURNA’S BOUNT
+ Y\nAnnapurna\, the Indian Goddess of Nourishment\, presides over these foo
+ d-related legends\, with a dollop of magic realism\, reimagined for the tw
+ enty-first-century palate. Here\, food manifests as ploy\, bargain\, symbo
+ lic communication\, a bone of contention\, a lesson\, as it weaves through
+  the\nlives of a cast of characters — kings and commoners\, witches and 
+ goddesses\, gurus and bandits\, refugees and travellers.\nEach story is fo
+ llowed by a vegetarian recipe offered up by a character. Gathered from the
+  four corners of India\, there are well-known dishes like nourishing dal a
+ nd irresistible mango lassi\, novelties like Avial and Bengali khichari\, 
+ as well as a new twist on beloved foods\, such as samosas with a peas and 
+ coconut filling.\nInfused with humane values\, expertly blending the timel
+ ess and the contemporary\, the magical and the everyday\, encompassing Eas
+ t\, West\, and the in-between\, this fusion of fiction and food will delig
+ ht and inspire.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250611T180000
-DTEND:20250611T200000
-SUMMARY:Lancement de livre : "Annapurna's Bounty"
-DESCRIPTION:2025-06-11 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nLes éditions Dundurn 
- et La Livrerie vous invitent au lancement du recueil de nouvelles Annapurn
- a's Bounty de Veena Gokhale\, écrivaine du quartier.\n\nLa lecture sera s
- uivie d'une discussion en français.\n\n—\n\nVeena Gokhale\, immigrante 
- aux multiples facettes\, a travaillé comme journaliste\, enseignante\, co
- mmissaire littéraire et dans le milieu communautaire. Elle est l’autric
- e de deux œuvres de fiction — Bombay Wali and Other Stories et Land for
-  Fatimah. Ayant vécu dans dix villes réparties sur trois pays\, elle con
- sidère désormais Tiohtiá:ke/Montréal comme son chez-soi.\n\n—\n\nANN
- APURNA’S BOUNTY\n\nAnnapurna\, the Indian Goddess of Nourishment\, presi
- des over these food-related legends\, with a dollop of magic realism\, rei
- magined for the twenty-first-century palate. Here\, food manifests as ploy
- \, bargain\, symbolic communication\, a bone of contention\, a lesson\, as
-  it weaves through the\nlives of a cast of characters — kings and common
- ers\, witches and goddesses\, gurus and bandits\, refugees and travellers.
- \nEach story is followed by a vegetarian recipe offered up by a character.
-  Gathered from the four corners of India\, there are well-known dishes lik
- e nourishing dal and irresistible mango lassi\, novelties like Avial and B
- engali khichari\, as well as a new twist on beloved foods\, such as samosa
- s with a peas and coconut filling.\nInfused with humane values\, expertly 
- blending the timeless and the contemporary\, the magical and the everyday\
- , encompassing East\, West\, and the in-between\, this fusion of fiction a
- nd food will delight and inspire.\n\n&nbsp\;\n\n\n\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250611T180000
+DTEND;TZID=America/Toronto:20250611T200000
+SUMMARY:Déborder Bolloré : lancement-discussion | extrême-droitisation 
+ des médias et du monde de l'édition
+LOCATION:6758 St-Laurent
+DESCRIPTION:2025-06-11 18:00:00\n\n6758 St-Laurent\n\nhttps://www.openstre
+ etmap.org/node/12034441028\n\nJoignez-vous à nous pour le lancement de l'
+ ouvrage Déborder Bolloré\, une collaboration exceptionnelle entre trois 
+ éditeurs québécois et 125 éditeurs français pour contrer les empires 
+ médiatiques et les idées d’extrême-droite qu’ils propagent.\nLa dis
+ cussion portera sur la concentration et l’extrême-droitisation des méd
+ ias et du monde de l’édition. Elle réunira l’essayiste Philippe de G
+ rosbois\, la rédactrice en chef (Pivot) Claire Ross\, la journaliste Gabr
+ ielle Brassard-Lecours\, ainsi que l’éditeur Claude Rioux.\n___________
+ ____________________________________\nL’empire du milliardaire Vincent B
+ olloré est devenu en quelques années un levier majeur de la conquête du
+  pouvoir par l’extrême-droite en France. Au-delà du déluge xénophobe
+ \, la «bollosphère» fait chaque jour la promotion de discours sexistes 
+ et homophobes légitimant les violences contre les femmes et les personnes
+  LGBTQIA2S+\, en plus de promouvoir l’avènement d’une société inég
+ alitaire.\nAu Québec\, l’empire de Pierre-Karl Péladeau peut faire pen
+ ser à celui de Bolloré. Entretenant une panoplie de chroniqueurs aussi x
+ énophobes que transphobes – dont un faisant la navette entre ses platef
+ ormes et celles de Bolloré (CNews) –\, PKP possède les chaînes LCN et
+  TVA et\, via Québecor\, des journaux\, magazines et hebdomadaires parmi 
+ les plus lus de la province\, en plus du «premier groupe d’édition\, d
+ e diffusion et de distribution de langue française au Québec et au Canad
+ a»\, le Groupe Livres Québecor Média inc.\nCe recueil\, édité collect
+ ivement par des éditeurices indépendant·es\, alimente la réflexion gé
+ nérale sur la nécessité de s’opposer à l’empire Bolloré et par ex
+ tension aux empires médiatiques. Chercheureuses\, imprimeureuses\, édite
+ urices et libraires y analysent ainsi les dynamiques de concentration et d
+ ’extrême-droitisation du marché. Chacun·e tente de formuler\, depuis 
+ sa position respective\, des réponses à cette question urgente: comment 
+ faire face au libéralisme autoritaire dans le monde du livre?\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/12034441028
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250611T180000
-DTEND:20250611T200000
-SUMMARY:Déborder Bolloré : lancement-discussion | extrême-droitisation 
- des médias et du monde de l'édition
-DESCRIPTION:2025-06-11 18:00:00\n6758 St-Laurent\nhttps://www.openstreetma
- p.org/node/12034441028\nJoignez-vous à nous pour le lancement de l'ouvrag
- e Déborder Bolloré\, une collaboration exceptionnelle entre trois édite
- urs québécois et 125 éditeurs français pour contrer les empires média
- tiques et les idées d’extrême-droite qu’ils propagent. \n\nLa discus
- sion portera sur la concentration et l’extrême-droitisation des médias
-  et du monde de l’édition. Elle réunira l’essayiste Philippe de Gros
- bois\, la rédactrice en chef (Pivot) Claire Ross\, la journaliste Gabriel
- le Brassard-Lecours\, ainsi que l’éditeur Claude Rioux.\n______________
- _________________________________\n\nL’empire du milliardaire Vincent Bo
- lloré est devenu en quelques années un levier majeur de la conquête du 
- pouvoir par l’extrême-droite en France. Au-delà du déluge xénophobe\
- , la «bollosphère» fait chaque jour la promotion de discours sexistes e
- t homophobes légitimant les violences contre les femmes et les personnes 
- LGBTQIA2S+\, en plus de promouvoir l’avènement d’une société inéga
- litaire. \n\nAu Québec\, l’empire de Pierre-Karl Péladeau peut faire p
- enser à celui de Bolloré. Entretenant une panoplie de chroniqueurs aussi
-  xénophobes que transphobes – dont un faisant la navette entre ses plat
- eformes et celles de Bolloré (CNews) –\, PKP possède les chaînes LCN 
- et TVA et\, via Québecor\, des journaux\, magazines et hebdomadaires parm
- i les plus lus de la province\, en plus du «premier groupe d’édition\,
-  de diffusion et de distribution de langue française au Québec et au Can
- ada»\, le Groupe Livres Québecor Média inc.\n\nCe recueil\, édité col
- lectivement par des éditeurices indépendant·es\, alimente la réflexion
-  générale sur la nécessité de s’opposer à l’empire Bolloré et pa
- r extension aux empires médiatiques. Chercheureuses\, imprimeureuses\, é
- diteurices et libraires y analysent ainsi les dynamiques de concentration 
- et d’extrême-droitisation du marché. Chacun·e tente de formuler\, dep
- uis sa position respective\, des réponses à cette question urgente: comm
- ent faire face au libéralisme autoritaire dans le monde du livre?\n\n&nbs
- p\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250612T130000
+DTEND;TZID=America/Toronto:20250612T150000
+SUMMARY:Marche guidée: Luttes pour le logement dans Hochelaga-Maisonneuve
+  (inscription)
+LOCATION:3250 Rue Sainte-Catherine E\, Montréal\, QC H1W 2C6
+DESCRIPTION:2025-06-12 13:00:00\n\n3250 Rue Sainte-Catherine E\, Montréal
+ \, QC H1W 2C6\n\nPlongez dans l’histoire des luttes pour le droit au log
+ ement dans Hochelaga-Maisonneuve lors d’une marche guidée animée par l
+ ’Atelier d’histoire de Mercier-Hochelaga-Maisonneuve\, en collaboratio
+ n avec la démarche de Revitalisation urbaine intégrée (RUI) et le proje
+ t Un toit pour tous·tes de la Table de quartier Hochelaga-Maisonneuve.\n
+ À travers le quartier\, découvrez les lieux marquants\, les mobilisation
+ s citoyennes et les victoires collectives qui ont façonné le paysage du 
+ logement social. Un moment pour se rappeler\, apprendre et s’inspirer en
+ semble.\n&nbsp\;Et pour clore la marche en beauté : une crème glacée gr
+ atuite vous sera offerte par La Table!\n**Inscription obligatoire — plac
+ es limitées**&nbsp\;https://forms.office.com/r/8AM1ktqD6F\nEn cas de mauv
+ ais temps\, l’événement sera reporté.\nLes détails:\n&nbsp\;**Jeudi 
+ 12 juin 2025 à 13h00**\n&nbsp\;Durée : 1h30\n&nbsp\;Point de départ: Sq
+ uare Dézéry (3250 Rue Sainte-Catherine E\, Montréal\, QC H1W 2C6)
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250612T130000
-DTEND:20250612T150000
-SUMMARY:Marche guidée: Luttes pour le logement dans Hochelaga-Maisonneuve
-  (inscription)
-DESCRIPTION:2025-06-12 13:00:00\n3250 Rue Sainte-Catherine E\, Montréal\,
-  QC H1W 2C6\nPlongez dans l’histoire des luttes pour le droit au logemen
- t dans Hochelaga-Maisonneuve lors d’une marche guidée animée par l’A
- telier d’histoire de Mercier-Hochelaga-Maisonneuve\, en collaboration av
- ec la démarche de Revitalisation urbaine intégrée (RUI) et le projet Un
-  toit pour tous·tes de la Table de quartier Hochelaga-Maisonneuve.\n\nÀ 
- travers le quartier\, découvrez les lieux marquants\, les mobilisations c
- itoyennes et les victoires collectives qui ont façonné le paysage du log
- ement social. Un moment pour se rappeler\, apprendre et s’inspirer ensem
- ble.\n\n&nbsp\;Et pour clore la marche en beauté : une crème glacée gra
- tuite vous sera offerte par La Table!\n\n**Inscription obligatoire — pla
- ces limitées**&nbsp\;https://forms.office.com/r/8AM1ktqD6F\n\nEn cas de m
- auvais temps\, l’événement sera reporté.\n\nLes détails:\n\n&nbsp\;*
- *Jeudi 12 juin 2025 à 13h00**\n&nbsp\;Durée : 1h30\n&nbsp\;Point de dép
- art: Square Dézéry (3250 Rue Sainte-Catherine E\, Montréal\, QC H1W 2C6
- )\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250612T150000
+DTEND;TZID=America/Toronto:20250612T170000
+SUMMARY:Action contre la hausse de la STM
+LOCATION:(métro lionel-groulx)
+DESCRIPTION:2025-06-12 15:00:00\n\n(métro lionel-groulx)\n\nhttps://www.o
+ penstreetmap.org/node/7164242333\n\nDétails à venir
+URL;VALUE=URI:https://www.openstreetmap.org/node/7164242333
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250612T150000
-DTEND:20250612T170000
-SUMMARY:Action contre la hausse de la STM
-DESCRIPTION:2025-06-12 15:00:00\n(métro lionel-groulx)\nhttps://www.opens
- treetmap.org/node/7164242333\nDétails à venir\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250612T183000
+DTEND;TZID=America/Toronto:20250612T203000
+SUMMARY:Lancement et causerie : "Wages for Housework"
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2025-06-12 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nLes éditions du remue-ména
+ ge et la Livrerie vous invitent au lancement d’une toute nouvelle anthol
+ ogie de textes fondateurs du mouvement Wages for Housework et de la campag
+ ne du salaire au travail ménager. Le lancement sera accompagné d’une c
+ auserie avec l’autrice et chercheuse Louise Toupin\, ainsi que l’histo
+ rienne Camille Robert.\n—\nWAGES FOR HOUSEWORK\nSi certains écrits de S
+ elma James\, de Mariarosa Dalla Costa et de Silvia Federici – instigatri
+ ces de la campagne Wages for Housework – ont été traduits en français
+ \, aucune anthologie réunissant les textes clés de cette « Internationa
+ le des femmes » n’avait jusqu’ici été publiée. C’est ce que prop
+ ose l’autrice et chercheuse Louise Toupin\, après avoir contribué à s
+ auver de l’oubli cette pensée féministe révolutionnaire. Les textes d
+ e ces penseuses de premier plan\, dont certains sont inédits en français
+ \, témoignent de l’originalité et de la force politique du courant de 
+ la reproduction sociale. Avant l’heure\, ce mouvement proposait une gril
+ le d’analyse à l’intersection des questions de genre\, de sexe\, de r
+ ace et de classe.\n—\nLOUISE TOUPIN est enseignante retraitée\, cherche
+ use indépendante et docteure en science politique. Elle a été membre du
+  Front de libération des femmes du Québec (1969-1971) et cofondatrice de
+ s Éditions du remue-ménage. Elle est notamment l’autrice de 𝐿𝑒 
+ 𝑠𝑎𝑙𝑎𝑖𝑟𝑒 𝑎𝑢 𝑡𝑟𝑎𝑣𝑎𝑖𝑙 𝑚
+ 𝑒́𝑛𝑎𝑔𝑒𝑟. 𝐶ℎ𝑟𝑜𝑛𝑖𝑞𝑢𝑒 𝑑’
+ 𝑢𝑛𝑒 𝑙𝑢𝑡𝑡𝑒 𝑓𝑒́𝑚𝑖𝑛𝑖𝑠𝑡𝑒 
+ 𝑖𝑛𝑡𝑒𝑟𝑛𝑎𝑡𝑖𝑜𝑛𝑎𝑙𝑒\, 1972-1977 (Remu
+ e-ménage\, 2014)\, traduit en anglais\, en espagnol\, en allemand\, en it
+ alien et est en cours de traduction en coréen.\n&nbsp\;\n—\nCAMILLE ROB
+ ERT est historienne\, chercheuse postdoctorale à l'Université Concordia 
+ et chargée de cours à l’Université du Québec. Ses recherches portent
+  sur l'histoire des femmes\, du travail\, de l'État\, des services public
+ s\, du syndicalisme et des mouvements féministes au Québec.Elle a codiri
+ gé avec Louise Toupin\, l'ouvrage collectif 𝑇𝑟𝑎𝑣𝑎𝑖𝑙 
+ 𝑖𝑛𝑣𝑖𝑠𝑖𝑏𝑙𝑒. 𝑃𝑜𝑟𝑡𝑟𝑎𝑖𝑡𝑠
+  𝑑’𝑢𝑛𝑒 𝑙𝑢𝑡𝑡𝑒 𝑓𝑒́𝑚𝑖𝑛𝑖𝑠
+ 𝑡𝑒 𝑖𝑛𝑎𝑐ℎ𝑒𝑣𝑒́𝑒 (Remue-ménage\, 2018).\n&n
+ bsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250612T183000
-DTEND:20250612T203000
-SUMMARY:Lancement et causerie : "Wages for Housework"
-DESCRIPTION:2025-06-12 18:30:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nLes éditions du remue
- -ménage et la Livrerie vous invitent au lancement d’une toute nouvelle 
- anthologie de textes fondateurs du mouvement Wages for Housework et de la 
- campagne du salaire au travail ménager. Le lancement sera accompagné d
- ’une causerie avec l’autrice et chercheuse Louise Toupin\, ainsi que l
- ’historienne Camille Robert.\n\n—\n\nWAGES FOR HOUSEWORK\n\n\nSi certa
- ins écrits de Selma James\, de Mariarosa Dalla Costa et de Silvia Federic
- i – instigatrices de la campagne Wages for Housework – ont été tradu
- its en français\, aucune anthologie réunissant les textes clés de cette
-  « Internationale des femmes » n’avait jusqu’ici été publiée. C
- ’est ce que propose l’autrice et chercheuse Louise Toupin\, après avo
- ir contribué à sauver de l’oubli cette pensée féministe révolutionn
- aire. Les textes de ces penseuses de premier plan\, dont certains sont in
- édits en français\, témoignent de l’originalité et de la force polit
- ique du courant de la reproduction sociale. Avant l’heure\, ce mouvement
-  proposait une grille d’analyse à l’intersection des questions de gen
- re\, de sexe\, de race et de classe.\n\n\n—\n\n\nLOUISE TOUPIN est ensei
- gnante retraitée\, chercheuse indépendante et docteure en science politi
- que. Elle a été membre du Front de libération des femmes du Québec (19
- 69-1971) et cofondatrice des Éditions du remue-ménage. Elle est notammen
- t l’autrice de 𝐿𝑒 𝑠𝑎𝑙𝑎𝑖𝑟𝑒 𝑎𝑢 𝑡𝑟
- 𝑎𝑣𝑎𝑖𝑙 𝑚𝑒́𝑛𝑎𝑔𝑒𝑟. 𝐶ℎ𝑟𝑜𝑛
- 𝑖𝑞𝑢𝑒 𝑑’𝑢𝑛𝑒 𝑙𝑢𝑡𝑡𝑒 𝑓𝑒́𝑚
- 𝑖𝑛𝑖𝑠𝑡𝑒 𝑖𝑛𝑡𝑒𝑟𝑛𝑎𝑡𝑖𝑜𝑛𝑎
- 𝑙𝑒\, 1972-1977 (Remue-ménage\, 2014)\, traduit en anglais\, en espa
- gnol\, en allemand\, en italien et est en cours de traduction en coréen.\
- n\n&nbsp\;\n\n—\n\n\nCAMILLE ROBERT est historienne\, chercheuse postdoc
- torale à l'Université Concordia et chargée de cours à l’Université 
- du Québec. Ses recherches portent sur l'histoire des femmes\, du travail\
- , de l'État\, des services publics\, du syndicalisme et des mouvements f
- éministes au Québec.Elle a codirigé avec Louise Toupin\, l'ouvrage coll
- ectif 𝑇𝑟𝑎𝑣𝑎𝑖𝑙 𝑖𝑛𝑣𝑖𝑠𝑖𝑏𝑙𝑒. 
- 𝑃𝑜𝑟𝑡𝑟𝑎𝑖𝑡𝑠 𝑑’𝑢𝑛𝑒 𝑙𝑢𝑡𝑡
- 𝑒 𝑓𝑒́𝑚𝑖𝑛𝑖𝑠𝑡𝑒 𝑖𝑛𝑎𝑐ℎ𝑒𝑣
- 𝑒́𝑒 (Remue-ménage\, 2018).\n\n&nbsp\;\n\n\n\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250613T170000
+DTEND;TZID=America/Toronto:20250613T190000
+SUMMARY:Lancement de "La Cantine"\, nouvel outil de prévention carcéral 
+ de l'AQPSUD
+LOCATION:1710 Rue Beaudry (métro Beaudry)
+DESCRIPTION:2025-06-13 17:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/181295868\n\nL’Association québécoise 
+ pour la promotion de la santé des personnes utilisatrices de drogues (AQP
+ SUD) publie un nouvel outil de prévention destiné aux établissements ca
+ rcéraux. La cantine (recettes carcérales par et pour les personnes incar
+ cérées)\, et vous êtes invité·e·s à son lancement le 13 juin de 5 
+ à 7 (pm) au Comité Social Centre-Sud (1710 Beaudry\, à Montréal).\nIl 
+ s'agit d'une brochure de recettes à cuisiner en prison\, qui rappelle l'i
+ mportance de bien manger et réitère quelques conseils de santé. Plus qu
+ 'une brochure de recettes\, La cantine est un outil de réduction des méf
+ aits.\nL'AQPSUD y partage des recettes\, accompagnées de dessins et de sl
+ ogans de prévention\, reçues de détenu·e·s ou d'ancien·ne·s détenu
+ ·e·s\, qui se font avec les produits disponibles à la cantine. Des rece
+ ttes\, tantôt originales\, tantôt classiques du milieu carcéral\, qui s
+ e font avec les produits disponibles à la cantine.\n13 juin 2025 de 5 à 
+ 7h (pm) au 1710 Beaudry (à Montréal)\nDes organismes communautaires et g
+ roupes militants seront de la partie. De la bouffe carcérale sera égalem
+ ent servie.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250613T170000
-DTEND:20250613T190000
-SUMMARY:Lancement de "La Cantine"\, nouvel outil de prévention carcéral 
- de l'AQPSUD
-DESCRIPTION:2025-06-13 17:00:00\n1710 Rue Beaudry (métro Beaudry)\nhttps:
- //www.openstreetmap.org/way/181295868\nL’Association québécoise pour l
- a promotion de la santé des personnes utilisatrices de drogues (AQPSUD) p
- ublie un nouvel outil de prévention destiné aux établissements carcéra
- ux. La cantine (recettes carcérales par et pour les personnes incarcéré
- es)\, et vous êtes invité·e·s à son lancement le 13 juin de 5 à 7 (p
- m) au Comité Social Centre-Sud (1710 Beaudry\, à Montréal).\n\nIl s'agi
- t d'une brochure de recettes à cuisiner en prison\, qui rappelle l'import
- ance de bien manger et réitère quelques conseils de santé. Plus qu'une 
- brochure de recettes\, La cantine est un outil de réduction des méfaits.
- \n\nL'AQPSUD y partage des recettes\, accompagnées de dessins et de sloga
- ns de prévention\, reçues de détenu·e·s ou d'ancien·ne·s détenu·e
- ·s\, qui se font avec les produits disponibles à la cantine. Des recette
- s\, tantôt originales\, tantôt classiques du milieu carcéral\, qui se f
- ont avec les produits disponibles à la cantine. \n\n 13 juin 2025 de 5 à
-  7h (pm) au 1710 Beaudry (à Montréal) \nDes organismes communautaires et
-  groupes militants seront de la partie. De la bouffe carcérale sera égal
- ement servie.\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250614T120000
+DTEND;TZID=America/Toronto:20250614T140000
+SUMMARY:Bouffe contre le fascisme
+LOCATION:Verdun (métro de l&#039\;Église)
+DESCRIPTION:2025-06-14 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
+ ttps://www.openstreetmap.org/node/2925377065\n\nOn est un groupe qui s’o
+ rganise à offrir du monde des repas gratuits\, des ateliers et de la musi
+ que\, tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits
+  les samedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Égli
+ se).
+URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250614T120000
-DTEND:20250614T140000
-SUMMARY:Bouffe contre le fascisme
-DESCRIPTION:2025-06-14 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps
- ://www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organis
- e à offrir du monde des repas gratuits\, des ateliers et de la musique\, 
- tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits les s
- amedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Église).\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250614T200000
+DTEND;TZID=America/Toronto:20250614T220000
+SUMMARY:Battle set fundraiser for Palestine 15$
+LOCATION:1900 Le Ber (métro Charlevoix)
+DESCRIPTION:2025-06-14 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
+ s://www.openstreetmap.org/node/6074430797\n\n8 bands\, 4 sets\, song for s
+ ong\nCystic Embalment vs. Ratpiss\nNausiate vs. FUCHSache\nTypeface vs. Du
+ plah Pooch Hanichan Gasoline\n2pwels vs. xxUNxxSUCKEDxx\nDoors 8:00\nShow 
+ 8:30\nno punk time\nno assholes\nall proceeds to be donated to the PCRF (P
+ alestine Children's Relief Fund)\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250614T200000
-DTEND:20250614T220000
-SUMMARY:Battle set fundraiser for Palestine 15$
-DESCRIPTION:2025-06-14 20:00:00\n1900 Le Ber (métro Charlevoix)\nhttps://
- www.openstreetmap.org/node/6074430797\n\n8 bands\, 4 sets\, song for song\
- n\nCystic Embalment vs. Ratpiss\n\nNausiate vs. FUCHSache\n\nTypeface vs. 
- Duplah Pooch Hanichan Gasoline\n\n2pwels vs. xxUNxxSUCKEDxx\n\nDoors 8:00\
- n\nShow 8:30\n\nno punk time\n\nno assholes\n\nall proceeds to be donated 
- to the PCRF (Palestine Children's Relief Fund)\n\n&nbsp\;\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250616T180000
+DTEND;TZID=America/Toronto:20250616T200000
+SUMMARY:Anarchist Bookclub
+LOCATION:3720 avenue du Parc
+DESCRIPTION:2025-06-16 18:00:00\n\n3720 avenue du Parc\n\nhttps://www.open
+ streetmap.org/node/11972918877\n\nLooking to challenge the status quo ? Cu
+ rious about the roots of anarchist thought and the revolutionary ideas tha
+ t continue to inspire movements arounds the world ? Join us for a radical 
+ reading group where we'll explore anarchism's past\, present and future to
+ gether.\nTentative reading list includes :\nMutual Aid by Peter Kropotkin\
+ nEthics by Peter Kropotkin\nOn Anarchy by Mikhail Bakunin\nFreedom or Deat
+ h by Felipe Correa
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972918877
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250616T180000
-DTEND:20250616T200000
-SUMMARY:Anarchist Bookclub
-DESCRIPTION:2025-06-16 18:00:00\n3720 avenue du Parc\nhttps://www.openstre
- etmap.org/node/11972918877\nLooking to challenge the status quo ? Curious 
- about the roots of anarchist thought and the revolutionary ideas that cont
- inue to inspire movements arounds the world ? Join us for a radical readin
- g group where we'll explore anarchism's past\, present and future together
- .\n\nTentative reading list includes :\n\nMutual Aid by Peter Kropotkin\n\
- nEthics by Peter Kropotkin\n\nOn Anarchy by Mikhail Bakunin\n\nFreedom or 
- Death by Felipe Correa\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250617T120000
+DTEND;TZID=America/Toronto:20250617T140000
+SUMMARY:Pique-nique contre le profilage
+LOCATION:2\, rue des Jardins
+DESCRIPTION:2025-06-17 12:00:00\n\n2\, rue des Jardins\n\nhttps://www.open
+ streetmap.org/way/392464714\n\nC'est jour de conseil municipal !\nOn vous 
+ invite à un pique-nique pour mettre de la pression pour accélérer la 
+ “réflexion” du maire\, pour continuer de dénoncer les pratiques de p
+ rofilage du SPVQ et aussi pour encourager les autres partis politiques qui
+  briguent la mairie à se prononcer contre ces discriminations.\nmise en c
+ ontexte:\nEn prévision des élections municipales d’octobre 2025\, la C
+ oalition mène une campagne “ Pour le droit à l’espace public sans di
+ scrimination ” afin de dénoncer la répression policière et les pratiq
+ ues de profilage social\, politique et racial du SPVQ ainsi que le port de
+  la Thin blue line.\nSur le profilage racial: Les chiffres fournis par le 
+ SPVQ démontre que les personnes latinos et arabes se font interpeller deu
+ x fois plus que les personnes blanches.\nSur le profilage politique: Le SP
+ VQ continue de réprimer les manifestations sous de faux prétexte et met 
+ à mal le droit de manifester et d’expression. Certains groupes se font 
+ contrôler plus que d’autres.\nSur le profilage social: Dans le rapport 
+ sur la judiciarisation de l’itinérance à Québec datant de janvier der
+ nier\, on constate une hausse de constats d’infractions remises aux pers
+ onnes sans-abris. Dernièrement\, on nous a également rapporté des cas d
+ e profilage social ciblant les personnes trans.\nLa Coalition s’est expr
+ imée de plusieurs façons sur ces enjeux et le maire Marchand refuse d’
+ intervenir et de condamner les pratiques discriminatoires du SPVQ. Concern
+ ant le port de l’écusson TBL\, il nous a dit qu’il devait y réfléch
+ ir…\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/392464714
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250617T120000
-DTEND:20250617T140000
-SUMMARY:Pique-nique contre le profilage
-DESCRIPTION:2025-06-17 12:00:00\n2\, rue des Jardins\nhttps://www.openstre
- etmap.org/way/392464714\nC'est jour de conseil municipal ! \n\nOn vous inv
- ite à un pique-nique pour mettre de la pression pour accélérer la “r
- éflexion” du maire\, pour continuer de dénoncer les pratiques de profi
- lage du SPVQ et aussi pour encourager les autres partis politiques qui bri
- guent la mairie à se prononcer contre ces discriminations. \n\nmise en co
- ntexte: \n\nEn prévision des élections municipales d’octobre 2025\, la
-  Coalition mène une campagne “ Pour le droit à l’espace public sans 
- discrimination ” afin de dénoncer la répression policière et les prat
- iques de profilage social\, politique et racial du SPVQ ainsi que le port 
- de la Thin blue line. \n\nSur le profilage racial: Les chiffres fournis pa
- r le SPVQ démontre que les personnes latinos et arabes se font interpelle
- r deux fois plus que les personnes blanches. \n\nSur le profilage politiqu
- e: Le SPVQ continue de réprimer les manifestations sous de faux prétexte
-  et met à mal le droit de manifester et d’expression. Certains groupes 
- se font contrôler plus que d’autres. \n\nSur le profilage social: Dans 
- le rapport sur la judiciarisation de l’itinérance à Québec datant de 
- janvier dernier\, on constate une hausse de constats d’infractions remis
- es aux personnes sans-abris. Dernièrement\, on nous a également rapport
- é des cas de profilage social ciblant les personnes trans. \n\nLa Coaliti
- on s’est exprimée de plusieurs façons sur ces enjeux et le maire March
- and refuse d’intervenir et de condamner les pratiques discriminatoires d
- u SPVQ. Concernant le port de l’écusson TBL\, il nous a dit qu’il dev
- ait y réfléchir…\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250617T170000
+DTEND;TZID=America/Toronto:20250617T190000
+SUMMARY:Causerie sur le livre "Industrial Roots"
+LOCATION:1426 Beaudry (métro Beaudry)
+DESCRIPTION:2025-06-17 17:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
+ //www.openstreetmap.org/node/4852683788\n\n&nbsp\;\n17 juin\n5 à 7\n1426 
+ rue Beaudry\nle 17 juin rejoinez-nous pour une belle causerie 5à7 autour 
+ de Industrial Roots de Lisa Pike\, avec Lisa Pike et Alycia Dufour. Les au
+ trices vont parler de la vie des femmes en ontario rural et ouvrier dans u
+ ne ambiance décontractée et décomplexée!\nBienvenue à toustes\n&nbsp\
+ ;
+URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250617T170000
-DTEND:20250617T190000
-SUMMARY:Causerie sur le livre "Industrial Roots"
-DESCRIPTION:2025-06-17 17:00:00\n1426 Beaudry (métro Beaudry)\nhttps://ww
- w.openstreetmap.org/node/4852683788\n\n\n\n\n\n&nbsp\;\n\n\n\n\n\n\n\n\n17
-  juin\n 5 à 7\n1426 rue Beaudry\n\nle 17 juin rejoinez-nous pour une bell
- e causerie 5à7 autour de Industrial Roots de Lisa Pike\, avec Lisa Pike e
- t Alycia Dufour. Les autrices vont parler de la vie des femmes en ontario 
- rural et ouvrier dans une ambiance décontractée et décomplexée!\n\nBie
- nvenue à toustes \n\n&nbsp\;\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250617T180000
+DTEND;TZID=America/Toronto:20250617T200000
+SUMMARY:BBQ végétarien de Rage Climatique
+LOCATION:2035 St-Laurent\, 2e étage (métro St-Laurent)
+DESCRIPTION:2025-06-17 18:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
+ Laurent)\n\nhttps://www.openstreetmap.org/way/243082943\n\nBBQ VÉGÉTARIE
+ N DE RAGE CLIMATIQUE &amp\; COLLECTE DE FONDS POUR L'ALLIANCE MAMO\nOù?:&
+ nbsp\;\nAux Révoltes (2035 Saint-Laurent 2ème étage!)\nQuand:&nbsp\;\nM
+ ardi 17 juin 2025 - 6:00pm\nLe gouvernement Legault n'en rate pas une lors
+ qu'il est temps de saccager la nature au profit de ses amis de l'industrie
+ ! La réforme du plan forestier présentement discutée autour du projet d
+ e loi 97 consiste à accroître encore davantage le contrôle des entrepri
+ ses forestière sur le Nord du soi-disant Québec. Les communautés autoch
+ tones affectées n'entendent pas à rire: à l’issue d’une assemblée 
+ tenue à La Tuque le 11 avril 2025\, les Gardien·nes du Nehirowisiw Aski 
+ (territoire des Nehirowisiw) et du Nitassinan (territoire des Innuat) ains
+ i du Ndakina (territoire des Abénakis) ont créé l’Alliance Mamo afin 
+ d’unir les premières nations dans l’excercice de leurs souveraineté 
+ et de lutter contre la surexploitation de leurs terres. Un blocage est pr
+ ésentement en cours à Manawan pour empêcher la machinerie d'entrer sur 
+ les sites de coupe.&nbsp\;\nVenez en grand nombre!!! Nous collecterons des
+  fonds pour les envoyer à l'alliance MAMO!!! Nous acceptons seulement l'a
+ rgent comptant.\n&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250617T180000
-DTEND:20250617T200000
-SUMMARY:BBQ végétarien de Rage Climatique
-DESCRIPTION:2025-06-17 18:00:00\n2035 St-Laurent\, 2e étage (métro St-La
- urent)\nhttps://www.openstreetmap.org/way/243082943\nBBQ VÉGÉTARIEN DE R
- AGE CLIMATIQUE &amp\; COLLECTE DE FONDS POUR L'ALLIANCE MAMO\nOù?:&nbsp\;
- \nAux Révoltes (2035 Saint-Laurent 2ème étage!)\nQuand:&nbsp\;\nMardi 1
- 7 juin 2025 - 6:00pm\n\nLe gouvernement Legault n'en rate pas une lorsqu'i
- l est temps de saccager la nature au profit de ses amis de l'industrie! La
-  réforme du plan forestier présentement discutée autour du projet de lo
- i 97 consiste à accroître encore davantage le contrôle des entreprises 
- forestière sur le Nord du soi-disant Québec. Les communautés autochtone
- s affectées n'entendent pas à rire: à l’issue d’une assemblée tenu
- e à La Tuque le 11 avril 2025\, les Gardien·nes du Nehirowisiw Aski (ter
- ritoire des Nehirowisiw) et du Nitassinan (territoire des Innuat) ainsi du
-  Ndakina (territoire des Abénakis) ont créé l’Alliance Mamo afin d’
- unir les premières nations dans l’excercice de leurs souveraineté et d
- e lutter contre la surexploitation de leurs terres. Un blocage est présen
- tement en cours à Manawan pour empêcher la machinerie d'entrer sur les s
- ites de coupe.&nbsp\;\n\nVenez en grand nombre!!! Nous collecterons des fo
- nds pour les envoyer à l'alliance MAMO!!! Nous acceptons seulement l'arge
- nt comptant.\n\n&nbsp\;\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250619T160000
+DTEND;TZID=America/Toronto:20250619T180000
+SUMMARY:Finançons l'accessibilité universelle du métro ! Mobilisation d
+ u grand Sud-ouest
+LOCATION:(coin Wellington/Galt)
+DESCRIPTION:2025-06-19 16:00:00\n\n(coin Wellington/Galt)\n\nhttps://www.o
+ penstreetmap.org/node/11045538596\n\nPour des ascenseurs à la station De 
+ L'Église !\nPour l'accessibilité universelle du transport collectif !\nP
+ our le financement des transports du Grand Sud-Ouest !\n------------------
+ ------------\nNous demandons que le gouvernement du Québec dégèle le pr
+ ogramme existant et accélère les travaux de construction d’ascenseurs 
+ à la station de métro De L’Église\, déjà priorisée par la STM et s
+ ituée au cœur de nos quartiers.\nL’action se veut une contribution du 
+ Grand Sud-Ouest à la mobilisation plus large pour le refinancement du tra
+ nsport collectif\, dans une perspective de justice sociale et environnemen
+ tale.\nCette mobilisation est la suite directe aux différentes démarches
+  citoyennes et communautaires menées depuis l’été 2024 sur le dossier
+  de la refonte des réseaux de bus dans le Grand Sud-Ouest\, qui a permis 
+ de mettre encore plus en lumière le besoin d’ascenseurs dans notre rés
+ eau de métro.\n------------------------------\nPLUS DE DÉTAILS À VENIR 
+ - MORE DETAILS TO COME\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11045538596
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250619T160000
-DTEND:20250619T180000
-SUMMARY:Finançons l'accessibilité universelle du métro ! Mobilisation d
- u grand Sud-ouest
-DESCRIPTION:2025-06-19 16:00:00\n(coin Wellington/Galt)\nhttps://www.opens
- treetmap.org/node/11045538596\nPour des ascenseurs à la station De L'Égl
- ise !\nPour l'accessibilité universelle du transport collectif !\nPour le
-  financement des transports du Grand Sud-Ouest ! \n\n---------------------
- ---------\n\nNous demandons que le gouvernement du Québec dégèle le pro
- gramme existant et accélère les travaux de construction d’ascenseurs 
- à la station de métro De L’Église\, déjà priorisée par la STM et s
- ituée au cœur de nos quartiers.\n\nL’action se veut une contribution d
- u Grand Sud-Ouest à la mobilisation plus large pour le refinancement du t
- ransport collectif\, dans une perspective de justice sociale et environnem
- entale. \n\nCette mobilisation est la suite directe aux différentes déma
- rches citoyennes et communautaires menées depuis l’été 2024 sur le do
- ssier de la refonte des réseaux de bus dans le Grand Sud-Ouest\, qui a pe
- rmis de mettre encore plus en lumière le besoin d’ascenseurs dans notre
-  réseau de métro.\n\n------------------------------\n\nPLUS DE DÉTAILS 
- À VENIR - MORE DETAILS TO COME\n\n&nbsp\;\n
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-39
-SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250619T180000
-DTEND:20250619T200000
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250619T180000
+DTEND;TZID=America/Toronto:20250619T200000
 SUMMARY:Causerie sur le livre "Sirop de poteau"
-DESCRIPTION:2025-06-19 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\nLB Éditeur et la Livrerie vous in
- vitent à une causerie autour du roman Sirop de poteau de Francis Ouellett
- e avec la participation de Sandrine Héroux de l’écomusée du fier mond
- e.\n\n—\n\nSIROP DE POTEAU\n\nDehors\, la lune commence à se pointer le
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2025-06-19 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nLB Éditeur et la Livrerie v
+ ous invitent à une causerie autour du roman Sirop de poteau de Francis Ou
+ ellette avec la participation de Sandrine Héroux de l’écomusée du fie
+ r monde.\n—\nSIROP DE POTEAU\nDehors\, la lune commence à se pointer le
  s rondeurs. Frigo plisse ses yeux enflés pour mieux la détailler. Pendan
  t une fraction de seconde\, il a l'impression que le ciel est une carte de
   bingo. Il jurerait que l'astre de la nuit est une pitoune qui s'est dépl
  acée d'elle-même pour aller se parquer quelques instants sur le carré d
- es gagnants.\n\nDécembre 1976\, quelques jours avant Noël. Frigo est à 
- l'hôpital. Il s'est fait arranger le portrait par Marco le macro\, le pro
- xénète de Chantale Choquette\, sa dulcinée. Des pans de sa vie lui revi
- ennent en mémoire : enfance\, errances\, désirs\, déboires\, grandes jo
- ies et petites morts. Dans une autre chambre\, le narrateur est en train d
- e venir au monde.\nAprès avoir suivi les destins croisés des personnages
-  de Mélasse de fantaisie\, Francis Ouellette se penche sur le chevet de F
- rigo\, robineux lumineux\, pour assembler les éclats de vie qui ont fait 
- de ce ­héros doux et taiseux une légende du Centre-Sud.\n\n—\n\nFranc
- is Ouellette vient du Faubourg à m’lasse de Montréal. Il y a vécu plu
- sieurs vies avant d’atteindre 45 ans\, en toute improbabilité. Il a ess
- ayé très fort de ne pas être auteur. Il a donc été loadeur de trucks\
- , clown\, père Noël de centre commercial\, commis de club vidéo\, agent
-  de sécurité\, éducateur en garderie\, scénariste frustré de bande de
- ssinée\, poète raté\, critique de cinéma mort à l’arrivée\, pour f
- inalement s’occuper (plutôt bien) de distribution de films avec la comp
- agnie FunFilm. Il est aussi propriétaire d’un C-PTSD à temps plein. Il
-  a remporté à deux reprises le prix de la création Radio-Canada dans la
-  catégorie Récit\, ce qui lui a donné le coup de pied au cul nécessair
- e pour écrire son premier roman.\n\n&nbsp\;\n
+ es gagnants.\nDécembre 1976\, quelques jours avant Noël. Frigo est à l'
+ hôpital. Il s'est fait arranger le portrait par Marco le macro\, le prox
+ énète de Chantale Choquette\, sa dulcinée. Des pans de sa vie lui revie
+ nnent en mémoire : enfance\, errances\, désirs\, déboires\, grandes joi
+ es et petites morts. Dans une autre chambre\, le narrateur est en train de
+  venir au monde.\nAprès avoir suivi les destins croisés des personnages 
+ de Mélasse de fantaisie\, Francis Ouellette se penche sur le chevet de Fr
+ igo\, robineux lumineux\, pour assembler les éclats de vie qui ont fait d
+ e ce ­héros doux et taiseux une légende du Centre-Sud.\n—\nFrancis Ou
+ ellette vient du Faubourg à m’lasse de Montréal. Il y a vécu plusieur
+ s vies avant d’atteindre 45 ans\, en toute improbabilité. Il a essayé 
+ très fort de ne pas être auteur. Il a donc été loadeur de trucks\, clo
+ wn\, père Noël de centre commercial\, commis de club vidéo\, agent de s
+ écurité\, éducateur en garderie\, scénariste frustré de bande dessin
+ ée\, poète raté\, critique de cinéma mort à l’arrivée\, pour final
+ ement s’occuper (plutôt bien) de distribution de films avec la compagni
+ e FunFilm. Il est aussi propriétaire d’un C-PTSD à temps plein. Il a r
+ emporté à deux reprises le prix de la création Radio-Canada dans la cat
+ égorie Récit\, ce qui lui a donné le coup de pied au cul nécessaire po
+ ur écrire son premier roman.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-39
+SEQUENCE:0
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250621T000100
+DTEND;TZID=America/Toronto:20250621T020100
+SUMMARY:Journée des peuples autochtones
+LOCATION:(détails à venir)
+DESCRIPTION:2025-06-21 00:01:00\n\n(détails à venir)\n\nDétails à veni
+ r
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250621T000100
-DTEND:20250621T020100
-SUMMARY:Journée des peuples autochtones
-DESCRIPTION:2025-06-21 00:01:00\n(détails à venir)\nDétails à venir\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250621T120000
+DTEND;TZID=America/Toronto:20250621T140000
+SUMMARY:Bouffe contre le fascisme
+LOCATION:Verdun (métro de l&#039\;Église)
+DESCRIPTION:2025-06-21 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
+ ttps://www.openstreetmap.org/node/2925377065\n\nOn est un groupe qui s’o
+ rganise à offrir du monde des repas gratuits\, des ateliers et de la musi
+ que\, tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits
+  les samedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Égli
+ se).
+URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250621T120000
-DTEND:20250621T140000
-SUMMARY:Bouffe contre le fascisme
-DESCRIPTION:2025-06-21 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps
- ://www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organis
- e à offrir du monde des repas gratuits\, des ateliers et de la musique\, 
- tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits les s
- amedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Église).\n
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-42
-SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250622T120000
-DTEND:20250622T140000
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250622T120000
+DTEND;TZID=America/Toronto:20250622T140000
 SUMMARY:Marche funèbre pour les lieux disparus
-DESCRIPTION:2025-06-22 12:00:00\nCoin Esplanade/Mont-Royal (métro Mont-Ro
- yal)\nhttps://www.openstreetmap.org/way/1323434978\n\nRVD PARC JEANNE-MANC
- E\nCOIN ESPLANADE ET MONT ROYAL\n12H\nGRATUIT\n\nMontréal\, ville vibrant
- e dont la réputation musicale résonne partout dans le monde. Pourtant de
- puis quelques années\, la gentrification a forcé la fermeture de nombreu
- x lieux qui faisaient la vitalité de la scène musicale de la ville. Loin
-  du Quartier des spectacles où devraient se concentrer la vie culturelle 
- selon la vision officielle de ville\, ces espaces défunts participaient 
- à offrir un espace d’expression et de création originale et diversifi
+LOCATION:Coin Esplanade/Mont-Royal (métro Mont-Royal)
+DESCRIPTION:2025-06-22 12:00:00\n\nCoin Esplanade/Mont-Royal (métro Mont-
+ Royal)\n\nhttps://www.openstreetmap.org/way/1323434978\n\nRVD PARC JEANNE-
+ MANCE\nCOIN ESPLANADE ET MONT ROYAL\n12H\nGRATUIT\nMontréal\, ville vibra
+ nte dont la réputation musicale résonne partout dans le monde. Pourtant 
+ depuis quelques années\, la gentrification a forcé la fermeture de nombr
+ eux lieux qui faisaient la vitalité de la scène musicale de la ville. Lo
+ in du Quartier des spectacles où devraient se concentrer la vie culturell
+ e selon la vision officielle de ville\, ces espaces défunts participaient
+  à offrir un espace d’expression et de création originale et diversifi
  é pour des communautés entières. Pour honorer ces espaces culturels dis
  parus\, le collectif Réverbérations d’une crise vous invite à une mar
  che funèbre où le deuil lié à la perte de ces lieux chers sera amené 
  à se transformer en rage festive pour revendiquer une autre vision de la 
- ville.\n\nRéverbérations d’une crise: une enquête sonore sur le logem
- ent à Montréal est un collectif initié par des artistes locataires de M
- ontréal afin de faire entendre des dimensions souvent négligées de la c
- rise du logement.\n-------------------\nMontreal\, a vibrant city whose mu
- sical reputation resonates around the world. Yet in recent years\, gentrif
- ication has forced the closure of many venues that once furled the city’
- s music scene. Far from the Quartier des spectacles\, where cultural life 
- is officially meant to be concentrated\, these now-defunct spaces provided
-  room for original and diverse expression and creation for entire communit
- ies.\n\nTo honor these lost cultural spaces\, the collective Réverbérati
- ons d’une crise invites you to a funeral march\, where the mourning of t
- hese beloved places will transform into festive rage\, reclaiming a differ
- ent vision for the city.\n\nRéverbérations d’une crise: a sound invest
- igation into housing in Montreal is a collective initiated by tenant artis
- ts in Montreal\, aiming to amplify often-overlooked aspects of the housing
-  crisis.\n~~~~~~\nSuoni Per Il Popolo reconnaît que le territoire sur leq
- uel nous sommes rassemblé.e.s est le territoire traditionnel et non-céd
- é du peuple Kanien'keha:ka (Mohawk)\, un lieu qui a longtemps constitué 
- un site de rencontre et d'échange entre plusieurs nations.\nSuoni Per Il 
- Popolo would like to acknowledge that the land on which we gather is the t
- raditional and unceded territory of the kanien'keha:ka (Mohawk)\, a place 
- which has long served as a site of meeting and exchange amongst nations.\n
- \n&nbsp\;\n\n
+ ville.\nRéverbérations d’une crise: une enquête sonore sur le logemen
+ t à Montréal est un collectif initié par des artistes locataires de Mon
+ tréal afin de faire entendre des dimensions souvent négligées de la cri
+ se du logement.\n-------------------\nMontreal\, a vibrant city whose musi
+ cal reputation resonates around the world. Yet in recent years\, gentrific
+ ation has forced the closure of many venues that once furled the city’s 
+ music scene. Far from the Quartier des spectacles\, where cultural life is
+  officially meant to be concentrated\, these now-defunct spaces provided r
+ oom for original and diverse expression and creation for entire communitie
+ s.\nTo honor these lost cultural spaces\, the collective Réverbérations 
+ d’une crise invites you to a funeral march\, where the mourning of these
+  beloved places will transform into festive rage\, reclaiming a different 
+ vision for the city.\nRéverbérations d’une crise: a sound investigatio
+ n into housing in Montreal is a collective initiated by tenant artists in 
+ Montreal\, aiming to amplify often-overlooked aspects of the housing crisi
+ s.\n~~~~~~\nSuoni Per Il Popolo reconnaît que le territoire sur lequel no
+ us sommes rassemblé.e.s est le territoire traditionnel et non-cédé du p
+ euple Kanien'keha:ka (Mohawk)\, un lieu qui a longtemps constitué un site
+  de rencontre et d'échange entre plusieurs nations.\nSuoni Per Il Popolo 
+ would like to acknowledge that the land on which we gather is the traditio
+ nal and unceded territory of the kanien'keha:ka (Mohawk)\, a place which h
+ as long served as a site of meeting and exchange amongst nations.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1323434978
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250622T193000
-DTEND:20250622T213000
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250622T193000
+DTEND;TZID=America/Toronto:20250622T213000
 SUMMARY:10 years of Metonymy Press : A Cabaret 20$
-DESCRIPTION:2025-06-22 19:30:00\n4873 St-Laurent (métro Laurier)\nhttps:/
- /www.openstreetmap.org/node/1570292450\n\nhttps://tickets.venuepilot.com/e
- /135323\n\nCasa del Popolo\nPortes: 19h30\nSpectacle: 20h\n15/20$\navec Me
- tonymy Press &amp\; CJLO\n\nJoignez-vous à Metonymy Press pour nos célé
+LOCATION:4873 St-Laurent (métro Laurier)
+DESCRIPTION:2025-06-22 19:30:00\n\n4873 St-Laurent (métro Laurier)\n\nhtt
+ ps://www.openstreetmap.org/node/1570292450\n\nhttps://tickets.venuepilot.c
+ om/e/135323\nCasa del Popolo\nPortes: 19h30\nSpectacle: 20h\n15/20$\navec 
+ Metonymy Press &amp\; CJLO\nJoignez-vous à Metonymy Press pour nos célé
  brations interminables de notre 10e anniversaire !\n17 livres\, des millia
  rds d'événements et une véritable communauté queer\, trans et féminis
  te d'auteur·e·s plus tard\, nous sommes toujours là. Deux chiffres d'é
@@ -1107,350 +1153,376 @@ DESCRIPTION:2025-06-22 19:30:00\n4873 St-Laurent (métro Laurier)\nhttps:/
  tonymy Press sera soulignée en compagnie de H Félix Chau Bradley\, Shani
  ce Nicole\, Kama La Mackerel\, Trish Salah\, Eli Tareq El Bechelany-Lynch\
  , Kai Cheng Thom et jiaqing wilson-yang\, et leurs contributions évocatri
- ces\, marquantes\, perspicaces\, transformatrices et lyriques.\n\n--------
- ---\n\nJoin Metonymy Press for our neverending 10-year anniversary celebra
- tions!\n17 books\, zillions of events\, and a veritable queer\, trans\, an
- d feminist community of authors later\, we're still here. Double-digits of
-  queer book publishing in Tiohtià:ke deserves a cabaret showcase. Authors
-  who sing! Spoken-word artists who dance! Artists who DJ! And more. Come p
- arty with us: books\, drinks\, and some of your all-time favourite writers
-  putting on a very good show.\nAbout Metonymy Press: For 10 years\, Metony
- my Press has been publishing queer\, trans\, and feminist literature by em
- erging writers. We try to reduce barriers to publishing for authors who in
- terrogate the status quo to produce stunning\, multi-genre books that refr
- ame power and affirm life.\nThe decade of Metonymy Press will be celebrate
- d in the company of H Félix Chau Bradley\, Shanice Nicole\, Kama La Macke
- rel\, Trish Salah\, Eli Tareq El Bechelany-Lynch\, Kai Cheng Thom\, and ji
- aqing wilson-yang\, and their evocative\, significant\, insightful\, trans
- formative\, and lyrical contributions.\n\n-----------\n\nACCESSIBILITÉ //
-  Casa Del Popolo se situe en rez-de-chaussée. Il y a une rampe d'accès 
- à l'entrée du bar et de la salle de concert afin de permettre l'accès a
- ux personnes en fauteuils roulants. Les toilettes sont de genre neutre et 
- l'une est accessible aux fauteuils roulants.\n\nACCESSIBILITY // Casa Del 
- Popolo is located on ground level. There are ramps on both the venue and b
- ar front entrances for wheelchair accessibility. Washrooms are gender-neut
- ral and one is wheelchair accessible.\n\n-----------\n\nSuoni Per Il Popol
- o reconnaît que le territoire sur lequel nous sommes rassemblé.e.s est l
- e territoire traditionnel et non-cédé du peuple Kanien'keha:ka (Mohawk)\
- , un lieu qui a longtemps constitué un site de rencontre et d'échange en
- tre plusieurs nations.\n\nSuoni Per Il Popolo would like to acknowledge th
- at the land on which we gather is the traditional and unceded territory of
-  the kanien'keha:ka (Mohawk)\, a place which has long served as a site of 
- meeting and exchange amongst nations.\n\n&nbsp\;\n\n
+ ces\, marquantes\, perspicaces\, transformatrices et lyriques.\n----------
+ -\nJoin Metonymy Press for our neverending 10-year anniversary celebration
+ s!\n17 books\, zillions of events\, and a veritable queer\, trans\, and fe
+ minist community of authors later\, we're still here. Double-digits of que
+ er book publishing in Tiohtià:ke deserves a cabaret showcase. Authors who
+  sing! Spoken-word artists who dance! Artists who DJ! And more. Come party
+  with us: books\, drinks\, and some of your all-time favourite writers put
+ ting on a very good show.\nAbout Metonymy Press: For 10 years\, Metonymy P
+ ress has been publishing queer\, trans\, and feminist literature by emergi
+ ng writers. We try to reduce barriers to publishing for authors who interr
+ ogate the status quo to produce stunning\, multi-genre books that reframe 
+ power and affirm life.\nThe decade of Metonymy Press will be celebrated in
+  the company of H Félix Chau Bradley\, Shanice Nicole\, Kama La Mackerel\
+ , Trish Salah\, Eli Tareq El Bechelany-Lynch\, Kai Cheng Thom\, and jiaqin
+ g wilson-yang\, and their evocative\, significant\, insightful\, transform
+ ative\, and lyrical contributions.\n-----------\nACCESSIBILITÉ // Casa De
+ l Popolo se situe en rez-de-chaussée. Il y a une rampe d'accès à l'entr
+ ée du bar et de la salle de concert afin de permettre l'accès aux person
+ nes en fauteuils roulants. Les toilettes sont de genre neutre et l'une est
+  accessible aux fauteuils roulants.\nACCESSIBILITY // Casa Del Popolo is l
+ ocated on ground level. There are ramps on both the venue and bar front en
+ trances for wheelchair accessibility. Washrooms are gender-neutral and one
+  is wheelchair accessible.\n-----------\nSuoni Per Il Popolo reconnaît qu
+ e le territoire sur lequel nous sommes rassemblé.e.s est le territoire tr
+ aditionnel et non-cédé du peuple Kanien'keha:ka (Mohawk)\, un lieu qui a
+  longtemps constitué un site de rencontre et d'échange entre plusieurs n
+ ations.\nSuoni Per Il Popolo would like to acknowledge that the land on wh
+ ich we gather is the traditional and unceded territory of the kanien'keha:
+ ka (Mohawk)\, a place which has long served as a site of meeting and excha
+ nge amongst nations.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/1570292450
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-43
+SEQUENCE:0
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250625T190000
+DTEND;TZID=America/Toronto:20250625T210000
+SUMMARY:Lancement de la 16e saison du Cinéma sous les étoiles
+LOCATION:Parc Lafontaine (métro Sherbrooke)
+DESCRIPTION:2025-06-25 19:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
+ https://www.openstreetmap.org/node/7363083869\n\nC’est au Théâtre de V
+ erdure que s’ouvrira la 16ᵉ édition du Cinéma sous les étoiles !\nJ
+ oignez-vous à nous pour une soirée conviviale et engagée sous les étoi
+ les\, avec musique\, bière locale et cinéma documentaire.\nDéroulement 
+ de la soirée\n· 19h00 | Accueil du public – ambiance musicale assurée
+  par DJ Eh ? – Oh ! qui propose des grooves rare et du funk exotica ains
+ i qu'un bar avec Maté Libre\, L'Autre Brasserie et Distillerie Comont.\n
+ · 20h45 | Mot de bienvenue et lancement officiel du festival\n· 21h00 | 
+ Projection du film d’ouverture The Pickers&nbsp\;\nApportez votre bonne 
+ humeur\, des ami·e·s et votre curiosité : l’été documentaire commen
+ ce ici ! 🎬✨\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250625T190000
-DTEND:20250625T210000
-SUMMARY:Lancement de la 16e saison du Cinéma sous les étoiles
-DESCRIPTION:2025-06-25 19:00:00\nParc Lafontaine (métro Sherbrooke)\nhttp
- s://www.openstreetmap.org/node/7363083869\nC’est au Théâtre de Verdure
-  que s’ouvrira la 16ᵉ édition du Cinéma sous les étoiles !\nJoignez
- -vous à nous pour une soirée conviviale et engagée sous les étoiles\, 
- avec musique\, bière locale et cinéma documentaire.\n\nDéroulement de l
- a soirée\n· 19h00 | Accueil du public – ambiance musicale assurée par
-  DJ Eh ? – Oh ! qui propose des grooves rare et du funk exotica ainsi qu
- 'un bar avec Maté Libre\, L'Autre Brasserie et Distillerie Comont.\n· 20
- h45 | Mot de bienvenue et lancement officiel du festival\n· 21h00 | Proje
- ction du film d’ouverture The Pickers&nbsp\;\n\nApportez votre bonne hum
- eur\, des ami·e·s et votre curiosité : l’été documentaire commence 
- ici ! 🎬✨\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250625T210000
+DTEND;TZID=America/Toronto:20250625T230000
+SUMMARY:Cinéma sous les étoiles : "The Pickers"
+LOCATION:Parc Lafontaine (métro Sherbrooke)
+DESCRIPTION:2025-06-25 21:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
+ https://www.openstreetmap.org/node/7363083869\n\nThe Pickers\, nous emmèn
+ e dans les champs européens où 1 million de migrant.e.s récoltent les f
+ ruits et légumes quotidiens dans des conditions précaires.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250625T210000
-DTEND:20250625T230000
-SUMMARY:Cinéma sous les étoiles : "The Pickers"
-DESCRIPTION:2025-06-25 21:00:00\nParc Lafontaine (métro Sherbrooke)\nhttp
- s://www.openstreetmap.org/node/7363083869\nThe Pickers\, nous emmène dans
-  les champs européens où 1 million de migrant.e.s récoltent les fruits 
- et légumes quotidiens dans des conditions précaires.\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250626T180000
+DTEND;TZID=America/Toronto:20250626T200000
+SUMMARY:Lecture : "Frétillant et agile"
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2025-06-26 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nDans le cadre de En juin\, J
+ e lis autochtone les Éditions Hannenorak et la Livrerie vous invitent à 
+ une lecture publique du plus récent livre de Jocelyn Sioui&nbsp\;Frétill
+ ant et Agile suivie d'une discussion ainsi qu’une séance de dédicaces.
+ \n—\nFrétillant et Agile\nAvec Frétillant et Agile\, Jocelyn Sioui red
+ onne vie à Auhaïtsic\, un improbable héros wendat. Comment cet illustre
+  inconnu\, qui inspire la méfiance parmi les siens\, parvient-il à sauve
+ r sa nation de l’extinction et à changer le cours de l’Histoire? Mari
+ onnettiste aguerri et fabuleux conteur\, Jocelyn Sioui s’amuse à sortir
+  de l’ombre des personnages colorés\, plus grands que nature. Auteur de
+  Mononk Jules\, qu’il a adapté pour la scène\, Sioui sait qu’il faut
+  se méfier de l’eau qui dort.\n—\nJocelyn Sioui est un créateur\, ra
+ ssembleur et marionnettiste à l’univers teinté d’humour\, de récits
+  vécus et d’imaginaire. Son livre Mononk Jules et l’œuvre théâtral
+ e du même nom l’amène à questionner ses origines et la mémoire colle
+ ctive. Auteur-concepteur-interprète\, il tente de recoller les morceaux d
+ ’une Histoire occultée. Sa prochaine œuvre en création\, tirée de so
+ n conte Frétillant et Agile\, se produira sur les scènes en 2024-2025.\n
+ &nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250626T180000
-DTEND:20250626T200000
-SUMMARY:Lecture : "Frétillant et agile"
-DESCRIPTION:2025-06-26 18:00:00\n1376 Ontario Est (métro Papineau)\nhttps
- ://www.openstreetmap.org/way/115814240\n\n\n\n\n\n\nDans le cadre de En ju
- in\, Je lis autochtone les Éditions Hannenorak et la Livrerie vous invite
- nt à une lecture publique du plus récent livre de Jocelyn Sioui&nbsp\;Fr
- étillant et Agile suivie d'une discussion ainsi qu’une séance de dédi
- caces.\n\n—\n\nFrétillant et Agile\n\nAvec Frétillant et Agile\, Jocel
- yn Sioui redonne vie à Auhaïtsic\, un improbable héros wendat. Comment 
- cet illustre inconnu\, qui inspire la méfiance parmi les siens\, parvient
- -il à sauver sa nation de l’extinction et à changer le cours de l’Hi
- stoire? Marionnettiste aguerri et fabuleux conteur\, Jocelyn Sioui s’amu
- se à sortir de l’ombre des personnages colorés\, plus grands que natur
- e. Auteur de Mononk Jules\, qu’il a adapté pour la scène\, Sioui sait 
- qu’il faut se méfier de l’eau qui dort.\n\n—\n\nJocelyn Sioui est u
- n créateur\, rassembleur et marionnettiste à l’univers teinté d’hum
- our\, de récits vécus et d’imaginaire. Son livre Mononk Jules et l’
- œuvre théâtrale du même nom l’amène à questionner ses origines et 
- la mémoire collective. Auteur-concepteur-interprète\, il tente de recoll
- er les morceaux d’une Histoire occultée. Sa prochaine œuvre en créati
- on\, tirée de son conte Frétillant et Agile\, se produira sur les scène
- s en 2024-2025.\n\n&nbsp\;\n\n\n\n\n\n\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250626T200000
+DTEND;TZID=America/Toronto:20250626T220000
+SUMMARY:À Bas le Patriarcat ! Show Rock 20$
+LOCATION:4848 St-Laurent (métro Laurier)
+DESCRIPTION:2025-06-26 20:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
+ ps://www.openstreetmap.org/way/352197557\n\nLa Sotterenea\nPortes: 20h\nSp
+ ectacle: 20h30\n15/20$\naves Les Insoumises\nPréparez-vous à une soirée
+  rock électrisante ! Taxi Girls ajoute du punk énergique\, mélangeant l
+ es classiques des Ramones avec l'esprit des Muffs. Death Proof de Montréa
+ l offre un stoner rock intense\, évoluant avec des riffs puissants. Atten
+ dez-vous à une soirée d'énergie brute et un mélange vibrant de sons.\n
+ Electrifying rock awaits! Taxi Girls adds high-energy punk\, mixing Ramone
+ s' classics with Muffs' spirit. Montreal's Death Proof delivers intense st
+ oner rock\, evolving through powerful riffs. Expect a night of raw energy 
+ and a vibrant mix of sounds.\n------------------\nACCESSIBILITÉ // Sotter
+ enea est situé au sous-sol de La Sala Rossa\, avec deux volées d'escalie
+ rs (34 marches au total) comme accès principal. Si vous avez besoin d'aid
+ e pour accéder à notre espace\, nous disposons d'un autre accès (11 mar
+ ches au total). Il n'y a pas de toilettes neutres et elles ne sont pas tot
+ alement accessibles aux fauteuils roulants. N'hésitez pas à nous contact
+ er\, car nous sommes ravis d'essayer d'accommoder les gens au mieux de nos
+  capacités.\nACCESSIBILITY // Sotterrenea is located in the basement of L
+ a Sala Rossa\, having two flights of stairs (34 steps in total) as the mai
+ n access. Anyone needing assistance to our space\, we have another access 
+ (11 steps in total). There are no gender neutral washrooms which are not t
+ otally wheelchair accessible. Please contact us as we are more than happy 
+ to try and accommodate people to the best of our ability.\n~~~~~~\nSuoni P
+ er Il Popolo reconnaît que le territoire sur lequel nous sommes rassembl
+ é.e.s est le territoire traditionnel et non-cédé du peuple Kanien'keha:
+ ka (Mohawk)\, un lieu qui a longtemps constitué un site de rencontre et d
+ 'échange entre plusieurs nations.\nSuoni Per Il Popolo would like to ackn
+ owledge that the land on which we gather is the traditional and unceded te
+ rritory of the kanien'keha:ka (Mohawk)\, a place which has long served as 
+ a site of meeting and exchange amongst nations.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250626T200000
-DTEND:20250626T220000
-SUMMARY:À Bas le Patriarcat ! Show Rock 20$
-DESCRIPTION:2025-06-26 20:00:00\n4848 St-Laurent (métro Laurier)\nhttps:/
- /www.openstreetmap.org/way/352197557\nLa Sotterenea\nPortes: 20h\nSpectacl
- e: 20h30\n15/20$\naves Les Insoumises\n\nPréparez-vous à une soirée roc
- k électrisante ! Taxi Girls ajoute du punk énergique\, mélangeant les c
- lassiques des Ramones avec l'esprit des Muffs. Death Proof de Montréal of
- fre un stoner rock intense\, évoluant avec des riffs puissants. Attendez-
- vous à une soirée d'énergie brute et un mélange vibrant de sons.\n\nEl
- ectrifying rock awaits! Taxi Girls adds high-energy punk\, mixing Ramones'
-  classics with Muffs' spirit. Montreal's Death Proof delivers intense ston
- er rock\, evolving through powerful riffs. Expect a night of raw energy an
- d a vibrant mix of sounds.\n------------------\nACCESSIBILITÉ // Sotteren
- ea est situé au sous-sol de La Sala Rossa\, avec deux volées d'escaliers
-  (34 marches au total) comme accès principal. Si vous avez besoin d'aide 
- pour accéder à notre espace\, nous disposons d'un autre accès (11 march
- es au total). Il n'y a pas de toilettes neutres et elles ne sont pas total
- ement accessibles aux fauteuils roulants. N'hésitez pas à nous contacter
- \, car nous sommes ravis d'essayer d'accommoder les gens au mieux de nos c
- apacités.\nACCESSIBILITY // Sotterrenea is located in the basement of La 
- Sala Rossa\, having two flights of stairs (34 steps in total) as the main 
- access. Anyone needing assistance to our space\, we have another access (1
- 1 steps in total). There are no gender neutral washrooms which are not tot
- ally wheelchair accessible. Please contact us as we are more than happy to
-  try and accommodate people to the best of our ability.\n~~~~~~\nSuoni Per
-  Il Popolo reconnaît que le territoire sur lequel nous sommes rassemblé.
- e.s est le territoire traditionnel et non-cédé du peuple Kanien'keha:ka 
- (Mohawk)\, un lieu qui a longtemps constitué un site de rencontre et d'é
- change entre plusieurs nations.\n\nSuoni Per Il Popolo would like to ackno
- wledge that the land on which we gather is the traditional and unceded ter
- ritory of the kanien'keha:ka (Mohawk)\, a place which has long served as a
-  site of meeting and exchange amongst nations.\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250626T210000
+DTEND;TZID=America/Toronto:20250626T230000
+SUMMARY:Cinéma sous les étoiles : "La panthère des neiges"
+LOCATION:3500 Girouard (métro Vendôme)
+DESCRIPTION:2025-06-26 21:00:00\n\n3500 Girouard (métro Vendôme)\n\nhttp
+ s://www.openstreetmap.org/way/1079194844\n\nAu cœur des hauts plateaux ti
+ bétains\, le photographe Vincent Munier entraîne l’écrivain Sylvain T
+ esson dans sa quête de la panthère des neiges. Il l’initie à l’art 
+ délicat de l’affût\, à la lecture des traces et à la patience néces
+ saire pour entrevoir les bêtes. En parcourant les sommets habités par de
+ s présences invisibles\, les deux hommes tissent un dialogue sur notre pl
+ ace parmi les êtres vivants et célèbrent la beauté du monde.&nbsp\;\n&
+ nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1079194844
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250626T210000
-DTEND:20250626T230000
-SUMMARY:Cinéma sous les étoiles : "La panthère des neiges"
-DESCRIPTION:2025-06-26 21:00:00\n3500 Girouard (métro Vendôme)\nhttps://
- www.openstreetmap.org/way/1079194844\nAu cœur des hauts plateaux tibétai
- ns\, le photographe Vincent Munier entraîne l’écrivain Sylvain Tesson 
- dans sa quête de la panthère des neiges. Il l’initie à l’art délic
- at de l’affût\, à la lecture des traces et à la patience nécessaire 
- pour entrevoir les bêtes. En parcourant les sommets habités par des pré
- sences invisibles\, les deux hommes tissent un dialogue sur notre place pa
- rmi les êtres vivants et célèbrent la beauté du monde.&nbsp\;\n\n&nbsp
- \;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250627T140000
+DTEND;TZID=America/Toronto:20250627T160000
+SUMMARY:Cercle de réparation textile
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2025-06-27 14:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\nLes bénévoles du cercle de ré
+ paration et de création textile vous accueillent tous les derniers vendre
+ dis du mois à l'Espace des possibles Petite-Patrie!\nUne poche de pantalo
+ n déchirée? Un accro dans le tissu d’une jupe? Un rideau dont la coutu
+ re se défait? Apportez-les et recherchez une solution pour le réparer av
+ ec les précieux conseils des personnes sur place.\nUn projet de couture\,
+  de tricot\, de crochet\, de broderie à avancer en bonne compagnie? Venez
+  travailler dessus et passer un moment convivial entre voisin.e.s!\nTous l
+ es niveaux bienvenus!\nPS : BONNE NOUVELLE! L'Espace a maintenant sa propr
+ e machine à coudre Woohoo! Nous vous encourageons à apporter un fil de l
+ a couleur de votre projet. Pour le moment nous n'avons que du fil blanc é
+ cru.\nPPS : ATTENTION : Le local n'est pas encore entièrement accessible 
+ à toustes\, les travaux étant toujours en cours. Pour le moment\, il y a
+  une série d'escaliers extérieurs à monter\, puis un étage d'escaliers
+  à descendre. Un accès direct et universel à la salle est prévu pour l
+ 'automne 2025.\nEn attendant\, nous avons un accès avec des rampes détac
+ hable/mobiles pour fauteuils roulants ainsi qu’une toilette accessible. 
+ Pour avoir accès à ce service\, veuillez nous contacter edp@atse-rpp.org
+  assez d’avance avant l’événement pour qu’on puisse coordonner l
+ ’accès! Puisque ce sont des rampes amovibles\, l’accès tente de resp
+ ecter les normes d’accessibilité universelle\, mais nous ne pouvons pas
+  garantir un accès 100% aux normes. Nous vous enverrons des photos de l
+ ’installation pour votre approbation. Nous vous prions de nous excuser p
+ our ce désagrément\, nous faisons de notre mieux avec cette solution tem
+ poraire!
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250627T140000
-DTEND:20250627T160000
-SUMMARY:Cercle de réparation textile
-DESCRIPTION:2025-06-27 14:00:00\n6450 avenue Christophe-Colomb\nhttps://ww
- w.openstreetmap.org/way/1080082859\nLes bénévoles du cercle de réparati
- on et de création textile vous accueillent tous les derniers vendredis du
-  mois à l'Espace des possibles Petite-Patrie!\nUne poche de pantalon déc
- hirée? Un accro dans le tissu d’une jupe? Un rideau dont la couture se 
- défait? Apportez-les et recherchez une solution pour le réparer avec les
-  précieux conseils des personnes sur place.\nUn projet de couture\, de tr
- icot\, de crochet\, de broderie à avancer en bonne compagnie? Venez trava
- iller dessus et passer un moment convivial entre voisin.e.s!\nTous les niv
- eaux bienvenus!\nPS : BONNE NOUVELLE! L'Espace a maintenant sa propre mach
- ine à coudre Woohoo! Nous vous encourageons à apporter un fil de la coul
- eur de votre projet. Pour le moment nous n'avons que du fil blanc écru.\n
- PPS : ATTENTION : Le local n'est pas encore entièrement accessible à tou
- stes\, les travaux étant toujours en cours. Pour le moment\, il y a une s
- érie d'escaliers extérieurs à monter\, puis un étage d'escaliers à de
- scendre. Un accès direct et universel à la salle est prévu pour l'autom
- ne 2025.\nEn attendant\, nous avons un accès avec des rampes détachable/
- mobiles pour fauteuils roulants ainsi qu’une toilette accessible. Pour a
- voir accès à ce service\, veuillez nous contacter edp@atse-rpp.org assez
-  d’avance avant l’événement pour qu’on puisse coordonner l’accè
- s! Puisque ce sont des rampes amovibles\, l’accès tente de respecter le
- s normes d’accessibilité universelle\, mais nous ne pouvons pas garanti
- r un accès 100% aux normes. Nous vous enverrons des photos de l’install
- ation pour votre approbation. Nous vous prions de nous excuser pour ce dé
- sagrément\, nous faisons de notre mieux avec cette solution temporaire!\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250627T170000
+DTEND;TZID=America/Toronto:20250627T190000
+SUMMARY:Masse critique de juin
+LOCATION:Coin du Parc/Rachel (métro Mont-Royal)
+DESCRIPTION:2025-06-27 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
+ \n\nhttps://www.openstreetmap.org/way/143352036\n\n𝗠𝗔𝗦𝗦𝗘 
+ 𝗖𝗥𝗜𝗧𝗜𝗤𝗨𝗘 au Parc du Mont-Royal à la statue George
+ -Étienne Cartier\nRDV 17h\n(っ◔◡◔)っ  DÉPART 17h30\nOuvre l’ap
+ p Critical Maps pour nous rejoindre en cours de route.\nViens célébrer l
+ e plus beau moyen de transport qui soit\, pendant une balade d'une heure!\
+ nNous recommandons fortement d'amener de la musique\, des guirlandes lumin
+ euses et de quoi vous amusez sur vos bécyks !\nAimerais-tu 𝙙𝙤𝙣
+ 𝙣𝙚𝙧 𝙪𝙣 𝙥𝙚𝙪 𝙙𝙚 𝙩𝙚𝙢𝙥𝙨 aux masse
+ s critiques ?\nPeux-tu poser quelques 𝐚𝐟𝐟𝐢𝐜𝐡𝐞𝐬 
+ 𝐝𝐚𝐧𝐬 𝐭𝐚 𝐜𝐨𝐦𝐦𝐮𝐧𝐚𝐮𝐭é ?\nEs-tu 
+ 𝑫𝑱 𝒐𝒖 𝒎𝒖𝒔𝒊𝒄𝒊𝒆𝒏•𝒏𝒆 ?\nNous avon
+ s un cyclopousse capable de t'accueillir pendant un set-concert roulant qu
+ i accompagnerait la balade.\nAs-tu une cause sociale-environnementale à p
+ artager ?\nTu pourras faire un 𝒅𝒊𝒔𝒄𝒐𝒖𝒓𝒔 en début 
+ ou fin de balade à notre communauté.\nAimerais-tu faire la fiesta avec n
+ ous ?\nTu peux nous 𝒔𝒖𝒈𝒈𝒆́𝒓𝒆𝒓 𝒖𝒏 𝒍𝒊
+ 𝒆𝒖 qui pourrait nous accueillir après la balade.\nÉcris-nous sur\n
+ Facebook ( facebook.com/massecritiqueamtl )\nInstagram ( instagram.com/mas
+ se_critique_montreal )\,\nou par Courriel à masse_critique_montreal@proto
+ nmail.com\nC'est tu ta première Masse Critique? La Masse Critique c'est u
+ ne balade mani-festive qui a lieu tous les derniers vendredis du mois dans
+  les plus grandes villes du monde! Tu trouveras plus d'infos sur notre pag
+ e !\n---\nImage de couverture / cover image :\nFélix Arsenault\nbehance.
+ net/felix_arsenault\n---\n&nbsp\;\n𝗖𝗥𝗜𝗧𝗜𝗖𝗔𝗟 𝗠
+ 𝗔𝗦𝗦 at Mont-Royal Park  Meetup 5pm at the George-Étienne Cartier
+  monument.\n(っ◔◡◔)っ  DEPARTURE 5:30PM\nOpen the Critical Maps ap
+ p to join us along the way.\nCome celebrate the most beautiful form of tra
+ nsportation there is\, during a one-hour ride!\nWe highly recommend bringi
+ ng music\, lights and something to have fun with on your bike!\nWould you 
+ like to 𝒈𝒊𝒗𝒆 𝒔𝒐𝒎𝒆 𝒕𝒊𝒎𝒆 to critical mas
+ ses?\nCan you hang a few posters in your community ?\nAre you 𝑫𝑱 
+ 𝒐𝒓 𝒎𝒖𝒔𝒊𝒄𝒊𝒂𝒏?\nWe have a rickshaw that can ac
+ commodate you during a rolling set-concert that would accompany the ride.\
+ nDo you have a social-environmental cause to share?\nYou can make a 𝒔
+ 𝒑𝒆𝒂𝒄𝒉 at the beginning or end of the ride to our community.
+ \nWould you like to party with us?\nYou can 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 
+ 𝒂 𝒑𝒍𝒂𝒄𝒆 who could host us after the ride.\nContact us on
+ \nFacebook ( facebook.com/massecritiqueamtl )\,\nInstagram ( instagram.com
+ /masse_critique_montreal )\nor email us at masse_critique_montreal@protonm
+ ail.com\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250627T170000
-DTEND:20250627T190000
-SUMMARY:Masse critique de juin
-DESCRIPTION:2025-06-27 17:00:00\nCoin du Parc/Rachel (métro Mont-Royal)\n
- https://www.openstreetmap.org/way/143352036\n 𝗠𝗔𝗦𝗦𝗘 𝗖
- 𝗥𝗜𝗧𝗜𝗤𝗨𝗘 au Parc du Mont-Royal à la statue George-Ét
- ienne Cartier \nRDV 17h\n(っ◔◡◔)っ  DÉPART 17h30 \n\nOuvre l’ap
- p Critical Maps pour nous rejoindre en cours de route.\n\nViens célébrer
-  le plus beau moyen de transport qui soit\, pendant une balade d'une heure
- ! \n\nNous recommandons fortement d'amener de la musique\, des guirlandes 
- lumineuses et de quoi vous amusez sur vos bécyks !\n\n Aimerais-tu 𝙙
- 𝙤𝙣𝙣𝙚𝙧 𝙪𝙣 𝙥𝙚𝙪 𝙙𝙚 𝙩𝙚𝙢𝙥𝙨 a
- ux masses critiques ? \n\n Peux-tu poser quelques 𝐚𝐟𝐟𝐢𝐜𝐡
- 𝐞𝐬 𝐝𝐚𝐧𝐬 𝐭𝐚 𝐜𝐨𝐦𝐦𝐮𝐧𝐚𝐮𝐭é 
- ? \n\n Es-tu 𝑫𝑱 𝒐𝒖 𝒎𝒖𝒔𝒊𝒄𝒊𝒆𝒏•𝒏𝒆
-  ? \nNous avons un cyclopousse capable de t'accueillir pendant un set-conc
- ert roulant qui accompagnerait la balade.\n\n As-tu une cause sociale-envi
- ronnementale à partager ? \nTu pourras faire un 𝒅𝒊𝒔𝒄𝒐𝒖
- 𝒓𝒔 en début ou fin de balade à notre communauté.\n\n Aimerais-tu 
- faire la fiesta avec nous ? \nTu peux nous 𝒔𝒖𝒈𝒈𝒆́𝒓𝒆
- 𝒓 𝒖𝒏 𝒍𝒊𝒆𝒖 qui pourrait nous accueillir après la bala
- de.\n\n Écris-nous sur \nFacebook ( facebook.com/massecritiqueamtl )\nIns
- tagram ( instagram.com/masse_critique_montreal )\,\nou par Courriel à mas
- se_critique_montreal@protonmail.com\n\n\n\nC'est tu ta première Masse Cri
- tique? La Masse Critique c'est une balade mani-festive qui a lieu tous les
-  derniers vendredis du mois dans les plus grandes villes du monde! Tu trou
- veras plus d'infos sur notre page !\n\n---\n\nImage de couverture / cover 
- image :\nFélix Arsenault\n behance.net/felix_arsenault\n\n---\n\n&nbsp\;
- \n\n 𝗖𝗥𝗜𝗧𝗜𝗖𝗔𝗟 𝗠𝗔𝗦𝗦 at Mont-Royal Park 
-  Meetup 5pm at the George-Étienne Cartier monument.\n\n(っ◔◡◔)っ 
-  DEPARTURE 5:30PM  \n\nOpen the Critical Maps app to join us along the way
- .\n\nCome celebrate the most beautiful form of transportation there is\, d
- uring a one-hour ride! \n\nWe highly recommend bringing music\, lights and
-  something to have fun with on your bike!\n\n Would you like to 𝒈𝒊
- 𝒗𝒆 𝒔𝒐𝒎𝒆 𝒕𝒊𝒎𝒆 to critical masses? \n\n Can yo
- u hang a few posters in your community ? \n\n Are you 𝑫𝑱 𝒐𝒓 
- 𝒎𝒖𝒔𝒊𝒄𝒊𝒂𝒏? \nWe have a rickshaw that can accommodat
- e you during a rolling set-concert that would accompany the ride.\n\n Do y
- ou have a social-environmental cause to share? \nYou can make a 𝒔𝒑
- 𝒆𝒂𝒄𝒉 at the beginning or end of the ride to our community.\n\n
-  Would you like to party with us? \nYou can 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 
- 𝒂 𝒑𝒍𝒂𝒄𝒆 who could host us after the ride.\n\n Contact us
-  on \nFacebook ( facebook.com/massecritiqueamtl )\,\nInstagram ( instagram
- .com/masse_critique_montreal )\nor email us at masse_critique_montreal@pro
- tonmail.com\n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250627T180000
+DTEND;TZID=America/Toronto:20250627T200000
+SUMMARY:Book Launch : "Seed Beetle"
+LOCATION:1426 Beaudry (métro Beaudry)
+DESCRIPTION:2025-06-27 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
+ //www.openstreetmap.org/node/4852683788\n\nPlease join us for the Montreal
+  launch of Seed Beetle at L'Euguelionne\, Montreal's feminist bookstore at
+  6 PM on June 27.\nThe evening will feature readings from Seed Beetle and 
+ Rhiannon Ng Cheng Hin as well as some refreshments.\nON SEED BEETLE: In a 
+ climate changed future\, Canada is thought to be a promised land. But in s
+ outhern Ontario\, the promise and the land are exhausted: industrializatio
+ n has led to widespread destruction\, desertification and food insecurity.
+  So when Utopic Robotics promises growth and presents a community with a s
+ warm of automated beetles that will revitalize the land and rebuild utopia
+ \, community members rally behind the corporation and its message of hope.
+  But technological solutions often come with secret risks.\nThis collectio
+ n of illustrated poems explores those risks inherent in utopia and the ide
+ a that through science alone we can solve our environmental problems. Thro
+ ugh femme and queer perspectives\, Smith lays bare the social implications
+  of a technological savior\, and creates a blueprint for co-opting technol
+ ogy in the name of community and connection.\nON FIRE CIDER RAIN: Fire Cid
+ er Rain is about the limits to which shared cultural and geographic histor
+ ies can hold a family together. It follows the lives of three Chinese-Maur
+ itian women on the course of dispersing\, settling\, and rooting over nort
+ hern landscapes\, and the brittle family bonds that tie them to one anothe
+ r and to their home country. Told from the perspective of the youngest of 
+ the three women\, Fire Cider Rain follows the events leading up to and fol
+ lowing the death of her grandmother\, an ex-lighthouse keeper and matriarc
+ h whose fractured relationship with her own daughter haunts the narrator
+ ’s life in soft\, painful aftershocks. As she navigates the cold cities 
+ and waterways of Southern Ontario\, our narrator struggles with conflictin
+ g desires to run toward and flee from her island identity\, which grows ev
+ er distant\, ever more difficult to find her way back to.\nAt its core\, F
+ ire Cider Rain is a book about parent-child relationships as vessels for c
+ ultural identity\, and the ways in which expressions of love and non-love 
+ within those relationships can rupture sense of place\, self\, and at time
+ s\, a collective diaspora. Throughout the book\, Ng Cheng Hin explores the
+  geopolitics of island nations\, the dilution of family histories over tim
+ e\, and the experience of water as a medium for the cyclical movement of i
+ sland bodies\, stories\, and cultures. The Mauritian landscape and waterwa
+ ys of southern Ontario recur through the book as convergence points for it
+ s many themes.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250627T180000
-DTEND:20250627T200000
-SUMMARY:Book Launch : "Seed Beetle"
-DESCRIPTION:2025-06-27 18:00:00\n1426 Beaudry (métro Beaudry)\nhttps://ww
- w.openstreetmap.org/node/4852683788\nPlease join us for the Montreal launc
- h of Seed Beetle at L'Euguelionne\, Montreal's feminist bookstore at 6 PM 
- on June 27. \n\nThe evening will feature readings from Seed Beetle and Rhi
- annon Ng Cheng Hin as well as some refreshments.\n\nON SEED BEETLE: In a c
- limate changed future\, Canada is thought to be a promised land. But in so
- uthern Ontario\, the promise and the land are exhausted: industrialization
-  has led to widespread destruction\, desertification and food insecurity. 
- So when Utopic Robotics promises growth and presents a community with a sw
- arm of automated beetles that will revitalize the land and rebuild utopia\
- , community members rally behind the corporation and its message of hope. 
- But technological solutions often come with secret risks.\n\nThis collecti
- on of illustrated poems explores those risks inherent in utopia and the id
- ea that through science alone we can solve our environmental problems. Thr
- ough femme and queer perspectives\, Smith lays bare the social implication
- s of a technological savior\, and creates a blueprint for co-opting techno
- logy in the name of community and connection.\nON FIRE CIDER RAIN: Fire Ci
- der Rain is about the limits to which shared cultural and geographic histo
- ries can hold a family together. It follows the lives of three Chinese-Mau
- ritian women on the course of dispersing\, settling\, and rooting over nor
- thern landscapes\, and the brittle family bonds that tie them to one anoth
- er and to their home country. Told from the perspective of the youngest of
-  the three women\, Fire Cider Rain follows the events leading up to and fo
- llowing the death of her grandmother\, an ex-lighthouse keeper and matriar
- ch whose fractured relationship with her own daughter haunts the narrator
- ’s life in soft\, painful aftershocks. As she navigates the cold cities 
- and waterways of Southern Ontario\, our narrator struggles with conflictin
- g desires to run toward and flee from her island identity\, which grows ev
- er distant\, ever more difficult to find her way back to.\n\nAt its core\,
-  Fire Cider Rain is a book about parent-child relationships as vessels for
-  cultural identity\, and the ways in which expressions of love and non-lov
- e within those relationships can rupture sense of place\, self\, and at ti
- mes\, a collective diaspora. Throughout the book\, Ng Cheng Hin explores t
- he geopolitics of island nations\, the dilution of family histories over t
- ime\, and the experience of water as a medium for the cyclical movement of
-  island bodies\, stories\, and cultures. The Mauritian landscape and water
- ways of southern Ontario recur through the book as convergence points for 
- its many themes. \n\n&nbsp\;\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250628T120000
+DTEND;TZID=America/Toronto:20250628T140000
+SUMMARY:Bouffe contre le fascisme
+LOCATION:Verdun (métro de l&#039\;Église)
+DESCRIPTION:2025-06-28 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
+ ttps://www.openstreetmap.org/node/2925377065\n\nOn est un groupe qui s’o
+ rganise à offrir du monde des repas gratuits\, des ateliers et de la musi
+ que\, tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits
+  les samedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Égli
+ se).
+URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250628T120000
-DTEND:20250628T140000
-SUMMARY:Bouffe contre le fascisme
-DESCRIPTION:2025-06-28 12:00:00\nVerdun (métro de l&#039\;Église)\nhttps
- ://www.openstreetmap.org/node/2925377065\nOn est un groupe qui s’organis
- e à offrir du monde des repas gratuits\, des ateliers et de la musique\, 
- tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits les s
- amedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Église).\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250629T180000
+DTEND;TZID=America/Toronto:20250629T200000
+SUMMARY:Souper ORA x Comité BAILS
+LOCATION:1800 Letourneux (métro Pie-IX)
+DESCRIPTION:2025-06-29 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
+ s://www.openstreetmap.org/way/363150208\n\nAvec la crise du logement et le
+  1er juillet à nos portes\, c'est le temps de jaser autour d'un bon soupe
+ r\, entre l'ORA et le comité BAILS !
+URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250629T180000
-DTEND:20250629T200000
-SUMMARY:Souper ORA x Comité BAILS
-DESCRIPTION:2025-06-29 18:00:00\n1800 Letourneux (métro Pie-IX)\nhttps://
- www.openstreetmap.org/way/363150208\nAvec la crise du logement et le 1er j
- uillet à nos portes\, c'est le temps de jaser autour d'un bon souper\, en
- tre l'ORA et le comité BAILS !\n
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250630T210000
+DTEND;TZID=America/Toronto:20250630T230000
+SUMMARY:Cinéma sous les étoiles : "Les perdants"
+LOCATION:(métro Papineau)
+DESCRIPTION:2025-06-30 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
+ reetmap.org/way/165260353\n\nLes perdants suit trois personnes candidates 
+ aux élections provinciales d’octobre 2022. Leur point commun : une déf
+ aite assurée. À travers leurs campagnes respectives\, le film décortiqu
+ e le système électoral et ses nombreux dysfonctionnements : difficultés
+  supplémentaires pour les femmes et les personnes racisées\, mode de scr
+ utin déficient\, financement inéquitable\, poids des médias et des sond
+ ages.\nRegard caustique et décapant sur un système politique qui n’off
+ re pas les mêmes chances à toutes et tous. Si la course semble perdue d
+ ’avance pour une majorité des coureurs\, c’est que nous sommes les pe
+ rdants du jeu électoral.&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250630T210000
-DTEND:20250630T230000
-SUMMARY:Cinéma sous les étoiles : "Les perdants"
-DESCRIPTION:2025-06-30 21:00:00\n(métro Papineau)\nhttps://www.openstreet
- map.org/way/165260353\nLes perdants suit trois personnes candidates aux é
- lections provinciales d’octobre 2022. Leur point commun : une défaite a
- ssurée. À travers leurs campagnes respectives\, le film décortique le s
- ystème électoral et ses nombreux dysfonctionnements : difficultés suppl
- émentaires pour les femmes et les personnes racisées\, mode de scrutin d
- éficient\, financement inéquitable\, poids des médias et des sondages.\
- nRegard caustique et décapant sur un système politique qui n’offre pas
-  les mêmes chances à toutes et tous. Si la course semble perdue d’avan
- ce pour une majorité des coureurs\, c’est que nous sommes les perdants 
- du jeu électoral.&nbsp\;\n\n&nbsp\;\n
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-55
-SEQUENCE:0
-DTSTAMP:20250603T202503
-DTSTART:20250630T210000
-DTEND:20250630T230000
+DTSTAMP:20250603T185308
+DTSTART;TZID=America/Toronto:20250630T210000
+DTEND;TZID=America/Toronto:20250630T230000
 SUMMARY:Cinéma sous les étoiles : "Come se non ci fosse un domani"
-DESCRIPTION:2025-06-30 21:00:00\n70 Av. Shamrock (métro de Castelnau)\nht
- tps://www.openstreetmap.org/node/8512069849\nCome se non ci fosse un doman
- i est un film documentaire qui raconte de manière intime l’histoire d
- ’un groupe d’activistes engagés dans une campagne de désobéissance 
- civile non violente. Comme dans de nombreux autres pays européens\, le gr
- oupe Ultima Generazione a attiré l’attention des médias et des respons
- ables politiques par des blocages de routes et des actions controversées 
- visant des bâtiments institutionnels et des œuvres d’art. Ils se défi
- nissent comme la dernière génération ayant la possibilité de ralentir 
- la croissance exponentielle de la crise climatique.\n\nÀ travers les rega
- rds et les récits de cinq d’entre eux\, le documentaire dévoile ce qui
-  se passe dans les coulisses des manifestations\, et ce que cela signifie 
- de s’exposer en première ligne.\n\nEn toile de fond du parcours de ces 
- activistes\, émergent les histoires de territoires et de communautés dé
- jà touchés par les effets négatifs de la crise climatique — autant de
-  présages d’un avenir plus incertain que jamais.\n\nUn film qui parle d
+LOCATION:70 Av. Shamrock (métro de Castelnau)
+DESCRIPTION:2025-06-30 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
+ \nhttps://www.openstreetmap.org/node/8512069849\n\nCome se non ci fosse un
+  domani est un film documentaire qui raconte de manière intime l’histoi
+ re d’un groupe d’activistes engagés dans une campagne de désobéissa
+ nce civile non violente. Comme dans de nombreux autres pays européens\, l
+ e groupe Ultima Generazione a attiré l’attention des médias et des res
+ ponsables politiques par des blocages de routes et des actions controvers
+ ées visant des bâtiments institutionnels et des œuvres d’art. Ils se 
+ définissent comme la dernière génération ayant la possibilité de rale
+ ntir la croissance exponentielle de la crise climatique.\nÀ travers les r
+ egards et les récits de cinq d’entre eux\, le documentaire dévoile ce 
+ qui se passe dans les coulisses des manifestations\, et ce que cela signif
+ ie de s’exposer en première ligne.\nEn toile de fond du parcours de ces
+  activistes\, émergent les histoires de territoires et de communautés d
+ éjà touchés par les effets négatifs de la crise climatique — autant 
+ de présages d’un avenir plus incertain que jamais.\nUn film qui parle d
  e notre difficulté à faire communauté\, et du désir\, malgré tout\, d
- ’essayer encore\, ensemble\, d’imaginer un avenir meilleur.&nbsp\;\n\n
- &nbsp\;\n
+ ’essayer encore\, ensemble\, d’imaginer un avenir meilleur.&nbsp\;\n&n
+ bsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/8512069849
 END:VEVENT
 END:VCALENDAR
