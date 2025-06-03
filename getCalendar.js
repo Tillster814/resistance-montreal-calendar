@@ -8,51 +8,39 @@ const feedUrl = "https://www.resistancemontreal.org/rss/events";
 
 const calendar = ical({
   name: "Résistance Montréal",
-  timezone: "America/Toronto",
   prodId: "//resistancemtl//rss-to-ical//EN",
+  timezone: "UTC", // iCal best practice for portability
 });
 
 async function main() {
   const { data: xml } = await axios.get(feedUrl);
   const parsed = await parseStringPromise(xml);
-
-  const items = parsed.rss?.channel?.[0]?.item || [];
+  const items = parsed.rss.channel[0].item;
 
   for (const [i, item] of items.entries()) {
     const title = item.title?.[0] || "Untitled Event";
     const description = item.description?.[0] || "";
     const firstLine = description.trim().split("\n")[0].trim();
 
-    let dt;
-
-    // Try parsing "2025-06-03 18:00:00" from description as Montreal time
-    if (/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/.test(firstLine)) {
-      dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
-        zone: "America/Toronto",
-      });
-    }
-
-    // Fallback to pubDate but treat it as Montreal time, ignore "EST"
-    if (!dt || !dt.isValid) {
-      const pub = item.pubDate?.[0] || "";
-      const cleanedPub = pub.replace(/ [A-Z]{2,4}$/, ""); // remove EST
-      dt = DateTime.fromFormat(cleanedPub, "dd LLL yyyy HH:mm:ss", {
-        zone: "America/Toronto",
-      });
-    }
+    // Parse in Montreal timezone (EDT/EST), then convert to UTC
+    let dt = DateTime.fromFormat(firstLine, "yyyy-MM-dd HH:mm:ss", {
+      zone: "America/Toronto",
+    });
 
     if (!dt.isValid) {
-      console.warn(`❌ Skipping invalid date for item: ${title}`);
-      continue;
+      const pub = item.pubDate?.[0];
+      dt = DateTime.fromRFC2822(pub || "", { zone: "America/Toronto" });
     }
+
+    const startUTC = dt.toUTC();
+    const endUTC = startUTC.plus({ hours: 2 });
 
     calendar.createEvent({
       id: `resmtl-${i}`,
-      start: dt,
-      end: dt.plus({ hours: 2 }),
+      start: startUTC.toJSDate(),
+      end: endUTC.toJSDate(),
       summary: title,
       description,
-      timezone: "America/Toronto",
     });
   }
 
