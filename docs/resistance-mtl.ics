@@ -8,63 +8,9 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250611T173000
-DTEND;TZID=America/Toronto:20250611T193000
-SUMMARY:Mural Unveiling
-LOCATION:Ruelle verte entre Hutchison &amp\; Durocher
-DESCRIPTION:2025-06-11 17:30:00\n\nRuelle verte entre Hutchison &amp\; Dur
- ocher
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250611T180000
-DTEND;TZID=America/Toronto:20250611T200000
-SUMMARY:Déborder Bolloré : lancement-discussion | extrême-droitisation 
- des médias et du monde de l'édition
-LOCATION:6758 St-Laurent
-DESCRIPTION:2025-06-11 18:00:00\n\n6758 St-Laurent\n\nhttps://www.openstre
- etmap.org/node/12034441028\n\nJoignez-vous à nous pour le lancement de l'
- ouvrage Déborder Bolloré\, une collaboration exceptionnelle entre trois 
- éditeurs québécois et 125 éditeurs français pour contrer les empires 
- médiatiques et les idées d’extrême-droite qu’ils propagent.\nLa dis
- cussion portera sur la concentration et l’extrême-droitisation des méd
- ias et du monde de l’édition. Elle réunira l’essayiste Philippe de G
- rosbois\, la rédactrice en chef (Pivot) Claire Ross\, la journaliste Gabr
- ielle Brassard-Lecours\, ainsi que l’éditeur Claude Rioux.\n___________
- ____________________________________\nL’empire du milliardaire Vincent B
- olloré est devenu en quelques années un levier majeur de la conquête du
-  pouvoir par l’extrême-droite en France. Au-delà du déluge xénophobe
- \, la «bollosphère» fait chaque jour la promotion de discours sexistes 
- et homophobes légitimant les violences contre les femmes et les personnes
-  LGBTQIA2S+\, en plus de promouvoir l’avènement d’une société inég
- alitaire.\nAu Québec\, l’empire de Pierre-Karl Péladeau peut faire pen
- ser à celui de Bolloré. Entretenant une panoplie de chroniqueurs aussi x
- énophobes que transphobes – dont un faisant la navette entre ses platef
- ormes et celles de Bolloré (CNews) –\, PKP possède les chaînes LCN et
-  TVA et\, via Québecor\, des journaux\, magazines et hebdomadaires parmi 
- les plus lus de la province\, en plus du «premier groupe d’édition\, d
- e diffusion et de distribution de langue française au Québec et au Canad
- a»\, le Groupe Livres Québecor Média inc.\nCe recueil\, édité collect
- ivement par des éditeurices indépendant·es\, alimente la réflexion gé
- nérale sur la nécessité de s’opposer à l’empire Bolloré et par ex
- tension aux empires médiatiques. Chercheureuses\, imprimeureuses\, édite
- urices et libraires y analysent ainsi les dynamiques de concentration et d
- ’extrême-droitisation du marché. Chacun·e tente de formuler\, depuis 
- sa position respective\, des réponses à cette question urgente: comment 
- faire face au libéralisme autoritaire dans le monde du livre?\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/12034441028
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T130000
-DTEND;TZID=America/Toronto:20250612T150000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250612T170000
+DTEND;TZID=America/Toronto:20250612T190000
 SUMMARY:Marche guidée: Luttes pour le logement dans Hochelaga-Maisonneuve
   (inscription)
 LOCATION:3250 Rue Sainte-Catherine E\, Montréal\, QC H1W 2C6
@@ -85,12 +31,11 @@ DESCRIPTION:2025-06-12 13:00:00\n\n3250 Rue Sainte-Catherine E\, Montréal
  uare Dézéry (3250 Rue Sainte-Catherine E\, Montréal\, QC H1W 2C6)
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T150000
-DTEND;TZID=America/Toronto:20250612T170000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250612T190000
+DTEND;TZID=America/Toronto:20250612T210000
 SUMMARY:Action contre la hausse de la STM
 LOCATION:(métro lionel-groulx)
 DESCRIPTION:2025-06-12 15:00:00\n\n(métro lionel-groulx)\n\nhttps://www.o
@@ -98,12 +43,11 @@ DESCRIPTION:2025-06-12 15:00:00\n\n(métro lionel-groulx)\n\nhttps://www.o
 URL;VALUE=URI:https://www.openstreetmap.org/node/7164242333
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T173000
-DTEND;TZID=America/Toronto:20250612T193000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250612T213000
+DTEND;TZID=America/Toronto:20250612T233000
 SUMMARY:IWW : BBQ pour les travailleuse-eurs du communautaire
 LOCATION:(métro Joliette)
 DESCRIPTION:2025-06-12 17:30:00\n\n(métro Joliette)\n\nhttps://www.openst
@@ -119,11 +63,11 @@ DESCRIPTION:2025-06-12 17:30:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/86553560
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T180000
-DTEND;TZID=America/Toronto:20250612T200000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250612T220000
+DTEND;TZID=America/Toronto:20250613T000000
 SUMMARY:Olivia Tapiero et Charlie Khalil Prince : mise-en-musique du livre
   "un carré de poussière"
 LOCATION:6758 St-Laurent (métro de Castelnau)
@@ -143,11 +87,11 @@ DESCRIPTION:2025-06-12 18:00:00\n\n6758 St-Laurent (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034441027
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T183000
-DTEND;TZID=America/Toronto:20250612T203000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250612T223000
+DTEND;TZID=America/Toronto:20250613T003000
 SUMMARY:Lancement et causerie : "Wages for Housework"
 LOCATION:1376 Ontario Est (métro Papineau)
 DESCRIPTION:2025-06-12 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
@@ -189,12 +133,11 @@ DESCRIPTION:2025-06-12 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T190000
-DTEND;TZID=America/Toronto:20250612T210000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250612T230000
+DTEND;TZID=America/Toronto:20250613T010000
 SUMMARY:Projection du film "Ninan Auassat: Nous les enfants" en présence 
  de Kim O'Bomsawin
 LOCATION:1500 rue Balmoral (métro Place-des-Arts)
@@ -215,11 +158,11 @@ DESCRIPTION:2025-06-12 19:00:00\n\n1500 rue Balmoral (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/8025526254
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250613T170000
-DTEND;TZID=America/Toronto:20250613T190000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250613T210000
+DTEND;TZID=America/Toronto:20250613T230000
 SUMMARY:Lancement de "La Cantine"\, nouvel outil de prévention carcéral 
  de l'AQPSUD
 LOCATION:1710 Rue Beaudry (métro Beaudry)
@@ -244,12 +187,11 @@ DESCRIPTION:2025-06-13 17:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T120000
-DTEND;TZID=America/Toronto:20250614T140000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250614T160000
+DTEND;TZID=America/Toronto:20250614T180000
 SUMMARY:Bouffe contre le fascisme
 LOCATION:Verdun (métro de l&#039\;Église)
 DESCRIPTION:2025-06-14 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
@@ -261,12 +203,11 @@ DESCRIPTION:2025-06-14 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T130000
-DTEND;TZID=America/Toronto:20250614T150000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250614T170000
+DTEND;TZID=America/Toronto:20250614T190000
 SUMMARY:Vigil for Palestine
 LOCATION:(métro Mont-Royal)
 DESCRIPTION:2025-06-14 13:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
@@ -280,11 +221,11 @@ DESCRIPTION:2025-06-14 13:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/1456304180
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T140000
-DTEND;TZID=America/Toronto:20250614T160000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250614T180000
+DTEND;TZID=America/Toronto:20250614T200000
 SUMMARY:Fresque de la Renaissance
 LOCATION:(métro Viau)
 DESCRIPTION:2025-06-14 14:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
@@ -312,11 +253,11 @@ DESCRIPTION:2025-06-14 14:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/10553861140
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T170000
-DTEND;TZID=America/Toronto:20250614T190000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250614T210000
+DTEND;TZID=America/Toronto:20250614T230000
 SUMMARY:Last Generation - Community Event
 LOCATION:3819 Av. Calixa-Lavallée (métro Sherbrooke)
 DESCRIPTION:2025-06-14 17:00:00\n\n3819 Av. Calixa-Lavallée (métro Sherb
@@ -326,11 +267,11 @@ DESCRIPTION:2025-06-14 17:00:00\n\n3819 Av. Calixa-Lavallée (métro Sherb
 URL;VALUE=URI:https://www.openstreetmap.org/way/311018515
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T200000
-DTEND;TZID=America/Toronto:20250614T220000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250615T000000
+DTEND;TZID=America/Toronto:20250615T020000
 SUMMARY:Battle set fundraiser for Palestine 15$
 LOCATION:1900 Le Ber (métro Charlevoix)
 DESCRIPTION:2025-06-14 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
@@ -342,12 +283,11 @@ DESCRIPTION:2025-06-14 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T200000
-DTEND;TZID=America/Toronto:20250614T220000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250615T000000
+DTEND;TZID=America/Toronto:20250615T020000
 SUMMARY:Daddy's Issues Comedy Show 15$
 LOCATION:3714 du Parc (métro Place-des-Arts)
 DESCRIPTION:2025-06-14 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
@@ -370,11 +310,11 @@ DESCRIPTION:2025-06-14 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250616T180000
-DTEND;TZID=America/Toronto:20250616T200000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250616T220000
+DTEND;TZID=America/Toronto:20250617T000000
 SUMMARY:Anarchist Bookclub
 LOCATION:3720 avenue du Parc
 DESCRIPTION:2025-06-16 18:00:00\n\n3720 avenue du Parc\n\nhttps://www.open
@@ -388,12 +328,11 @@ DESCRIPTION:2025-06-16 18:00:00\n\n3720 avenue du Parc\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972918877
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T120000
-DTEND;TZID=America/Toronto:20250617T140000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250617T160000
+DTEND;TZID=America/Toronto:20250617T180000
 SUMMARY:Pique-nique contre le profilage
 LOCATION:2\, rue des Jardins
 DESCRIPTION:2025-06-17 12:00:00\n\n2\, rue des Jardins\n\nhttps://www.open
@@ -423,12 +362,11 @@ DESCRIPTION:2025-06-17 12:00:00\n\n2\, rue des Jardins\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/way/392464714
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T170000
-DTEND;TZID=America/Toronto:20250617T190000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250617T210000
+DTEND;TZID=America/Toronto:20250617T230000
 SUMMARY:Causerie sur le livre "Industrial Roots"
 LOCATION:1426 Beaudry (métro Beaudry)
 DESCRIPTION:2025-06-17 17:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
@@ -441,12 +379,11 @@ DESCRIPTION:2025-06-17 17:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T180000
-DTEND;TZID=America/Toronto:20250617T200000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250617T220000
+DTEND;TZID=America/Toronto:20250618T000000
 SUMMARY:BBQ végétarien de Rage Climatique
 LOCATION:2035 St-Laurent\, 2e étage (métro St-Laurent)
 DESCRIPTION:2025-06-17 18:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
@@ -471,12 +408,11 @@ DESCRIPTION:2025-06-17 18:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T183000
-DTEND;TZID=America/Toronto:20250617T203000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250617T223000
+DTEND;TZID=America/Toronto:20250618T003000
 SUMMARY:En souvenir de Martin Richard
 LOCATION:(métro Jean-Talon)
 DESCRIPTION:2025-06-17 18:30:00\n\n(métro Jean-Talon)\n\nhttps://www.open
@@ -504,11 +440,11 @@ DESCRIPTION:2025-06-17 18:30:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/2295839157
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250619T160000
-DTEND;TZID=America/Toronto:20250619T180000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250619T200000
+DTEND;TZID=America/Toronto:20250619T220000
 SUMMARY:Finançons l'accessibilité universelle du métro ! Mobilisation d
  u grand Sud-ouest
 LOCATION:(coin Wellington/Galt)
@@ -531,12 +467,11 @@ DESCRIPTION:2025-06-19 16:00:00\n\n(coin Wellington/Galt)\n\nhttps://www.o
 URL;VALUE=URI:https://www.openstreetmap.org/node/11045538596
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
-UID:resmtl-21
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250619T180000
-DTEND;TZID=America/Toronto:20250619T200000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250619T220000
+DTEND;TZID=America/Toronto:20250620T000000
 SUMMARY:Causerie sur le livre "Sirop de poteau"
 LOCATION:1376 Ontario Est (métro Papineau)
 DESCRIPTION:2025-06-19 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
@@ -571,24 +506,22 @@ DESCRIPTION:2025-06-19 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
-UID:resmtl-22
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T000100
-DTEND;TZID=America/Toronto:20250621T020100
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250621T040100
+DTEND;TZID=America/Toronto:20250621T060100
 SUMMARY:Journée des peuples autochtones
 LOCATION:(détails à venir)
 DESCRIPTION:2025-06-21 00:01:00\n\n(détails à venir)\n\nDétails à veni
  r
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
-UID:resmtl-23
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T120000
-DTEND;TZID=America/Toronto:20250621T140000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250621T160000
+DTEND;TZID=America/Toronto:20250621T180000
 SUMMARY:Bouffe contre le fascisme
 LOCATION:Verdun (métro de l&#039\;Église)
 DESCRIPTION:2025-06-21 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
@@ -600,12 +533,11 @@ DESCRIPTION:2025-06-21 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
-UID:resmtl-24
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T170000
-DTEND;TZID=America/Toronto:20250621T190000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250621T210000
+DTEND;TZID=America/Toronto:20250621T230000
 SUMMARY:Last Generation - Community Event
 LOCATION:3819 Av. Calixa-Lavallée (métro Sherbrooke)
 DESCRIPTION:2025-06-21 17:00:00\n\n3819 Av. Calixa-Lavallée (métro Sherb
@@ -615,12 +547,11 @@ DESCRIPTION:2025-06-21 17:00:00\n\n3819 Av. Calixa-Lavallée (métro Sherb
 URL;VALUE=URI:https://www.openstreetmap.org/way/311018515
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
-UID:resmtl-25
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T190000
-DTEND;TZID=America/Toronto:20250621T210000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250621T230000
+DTEND;TZID=America/Toronto:20250622T010000
 SUMMARY:No One Is Illegal: 20 years since the great march on Ottawa
 LOCATION:2515 Rue Delisle (métro lionel-groulx)
 DESCRIPTION:2025-06-21 19:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
@@ -684,11 +615,11 @@ DESCRIPTION:2025-06-21 19:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T200000
-DTEND;TZID=America/Toronto:20250621T220000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250622T000000
+DTEND;TZID=America/Toronto:20250622T020000
 SUMMARY:Party Karaoké - Bénéfice pour Max et Caro
 LOCATION:2035 St-Laurent\, 2e étage (métro St-Laurent)
 DESCRIPTION:2025-06-21 20:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
@@ -704,11 +635,11 @@ DESCRIPTION:2025-06-21 20:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250622T120000
-DTEND;TZID=America/Toronto:20250622T140000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250622T160000
+DTEND;TZID=America/Toronto:20250622T180000
 SUMMARY:Marche funèbre pour les lieux disparus
 LOCATION:Coin Esplanade/Mont-Royal (métro Mont-Royal)
 DESCRIPTION:2025-06-22 12:00:00\n\nCoin Esplanade/Mont-Royal (métro Mont-
@@ -749,12 +680,11 @@ DESCRIPTION:2025-06-22 12:00:00\n\nCoin Esplanade/Mont-Royal (métro Mont-
 URL;VALUE=URI:https://www.openstreetmap.org/way/1323434978
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
-UID:resmtl-28
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250622T193000
-DTEND;TZID=America/Toronto:20250622T213000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250622T233000
+DTEND;TZID=America/Toronto:20250623T013000
 SUMMARY:10 years of Metonymy Press : A Cabaret 20$
 LOCATION:4873 St-Laurent (métro Laurier)
 DESCRIPTION:2025-06-22 19:30:00\n\n4873 St-Laurent (métro Laurier)\n\nhtt
@@ -810,12 +740,11 @@ DESCRIPTION:2025-06-22 19:30:00\n\n4873 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/1570292450
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
-UID:resmtl-29
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250625T190000
-DTEND;TZID=America/Toronto:20250625T210000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250625T230000
+DTEND;TZID=America/Toronto:20250626T010000
 SUMMARY:Lancement de la 16e saison du Cinéma sous les étoiles
 LOCATION:Parc Lafontaine (métro Sherbrooke)
 DESCRIPTION:2025-06-25 19:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
@@ -833,12 +762,11 @@ DESCRIPTION:2025-06-25 19:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
-UID:resmtl-30
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250625T210000
-DTEND;TZID=America/Toronto:20250625T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250626T010000
+DTEND;TZID=America/Toronto:20250626T030000
 SUMMARY:Cinéma sous les étoiles : "The Pickers"
 LOCATION:Parc Lafontaine (métro Sherbrooke)
 DESCRIPTION:2025-06-25 21:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
@@ -848,12 +776,11 @@ DESCRIPTION:2025-06-25 21:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
-UID:resmtl-31
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T170000
-DTEND;TZID=America/Toronto:20250626T190000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250626T210000
+DTEND;TZID=America/Toronto:20250626T230000
 SUMMARY:Lancement des balados du CRACH : Dans la panse de l'ogre - quand l
  a crise du logement dévore les locataires
 LOCATION:(métro Jean-Talon)
@@ -878,11 +805,11 @@ DESCRIPTION:2025-06-26 17:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T180000
-DTEND;TZID=America/Toronto:20250626T200000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250626T220000
+DTEND;TZID=America/Toronto:20250627T000000
 SUMMARY:Lecture : "Frétillant et agile"
 LOCATION:1376 Ontario Est (métro Papineau)
 DESCRIPTION:2025-06-26 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
@@ -908,12 +835,11 @@ DESCRIPTION:2025-06-26 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
-UID:resmtl-33
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T200000
-DTEND;TZID=America/Toronto:20250626T220000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250627T000000
+DTEND;TZID=America/Toronto:20250627T020000
 SUMMARY:À Bas le Patriarcat ! Show Rock 20$
 LOCATION:4848 St-Laurent (métro Laurier)
 DESCRIPTION:2025-06-26 20:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
@@ -949,12 +875,11 @@ DESCRIPTION:2025-06-26 20:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
-UID:resmtl-34
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T210000
-DTEND;TZID=America/Toronto:20250626T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250627T010000
+DTEND;TZID=America/Toronto:20250627T030000
 SUMMARY:Cinéma sous les étoiles : "La panthère des neiges"
 LOCATION:3500 Girouard (métro Vendôme)
 DESCRIPTION:2025-06-26 21:00:00\n\n3500 Girouard (métro Vendôme)\n\nhttp
@@ -969,12 +894,11 @@ DESCRIPTION:2025-06-26 21:00:00\n\n3500 Girouard (métro Vendôme)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/1079194844
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
-UID:resmtl-35
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250627T140000
-DTEND;TZID=America/Toronto:20250627T160000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250627T180000
+DTEND;TZID=America/Toronto:20250627T200000
 SUMMARY:Cercle de réparation textile
 LOCATION:6450 avenue Christophe-Colomb
 DESCRIPTION:2025-06-27 14:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
@@ -1006,12 +930,11 @@ DESCRIPTION:2025-06-27 14:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
-UID:resmtl-36
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250627T170000
-DTEND;TZID=America/Toronto:20250627T190000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250627T210000
+DTEND;TZID=America/Toronto:20250627T230000
 SUMMARY:Masse critique de juin
 LOCATION:Coin du Parc/Rachel (métro Mont-Royal)
 DESCRIPTION:2025-06-27 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
@@ -1058,12 +981,11 @@ DESCRIPTION:2025-06-27 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
-UID:resmtl-37
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250627T180000
-DTEND;TZID=America/Toronto:20250627T200000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250627T220000
+DTEND;TZID=America/Toronto:20250628T000000
 SUMMARY:Book Launch : "Seed Beetle"
 LOCATION:1426 Beaudry (métro Beaudry)
 DESCRIPTION:2025-06-27 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
@@ -1107,12 +1029,11 @@ DESCRIPTION:2025-06-27 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
-UID:resmtl-38
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250628T120000
-DTEND;TZID=America/Toronto:20250628T140000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250628T160000
+DTEND;TZID=America/Toronto:20250628T180000
 SUMMARY:Bouffe contre le fascisme
 LOCATION:Verdun (métro de l&#039\;Église)
 DESCRIPTION:2025-06-28 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
@@ -1124,12 +1045,11 @@ DESCRIPTION:2025-06-28 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
-UID:resmtl-39
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250629T103000
-DTEND;TZID=America/Toronto:20250629T123000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250629T143000
+DTEND;TZID=America/Toronto:20250629T163000
 SUMMARY:Troc tes trucs
 LOCATION:1900 Le Ber (métro Charlevoix)
 DESCRIPTION:2025-06-29 10:30:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
@@ -1155,11 +1075,11 @@ DESCRIPTION:2025-06-29 10:30:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250629T180000
-DTEND;TZID=America/Toronto:20250629T200000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250629T220000
+DTEND;TZID=America/Toronto:20250630T000000
 SUMMARY:Souper ORA x Comité BAILS
 LOCATION:1800 Letourneux (métro Pie-IX)
 DESCRIPTION:2025-06-29 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
@@ -1169,12 +1089,11 @@ DESCRIPTION:2025-06-29 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
-UID:resmtl-41
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250630T210000
-DTEND;TZID=America/Toronto:20250630T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250701T010000
+DTEND;TZID=America/Toronto:20250701T030000
 SUMMARY:Cinéma sous les étoiles : "Les perdants"
 LOCATION:(métro Papineau)
 DESCRIPTION:2025-06-30 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
@@ -1191,12 +1110,11 @@ DESCRIPTION:2025-06-30 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
-UID:resmtl-42
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250630T210000
-DTEND;TZID=America/Toronto:20250630T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250701T010000
+DTEND;TZID=America/Toronto:20250701T030000
 SUMMARY:Cinéma sous les étoiles : "Come se non ci fosse un domani"
 LOCATION:70 Av. Shamrock (métro de Castelnau)
 DESCRIPTION:2025-06-30 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
@@ -1221,11 +1139,11 @@ DESCRIPTION:2025-06-30 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/8512069849
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250701T210000
-DTEND;TZID=America/Toronto:20250701T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250702T010000
+DTEND;TZID=America/Toronto:20250702T030000
 SUMMARY:Cinéma sous les étoiles : "Ernest Cole\, photographe"
 LOCATION:(près de 1ère avenue/Masson)
 DESCRIPTION:2025-07-01 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
@@ -1242,11 +1160,11 @@ DESCRIPTION:2025-07-01 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250701T210000
-DTEND;TZID=America/Toronto:20250701T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250702T010000
+DTEND;TZID=America/Toronto:20250702T030000
 SUMMARY:Cinéma sous les étoiles : "Un jeu à soi"
 LOCATION:(métro Frontenac)
 DESCRIPTION:2025-07-01 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
@@ -1260,11 +1178,11 @@ DESCRIPTION:2025-07-01 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250702T210000
-DTEND;TZID=America/Toronto:20250702T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250703T010000
+DTEND;TZID=America/Toronto:20250703T030000
 SUMMARY:Cinéma sous les étoiles : "Posthumains"
 LOCATION:(métro Laurier)
 DESCRIPTION:2025-07-02 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
@@ -1279,11 +1197,11 @@ DESCRIPTION:2025-07-02 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250703T183000
-DTEND;TZID=America/Toronto:20250703T203000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250703T223000
+DTEND;TZID=America/Toronto:20250704T003000
 SUMMARY:Lancement de livre : "Annapurna's Bounty"
 LOCATION:1376 Ontario Est (métro Papineau)
 DESCRIPTION:2025-07-03 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
@@ -1313,11 +1231,11 @@ DESCRIPTION:2025-07-03 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250703T210000
-DTEND;TZID=America/Toronto:20250703T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250704T010000
+DTEND;TZID=America/Toronto:20250704T030000
 SUMMARY:Cinéma sous les étoiles : "La pensée machine"
 LOCATION:(métro Iberville)
 DESCRIPTION:2025-07-03 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
@@ -1332,11 +1250,11 @@ DESCRIPTION:2025-07-03 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250707T210000
-DTEND;TZID=America/Toronto:20250707T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250708T010000
+DTEND;TZID=America/Toronto:20250708T030000
 SUMMARY:Cinéma sous les étoiles : "Union"
 LOCATION:(métro Papineau)
 DESCRIPTION:2025-07-07 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
@@ -1356,11 +1274,11 @@ DESCRIPTION:2025-07-07 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250707T210000
-DTEND;TZID=America/Toronto:20250707T230000
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250708T010000
+DTEND;TZID=America/Toronto:20250708T030000
 SUMMARY:Cinéma sous les étoiles : "Diaries from Lebanon"
 LOCATION:70 Av. Shamrock (métro de Castelnau)
 DESCRIPTION:2025-07-07 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
@@ -1376,5 +1294,29 @@ DESCRIPTION:2025-07-07 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
  e évincée de son siège parlementaire en 2018\, et une jeune artiste mil
  itante.&nbsp\;\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/node/6653792333
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-48
+SEQUENCE:0
+DTSTAMP:20250612T032450
+DTSTART;TZID=America/Toronto:20250712T000000
+DTEND;TZID=America/Toronto:20250712T020000
+SUMMARY:Show bénéfice pour Spectre de rue 25$
+LOCATION:2040 St-Denis (métro Berri)
+DESCRIPTION:2025-07-11 20:00:00\n\n2040 St-Denis (métro Berri)\n\nhttps:/
+ /www.openstreetmap.org/node/11004970512\n\n🔥 SHOW BÉNÉFICE DE SPECTRE
+  DE RUE - 2e édition ! 🔥\nPour cette deuxième édition de notre show 
+ punk annuel\, nous vous invitons le 11 juillet 2025 au Turbo Haus afin de 
+ récolter des fonds pour Spectre de rue qui oeuvre en réduction des méfa
+ its dans le quartier Centre-Sud depuis 1986 !\n💥 À l’affiche :\nUnfi
+ led : https://www.instagram.com/unfiled_mtl/\nMorose : https://www.instagr
+ am.com/morose_mtl/\nShards : https://www.facebook.com/ShardsMTL\nJetsam : 
+ https://www.instagram.com/jetsammtl/\n+ notre merch et un tirage avec plus
+ ieurs prix à gagner ! 🏆\n🗓 11 juillet – 🕗 20h – 📍 Turbo H
+ aüs\n🎟️ Billets\nEarly bird (jusqu'au 19 juin) : 20$\nRégulier : 25
+ $ ou 30$\nAchète ton billet ici → https://www.zeffy.com/.../show-benefi
+ ce-pour-spectre-de-rue\nPrépares toi à avoir show le 11 juillet ! 🥵\n
+ &nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11004970512
 END:VEVENT
 END:VCALENDAR
