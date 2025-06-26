@@ -69,14 +69,13 @@ async function main() {
 
     calendar.createEvent({
       id: `resmtl-${i}`,
-      start: start.toJSDate(),
-      end: end.toJSDate(),
+      start, // pass Luxon object directly
+      end,
       summary: title,
       description: finalDescription,
       location: locationLine,
       url: urlLine,
       timezone: "America/Toronto",
-      floating: false,
     });
   }
 
