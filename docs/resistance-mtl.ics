@@ -8,814 +8,9 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250611T173000
-DTEND;TZID=America/Toronto:20250611T193000
-SUMMARY:Mural Unveiling
-LOCATION:Ruelle verte entre Hutchison &amp\; Durocher
-DESCRIPTION:2025-06-11 17:30:00\n\nRuelle verte entre Hutchison &amp\; Dur
- ocher
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250611T180000
-DTEND;TZID=America/Toronto:20250611T200000
-SUMMARY:Déborder Bolloré : lancement-discussion | extrême-droitisation 
- des médias et du monde de l'édition
-LOCATION:6758 St-Laurent
-DESCRIPTION:2025-06-11 18:00:00\n\n6758 St-Laurent\n\nhttps://www.openstre
- etmap.org/node/12034441028\n\nJoignez-vous à nous pour le lancement de l'
- ouvrage Déborder Bolloré\, une collaboration exceptionnelle entre trois 
- éditeurs québécois et 125 éditeurs français pour contrer les empires 
- médiatiques et les idées d’extrême-droite qu’ils propagent.\nLa dis
- cussion portera sur la concentration et l’extrême-droitisation des méd
- ias et du monde de l’édition. Elle réunira l’essayiste Philippe de G
- rosbois\, la rédactrice en chef (Pivot) Claire Ross\, la journaliste Gabr
- ielle Brassard-Lecours\, ainsi que l’éditeur Claude Rioux.\n___________
- ____________________________________\nL’empire du milliardaire Vincent B
- olloré est devenu en quelques années un levier majeur de la conquête du
-  pouvoir par l’extrême-droite en France. Au-delà du déluge xénophobe
- \, la «bollosphère» fait chaque jour la promotion de discours sexistes 
- et homophobes légitimant les violences contre les femmes et les personnes
-  LGBTQIA2S+\, en plus de promouvoir l’avènement d’une société inég
- alitaire.\nAu Québec\, l’empire de Pierre-Karl Péladeau peut faire pen
- ser à celui de Bolloré. Entretenant une panoplie de chroniqueurs aussi x
- énophobes que transphobes – dont un faisant la navette entre ses platef
- ormes et celles de Bolloré (CNews) –\, PKP possède les chaînes LCN et
-  TVA et\, via Québecor\, des journaux\, magazines et hebdomadaires parmi 
- les plus lus de la province\, en plus du «premier groupe d’édition\, d
- e diffusion et de distribution de langue française au Québec et au Canad
- a»\, le Groupe Livres Québecor Média inc.\nCe recueil\, édité collect
- ivement par des éditeurices indépendant·es\, alimente la réflexion gé
- nérale sur la nécessité de s’opposer à l’empire Bolloré et par ex
- tension aux empires médiatiques. Chercheureuses\, imprimeureuses\, édite
- urices et libraires y analysent ainsi les dynamiques de concentration et d
- ’extrême-droitisation du marché. Chacun·e tente de formuler\, depuis 
- sa position respective\, des réponses à cette question urgente: comment 
- faire face au libéralisme autoritaire dans le monde du livre?\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/12034441028
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T130000
-DTEND;TZID=America/Toronto:20250612T150000
-SUMMARY:Marche guidée: Luttes pour le logement dans Hochelaga-Maisonneuve
-  (inscription)
-LOCATION:3250 Rue Sainte-Catherine E\, Montréal\, QC H1W 2C6
-DESCRIPTION:2025-06-12 13:00:00\n\n3250 Rue Sainte-Catherine E\, Montréal
- \, QC H1W 2C6\n\nPlongez dans l’histoire des luttes pour le droit au log
- ement dans Hochelaga-Maisonneuve lors d’une marche guidée animée par l
- ’Atelier d’histoire de Mercier-Hochelaga-Maisonneuve\, en collaboratio
- n avec la démarche de Revitalisation urbaine intégrée (RUI) et le proje
- t Un toit pour tous·tes de la Table de quartier Hochelaga-Maisonneuve.\n
- À travers le quartier\, découvrez les lieux marquants\, les mobilisation
- s citoyennes et les victoires collectives qui ont façonné le paysage du 
- logement social. Un moment pour se rappeler\, apprendre et s’inspirer en
- semble.\n&nbsp\;Et pour clore la marche en beauté : une crème glacée gr
- atuite vous sera offerte par La Table!\n**Inscription obligatoire — plac
- es limitées**&nbsp\;https://forms.office.com/r/8AM1ktqD6F\nEn cas de mauv
- ais temps\, l’événement sera reporté.\nLes détails:\n&nbsp\;**Jeudi 
- 12 juin 2025 à 13h00**\n&nbsp\;Durée : 1h30\n&nbsp\;Point de départ: Sq
- uare Dézéry (3250 Rue Sainte-Catherine E\, Montréal\, QC H1W 2C6)
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T150000
-DTEND;TZID=America/Toronto:20250612T170000
-SUMMARY:Action contre la hausse de la STM
-LOCATION:(métro lionel-groulx)
-DESCRIPTION:2025-06-12 15:00:00\n\n(métro lionel-groulx)\n\nhttps://www.o
- penstreetmap.org/node/7164242333\n\nDétails à venir
-URL;VALUE=URI:https://www.openstreetmap.org/node/7164242333
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-4
-UID:resmtl-4
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T173000
-DTEND;TZID=America/Toronto:20250612T193000
-SUMMARY:IWW : BBQ pour les travailleuse-eurs du communautaire
-LOCATION:(métro Joliette)
-DESCRIPTION:2025-06-12 17:30:00\n\n(métro Joliette)\n\nhttps://www.openst
- reetmap.org/way/86553560\n\nJeudi le 12 juin\, à partir de 17h30\, nous i
- nvitons nos camarades qui travaillent dans le communautaire (sauf les boss
- \, of course) à se joindre à nous pour un BBQ avec pétanque\, bouffe\, 
- musique\, drop de bannière\, etc.!\nCe sera l’occasion de fêter\, de j
- aser entre nous\, de vous présenter un bilan de notre assemblée sur le b
- urnout et de donner la parole à des camarades qui luttent pour leurs cond
- itions de travail!\nOn se voit au parc Hochelaga\, au coin des rues Davids
- on et Lafontaine\, (s’il pleut\, on se voit au 3340 rue Ontario Est).\nL
- e Comité des travailleur-euses du communautaire du SITT-IWW\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/86553560
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-5
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T180000
-DTEND;TZID=America/Toronto:20250612T200000
-SUMMARY:Olivia Tapiero et Charlie Khalil Prince : mise-en-musique du livre
-  "un carré de poussière"
-LOCATION:6758 St-Laurent (métro de Castelnau)
-DESCRIPTION:2025-06-12 18:00:00\n\n6758 St-Laurent (métro de Castelnau)\n
- \nhttps://www.openstreetmap.org/node/12034441027\n\nLe duo mettra de la mu
- sique sur Un carré de poussière\, une enquête poétique sur les liens e
- ntre violence sexuelle et histoire de la raison.\nOlivia Tapiero est écri
- vaine\, traductrice\, musicienne et performeuse. Elle est l’autrice de p
- lusieurs textes publiés. Un carré de poussière est son cinquième livre
- .\nCharlie Khalil Prince est un artiste de danse et de performance libanai
- s dont les intérêts sont enracinés dans l’intersection du corps polit
- ique et du corps poétique.\nOlivia et Charlie n'en sont pas à leur premi
- ère collaboration. Iels ont présenté ensemble l'installation-concert-pi
- èce "Concerto" dans le cadre du Festival TransAmériques 2025.\nC'est ouv
- ert à toustes\, et c'est gratuit.\nhttps://ruedorion.ca/un-carre-de-pouss
- iere/\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/12034441027
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-6
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T183000
-DTEND;TZID=America/Toronto:20250612T203000
-SUMMARY:Lancement et causerie : "Wages for Housework"
-LOCATION:1376 Ontario Est (métro Papineau)
-DESCRIPTION:2025-06-12 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
- ttps://www.openstreetmap.org/way/115814240\n\nLes éditions du remue-ména
- ge et la Livrerie vous invitent au lancement d’une toute nouvelle anthol
- ogie de textes fondateurs du mouvement Wages for Housework et de la campag
- ne du salaire au travail ménager. Le lancement sera accompagné d’une c
- auserie avec l’autrice et chercheuse Louise Toupin\, ainsi que l’histo
- rienne Camille Robert.\n—\nWAGES FOR HOUSEWORK\nSi certains écrits de S
- elma James\, de Mariarosa Dalla Costa et de Silvia Federici – instigatri
- ces de la campagne Wages for Housework – ont été traduits en français
- \, aucune anthologie réunissant les textes clés de cette « Internationa
- le des femmes » n’avait jusqu’ici été publiée. C’est ce que prop
- ose l’autrice et chercheuse Louise Toupin\, après avoir contribué à s
- auver de l’oubli cette pensée féministe révolutionnaire. Les textes d
- e ces penseuses de premier plan\, dont certains sont inédits en français
- \, témoignent de l’originalité et de la force politique du courant de 
- la reproduction sociale. Avant l’heure\, ce mouvement proposait une gril
- le d’analyse à l’intersection des questions de genre\, de sexe\, de r
- ace et de classe.\n—\nLOUISE TOUPIN est enseignante retraitée\, cherche
- use indépendante et docteure en science politique. Elle a été membre du
-  Front de libération des femmes du Québec (1969-1971) et cofondatrice de
- s Éditions du remue-ménage. Elle est notamment l’autrice de 𝐿𝑒 
- 𝑠𝑎𝑙𝑎𝑖𝑟𝑒 𝑎𝑢 𝑡𝑟𝑎𝑣𝑎𝑖𝑙 𝑚
- 𝑒́𝑛𝑎𝑔𝑒𝑟. 𝐶ℎ𝑟𝑜𝑛𝑖𝑞𝑢𝑒 𝑑’
- 𝑢𝑛𝑒 𝑙𝑢𝑡𝑡𝑒 𝑓𝑒́𝑚𝑖𝑛𝑖𝑠𝑡𝑒 
- 𝑖𝑛𝑡𝑒𝑟𝑛𝑎𝑡𝑖𝑜𝑛𝑎𝑙𝑒\, 1972-1977 (Remu
- e-ménage\, 2014)\, traduit en anglais\, en espagnol\, en allemand\, en it
- alien et est en cours de traduction en coréen.\n&nbsp\;\n—\nCAMILLE ROB
- ERT est historienne\, chercheuse postdoctorale à l'Université Concordia 
- et chargée de cours à l’Université du Québec. Ses recherches portent
-  sur l'histoire des femmes\, du travail\, de l'État\, des services public
- s\, du syndicalisme et des mouvements féministes au Québec.Elle a codiri
- gé avec Louise Toupin\, l'ouvrage collectif 𝑇𝑟𝑎𝑣𝑎𝑖𝑙 
- 𝑖𝑛𝑣𝑖𝑠𝑖𝑏𝑙𝑒. 𝑃𝑜𝑟𝑡𝑟𝑎𝑖𝑡𝑠
-  𝑑’𝑢𝑛𝑒 𝑙𝑢𝑡𝑡𝑒 𝑓𝑒́𝑚𝑖𝑛𝑖𝑠
- 𝑡𝑒 𝑖𝑛𝑎𝑐ℎ𝑒𝑣𝑒́𝑒 (Remue-ménage\, 2018).\n&n
- bsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-7
-UID:resmtl-7
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250612T190000
-DTEND;TZID=America/Toronto:20250612T210000
-SUMMARY:Projection du film "Ninan Auassat: Nous les enfants" en présence 
- de Kim O'Bomsawin
-LOCATION:1500 rue Balmoral (métro Place-des-Arts)
-DESCRIPTION:2025-06-12 19:00:00\n\n1500 rue Balmoral (métro Place-des-Art
- s)\n\nhttps://www.openstreetmap.org/node/8025526254\n\nPlus qu’un docume
- ntaire captivant\, il s’agit d’un appel à l’action\, à l’heure o
- ù la jeunesse autochtone réclame le droit à la reconnaissance et à l
- ’épanouissement.\nLe 12 Juin à Salle Alanis-Obomsawin de l'ONF\, 1500 
- rue Balmoral\, H3A 0H3\nLes portes ouvrent à 18h30\, début de la représ
- entation 19h\nCette présentation est une collaboration CCMM-CSN avec l'ON
- F dans le cadre de Salut Ciné\, projections publiques gratuites à l'ONF 
- : https://evenements.onf.ca/.../salut-cine-projections.../\nKim O'Bomsawin
- \, la réalisatrice\, sera présente lors de la séance et il y aura une p
- ériode d'échange immédiatement après le film.\nC'est gratuit\, mais il
-  faut réserver son billet! Les places sont limitées.\nPour réserver son
-  billet: https://www.eventbrite.ca/.../salut-cine-ninan-auassat...\nPlus d
- 'info sur le film: https://espacemedia.onf.ca/epk/ninan_auassat/\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/8025526254
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-8
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250613T170000
-DTEND;TZID=America/Toronto:20250613T190000
-SUMMARY:Lancement de "La Cantine"\, nouvel outil de prévention carcéral 
- de l'AQPSUD
-LOCATION:1710 Rue Beaudry (métro Beaudry)
-DESCRIPTION:2025-06-13 17:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
- tps://www.openstreetmap.org/way/181295868\n\nL’Association québécoise 
- pour la promotion de la santé des personnes utilisatrices de drogues (AQP
- SUD) publie un nouvel outil de prévention destiné aux établissements ca
- rcéraux. La cantine (recettes carcérales par et pour les personnes incar
- cérées)\, et vous êtes invité·e·s à son lancement le 13 juin de 5 
- à 7 (pm) au Comité Social Centre-Sud (1710 Beaudry\, à Montréal).\nIl 
- s'agit d'une brochure de recettes à cuisiner en prison\, qui rappelle l'i
- mportance de bien manger et réitère quelques conseils de santé. Plus qu
- 'une brochure de recettes\, La cantine est un outil de réduction des méf
- aits.\nL'AQPSUD y partage des recettes\, accompagnées de dessins et de sl
- ogans de prévention\, reçues de détenu·e·s ou d'ancien·ne·s détenu
- ·e·s\, qui se font avec les produits disponibles à la cantine. Des rece
- ttes\, tantôt originales\, tantôt classiques du milieu carcéral\, qui s
- e font avec les produits disponibles à la cantine.\n13 juin 2025 de 5 à 
- 7h (pm) au 1710 Beaudry (à Montréal)\nDes organismes communautaires et g
- roupes militants seront de la partie. De la bouffe carcérale sera égalem
- ent servie.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-9
-UID:resmtl-9
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T120000
-DTEND;TZID=America/Toronto:20250614T140000
-SUMMARY:Bouffe contre le fascisme
-LOCATION:Verdun (métro de l&#039\;Église)
-DESCRIPTION:2025-06-14 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
- ttps://www.openstreetmap.org/node/2925377065\n\nOn est un groupe qui s’o
- rganise à offrir du monde des repas gratuits\, des ateliers et de la musi
- que\, tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits
-  les samedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Égli
- se).
-URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-10
-UID:resmtl-10
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T130000
-DTEND;TZID=America/Toronto:20250614T150000
-SUMMARY:Vigil for Palestine
-LOCATION:(métro Mont-Royal)
-DESCRIPTION:2025-06-14 13:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
- streetmap.org/node/1456304180\n\nJune 14 @ 13 h 00 min - 15 h 00 min\nPAJU
-  VIGIL PALESTINE: SATURDAY June 14\, Mont-Royal avenue reserved for pedest
- rians\nMÉTRO MONT-ROYAL 470 Mont-Royal Ave E\, Montréal\, Québec\, Cana
- da\nPAJU VIGIL PALESTINE: SATURDAY June 14\, Mont-Royal avenue reserved fo
- r pedestrians &nbsp\; SATURDAY June 14&nbsp\;from 1 pm to 3 pm&nbsp\;on Mo
- nt-Royal avenue&nbsp\;reserved for pedestrians in front of the metro Mont-
- Royal\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/1456304180
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-11
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T140000
-DTEND;TZID=America/Toronto:20250614T160000
-SUMMARY:Fresque de la Renaissance
-LOCATION:(métro Viau)
-DESCRIPTION:2025-06-14 14:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
- map.org/node/10553861140\n\nVous êtes intéressé.e.s à imaginer la soci
- été de demain\, ce qu’elle pourrait réellement être ? Vous êtes int
- éressé.e.s par une activité champêtre au cœur de Montréal ?\nNous vo
- us convions à la Fresque de la renaissance écologique\, un atelier parti
- cipatif autour d’une fresque à colorier et de chantiers à discuter.\nF
- aisant appel à l’intelligence collective\, l’atelier\, d’une durée
-  d’environ 2h30\, se tiendra au cœur de la Friche\, tout près des Jard
- ins vagues\, le samedi 14 juin à 14h. Reporté au 21 juin en cas de pluie
- .\nPour s'inscrire\, c'est ici.:https://docs.google.com/.../1FAIpQLSdMxD3Q
- 5DM.../viewform...\nApporter une bouteille d’eau\, un chapeau\, de la cr
- ème solaire et des amis!\nPour se rendre sur le site\, deux entrées sont
-  possibles\, soit par la rue Adam ou par la rue Ontario.\nPourquoi la Fric
- he ? Cet espace vert est parcouru\, depuis plusieurs années\, par une fau
- ne et une flore qui ne cessent de se développer. Il est aimé et fréquen
- té par les résidents d’Hochelaga. Il est menacé par des intérêts pr
- ivés qui se fichent du bien-être collectif. C’est un lieu hautement sy
- mbolique pour réfléchir à notre devenir.\nMères au front - Montréal s
- outient la Mobilisation 6600 et toutes les familles et résidents de Merci
- er - Hochelaga - Maisonneuve qui se mobilisent pour la défense de leurs d
- erniers espaces verts. D’autres activités estivales sont à venir.\n&nb
- sp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/10553861140
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-12
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T170000
-DTEND;TZID=America/Toronto:20250614T190000
-SUMMARY:Last Generation - Community Event
-LOCATION:3819 Av. Calixa-Lavallée (métro Sherbrooke)
-DESCRIPTION:2025-06-14 17:00:00\n\n3819 Av. Calixa-Lavallée (métro Sherb
- rooke)\n\nhttps://www.openstreetmap.org/way/311018515\n\nJoin us for a Com
- munity BBQ and NVDA training and enjoy free vegan food\, community\, and a
-  space to learn how to get mobilized with Last Generation Canada.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/311018515
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-13
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T200000
-DTEND;TZID=America/Toronto:20250614T220000
-SUMMARY:Battle set fundraiser for Palestine 15$
-LOCATION:1900 Le Ber (métro Charlevoix)
-DESCRIPTION:2025-06-14 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
- s://www.openstreetmap.org/node/6074430797\n\n8 bands\, 4 sets\, song for s
- ong\nCystic Embalment vs. Ratpiss\nNausiate vs. FUCHSache\nTypeface vs. Du
- plah Pooch Hanichan Gasoline\n2pwels vs. xxUNxxSUCKEDxx\nDoors 8:00\nShow 
- 8:30\nno punk time\nno assholes\nall proceeds to be donated to the PCRF (P
- alestine Children's Relief Fund)\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-14
-UID:resmtl-14
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250614T200000
-DTEND;TZID=America/Toronto:20250614T220000
-SUMMARY:Daddy's Issues Comedy Show 15$
-LOCATION:3714 du Parc (métro Place-des-Arts)
-DESCRIPTION:2025-06-14 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
- nhttps://www.openstreetmap.org/node/11729165947\n\nGay on Father’s Day?\
- nCome cry-laugh at Daddy’s Issues — your new favourite Father’s Day 
- tradition!\nProduced by Bulge\, this trans-centred show features stand-up\
- , clown\, sketch comedy\, and drag with a lineup of killer local talent an
- d a special guest all the way from NYC.\nFrom the stages of Zoofest\, Sket
- chfest\, Lady Fest\, and Fringe (to name a few)\, these comics and interdi
- sciplinary performers (ooh la la!) are bringing the daddy drama to Bar Mil
- ton-Parc.\nFeaturing:\nPsyberia @team.psyberia (drag &amp\; jokes)\nSadie 
- @sadiemoland (stand up)\nBombalurina @lumi_squared/@lumi.inkclay (clown)\n
- Blair @blairly.there (stand up)\nShe/they @shetheyshow (sketch comedy)\nAs
- h @ashzdavis (stand up)\nHosted by Nat @bulgecomedy\nAt everyone’s favou
- rite worker-owned business\, Bar Milton-Parc @coopbmp\, serving you drinks
-  and food all night long\nJune 14\, 2025\nDoors at 7 PM\nShow at 8 PM\n$12
-  online\n$15 at the door\nhttps://www.zeffy.com/ticketing/daddys-issues\n&
- nbsp\;\nBulge is a show featuring comedy from across the genderverse. Cisg
- enders beware!\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-15
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250616T180000
-DTEND;TZID=America/Toronto:20250616T200000
-SUMMARY:Anarchist Bookclub
-LOCATION:3720 avenue du Parc
-DESCRIPTION:2025-06-16 18:00:00\n\n3720 avenue du Parc\n\nhttps://www.open
- streetmap.org/node/11972918877\n\nLooking to challenge the status quo ? Cu
- rious about the roots of anarchist thought and the revolutionary ideas tha
- t continue to inspire movements arounds the world ? Join us for a radical 
- reading group where we'll explore anarchism's past\, present and future to
- gether.\nTentative reading list includes :\nMutual Aid by Peter Kropotkin\
- nEthics by Peter Kropotkin\nOn Anarchy by Mikhail Bakunin\nFreedom or Deat
- h by Felipe Correa
-URL;VALUE=URI:https://www.openstreetmap.org/node/11972918877
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-16
-UID:resmtl-16
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T120000
-DTEND;TZID=America/Toronto:20250617T140000
-SUMMARY:Pique-nique contre le profilage
-LOCATION:2\, rue des Jardins
-DESCRIPTION:2025-06-17 12:00:00\n\n2\, rue des Jardins\n\nhttps://www.open
- streetmap.org/way/392464714\n\nC'est jour de conseil municipal !\nOn vous 
- invite à un pique-nique pour mettre de la pression pour accélérer la 
- “réflexion” du maire\, pour continuer de dénoncer les pratiques de p
- rofilage du SPVQ et aussi pour encourager les autres partis politiques qui
-  briguent la mairie à se prononcer contre ces discriminations.\nmise en c
- ontexte:\nEn prévision des élections municipales d’octobre 2025\, la C
- oalition mène une campagne “ Pour le droit à l’espace public sans di
- scrimination ” afin de dénoncer la répression policière et les pratiq
- ues de profilage social\, politique et racial du SPVQ ainsi que le port de
-  la Thin blue line.\nSur le profilage racial: Les chiffres fournis par le 
- SPVQ démontre que les personnes latinos et arabes se font interpeller deu
- x fois plus que les personnes blanches.\nSur le profilage politique: Le SP
- VQ continue de réprimer les manifestations sous de faux prétexte et met 
- à mal le droit de manifester et d’expression. Certains groupes se font 
- contrôler plus que d’autres.\nSur le profilage social: Dans le rapport 
- sur la judiciarisation de l’itinérance à Québec datant de janvier der
- nier\, on constate une hausse de constats d’infractions remises aux pers
- onnes sans-abris. Dernièrement\, on nous a également rapporté des cas d
- e profilage social ciblant les personnes trans.\nLa Coalition s’est expr
- imée de plusieurs façons sur ces enjeux et le maire Marchand refuse d’
- intervenir et de condamner les pratiques discriminatoires du SPVQ. Concern
- ant le port de l’écusson TBL\, il nous a dit qu’il devait y réfléch
- ir…\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/392464714
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-17
-UID:resmtl-17
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T170000
-DTEND;TZID=America/Toronto:20250617T190000
-SUMMARY:Causerie sur le livre "Industrial Roots"
-LOCATION:1426 Beaudry (métro Beaudry)
-DESCRIPTION:2025-06-17 17:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
- //www.openstreetmap.org/node/4852683788\n\n&nbsp\;\n17 juin\n5 à 7\n1426 
- rue Beaudry\nle 17 juin rejoinez-nous pour une belle causerie 5à7 autour 
- de Industrial Roots de Lisa Pike\, avec Lisa Pike et Alycia Dufour. Les au
- trices vont parler de la vie des femmes en ontario rural et ouvrier dans u
- ne ambiance décontractée et décomplexée!\nBienvenue à toustes\n&nbsp\
- ;
-URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-18
-UID:resmtl-18
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T180000
-DTEND;TZID=America/Toronto:20250617T200000
-SUMMARY:BBQ végétarien de Rage Climatique
-LOCATION:2035 St-Laurent\, 2e étage (métro St-Laurent)
-DESCRIPTION:2025-06-17 18:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
- Laurent)\n\nhttps://www.openstreetmap.org/way/243082943\n\nBBQ VÉGÉTARIE
- N DE RAGE CLIMATIQUE &amp\; COLLECTE DE FONDS POUR L'ALLIANCE MAMO\nOù?:&
- nbsp\;\nAux Révoltes (2035 Saint-Laurent 2ème étage!)\nQuand:&nbsp\;\nM
- ardi 17 juin 2025 - 6:00pm\nLe gouvernement Legault n'en rate pas une lors
- qu'il est temps de saccager la nature au profit de ses amis de l'industrie
- ! La réforme du plan forestier présentement discutée autour du projet d
- e loi 97 consiste à accroître encore davantage le contrôle des entrepri
- ses forestière sur le Nord du soi-disant Québec. Les communautés autoch
- tones affectées n'entendent pas à rire: à l’issue d’une assemblée 
- tenue à La Tuque le 11 avril 2025\, les Gardien·nes du Nehirowisiw Aski 
- (territoire des Nehirowisiw) et du Nitassinan (territoire des Innuat) ains
- i du Ndakina (territoire des Abénakis) ont créé l’Alliance Mamo afin 
- d’unir les premières nations dans l’excercice de leurs souveraineté 
- et de lutter contre la surexploitation de leurs terres. Un blocage est pr
- ésentement en cours à Manawan pour empêcher la machinerie d'entrer sur 
- les sites de coupe.&nbsp\;\nVenez en grand nombre!!! Nous collecterons des
-  fonds pour les envoyer à l'alliance MAMO!!! Nous acceptons seulement l'a
- rgent comptant.\n&nbsp\;\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-19
-UID:resmtl-19
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250617T183000
-DTEND;TZID=America/Toronto:20250617T203000
-SUMMARY:En souvenir de Martin Richard
-LOCATION:(métro Jean-Talon)
-DESCRIPTION:2025-06-17 18:30:00\n\n(métro Jean-Talon)\n\nhttps://www.open
- streetmap.org/node/2295839157\n\nNotre camarade Martin Richard nous a quit
- té le 16 mai dernier\, après des mois à combattre ce qu’il appelait 
- « la bibitte ».\nPermanent au MAC de Montréal depuis 1991\, Martin aura
-  marqué l’histoire de notre organisme par sa capacité sans cesse renou
- velée à s’indigner contre les injustices du régime d’assurance-chô
- mage\, qu’il qualifiait de « hachoir à viande ». Durant 34 années\, 
- il aura tenu le fort\, informé et défendu des milliers de sans-emploi\, 
- donné un nombre incalculable de séances d’information et pris la plume
-  pour dénoncer et alerter. Au-delà de son expertise en assurance-chômag
- e\, le MAC de Montréal dit au revoir à un grand iconoclaste qui n’aura
- \, par son humour\, ses coups de gueule et sa générosité\, laissé pers
- onne indifférent.\nNous invitons membres\, ancien·nes collègues\, bén
- évoles et membres du conseil d’administration à un moment de commémor
- ation directement après notre assemblée générale annuelle le 17 juin. 
- Le MAC s’occupe de la nourriture et des boissons. Celles et ceux qui dé
- sirent prendre la parole pour partager leurs souvenirs avec Martin seront 
- les bienvenues.\n&nbsp\;\nQuand : 17 juin 2025 à partir de 18h30\nOù : S
- alle Desjardins du Centre social et communautaire de la Petite-Patrie\nL
- ’équipe du MAC\nCet événement ne remplace pas les funérailles organi
- sées par la famille et les ami·es de Martin qui auront lieu le 7 juin. S
- i vous voulez plus de détails\, contactez-nous.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/2295839157
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-20
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250619T160000
-DTEND;TZID=America/Toronto:20250619T180000
-SUMMARY:Finançons l'accessibilité universelle du métro ! Mobilisation d
- u grand Sud-ouest
-LOCATION:(coin Wellington/Galt)
-DESCRIPTION:2025-06-19 16:00:00\n\n(coin Wellington/Galt)\n\nhttps://www.o
- penstreetmap.org/node/11045538596\n\nPour des ascenseurs à la station De 
- L'Église !\nPour l'accessibilité universelle du transport collectif !\nP
- our le financement des transports du Grand Sud-Ouest !\n------------------
- ------------\nNous demandons que le gouvernement du Québec dégèle le pr
- ogramme existant et accélère les travaux de construction d’ascenseurs 
- à la station de métro De L’Église\, déjà priorisée par la STM et s
- ituée au cœur de nos quartiers.\nL’action se veut une contribution du 
- Grand Sud-Ouest à la mobilisation plus large pour le refinancement du tra
- nsport collectif\, dans une perspective de justice sociale et environnemen
- tale.\nCette mobilisation est la suite directe aux différentes démarches
-  citoyennes et communautaires menées depuis l’été 2024 sur le dossier
-  de la refonte des réseaux de bus dans le Grand Sud-Ouest\, qui a permis 
- de mettre encore plus en lumière le besoin d’ascenseurs dans notre rés
- eau de métro.\n------------------------------\nPLUS DE DÉTAILS À VENIR 
- - MORE DETAILS TO COME\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/11045538596
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-21
-UID:resmtl-21
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250619T180000
-DTEND;TZID=America/Toronto:20250619T200000
-SUMMARY:Causerie sur le livre "Sirop de poteau"
-LOCATION:1376 Ontario Est (métro Papineau)
-DESCRIPTION:2025-06-19 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
- ttps://www.openstreetmap.org/way/115814240\n\nLB Éditeur et la Livrerie v
- ous invitent à une causerie autour du roman Sirop de poteau de Francis Ou
- ellette avec la participation de Sandrine Héroux de l’écomusée du fie
- r monde.\n—\nSIROP DE POTEAU\nDehors\, la lune commence à se pointer le
- s rondeurs. Frigo plisse ses yeux enflés pour mieux la détailler. Pendan
- t une fraction de seconde\, il a l'impression que le ciel est une carte de
-  bingo. Il jurerait que l'astre de la nuit est une pitoune qui s'est dépl
- acée d'elle-même pour aller se parquer quelques instants sur le carré d
- es gagnants.\nDécembre 1976\, quelques jours avant Noël. Frigo est à l'
- hôpital. Il s'est fait arranger le portrait par Marco le macro\, le prox
- énète de Chantale Choquette\, sa dulcinée. Des pans de sa vie lui revie
- nnent en mémoire : enfance\, errances\, désirs\, déboires\, grandes joi
- es et petites morts. Dans une autre chambre\, le narrateur est en train de
-  venir au monde.\nAprès avoir suivi les destins croisés des personnages 
- de Mélasse de fantaisie\, Francis Ouellette se penche sur le chevet de Fr
- igo\, robineux lumineux\, pour assembler les éclats de vie qui ont fait d
- e ce ­héros doux et taiseux une légende du Centre-Sud.\n—\nFrancis Ou
- ellette vient du Faubourg à m’lasse de Montréal. Il y a vécu plusieur
- s vies avant d’atteindre 45 ans\, en toute improbabilité. Il a essayé 
- très fort de ne pas être auteur. Il a donc été loadeur de trucks\, clo
- wn\, père Noël de centre commercial\, commis de club vidéo\, agent de s
- écurité\, éducateur en garderie\, scénariste frustré de bande dessin
- ée\, poète raté\, critique de cinéma mort à l’arrivée\, pour final
- ement s’occuper (plutôt bien) de distribution de films avec la compagni
- e FunFilm. Il est aussi propriétaire d’un C-PTSD à temps plein. Il a r
- emporté à deux reprises le prix de la création Radio-Canada dans la cat
- égorie Récit\, ce qui lui a donné le coup de pied au cul nécessaire po
- ur écrire son premier roman.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-22
-UID:resmtl-22
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T000100
-DTEND;TZID=America/Toronto:20250621T020100
-SUMMARY:Journée des peuples autochtones
-LOCATION:(détails à venir)
-DESCRIPTION:2025-06-21 00:01:00\n\n(détails à venir)\n\nDétails à veni
- r
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-23
-UID:resmtl-23
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T120000
-DTEND;TZID=America/Toronto:20250621T140000
-SUMMARY:Bouffe contre le fascisme
-LOCATION:Verdun (métro de l&#039\;Église)
-DESCRIPTION:2025-06-21 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
- ttps://www.openstreetmap.org/node/2925377065\n\nOn est un groupe qui s’o
- rganise à offrir du monde des repas gratuits\, des ateliers et de la musi
- que\, tout au nom de résister l’extrême droite&nbsp\;!\nRepas gratuits
-  les samedis à midi\, coin Galt et Wellington\, Verdun (Métro de l'Égli
- se).
-URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-24
-UID:resmtl-24
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T170000
-DTEND;TZID=America/Toronto:20250621T190000
-SUMMARY:Last Generation - Community Event
-LOCATION:3819 Av. Calixa-Lavallée (métro Sherbrooke)
-DESCRIPTION:2025-06-21 17:00:00\n\n3819 Av. Calixa-Lavallée (métro Sherb
- rooke)\n\nhttps://www.openstreetmap.org/way/311018515\n\nJoin us for a Com
- munity BBQ and NVDA training and enjoy free vegan food\, community\, and a
-  space to learn how to get mobilized with Last Generation Canada.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/311018515
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-25
-UID:resmtl-25
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T190000
-DTEND;TZID=America/Toronto:20250621T210000
-SUMMARY:No One Is Illegal: 20 years since the great march on Ottawa
-LOCATION:2515 Rue Delisle (métro lionel-groulx)
-DESCRIPTION:2025-06-21 19:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
- \n\nhttps://www.openstreetmap.org/way/347696464\n\n20 ans de lutte depuis 
- la grande marche sur Ottawa - Personne n’est illégal!\nPrésentation vi
- déo et discussion sur cette grande marche\, son organisation et ses victo
- ires.\nPanel avec Harsha Walia(en ligne)\, Samira Jasmin (porte parole de 
- ssf) et d'autres et discussion ouverte au public.\nThèmes:\n→ Réflexio
- n sur l’évolution du contexte politique des 20 dernières années.\n→
-  Comment continuer à lutter pour la justice migrante aujourd’hui.\n→Q
- uelles actions poser pour la régularisation de tous et toutes? Comment co
- mbattre le racisme et la xénophobie grandissante au Canada?\n● Collatio
- ns\n● Gardiennage pour les enfants\n#####################\n20 años de l
- ucha desde la gran marcha a Ottawa - nadie es ilegal!\nPresentación video
-  y charla sobre la gran marcha\, su organización y sus logros.\nPanel con
-  Harsha Walia (por zoom)\, Samira jasmin (vocera de ssf)\, y otros y conve
- rsación abierta al público.\nTemas:\n→ Reflexión sobre la evolución 
- del contexto político de los últimos 20 años.\n→ ¿ Cómo continuar l
- a lucha para la justicia migratoria?\n→ ¿Qué medidas tomar para garant
- izar la regularización de todas y todos? ¿ Cómo combatir el racismo y l
- a xenofobia crecientes en Canadá?\n● tentempié\n● cuidado de niños\
- n##################\n20 years of fight since the great march on Ottawa - N
- o one is illegal!\n&nbsp\;\nVideo presentation and discussion on this grea
- t march\, its organization and its victories.\nPanel with Harsha Walia(onl
- ine)\, Samira Jasmin (sab spokesperson) and others and discussion open to 
- the public.\nTopics:\n→ Reflection on the changing political context of 
- the last 20 years.\n→ How to continue fighting for migrant justice today
- .\n→What actions can we take to ensure regularization for all? How can w
- e combat racism and growing xenophobia in Canada?\n● Snacks\n● Child c
- are available\n&nbsp\;\n&nbsp\;\n&nbsp\;\n&nbsp\;\nfor insta\n&nbsp\;\nEn 
- español abajo\; In English below.\n20 ans de lutte depuis la grande march
- e sur Ottawa - Personne n’est illégal!\nLe Samedi 21 Juin à 19h\nau CE
- DA 2515 Rue Delisle\, Montréal\, QC H3J 1K8\nAu programme:\nPrésentation
-  vidéo et discussion sur cette grande marche\, son organisation et ses vi
- ctoires.\nPanel avec Harsha Walia(en ligne)\, Samira Jasmin (porte parole 
- de SSF) et d'autres invité-e-s\, et discussion ouverte au public.\nThème
- s:\n→ Réflexion sur l’évolution du contexte politique des 20 derniè
- res années.\n→ Comment continuer à lutter pour la justice migrante auj
- ourd’hui.\n→Quelles actions poser pour la régularisation de tous et t
- outes? Comment combattre le racisme et la xénophobie grandissante au Cana
- da?\nCollations\ngardiennage pour les enfants\n--------------------\n20 a
- ños de lucha desde la gran marcha a Ottawa - nadie es ilegal!\nEl 21 de j
- unio a las 7 pm\nen CEDA 2515 Rue Delisle\, Montréal\, QC H3J 1K8\nProgra
- mación:\nPresentación video y charla sobre la gran marcha\, su organizac
- ión y sus logros\nPanel con Harsha Walia (por zoom)\, Samira jasmin (voce
- ra de ssf)\, y otros y conversación abierta al público.\nTemas:\n→ Ref
- lexión sobre la evolución del contexto político de los últimos 20 año
- s.\n→ ¿ Cómo continuar la lucha para la justicia migratoria\n→ ¿Qu
- é medidas tomar para garantizar la regularización de todas y todos? ¿ C
- ómo combatir el racismo y la xenofobia crecientes en Canadá?\ntentempié
- \ncuidado de niños\n-----------------\n20 years of fight since the great 
- march on Ottawa - No one is illegal!\nJune 21\, 7pm\nAt CEDA 2515 Delisle 
- street\nOn the program:\nVideo presentation and discussion on this great m
- arch\, its organization and its victories.\nPanel with Harsha Walia(online
- )\, Samira Jasmin (SAB spokesperson) and other invitees\, and discussion o
- pen to the public.\nThemes of discussion:\n→ Reflection on the changing 
- political context of the last 20 years.\n→ How to continue fighting for 
- migrant justice today.\n→What actions can we take to ensure regularizati
- on for all? How can we combat racism and growing xenophobia in Canada?\nSn
- ack &amp\; child care on site\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-26
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250621T200000
-DTEND;TZID=America/Toronto:20250621T220000
-SUMMARY:Party Karaoké - Bénéfice pour Max et Caro
-LOCATION:2035 St-Laurent\, 2e étage (métro St-Laurent)
-DESCRIPTION:2025-06-21 20:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
- Laurent)\n\nhttps://www.openstreetmap.org/way/243082943\n\nDeux camarades\
- , anciennement impliqué-es dans le local bien avant notre arrivée\, ont 
- passé au feu. Une grosse perte\, presque totale. Nous organisons une soir
- ée en leur soutien. Des camarades qui en ont fait énormément pour la co
- mmunauté militante de Montréal ! Nous voulons leur en redonner un petit 
- peu durant cette période très difficile.\n21 juin à 20h aux Révoltes (
- anciennement Le Local)\n2035 boul. St-Laurent (2ème étage)\nD'ici là\, 
- vous pouvez faire un don sur ce GoFundMe.\nhttps://www.gofundme.com/f/caro
- -max-ludo-antoine\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-27
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250622T120000
-DTEND;TZID=America/Toronto:20250622T140000
-SUMMARY:Marche funèbre pour les lieux disparus
-LOCATION:Coin Esplanade/Mont-Royal (métro Mont-Royal)
-DESCRIPTION:2025-06-22 12:00:00\n\nCoin Esplanade/Mont-Royal (métro Mont-
- Royal)\n\nhttps://www.openstreetmap.org/way/1323434978\n\nRVD PARC JEANNE-
- MANCE\nCOIN ESPLANADE ET MONT ROYAL\n12H\nGRATUIT\nMontréal\, ville vibra
- nte dont la réputation musicale résonne partout dans le monde. Pourtant 
- depuis quelques années\, la gentrification a forcé la fermeture de nombr
- eux lieux qui faisaient la vitalité de la scène musicale de la ville. Lo
- in du Quartier des spectacles où devraient se concentrer la vie culturell
- e selon la vision officielle de ville\, ces espaces défunts participaient
-  à offrir un espace d’expression et de création originale et diversifi
- é pour des communautés entières. Pour honorer ces espaces culturels dis
- parus\, le collectif Réverbérations d’une crise vous invite à une mar
- che funèbre où le deuil lié à la perte de ces lieux chers sera amené 
- à se transformer en rage festive pour revendiquer une autre vision de la 
- ville.\nRéverbérations d’une crise: une enquête sonore sur le logemen
- t à Montréal est un collectif initié par des artistes locataires de Mon
- tréal afin de faire entendre des dimensions souvent négligées de la cri
- se du logement.\n-------------------\nMontreal\, a vibrant city whose musi
- cal reputation resonates around the world. Yet in recent years\, gentrific
- ation has forced the closure of many venues that once furled the city’s 
- music scene. Far from the Quartier des spectacles\, where cultural life is
-  officially meant to be concentrated\, these now-defunct spaces provided r
- oom for original and diverse expression and creation for entire communitie
- s.\nTo honor these lost cultural spaces\, the collective Réverbérations 
- d’une crise invites you to a funeral march\, where the mourning of these
-  beloved places will transform into festive rage\, reclaiming a different 
- vision for the city.\nRéverbérations d’une crise: a sound investigatio
- n into housing in Montreal is a collective initiated by tenant artists in 
- Montreal\, aiming to amplify often-overlooked aspects of the housing crisi
- s.\n~~~~~~\nSuoni Per Il Popolo reconnaît que le territoire sur lequel no
- us sommes rassemblé.e.s est le territoire traditionnel et non-cédé du p
- euple Kanien'keha:ka (Mohawk)\, un lieu qui a longtemps constitué un site
-  de rencontre et d'échange entre plusieurs nations.\nSuoni Per Il Popolo 
- would like to acknowledge that the land on which we gather is the traditio
- nal and unceded territory of the kanien'keha:ka (Mohawk)\, a place which h
- as long served as a site of meeting and exchange amongst nations.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/1323434978
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-28
-UID:resmtl-28
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250622T193000
-DTEND;TZID=America/Toronto:20250622T213000
-SUMMARY:10 years of Metonymy Press : A Cabaret 20$
-LOCATION:4873 St-Laurent (métro Laurier)
-DESCRIPTION:2025-06-22 19:30:00\n\n4873 St-Laurent (métro Laurier)\n\nhtt
- ps://www.openstreetmap.org/node/1570292450\n\nhttps://tickets.venuepilot.c
- om/e/135323\nCasa del Popolo\nPortes: 19h30\nSpectacle: 20h\n15/20$\navec 
- Metonymy Press &amp\; CJLO\nJoignez-vous à Metonymy Press pour nos célé
- brations interminables de notre 10e anniversaire !\n17 livres\, des millia
- rds d'événements et une véritable communauté queer\, trans et féminis
- te d'auteur·e·s plus tard\, nous sommes toujours là. Deux chiffres d'é
- dition de livres queers à Tiohtià:ke méritent une soirée cabaret excep
- tionnelle. Des auteur·e·s qui chantent ! Des artistes de spoken word qui
-  dansent ! Des artistes qui mixent ! Et plus encore. Venez faire la fête 
- avec nous : des livres\, des boissons et certain·e·s de vos écrivain·e
- ·s préféré·e·s qui vous offriront un spectacle mémorable.\nÀ propo
- s de Metonymy Press : Depuis 10 ans\, Metonymy Press publie de la littéra
- ture queer\, trans et féministe d'écrivain·e·s émergent·e·s. Nous e
- ssayons de réduire les obstacles à la publication pour les auteur·e·s 
- qui interrogent le statu quo afin de produire des livres étonnants et mul
- tigenres qui recadrent le pouvoir et affirment la vie.\nLe décennie de Me
- tonymy Press sera soulignée en compagnie de H Félix Chau Bradley\, Shani
- ce Nicole\, Kama La Mackerel\, Trish Salah\, Eli Tareq El Bechelany-Lynch\
- , Kai Cheng Thom et jiaqing wilson-yang\, et leurs contributions évocatri
- ces\, marquantes\, perspicaces\, transformatrices et lyriques.\n----------
- -\nJoin Metonymy Press for our neverending 10-year anniversary celebration
- s!\n17 books\, zillions of events\, and a veritable queer\, trans\, and fe
- minist community of authors later\, we're still here. Double-digits of que
- er book publishing in Tiohtià:ke deserves a cabaret showcase. Authors who
-  sing! Spoken-word artists who dance! Artists who DJ! And more. Come party
-  with us: books\, drinks\, and some of your all-time favourite writers put
- ting on a very good show.\nAbout Metonymy Press: For 10 years\, Metonymy P
- ress has been publishing queer\, trans\, and feminist literature by emergi
- ng writers. We try to reduce barriers to publishing for authors who interr
- ogate the status quo to produce stunning\, multi-genre books that reframe 
- power and affirm life.\nThe decade of Metonymy Press will be celebrated in
-  the company of H Félix Chau Bradley\, Shanice Nicole\, Kama La Mackerel\
- , Trish Salah\, Eli Tareq El Bechelany-Lynch\, Kai Cheng Thom\, and jiaqin
- g wilson-yang\, and their evocative\, significant\, insightful\, transform
- ative\, and lyrical contributions.\n-----------\nACCESSIBILITÉ // Casa De
- l Popolo se situe en rez-de-chaussée. Il y a une rampe d'accès à l'entr
- ée du bar et de la salle de concert afin de permettre l'accès aux person
- nes en fauteuils roulants. Les toilettes sont de genre neutre et l'une est
-  accessible aux fauteuils roulants.\nACCESSIBILITY // Casa Del Popolo is l
- ocated on ground level. There are ramps on both the venue and bar front en
- trances for wheelchair accessibility. Washrooms are gender-neutral and one
-  is wheelchair accessible.\n-----------\nSuoni Per Il Popolo reconnaît qu
- e le territoire sur lequel nous sommes rassemblé.e.s est le territoire tr
- aditionnel et non-cédé du peuple Kanien'keha:ka (Mohawk)\, un lieu qui a
-  longtemps constitué un site de rencontre et d'échange entre plusieurs n
- ations.\nSuoni Per Il Popolo would like to acknowledge that the land on wh
- ich we gather is the traditional and unceded territory of the kanien'keha:
- ka (Mohawk)\, a place which has long served as a site of meeting and excha
- nge amongst nations.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/1570292450
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-29
-UID:resmtl-29
-SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250625T190000
-DTEND;TZID=America/Toronto:20250625T210000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250625T230000
+DTEND;TZID=America/Toronto:20250626T010000
 SUMMARY:Lancement de la 16e saison du Cinéma sous les étoiles
 LOCATION:Parc Lafontaine (métro Sherbrooke)
 DESCRIPTION:2025-06-25 19:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
@@ -833,12 +28,11 @@ DESCRIPTION:2025-06-25 19:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
-UID:resmtl-30
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250625T210000
-DTEND;TZID=America/Toronto:20250625T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250626T010000
+DTEND;TZID=America/Toronto:20250626T030000
 SUMMARY:Cinéma sous les étoiles : "The Pickers"
 LOCATION:Parc Lafontaine (métro Sherbrooke)
 DESCRIPTION:2025-06-25 21:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
@@ -848,12 +42,11 @@ DESCRIPTION:2025-06-25 21:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
-UID:resmtl-31
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T170000
-DTEND;TZID=America/Toronto:20250626T190000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250626T210000
+DTEND;TZID=America/Toronto:20250626T230000
 SUMMARY:Lancement des balados du CRACH : Dans la panse de l'ogre - quand l
  a crise du logement dévore les locataires
 LOCATION:(métro Jean-Talon)
@@ -878,11 +71,27 @@ DESCRIPTION:2025-06-26 17:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T180000
-DTEND;TZID=America/Toronto:20250626T200000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250626T210000
+DTEND;TZID=America/Toronto:20250626T230000
+SUMMARY:The story of the Drug User Liberation Front (DULF) 
+LOCATION:3480 McTavish St - Room 301 (metro Peel)
+DESCRIPTION:2025-06-26 17:00:00\n\n3480 McTavish St - Room 301 (metro Peel
+ )\n\nhttps://www.openstreetmap.org/way/30176564\n\nEris Nyx Presents...\n&
+ nbsp\;\nThe story of how the Drug User Liberation Front (DULF) sold pure c
+ ocaine\, heroin\, &amp\; methamphetamine to drug users on Vancouver's Down
+ town Eastside\, and no one died.\n&nbsp\;\n@McGill University\n3480 McTavi
+ sh St - Room 301\nJune 26th 2025 - 5 pm\nEntry by donation\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/30176564
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-4
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250626T220000
+DTEND;TZID=America/Toronto:20250627T000000
 SUMMARY:Lecture : "Frétillant et agile"
 LOCATION:1376 Ontario Est (métro Papineau)
 DESCRIPTION:2025-06-26 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
@@ -908,12 +117,11 @@ DESCRIPTION:2025-06-26 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
-UID:resmtl-33
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T200000
-DTEND;TZID=America/Toronto:20250626T220000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250627T000000
+DTEND;TZID=America/Toronto:20250627T020000
 SUMMARY:À Bas le Patriarcat ! Show Rock 20$
 LOCATION:4848 St-Laurent (métro Laurier)
 DESCRIPTION:2025-06-26 20:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
@@ -949,12 +157,11 @@ DESCRIPTION:2025-06-26 20:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
-UID:resmtl-34
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250626T210000
-DTEND;TZID=America/Toronto:20250626T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250627T010000
+DTEND;TZID=America/Toronto:20250627T030000
 SUMMARY:Cinéma sous les étoiles : "La panthère des neiges"
 LOCATION:3500 Girouard (métro Vendôme)
 DESCRIPTION:2025-06-26 21:00:00\n\n3500 Girouard (métro Vendôme)\n\nhttp
@@ -969,12 +176,11 @@ DESCRIPTION:2025-06-26 21:00:00\n\n3500 Girouard (métro Vendôme)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/1079194844
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
-UID:resmtl-35
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250627T140000
-DTEND;TZID=America/Toronto:20250627T160000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250627T180000
+DTEND;TZID=America/Toronto:20250627T200000
 SUMMARY:Cercle de réparation textile
 LOCATION:6450 avenue Christophe-Colomb
 DESCRIPTION:2025-06-27 14:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
@@ -1006,12 +212,11 @@ DESCRIPTION:2025-06-27 14:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
-UID:resmtl-36
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250627T170000
-DTEND;TZID=America/Toronto:20250627T190000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250627T210000
+DTEND;TZID=America/Toronto:20250627T230000
 SUMMARY:Masse critique de juin
 LOCATION:Coin du Parc/Rachel (métro Mont-Royal)
 DESCRIPTION:2025-06-27 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
@@ -1058,12 +263,11 @@ DESCRIPTION:2025-06-27 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
-UID:resmtl-37
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250627T180000
-DTEND;TZID=America/Toronto:20250627T200000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250627T220000
+DTEND;TZID=America/Toronto:20250628T000000
 SUMMARY:Book Launch : "Seed Beetle"
 LOCATION:1426 Beaudry (métro Beaudry)
 DESCRIPTION:2025-06-27 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
@@ -1107,12 +311,11 @@ DESCRIPTION:2025-06-27 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
-UID:resmtl-38
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250628T120000
-DTEND;TZID=America/Toronto:20250628T140000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250628T160000
+DTEND;TZID=America/Toronto:20250628T180000
 SUMMARY:Bouffe contre le fascisme
 LOCATION:Verdun (métro de l&#039\;Église)
 DESCRIPTION:2025-06-28 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
@@ -1124,12 +327,31 @@ DESCRIPTION:2025-06-28 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
-UID:resmtl-39
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250629T103000
-DTEND;TZID=America/Toronto:20250629T123000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250628T170000
+DTEND;TZID=America/Toronto:20250628T190000
+SUMMARY:Vigil for Palestine
+LOCATION:1435 St-Alexandre (métro Place-des-Arts)
+DESCRIPTION:2025-06-28 13:00:00\n\n1435 St-Alexandre (métro Place-des-Art
+ s)\n\nhttps://www.openstreetmap.org/node/11973208668\n\nJune 28 @ 13 h 00 
+ min - 15 h 00 min\nVIGILS PAJU: &nbsp\;SATURDAY June 28 – MONTREAL INTER
+ NATIONAL JAZZ FESTIVAL &nbsp\;\nQuartier des spectacles 1435 Rue St-Alexan
+ dre\, Montreal\, Quebec\, Canada\nVIGILS PAJU: &nbsp\;SATURDAY June 28 - M
+ ONTREAL INTERNATIONAL JAZZ FESTIVAL &nbsp\; PAJU VIGIL: from&nbsp\;13:00 t
+ o 15:00&nbsp\;at the Jazz Festival inside the barriers between the Ste-Cat
+ herine entrances for the Place des Arts and the Place Desjardins &nbsp\;(m
+ étro PLACE-DES-ARTS). &nbsp\; Join us in solidarity with the Palestinian 
+ people.
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973208668
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-12
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250629T143000
+DTEND;TZID=America/Toronto:20250629T163000
 SUMMARY:Troc tes trucs
 LOCATION:1900 Le Ber (métro Charlevoix)
 DESCRIPTION:2025-06-29 10:30:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
@@ -1155,11 +377,31 @@ DESCRIPTION:2025-06-29 10:30:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250629T180000
-DTEND;TZID=America/Toronto:20250629T200000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250629T170000
+DTEND;TZID=America/Toronto:20250629T190000
+SUMMARY:Marché libre
+LOCATION:1900 Le Ber (métro Charlevoix)
+DESCRIPTION:2025-06-29 13:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
+ s://www.openstreetmap.org/node/6074430797\n\nles sans-taverne (1900 Rue Le
+  Ber)\nDimanche le 29 juin dès 13h\, venez vous installer sur une couvert
+ ure dans l'espace jardin sous les rayons chauds de l'été et profitez-en 
+ pour vendre et/ou donner vos reliques qui trainent dans votre grenier.\nAu
+ cun inscription requise\; vous pouvez tout simplement venir dimanche à pa
+ rtir de 13h et vous installer où vous voulez dehors. C'est la parfaite oc
+ casion pour faire votre ménage du printemps!\nLe marché est ouvert à to
+ utes et à tous — il suffit de vous présenter avec vos petits trésors 
+ à vendre ou à échanger.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-14
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250629T220000
+DTEND;TZID=America/Toronto:20250630T000000
 SUMMARY:Souper ORA x Comité BAILS
 LOCATION:1800 Letourneux (métro Pie-IX)
 DESCRIPTION:2025-06-29 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
@@ -1169,12 +411,11 @@ DESCRIPTION:2025-06-29 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
-UID:resmtl-41
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250630T210000
-DTEND;TZID=America/Toronto:20250630T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250701T010000
+DTEND;TZID=America/Toronto:20250701T030000
 SUMMARY:Cinéma sous les étoiles : "Les perdants"
 LOCATION:(métro Papineau)
 DESCRIPTION:2025-06-30 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
@@ -1191,12 +432,11 @@ DESCRIPTION:2025-06-30 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
-UID:resmtl-42
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250630T210000
-DTEND;TZID=America/Toronto:20250630T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250701T010000
+DTEND;TZID=America/Toronto:20250701T030000
 SUMMARY:Cinéma sous les étoiles : "Come se non ci fosse un domani"
 LOCATION:70 Av. Shamrock (métro de Castelnau)
 DESCRIPTION:2025-06-30 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
@@ -1221,11 +461,30 @@ DESCRIPTION:2025-06-30 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/8512069849
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250701T210000
-DTEND;TZID=America/Toronto:20250701T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250701T180000
+DTEND;TZID=America/Toronto:20250701T200000
+SUMMARY:Anti Canada Day BBQ and Fundraiser
+LOCATION:(métro Mont-Royal)
+DESCRIPTION:2025-07-01 14:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
+ streetmap.org/way/49939935\n\nAnti Canada Day BBQ and Fundraiser\nJoin us 
+ for a decolonial anti-Canada day BBQ and fundraiser on July 1st\, 2-6pm! W
+ e will meet at Parc Jeanne-Mance (near the corner of Mont-Royal and Parc).
+  There will be vegan and gluten-friendly options.\nGrab some free food and
+  mingle with tablers from the Palestinian Feminist Collective\, Spring Net
+ work\, Health Workers Alliance for Palestine\, the Mohawk Mothers\, and mo
+ re! Fundraising proceeds will go towards a variety of local decolonial str
+ uggles – details TBA.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/49939935
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-18
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250702T010000
+DTEND;TZID=America/Toronto:20250702T030000
 SUMMARY:Cinéma sous les étoiles : "Ernest Cole\, photographe"
 LOCATION:(près de 1ère avenue/Masson)
 DESCRIPTION:2025-07-01 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
@@ -1242,11 +501,11 @@ DESCRIPTION:2025-07-01 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250701T210000
-DTEND;TZID=America/Toronto:20250701T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250702T010000
+DTEND;TZID=America/Toronto:20250702T030000
 SUMMARY:Cinéma sous les étoiles : "Un jeu à soi"
 LOCATION:(métro Frontenac)
 DESCRIPTION:2025-07-01 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
@@ -1260,11 +519,11 @@ DESCRIPTION:2025-07-01 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250702T210000
-DTEND;TZID=America/Toronto:20250702T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250703T010000
+DTEND;TZID=America/Toronto:20250703T030000
 SUMMARY:Cinéma sous les étoiles : "Posthumains"
 LOCATION:(métro Laurier)
 DESCRIPTION:2025-07-02 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
@@ -1279,11 +538,11 @@ DESCRIPTION:2025-07-02 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250703T183000
-DTEND;TZID=America/Toronto:20250703T203000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250703T223000
+DTEND;TZID=America/Toronto:20250704T003000
 SUMMARY:Lancement de livre : "Annapurna's Bounty"
 LOCATION:1376 Ontario Est (métro Papineau)
 DESCRIPTION:2025-07-03 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
@@ -1313,11 +572,11 @@ DESCRIPTION:2025-07-03 18:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250703T210000
-DTEND;TZID=America/Toronto:20250703T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250704T010000
+DTEND;TZID=America/Toronto:20250704T030000
 SUMMARY:Cinéma sous les étoiles : "La pensée machine"
 LOCATION:(métro Iberville)
 DESCRIPTION:2025-07-03 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
@@ -1332,11 +591,129 @@ DESCRIPTION:2025-07-03 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250707T210000
-DTEND;TZID=America/Toronto:20250707T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250704T210000
+DTEND;TZID=America/Toronto:20250704T230000
+SUMMARY:Exposition de Tournesol Plante
+LOCATION:1900 Rue Le Ber (métro Charlevoix)
+DESCRIPTION:2025-07-04 17:00:00\n\n1900 Rue Le Ber (métro Charlevoix)\n\n
+ https://www.openstreetmap.org/way/348701269\n\nVernissage Vendredi 4 juill
+ et 2025 - 17h à la fermeture.\nPour l’artiste-peintre et sculpteur Tour
+ nesol Plante\, ses plus grandes influences viennent de la culture undergro
+ und. L’esthétique et l’art des pochettes d’albums punks ont forteme
+ nt inspiré ses oeuvres\, mais les mouvements tels que Dada et l’anarchi
+ sme ont\, eux\, forgé ses idées. Collages\, montages et assemblages sont
+  au centre de sa création\, comme le patchwork d’éléments qui forment
+  un regard critique envers une société où le paysage mondial dépérit 
+ rapidement. L’exposition compile les derniers travaux de l’artiste\, m
+ arqués par une époque où les changements climatiques et les politiques 
+ violentes d’hommes hargneux menacent l'intégrité du vivant.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/348701269
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-24
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250705T030000
+DTEND;TZID=America/Toronto:20250705T050000
+SUMMARY:Rave T.I.T.S. x L'Euguélionne 20$
+LOCATION:2915 Ontario Est (métro Frontenac)
+DESCRIPTION:2025-07-04 23:00:00\n\n2915 Ontario Est (métro Frontenac)\n\n
+ https://www.openstreetmap.org/way/346605150\n\nT.I.T.S. x L’Euguélionne
+ : Rave solidaire&nbsp\;\n4 juillet : 23h – 6h\n📍&nbsp\;Bains Mathieu\
+ nT.I.T.S. et L’Euguélionne\, deux collectifs féministes montréalais\,
+  s’associent pour organiser une rave solidaire. L’objectif : soutenir 
+ L’Euguélionne\, librairie féministe indépendante qui joue un rôle ce
+ ntral dans la diffusion des cultures féministes et queer à Montréal.\n&
+ nbsp\;\nUne soirée féministe\, queer et engagée\, où la musique et la 
+ danse deviennent des moyens concrets de soutien. Tous les fonds seront rev
+ ersés à L’Euguélionne pour appuyer ses projets communautaires.\n&nbsp
+ \;\n🎧&nbsp\;Programmation artistique:\n🦋Vanille\n🦋&nbsp\;Cori\n
+ 🦋Lou Celsius\n🦋No Police&nbsp\;\n🦋Runa\n🦋Xia\n&nbsp\;\n_______
+ ______________________________________\nEN\nT.I.T.S. x L’Euguélionne: S
+ olidarity Rave\nJuly 4 :11 PM – 6 AM&nbsp\;\n📍 Bains Mathieu\n&nbsp\;
+ \nT.I.T.S. and L’Euguélionne\, two feminist collectives based in Montre
+ al\, are joining forces to host a solidarity rave. The goal: to support L
+ ’Euguélionne\, an independent feminist bookstore that plays a key role 
+ in promoting feminist and queer cultures in Montreal.\n&nbsp\;\nA feminist
+ \, queer\, and committed night where music and dance become powerful tools
+  of support. All proceeds will go directly to L’Euguélionne to help fun
+ d their community-driven projects.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/346605150
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-25
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250705T170000
+DTEND;TZID=America/Toronto:20250705T190000
+SUMMARY:Vigil for Palestine
+LOCATION:1435 St-Alexandre (métro Place-des-Arts)
+DESCRIPTION:2025-07-05 13:00:00\n\n1435 St-Alexandre (métro Place-des-Art
+ s)\n\nhttps://www.openstreetmap.org/node/11973208668\n\nJuly 5 @ 13 h 00 m
+ in - 15 h 00 min\nVIGILS PAJU: &nbsp\; SATURDAY JULY 5 – MONTREAL INTERN
+ ATIONAL JAZZ FESTIVAL &nbsp\;\nQuartier des spectacles 1435 Rue St-Alexand
+ re\, Montreal\, Quebec\, Canada\nVIGILS PAJU: &nbsp\; SATURDAY JULY 5 - MO
+ NTREAL INTERNATIONAL JAZZ FESTIVAL &nbsp\; Vigil and hand-out&nbsp\;from&n
+ bsp\;13:00 to 15:00&nbsp\;at the Jazz Festival inside the barriers between
+  the Ste-Catherine entrances for the Place des Arts and the Place Desjardi
+ ns &nbsp\;(métro PLACE-DES-ARTS). &nbsp\; &nbsp\; Join us in solidarity w
+ ith the Palestinian people.
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973208668
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-26
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250705T180000
+DTEND;TZID=America/Toronto:20250705T200000
+SUMMARY:Terrain Vague : Fresque de la Renaissance
+LOCATION:(métro Viau)
+DESCRIPTION:2025-07-05 14:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
+ map.org/way/1131870594\n\nINSCRIPTIONS REQUISES!\nVous êtes intéressé.e
+ .s à imaginer la société de demain\, ce qu’elle pourrait réellement 
+ être ? Vous êtes intéressé.e.s par une activité champêtre au cœur d
+ e Montréal ?\nNous vous convions à la Fresque de la renaissance écologi
+ que\, un atelier participatif autour d’une fresque à colorier et de cha
+ ntiers à discuter.\nFaisant appel à l’intelligence collective\, l’at
+ elier\, d’une durée d’environ 2h30\, se tiendra au cœur de la Friche
+ \, tout près des Jardins vagues\, le samedi 14 juin à 14h. Reporté au 2
+ 1 juin en cas de pluie.\nPour s'inscrire\, c'est ici.: https://docs.google
+ .com/.../1FAIpQLSdMxD3Q5DM.../viewform...\nApporter une bouteille d’eau\
+ , un chapeau\, de la crème solaire et des amis!\nPour se rendre sur le si
+ te\, deux entrées sont possibles\, soit par la rue Adam ou par la rue Ont
+ ario.\nPourquoi la Friche ? Cet espace vert est parcouru\, depuis plusieur
+ s années\, par une faune et une flore qui ne cessent de se développer. I
+ l est aimé et fréquenté par les résidents d’Hochelaga. Il est menac
+ é par des intérêts privés qui se fichent du bien-être collectif. C’
+ est un lieu hautement symbolique pour réfléchir à notre devenir.\nMère
+ s au front - Montréal soutient la Mobilisation 6600 et toutes les famille
+ s et résidents de Mercier - Hochelaga - Maisonneuve qui se mobilisent pou
+ r la défense de leurs derniers espaces verts. D’autres activités estiv
+ ales sont à venir.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1131870594
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-27
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250707T230000
+DTEND;TZID=America/Toronto:20250708T010000
+SUMMARY:Last Generation - Intro Talk
+LOCATION:5031 St-Denis (métro Laurier)
+DESCRIPTION:2025-07-07 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
+ ://www.openstreetmap.org/node/11972883637\n\nIntro talk\n19h00 - 20h30 EDT
+ \n5031 R. Saint-Denis\nMontreal\nQuebec\nH2J 2L9
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-28
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250708T010000
+DTEND;TZID=America/Toronto:20250708T030000
 SUMMARY:Cinéma sous les étoiles : "Union"
 LOCATION:(métro Papineau)
 DESCRIPTION:2025-07-07 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
@@ -1356,11 +733,11 @@ DESCRIPTION:2025-07-07 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250611T170936
-DTSTART;TZID=America/Toronto:20250707T210000
-DTEND;TZID=America/Toronto:20250707T230000
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250708T010000
+DTEND;TZID=America/Toronto:20250708T030000
 SUMMARY:Cinéma sous les étoiles : "Diaries from Lebanon"
 LOCATION:70 Av. Shamrock (métro de Castelnau)
 DESCRIPTION:2025-07-07 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
@@ -1376,5 +753,358 @@ DESCRIPTION:2025-07-07 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
  e évincée de son siège parlementaire en 2018\, et une jeune artiste mil
  itante.&nbsp\;\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/node/6653792333
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-30
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250709T010000
+DTEND;TZID=America/Toronto:20250709T030000
+SUMMARY:Cinéma sous les étoiles : "Ninan Auassat : Nous\, les enfants"
+LOCATION:(métro Frontenac)
+DESCRIPTION:2025-07-08 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
+ treetmap.org/way/159602678\n\nNinan Auassat : Nous\, les enfants\, est une
+  œuvre\, dont le tournage\, sur plus de six ans\, suit les parcours de tr
+ ois groupes d’enfants de nations différentes (Atikamekw\, Eeyou-Cri et 
+ Innu). En suivant ces jeunes au fil des étapes cruciales qui mènent jusq
+ u’au seuil de l’âge adulte\, nous devenons les témoins de leur vie q
+ uotidienne\, de leurs aspirations et des défis auxquels ils font face. To
+ urné à hauteur d’enfant et proposant une vision novatrice de la jeunes
+ se autochtone\, ce puissant documentaire est marqué par l’absence total
+ e de la parole des adultes et des « experts de la jeunesse ». Il laisse 
+ ainsi toute la place à la nouvelle génération\, et à son désir ardent
+  d’être entendue. Ce périple captivant devient un appel à l’action\
+ , à l’heure où la voix des jeunes résonne\, réclamant le droit à la
+  reconnaissance et à l’épanouissement.&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-31
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250710T010000
+DTEND;TZID=America/Toronto:20250710T030000
+SUMMARY:Cinéma sous les étoiles : "Sudan\, remember us"
+LOCATION:(métro Laurier)
+DESCRIPTION:2025-07-09 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
+ eetmap.org/way/65067662\n\nAprès trente ans de dictature\, en 2019\, les 
+ Soudanais provoquent la chute du tyran Omar El-Bechir. Shajan\, Rufaida\, 
+ Maha sont quelques-uns des visages de cette révolution. Leurs rêves de l
+ iberté\, d'égalité et de changement se heurtent à l’impossible trans
+ ition de la dictature militaire à un gouvernement civil.&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-32
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250711T010000
+DTEND;TZID=America/Toronto:20250711T030000
+SUMMARY:Cinéma sous les étoiles : "Sept-Îles '72 - archives du monde or
+ dinaire"
+LOCATION:(métro Iberville)
+DESCRIPTION:2025-07-10 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
+ treetmap.org/way/47345798\n\nSuite à l'emprisonnement des chefs du Front 
+ commun intersyndical pendant la grève générale du printemps 1972 au Qu
+ ébec\, les travailleurs et militants de Sept-Îles occupent spontanément
+  la ville. À travers les témoignages d'une poignée d'amis militants et 
+ d'archives\, ce film raconte les raisons de la révolte\, le fil des évé
+ nements lors de l’occupation qui se termina de façon tragique\, et l'im
+ pact de celle-ci sur les vies de celles et ceux qui l'ont vécue.&nbsp\;\n
+ &nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-33
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250711T010000
+DTEND;TZID=America/Toronto:20250711T030000
+SUMMARY:Cinéma sous les étoiles : "No Other Land"
+LOCATION:Parc Lafontaine (métro Sherbrooke)
+DESCRIPTION:2025-07-10 21:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
+ https://www.openstreetmap.org/node/7363083869\n\nDepuis plus de 5 ans\, Ba
+ sel Adra\, un activiste palestinien en Cisjordanie\, filme l’expulsion d
+ e sa communauté par l’occupation israélienne qui détruit progressivem
+ ent les villages et chasse ses habitants. Il rencontre Yuval\, un journali
+ ste israélien\, qui le soutient dans ses démarches. Leur relation comple
+ xe est tourmentée par l’extrême inégalité qui les sépare. Ce film c
+ réé par un collectif palestino-israélien de quatre jeunes militants a 
+ été réalisé comme un acte de résistance créative contre l’Aparthei
+ d\, sur la voie de la justice et de l’égalité.&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-34
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250712T000000
+DTEND;TZID=America/Toronto:20250712T020000
+SUMMARY:Show bénéfice pour Spectre de rue 25$
+LOCATION:2040 St-Denis (métro Berri)
+DESCRIPTION:2025-07-11 20:00:00\n\n2040 St-Denis (métro Berri)\n\nhttps:/
+ /www.openstreetmap.org/node/11004970512\n\n🔥 SHOW BÉNÉFICE DE SPECTRE
+  DE RUE - 2e édition ! 🔥\nPour cette deuxième édition de notre show 
+ punk annuel\, nous vous invitons le 11 juillet 2025 au Turbo Haus afin de 
+ récolter des fonds pour Spectre de rue qui oeuvre en réduction des méfa
+ its dans le quartier Centre-Sud depuis 1986 !\n💥 À l’affiche :\nUnfi
+ led : https://www.instagram.com/unfiled_mtl/\nMorose : https://www.instagr
+ am.com/morose_mtl/\nShards : https://www.facebook.com/ShardsMTL\nJetsam : 
+ https://www.instagram.com/jetsammtl/\n+ notre merch et un tirage avec plus
+ ieurs prix à gagner ! 🏆\n🗓 11 juillet – 🕗 20h – 📍 Turbo H
+ aüs\n🎟️ Billets\nEarly bird (jusqu'au 19 juin) : 20$\nRégulier : 25
+ $ ou 30$\nAchète ton billet ici → https://www.zeffy.com/.../show-benefi
+ ce-pour-spectre-de-rue\nPrépares toi à avoir show le 11 juillet ! 🥵\n
+ &nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11004970512
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-35
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250712T140000
+DTEND;TZID=America/Toronto:20250712T160000
+SUMMARY:Balade : Toutes à vélo !
+LOCATION:(Montréal-Nord)
+DESCRIPTION:2025-07-12 10:00:00\n\n(Montréal-Nord)\n\nhttps://www.openstr
+ eetmap.org/node/11972741969\n\nDans le cadre du programme Toutes à vélo 
+ Montréal-Nord\, nous organisons 3 balades à vélo afin de permettre aux 
+ femmes de rouler sur la route et ainsi développer une plus grande autonom
+ ie à vélo.\nPour l'occasion\, nous prêtons des vélos aux participantes
+  n'ayant pas de vélo et résidant à Montréal-Nord. Première arrivée s
+ ur les lieux\, première servie. Important de noter que nous avons une qua
+ ntité limitée de vélos.\n*Les enfants de plus de 10 ans qui possèdent 
+ leurs propres vélos sont les bienvenus. Important de noter que nous ne pr
+ êtons pas de vélo aux enfants.\nINSCRIPTION OBLIGATOIRE : https://forms.
+ gle/to7bgTUMU2uDxj5Q8\nCes activités sont possibles grâce au financement
+  de Montréal en Commun\, une initiative de la Ville de Montréal.\n&nbsp\
+ ;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972741969
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-36
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250712T170000
+DTEND;TZID=America/Toronto:20250712T190000
+SUMMARY:Vigil for Palestine
+LOCATION:(métro Mont-Royal)
+DESCRIPTION:2025-07-12 13:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
+ streetmap.org/node/1456304180\n\nJuly 12 @ 13 h 00 min - 15 h 00 min\nPAJU
+  VIGIL PALESTINE: SATURDAY July 12\, Mont-Royal avenue reserved for pedest
+ rians\nMÉTRO MONT-ROYAL 470 Mont-Royal Ave E\, Montréal\, Québec\, Cana
+ da\nPAJU VIGIL PALESTINE: SATURDAY July 12\, Mont-Royal avenue reserved fo
+ r pedestrians SATURDAY July 12&nbsp\;from 1 pm to 3 pm&nbsp\;on Mont-Royal
+  avenue&nbsp\;reserved for pedestrians in front of the metro Mont-Royal\n&
+ nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/1456304180
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-37
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250712T170000
+DTEND;TZID=America/Toronto:20250712T190000
+SUMMARY:Big Fiesta Punk Oï Gratuit
+LOCATION:(métro Papineau)
+DESCRIPTION:2025-07-12 13:00:00\n\n(métro Papineau)\n\nhttps://www.openst
+ reetmap.org/node/12027163491\n\nBIG FIESTA! (Gratuit)\nSortez votre nappe 
+ et votre crème solaire\, on se fait une BIG FIESTA le samedi 12 Juillet a
+ u Parc des Faubourgs (Montréal) dès 13h! Plusieurs DJ vont défiler tout
+  l'après-midi (13h à …) pour faire tourner de la Oi!\, du 80s Punk\, d
+ u Reggae\, du Post Punk\, du Punk du monde entier et du Punk Franco. Ça s
+ e veut un get-together à l’extérieur autour de la musique et une game 
+ de soccer pour ceux qui auront envie de jouer.\nPlusieurs promoteurs/acteu
+ rs de la scène indépendante du Québec s'unissent pour présenter la pre
+ mière édition* de cette nouvelle mouture de la Big Fiesta! Cette fois-ci
+ \, ce sera dans un parc de Montréal\, au milieu des arbres\, du béton et
+  des p'tits oiseaux!\n* Durant les 90s\, Patrick Carde (guitariste de Nucl
+ ear Device) vit au Québec et à importé le concept des Big Fiesta.\n&nbs
+ p\;\nSamedi 12 juillet 2025\nBIG FIESTA (Gratuit)\nParc des Faubourgs\, 18
+ 72 rue Dorion\, Montréal\nDJ Max Noise (80s Punk)\nDJ Sylvain Baldy (Oi!)
+ \nDJ Eric &amp\; Franx Dure Réalité (Post Punk)\nDJ Bert &amp\; Max (Reg
+ gae)\nDJ Charles Macadam (Punk Franco)\nDJ Tourn’ (World Punk)\nPrésent
+ é par : Bad Crew + Baldy Sound Productions + Distro Frigo + Dure Réalit
+ é + Inside Crew Productions + KeepHope Productions + Macadam + Pils Recor
+ ds + Punx Make Noise + Sick &amp\; Twisted + Vomit Productions + YellOut C
+ ollective + youthOfnausea.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/12027163491
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-38
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250715T010000
+DTEND;TZID=America/Toronto:20250715T030000
+SUMMARY:Cinéma sous les étoiles : "The Sky above Zenica"
+LOCATION:(métro Papineau)
+DESCRIPTION:2025-07-14 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
+ reetmap.org/way/165260353\n\nZenica\, en Bosnie-Herzégovine\, est l'une d
+ es villes les plus polluées au monde. Des citoyens s'unissent face à la 
+ corruption des politiques\, au cynisme des industriels et à l'indifféren
+ ce des institutions européennes. Un combat contre des adversaires aussi t
+ oxiques que la pollution qui menace leur vie.&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-39
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250716T010000
+DTEND;TZID=America/Toronto:20250716T030000
+SUMMARY:Cinéma sous les étoiles : "Les oiseaux de nuit" + "Snake Hill"
+LOCATION:(métro Frontenac)
+DESCRIPTION:2025-07-15 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
+ treetmap.org/way/159602678\n\nUn phénomène mystérieux illumine le ciel 
+ de Bretagne. Tissant documentaire\, poésie et science-fiction\, Les Oisea
+ ux de nuit retrace l'essor des serres industrielles éclairées artificiel
+ lement dans l'ouest de la France. Le film présente l'impact environnement
+ al des lampes horticoles sur le rythme et la perception du temps. En exami
+ nant la pollution lumineuse agricole\, le film soulève également des que
+ stions sur les conséquences involontaires des tentatives humaines de maî
+ triser la nature et de contrôler les éléments. Plus qu'une vision manic
+ héenne\, le film vise à présenter la complexité de l'agriculture indus
+ trielle et à inspirer une réflexion philosophique.&nbsp\;\n+\nJoëlle es
+ t de retour au pays natal avec son mari pour lancer un projet de permacult
+ ure. Aidée par un ami herpétologiste\, elle découvre la dévastation de
+ s pesticides et commence alors sa vraie mission.&nbsp\;\n&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-40
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250716T010000
+DTEND;TZID=America/Toronto:20250716T030000
+SUMMARY:Cinéma sous les étoiles : "Middletown"
+LOCATION:(près de 1ère avenue/Masson)
+DESCRIPTION:2025-07-15 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
+ ://www.openstreetmap.org/way/189009114\n\nAu début des années 1990\, Fre
+ d Isseks\, enseignant atypique à la Middletown High School\, lance un cou
+ rs original\, Electronic English\, où il encourage ses élèves à réali
+ ser un film étudiant. Ce projet les mène à dévoiler une vaste affaire 
+ de pollution toxique.\nÀ partir de centaines d’heures d’archives tour
+ nées par ces jeunes\, les réalisateurs Amanda McBaine et Jesse Moss sign
+ ent un film à la fois drôle\, percutant et inspirant\, qui célèbre le 
+ courage citoyen et la force de l’engagement collectif.&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-41
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250717T010000
+DTEND;TZID=America/Toronto:20250717T030000
+SUMMARY:Cinéma sous les étoiles : "Sur la paille"
+LOCATION:(métro Laurier)
+DESCRIPTION:2025-07-16 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
+ eetmap.org/way/65067662\n\nIl y a 4 ans\, Olivier a réalisé son rêve : 
+ ouvrir un élevage de porcs biologiques en Bretagne. Mais depuis\, une cri
+ se terrible frappe l’agriculture bio et il risque de tout perdre. Commen
+ t comprendre que le seul modèle agricole qui préserve l’environnement 
+ et la biodiversité soit abandonné\, alors même que l’État avait enco
+ uragé son développement ?&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-42
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250718T010000
+DTEND;TZID=America/Toronto:20250718T030000
+SUMMARY:Cinéma sous les étoiles : "Plastic People"
+LOCATION:(métro Iberville)
+DESCRIPTION:2025-07-17 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
+ treetmap.org/way/47345798\n\nDevenons-nous des êtres de plastique ? Ce do
+ cumentaire enquête sur notre dépendance au plastique et la menace croiss
+ ante que représentent les microplastiques pour la santé humaine. Pratiqu
+ ement\, chaque fragment de plastique produit finit réduit en “microplas
+ tiques”. Ziya Tong\, rencontre des scientifiques de renom et en se prêt
+ ant\, pour la première fois devant la caméra\, à des expériences mené
+ es dans sa maison\, sur ses aliments et sur son propre corps.&nbsp\;\n&nbs
+ p\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-43
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250719T010000
+DTEND;TZID=America/Toronto:20250719T030000
+SUMMARY:Cinéma sous les étoiles : "Le goût des choses"
+LOCATION:Marché Maisonneuve (métro Pie-IX)
+DESCRIPTION:2025-07-18 21:00:00\n\nMarché Maisonneuve (métro Pie-IX)\n\n
+ https://www.openstreetmap.org/relation/17587309\n\nDepuis 3 ans\, Pierre-G
+ illes et Antoine exploitent le terrain de Praz Bonjour pour y cultiver des
+  légumes de manière entièrement naturelle. Ce travail n’est pas de to
+ ut repos\, faisant face à des menaces quotidiennes : climat changeant\, r
+ avageurs\, maladies… sans compter la pression financière qui pèse lour
+ d. L’année 2023 a commencé avec un défi de plus : la route qui longe 
+ l’exploitation connait des travaux importants\, qui compliquent les acc
+ ès aux cultures. De plus\, il faut cohabiter avec les ouvriers\, et suppo
+ rter le bruit.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/relation/17587309
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-44
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250719T170000
+DTEND;TZID=America/Toronto:20250719T190000
+SUMMARY:Vigil for Palestine
+LOCATION:1435 St-Alexandre (métro Place-des-Arts)
+DESCRIPTION:2025-07-19 13:00:00\n\n1435 St-Alexandre (métro Place-des-Art
+ s)\n\nhttps://www.openstreetmap.org/node/11401885399\n\nJuly 19 @ 13 h 00 
+ min - 15 h 00 min\nPAJU&nbsp\; VIGIL: &nbsp\; SATURDAY JULY 19 – &nbsp\;
+  FESTIVAL INTERNATIONAL NUITS D’AFRIQUE\nQuartier des spectacles 1435 Ru
+ e St-Alexandre\, Montreal\, Quebec\, Canada\nPAJU&nbsp\; VIGIL: &nbsp\; SA
+ TURDAY JULY 19 - &nbsp\; FESTIVAL INTERNATIONAL NUITS D'AFRIQUE Vigil and 
+ distribution&nbsp\;from&nbsp\;13:00 to 15:00&nbsp\;at the&nbsp\;&nbsp\;FES
+ TIVAL INTERNATIONAL NUITS D'AFRIQUE&nbsp\;inside the barriers Ste-Catherin
+ e&nbsp\;corner&nbsp\;St-Urbain &nbsp\;(métro PLACE-DES-ARTS).&nbsp\;&nbsp
+ \; &nbsp\; Join us in solidarity with the people of Palestine.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11401885399
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-45
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250720T210000
+DTEND;TZID=America/Toronto:20250720T230000
+SUMMARY:BBQ de l'ORA
+LOCATION:TBD
+DESCRIPTION:2025-07-20 17:00:00\n\nTBD
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-46
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250721T230000
+DTEND;TZID=America/Toronto:20250722T010000
+SUMMARY:Last Generation - Intro Talk
+LOCATION:5031 St-Denis (métro Laurier)
+DESCRIPTION:2025-07-21 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
+ ://www.openstreetmap.org/node/11972883637\n\nIntro talk\n19h00 - 20h30 EDT
+ \n5031 R. Saint-Denis\nMontreal\nQuebec\nH2J 2L9
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-47
+SEQUENCE:0
+DTSTAMP:20250625T032752
+DTSTART;TZID=America/Toronto:20250724T173000
+DTEND;TZID=America/Toronto:20250724T193000
+SUMMARY:Atelier mythes et réalités sur le droit au logement
+LOCATION:5350\, rue Lafond
+DESCRIPTION:2025-07-24 13:30:00\n\n5350\, rue Lafond\n\nhttps://www.openst
+ reetmap.org/node/12507463961\n\nIl y a beaucoup d’informations qui circu
+ lent sur les droits des locataires!\nSaurez-vous distinguer le vrai du fau
+ x?\n&nbsp\;\nEn s’informant sur nos droits\, on devient unE locataire av
+ ertiE qui sait se défendre!\n&nbsp\;\nParticipez à l’un de nos prochai
+ ns cafés-rencontre\n&nbsp\;\n🗓 Jeudi 24 juillet à 13h30\n🗓 Jeudi 1
+ 4 août à 13h30\n&nbsp\;\nPour confirmer votre présence : 514-597-2581. 
+ L’atelier aura lieu au&nbsp\; Centre Lapalme\nsitué au 5350\, rue Lafon
+ d\, à la salle Pauline-Guay.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/12507463961
 END:VEVENT
 END:VCALENDAR
