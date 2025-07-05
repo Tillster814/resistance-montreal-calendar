@@ -8,60 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250704T032621
-DTSTART;TZID=America/Toronto:20250704T170000
-DTEND;TZID=America/Toronto:20250704T190000
-SUMMARY:Exposition de Tournesol Plante
-LOCATION:1900 Rue Le Ber (métro Charlevoix)
-DESCRIPTION:2025-07-04 17:00:00\n\n1900 Rue Le Ber (métro Charlevoix)\n\n
- https://www.openstreetmap.org/way/348701269\n\nVernissage Vendredi 4 juill
- et 2025 - 17h à la fermeture.\nPour l’artiste-peintre et sculpteur Tour
- nesol Plante\, ses plus grandes influences viennent de la culture undergro
- und. L’esthétique et l’art des pochettes d’albums punks ont forteme
- nt inspiré ses oeuvres\, mais les mouvements tels que Dada et l’anarchi
- sme ont\, eux\, forgé ses idées. Collages\, montages et assemblages sont
-  au centre de sa création\, comme le patchwork d’éléments qui forment
-  un regard critique envers une société où le paysage mondial dépérit 
- rapidement. L’exposition compile les derniers travaux de l’artiste\, m
- arqués par une époque où les changements climatiques et les politiques 
- violentes d’hommes hargneux menacent l'intégrité du vivant.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/348701269
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250704T032621
-DTSTART;TZID=America/Toronto:20250704T230000
-DTEND;TZID=America/Toronto:20250705T010000
-SUMMARY:Rave T.I.T.S. x L'Euguélionne 20$
-LOCATION:2915 Ontario Est (métro Frontenac)
-DESCRIPTION:2025-07-04 23:00:00\n\n2915 Ontario Est (métro Frontenac)\n\n
- https://www.openstreetmap.org/way/346605150\n\nT.I.T.S. x L’Euguélionne
- : Rave solidaire&nbsp\;\n4 juillet : 23h – 6h\n📍&nbsp\;Bains Mathieu\
- nT.I.T.S. et L’Euguélionne\, deux collectifs féministes montréalais\,
-  s’associent pour organiser une rave solidaire. L’objectif : soutenir 
- L’Euguélionne\, librairie féministe indépendante qui joue un rôle ce
- ntral dans la diffusion des cultures féministes et queer à Montréal.\n&
- nbsp\;\nUne soirée féministe\, queer et engagée\, où la musique et la 
- danse deviennent des moyens concrets de soutien. Tous les fonds seront rev
- ersés à L’Euguélionne pour appuyer ses projets communautaires.\n&nbsp
- \;\n🎧&nbsp\;Programmation artistique:\n🦋Vanille\n🦋&nbsp\;Cori\n
- 🦋Lou Celsius\n🦋No Police&nbsp\;\n🦋Runa\n🦋Xia\n&nbsp\;\n_______
- ______________________________________\nEN\nT.I.T.S. x L’Euguélionne: S
- olidarity Rave\nJuly 4 :11 PM – 6 AM&nbsp\;\n📍 Bains Mathieu\n&nbsp\;
- \nT.I.T.S. and L’Euguélionne\, two feminist collectives based in Montre
- al\, are joining forces to host a solidarity rave. The goal: to support L
- ’Euguélionne\, an independent feminist bookstore that plays a key role 
- in promoting feminist and queer cultures in Montreal.\n&nbsp\;\nA feminist
- \, queer\, and committed night where music and dance become powerful tools
-  of support. All proceeds will go directly to L’Euguélionne to help fun
- d their community-driven projects.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/346605150
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250705T130000
 DTEND;TZID=America/Toronto:20250705T150000
 SUMMARY:Vigil for Palestine
@@ -79,9 +26,9 @@ DESCRIPTION:2025-07-05 13:00:00\n\n1435 St-Alexandre (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973208668
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250705T140000
 DTEND;TZID=America/Toronto:20250705T160000
 SUMMARY:Terrain Vague : Fresque de la Renaissance
@@ -111,9 +58,9 @@ DESCRIPTION:2025-07-05 14:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1131870594
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250705T190000
 DTEND;TZID=America/Toronto:20250705T210000
 SUMMARY:Protect our Protesters! Pro Palestine Legal Defence Silent Auction
@@ -170,9 +117,26 @@ DESCRIPTION:2025-07-05 19:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
+DTSTART;TZID=America/Toronto:20250705T210000
+DTEND;TZID=America/Toronto:20250705T230000
+SUMMARY:Queer Karaoké MTL
+LOCATION:3714 du Parc (métro Place-des-Arts)
+DESCRIPTION:2025-07-05 21:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
+ nhttps://www.openstreetmap.org/node/11729165947\n\nWoah what 👁️👁
+ ️ queer karaoke is back again\nyep it’s this Saturday 9pm - 1am at @co
+ opbmp\nFree cover\, as always 🌟\nyou should come !! you should bring yo
+ ur friends !!\nWhoa quoi 👁️👁️ queer karaoke est de retour encore
+ \nOui\, c’est Samedi de 21h00 à 1h00 du matin à @coopbmp\nGratuit\, co
+ mme toujours 🌟\nvenez nous voir !! apportez vos amis.es !!
+URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-4
+SEQUENCE:0
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250706T150000
 DTEND;TZID=America/Toronto:20250706T170000
 SUMMARY:Violet Hour Book Club: "I felt the end before it came"
@@ -220,9 +184,9 @@ DESCRIPTION:2025-07-06 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250706T173000
 DTEND;TZID=America/Toronto:20250706T193000
 SUMMARY:Club de lecture solidaire anticolonialiste
@@ -246,9 +210,9 @@ DESCRIPTION:2025-07-06 17:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250707T083000
 DTEND;TZID=America/Toronto:20250707T103000
 SUMMARY:Action procès rozon
@@ -270,9 +234,49 @@ DESCRIPTION:2025-07-07 08:30:00\n\n10 St-Antoine Est (métro Champ-de-Mars
 URL;VALUE=URI:https://www.openstreetmap.org/way/20919177
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-7
+SEQUENCE:0
+DTSTAMP:20250705T032333
+DTSTART;TZID=America/Toronto:20250707T183000
+DTEND;TZID=America/Toronto:20250707T203000
+SUMMARY:Movie : "Am I OK?"
+LOCATION:3714 du Parc (métro Place-des-Arts)
+DESCRIPTION:2025-07-07 18:30:00\n\n3714 du Parc (métro Place-des-Arts)\n\
+ nhttps://www.openstreetmap.org/node/11729165947\n\nAre We Okay?? Tickets i
+ n bio👼🏼\nColoring supplies provided if wanted!! 🎀🧑🏾‍❤
+ ️‍💋‍🧑🏾\nJoin us for a soft\, sapphic\, and coloring-filled 
+ movie night on July 7th from 6:30–9:00 PM @ Co-op BMP 🧚‍♀️\nWe
+ ’re screening Am I OK?\na tender\, funny\, and deeply relatable story ab
+ out late-blooming queerness\, friendship\, and figuring things out (no mat
+ ter your age).\nStarring my lover Dakota Johnson and Stephanie Allynne\, i
+ t’s lowkey\, intimate\, and really\, really gay. Like… painfully extre
+ mely gay. You’ll feel seen. You might cry. You’ll definitely giggle.\n
+ 🎀🎀Whether you’re in your soft era\, newly out\, or just here for t
+ he poutine\, we got you. Coloring pages and supplies provided\, and yes 
+ — fries\, poutine\, and cheeseburgers are available on our sliding scale
+  ❤️\nPay what you can. Newcomers welcome 🥰. No need to know anyone 
+ — just come along!!!\n🎟️ Tickets in bio!\nFr:\nOn va bien… vraime
+ nt?? Billets en bio👼🏼\nMatériel de coloriage dispo si tu veux!! 
+ 🎀🧑🏾‍❤️‍💋‍🧑🏾\nViens passer une soirée toute do
+ uce\, sapphique et pleine de coloriage avec nous le 7 juillet de 18h30 à 
+ 21h @ Co-op BMP 🧚‍♀️\nOn projette Am I OK?\nUn film tendre\, drô
+ le et TELLEMENT relatable sur le fait de découvrir sa queerness plus tard
+ \, l’amitié et le chaos doux de tout comprendre (peu importe ton âge).
+ \nAvec ma femme Dakota Johnson et Stephanie Allynne — c’est intime\, c
+ hill et vraiment\, vraiment gay. Genre… douloureusement gay. Tu vas te s
+ entir vu·e. Peut-être pleurer. Certainement rigoler.\n🎀🎀 Que tu so
+ is en pleine soft era\, fraîchement out\, ou juste là pour la poutine\, 
+ on t’accueille comme tu es. Pages à colorier et matériel fournis\, et 
+ oui — frites\, poutine et cheeseburgers seront dispos à prix libre ❤
+ ️\nPrix libre. Nouveaux visages bienvenus 🥰 Pas besoin de connaître 
+ quelqu’un — viens juste t’installer avec nous!!!\n🎟️ Billets en
+  bio!
+URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250707T190000
 DTEND;TZID=America/Toronto:20250707T210000
 SUMMARY:Last Generation - Intro Talk
@@ -285,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250707T210000
 DTEND;TZID=America/Toronto:20250707T230000
 SUMMARY:Cinéma sous les étoiles : "Union"
@@ -309,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250707T210000
 DTEND;TZID=America/Toronto:20250707T230000
 SUMMARY:Cinéma sous les étoiles : "Diaries from Lebanon"
@@ -331,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250708T210000
 DTEND;TZID=America/Toronto:20250708T230000
 SUMMARY:Cinéma sous les étoiles : "Ninan Auassat : Nous\, les enfants"
@@ -355,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250709T160000
 DTEND;TZID=America/Toronto:20250709T180000
 SUMMARY:C'est print!
@@ -392,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250709T190000
 DTEND;TZID=America/Toronto:20250709T210000
 SUMMARY:Ciné-club de la transition : "Une île et une nuit"
@@ -423,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250709T210000
 DTEND;TZID=America/Toronto:20250709T230000
 SUMMARY:Cinéma sous les étoiles : "Sudan\, remember us"
@@ -439,7 +443,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250710T210000
 DTEND;TZID=America/Toronto:20250710T230000
 SUMMARY:Cinéma sous les étoiles : "Sept-Îles '72 - archives du monde or
@@ -459,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250710T210000
 DTEND;TZID=America/Toronto:20250710T230000
 SUMMARY:Cinéma sous les étoiles : "No Other Land"
@@ -479,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250711T200000
 DTEND;TZID=America/Toronto:20250711T220000
 SUMMARY:Show bénéfice pour Spectre de rue 25$
@@ -503,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250712T100000
 DTEND;TZID=America/Toronto:20250712T120000
 SUMMARY:Balade : Toutes à vélo !
@@ -526,7 +530,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250712T130000
 DTEND;TZID=America/Toronto:20250712T150000
 SUMMARY:Vigil for Palestine
@@ -544,7 +548,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250712T130000
 DTEND;TZID=America/Toronto:20250712T150000
 SUMMARY:Big Fiesta Punk Oï Gratuit
@@ -575,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250714T210000
 DTEND;TZID=America/Toronto:20250714T230000
 SUMMARY:Cinéma sous les étoiles : "The Sky above Zenica"
@@ -591,7 +595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250715T210000
 DTEND;TZID=America/Toronto:20250715T230000
 SUMMARY:Cinéma sous les étoiles : "Les oiseaux de nuit" + "Snake Hill"
@@ -615,7 +619,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250715T210000
 DTEND;TZID=America/Toronto:20250715T230000
 SUMMARY:Cinéma sous les étoiles : "Middletown"
@@ -634,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250716T210000
 DTEND;TZID=America/Toronto:20250716T230000
 SUMMARY:Cinéma sous les étoiles : "Sur la paille"
@@ -651,7 +655,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250717T210000
 DTEND;TZID=America/Toronto:20250717T230000
 SUMMARY:Cinéma sous les étoiles : "Plastic People"
@@ -670,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250718T210000
 DTEND;TZID=America/Toronto:20250718T230000
 SUMMARY:Cinéma sous les étoiles : "Le goût des choses"
@@ -690,7 +694,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250719T130000
 DTEND;TZID=America/Toronto:20250719T150000
 SUMMARY:Vigil for Palestine
@@ -710,7 +714,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250720T170000
 DTEND;TZID=America/Toronto:20250720T190000
 SUMMARY:BBQ de l'ORA
@@ -720,7 +724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250721T190000
 DTEND;TZID=America/Toronto:20250721T210000
 SUMMARY:Last Generation - Intro Talk
@@ -733,7 +737,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250722T204500
 DTEND;TZID=America/Toronto:20250722T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #2
@@ -765,7 +769,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250723T204500
 DTEND;TZID=America/Toronto:20250723T224500
 SUMMARY:Cinéma sous les étoildes : From Ground Zero
@@ -784,7 +788,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250724T133000
 DTEND;TZID=America/Toronto:20250724T153000
 SUMMARY:Atelier mythes et réalités sur le droit au logement
@@ -803,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250724T204500
 DTEND;TZID=America/Toronto:20250724T224500
 SUMMARY:Cinéma sous les étoiles : Dahomey
@@ -822,7 +826,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250724T204500
 DTEND;TZID=America/Toronto:20250724T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #3
@@ -853,7 +857,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250725T170000
 DTEND;TZID=America/Toronto:20250725T190000
 SUMMARY:Masse critique de juillet
@@ -904,7 +908,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250725T204500
 DTEND;TZID=America/Toronto:20250725T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #4
@@ -931,7 +935,56 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
+DTSTART;TZID=America/Toronto:20250726T120000
+DTEND;TZID=America/Toronto:20250726T140000
+SUMMARY:Vente de livres de gauche
+LOCATION:1800 Letourneux (métro Pie-IX)
+DESCRIPTION:2025-07-26 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
+ s://www.openstreetmap.org/way/363150208\n\n[English&nbsp\;below]\nVente&nb
+ sp\;de&nbsp\;livres&nbsp\;de&nbsp\;gauche\nSamedi\,&nbsp\;le&nbsp\;26&nbsp
+ \;juillet\n12–17h\nl'Achoppe&nbsp\;(1800&nbsp\;av.&nbsp\;Letourneux)\nEn
+ trée&nbsp\;gratuite!&nbsp\;Bienvenue&nbsp\;à&nbsp\;toustes!\nAccessible&
+ nbsp\;en&nbsp\;fauteuil&nbsp\;roulant\nVenez parcourir la littérature rad
+ icale de plusieurs éditeurs et projets littéraires radicaux montréalais
+ !\nqueer\,&nbsp\;féministe\,&nbsp\;anti-coloniale...\nanti-impérialiste\
+ ,&nbsp\;marxiste\,&nbsp\;anarchiste...\nfiction\,&nbsp\;histoire\,&nbsp\;t
+ héorie...\nIl&nbsp\;y&nbsp\;en&nbsp\;aura&nbsp\;pour&nbsp\;tous&nbsp\;les
+ &nbsp\;goûts&nbsp\;!\npour&nbsp\;plus&nbsp\;d'infos:&nbsp\;leftwingbooks.
+ net/popup\n***\nLeft-Wing&nbsp\;Books&nbsp\;Sale\nSaturday\,&nbsp\;July&nb
+ sp\;26\n12–5pm\nl'Achoppe&nbsp\;(1800&nbsp\;av.&nbsp\;Letourneux)\nFree&
+ nbsp\;Entry!&nbsp\;Everyone&nbsp\;Welcome!\nWheelchair&nbsp\;accessible\nC
+ ome browse some fine radical literature from a number of Montreal radical 
+ publishers and literature projects!\nqueer\,&nbsp\;feminist\,&nbsp\;anti-c
+ olonial...\nanti-imperialist\,&nbsp\;marxist\,&nbsp\;anarchist...\nfiction
+ \,&nbsp\;history\,&nbsp\;theory...\nSomething&nbsp\;for&nbsp\;everyone!\nf
+ or&nbsp\;more&nbsp\;info:&nbsp\;leftwingbooks.net/popup\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-38
+SEQUENCE:0
+DTSTAMP:20250705T032333
+DTSTART;TZID=America/Toronto:20250726T170000
+DTEND;TZID=America/Toronto:20250726T190000
+SUMMARY:BMP turns one!
+LOCATION:3714 du Parc (métro Place-des-Arts)
+DESCRIPTION:2025-07-26 17:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
+ nhttps://www.openstreetmap.org/node/11729165947\n\nSPECIAL ANNOUNCEMENT!! 
+ A little teaser post into what we’ve been cooking up…. and it’s some
+ thing really exciting!! On July 26th from 5pm till late\, we’re hosting 
+ our First Birthday party\, celebrating one year of being in operation!! 
+ 🎉🎂\nMark it on your calendar early! 📆 We’ve got a whole evening
+  full of activities planned and trust\, you’re not gonna want to miss th
+ is!! Come hang out with your favourite staff\, members\, bar regulars\, or
+  come check out the space for the very first time!!\n⭐️ Stay tuned for
+  more details and info ⭐️\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-39
+SEQUENCE:0
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250728T204500
 DTEND;TZID=America/Toronto:20250728T224500
 SUMMARY:Cinéma sous les étoiles : Wilfred Buck
@@ -944,9 +997,9 @@ DESCRIPTION:2025-07-28 20:45:00\n\n1200 rue du Sussex (métro Atwater)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/52369969
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250801T180000
 DTEND;TZID=America/Toronto:20250801T200000
 SUMMARY:Noise Not Borders
@@ -969,9 +1022,9 @@ DESCRIPTION:2025-08-01 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/2084779406
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250802T100000
 DTEND;TZID=America/Toronto:20250802T120000
 SUMMARY:Terrain Vague : Bioblitz !
@@ -988,9 +1041,9 @@ DESCRIPTION:2025-08-02 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/9672911282
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250704T032621
+DTSTAMP:20250705T032333
 DTSTART;TZID=America/Toronto:20250802T180000
 DTEND;TZID=America/Toronto:20250802T200000
 SUMMARY:Noise Not Borders
