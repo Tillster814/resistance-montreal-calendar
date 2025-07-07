@@ -8,83 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250706T033123
-DTSTART;TZID=America/Toronto:20250706T150000
-DTEND;TZID=America/Toronto:20250706T170000
-SUMMARY:Violet Hour Book Club: "I felt the end before it came"
-LOCATION:6450 avenue Christophe-Colomb
-DESCRIPTION:2025-07-06 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
- //www.openstreetmap.org/way/1080082859\n\nJoin us for the next meeting of 
- the Violet Hour Book Club\, a reading group devoted to classic and contemp
- orary works of LGBTQ literature. The book we will be discussing is I Felt 
- the End Before It Came: Memoirs of a Queer Ex-Jehovah's Witness (2023) by 
- Montreal writer Daniel Allen Cox.\nToustes sont invités·es au Violet Hou
- r Book Club\, et chacun.e est bienvenu.e à partager ses pensées sur le l
- ivre en anglais ou en français.\nWe will be meeting at Espace des Possibl
- es Petite-Patrie (6450 Avenue Christophe Colomb\, Beaubien Metro). L’Esp
- ace des Possibles a comme mission d’offrir un lieu d’entraide\, d’ap
- prentissages et d’implication dédié à la transition sociale et écolo
- gique (la transition socio-écologique). The space is wheelchair accessibl
- e.\nThe space is given to us for free\, but VHBC participants are welcome 
- to make voluntary contributions to help support our mandate to create LGBT
- Q literary events for Montrealers.\nA reminder: All VHBC titles are availa
- ble at Librairie Paragraphe Bookstore (2220\, McGill College Ave) at 15% o
- ff and at Librairie Pulp Books &amp\; Cafe (3952 Wellington St.) at 10% of
- f.\nABOUT THE BOOK ///\n“I spent eighteen years in a group that taught m
- e to hate myself. You cannot be queer and a Jehovah’s Witness—it’s o
- ne or the other.”\nDaniel Allen Cox grew up with firm lines around what 
- his religion considered unacceptable: celebrating birthdays and holidays\,
-  voting in elections\, pursuing higher education\, and other forays into i
- ndependent thought. Their opposition to blood transfusions would have cons
- equences for his mother\, just as their stance on homosexuality would for 
- him.\nBut even years after whispers of his sexual orientation reached his 
- congregation’s presiding elder\, catalyzing his disassociation\, the dis
- tinction between “in” and “out” isn’t always clear. Still in the
-  midst of a lifelong disentanglement\, Cox grapples with the group’s cul
- tish tactics—from gaslighting to shunning—and their resulting harms—
- from simmering anger to substance abuse—all while redefining its concept
- s through a queer lens. Can Paradise be a bathhouse\, a concert hall\, or 
- a room full of books?\nWith great candour and disarming self-awareness\, C
- ox takes readers on a journey from his early days as a solicitous door-to-
- door preacher in Montreal to a stint in New York City\, where he’s swept
-  up in a scene of photographers and hustlers blurring the line between art
-  and pornography. The culmination of years spent both processing and avoid
- ing a complicated past\, I Felt the End Before It Came reckons with memory
-  and language just as it provides a blueprint to surviving a litany of Arm
- ageddons.\n*SHORTLISTED FOR THE GRAND PRIX DU LIVRE DE MONTREAL*\nA PUBLIS
- HERS WEEKLY BEST BOOK OF 2023\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250706T033123
-DTSTART;TZID=America/Toronto:20250706T173000
-DTEND;TZID=America/Toronto:20250706T193000
-SUMMARY:Club de lecture solidaire anticolonialiste
-LOCATION:6450 avenue Christophe-Colomb
-DESCRIPTION:2025-07-06 17:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
- //www.openstreetmap.org/way/1080082859\n\nNous sommes très heureuses de v
- ous annoncer le lancement de notre club de lecture solidaire!\nPour notre 
- première lecture\, nous avons choisi Perfect Victims de Mohammed El-Kurd.
-  La première rencontre a eu lieu le 22 juin... On commence la lecture dou
- cement.\nDeuxième rencontre : dimanche 6 juillet\, de 17h30 à 19h\nLieu 
- : Espace des Possibles Petite-Patrie\nLe concept est simple : lire quelque
- s chapitres entre chaque rencontre\, et se retrouver toutes les deux semai
- nes pour échanger autour du livre. Les rencontres auront lieu en alternan
- ce\, une fois à la librairie n’était-ce pas l’été\, la fois suivan
- te à l’Espace des possibles de la Petite-Patrie\, et ainsi de suite.\nO
- n commence doucement pour laisser à tout le monde le temps de se procurer
-  le livre.\nCe livre n’existe qu’en anglais\, mais notre club de lectu
- re sera bilingue. Le prochain livre sera en français ou disponible dans l
- es deux langues!\nSi vous êtes intéressé·e·s à participer\, écrivez
- -nous!\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250707T083000
 DTEND;TZID=America/Toronto:20250707T103000
 SUMMARY:Action procès rozon
@@ -106,9 +30,9 @@ DESCRIPTION:2025-07-07 08:30:00\n\n10 St-Antoine Est (métro Champ-de-Mars
 URL;VALUE=URI:https://www.openstreetmap.org/way/20919177
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250707T183000
 DTEND;TZID=America/Toronto:20250707T203000
 SUMMARY:Movie : "Am I OK?"
@@ -146,9 +70,9 @@ DESCRIPTION:2025-07-07 18:30:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250707T190000
 DTEND;TZID=America/Toronto:20250707T210000
 SUMMARY:Last Generation - Intro Talk
@@ -159,9 +83,9 @@ DESCRIPTION:2025-07-07 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250707T210000
 DTEND;TZID=America/Toronto:20250707T230000
 SUMMARY:Cinéma sous les étoiles : "Union"
@@ -183,9 +107,9 @@ DESCRIPTION:2025-07-07 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250707T210000
 DTEND;TZID=America/Toronto:20250707T230000
 SUMMARY:Cinéma sous les étoiles : "Diaries from Lebanon"
@@ -205,9 +129,9 @@ DESCRIPTION:2025-07-07 21:00:00\n\n70 Av. Shamrock (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/6653792333
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250708T110000
 DTEND;TZID=America/Toronto:20250708T130000
 SUMMARY:Justice pour les travailleurs d'amazon licenciés
@@ -276,9 +200,9 @@ DESCRIPTION:2025-07-08 11:00:00\n\n655 Parthenais (métro Papineau)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034334376
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250708T210000
 DTEND;TZID=America/Toronto:20250708T230000
 SUMMARY:Cinéma sous les étoiles : "Ninan Auassat : Nous\, les enfants"
@@ -300,9 +224,9 @@ DESCRIPTION:2025-07-08 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250709T160000
 DTEND;TZID=America/Toronto:20250709T180000
 SUMMARY:C'est print!
@@ -337,9 +261,9 @@ DESCRIPTION:2025-07-09 16:00:00\n\n350 Ste-Catherine Ouest (métro Place-d
 URL;VALUE=URI:https://www.openstreetmap.org/node/12547101739
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250709T190000
 DTEND;TZID=America/Toronto:20250709T210000
 SUMMARY:Ciné-club de la transition : "Une île et une nuit"
@@ -368,9 +292,9 @@ DESCRIPTION:2025-07-09 19:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250709T210000
 DTEND;TZID=America/Toronto:20250709T230000
 SUMMARY:Cinéma sous les étoiles : "Sudan\, remember us"
@@ -384,9 +308,9 @@ DESCRIPTION:2025-07-09 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250710T210000
 DTEND;TZID=America/Toronto:20250710T230000
 SUMMARY:Cinéma sous les étoiles : "Sept-Îles '72 - archives du monde or
@@ -404,9 +328,9 @@ DESCRIPTION:2025-07-10 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250710T210000
 DTEND;TZID=America/Toronto:20250710T230000
 SUMMARY:Cinéma sous les étoiles : "No Other Land"
@@ -424,9 +348,9 @@ DESCRIPTION:2025-07-10 21:00:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250711T173000
 DTEND;TZID=America/Toronto:20250711T193000
 SUMMARY:Lancement de livre et de zine : "Un cimetière de cellules scintil
@@ -450,9 +374,9 @@ DESCRIPTION:2025-07-11 17:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250711T200000
 DTEND;TZID=America/Toronto:20250711T220000
 SUMMARY:Show bénéfice pour Spectre de rue 25$
@@ -474,9 +398,9 @@ DESCRIPTION:2025-07-11 20:00:00\n\n2040 St-Denis (métro Berri)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11004970512
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033058
 DTSTART;TZID=America/Toronto:20250712T100000
 DTEND;TZID=America/Toronto:20250712T120000
 SUMMARY:Balade : Toutes à vélo !
@@ -497,9 +421,9 @@ DESCRIPTION:2025-07-12 10:00:00\n\n(Montréal-Nord)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972741969
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250712T130000
 DTEND;TZID=America/Toronto:20250712T150000
 SUMMARY:Vigil for Palestine
@@ -515,9 +439,9 @@ DESCRIPTION:2025-07-12 13:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/1456304180
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250712T130000
 DTEND;TZID=America/Toronto:20250712T150000
 SUMMARY:Big Fiesta Punk Oï Gratuit
@@ -546,9 +470,9 @@ DESCRIPTION:2025-07-12 13:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/12027163491
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250714T210000
 DTEND;TZID=America/Toronto:20250714T230000
 SUMMARY:Cinéma sous les étoiles : "The Sky above Zenica"
@@ -562,9 +486,69 @@ DESCRIPTION:2025-07-14 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
+DTSTART;TZID=America/Toronto:20250715T190000
+DTEND;TZID=America/Toronto:20250715T210000
+SUMMARY:Book Launch: "When Genocide Wasn't News"
+LOCATION:3714 du Parc (métro Place-des-Arts)
+DESCRIPTION:2025-07-15 19:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
+ nhttps://www.openstreetmap.org/node/11729165947\n\nJoin journalist Desmond
+  Cole and media advocate Jason Toney and other guests for a conversation a
+ bout the newly published book When Genocide Wasn’t News: How Canadian me
+ dia covered-up the destruction of Gaza.\nThe sharp and searing anthology l
+ ays bare the Canadian establishment media’s complicity in the destructio
+ n of Gaza.\nPublished by The Breach\, an award-winning independent media o
+ utlet\, the collection brings together urgent investigations and analysis 
+ by leading independent journalists and advocates who set the record straig
+ ht.\nFor more info about the book\, visit our website: https://breachmedia
+ .ca/when-genocide-wasnt-news/\nThe Cooperative Bar Milton Parc is wheelcha
+ ir accessible.\nBooks will be available for purchase for $25.\n*This event
+  is free\, and tickets are not mandatory.\nRSVP: https://www.eventbrite.co
+ m/.../book-launch-when-genocide...\nBios:\nDesmond Cole is an independent 
+ journalist and a senior writer with The Breach based in Toronto. His numer
+ ous works include print media\, podcasts\, live radio\, documentary film\,
+  and his bestselling non-fiction book\, The Skin We're In: A Year of Black
+  Resistance and Power.\nJason Toney is the director of media advocacy at C
+ anadians for Justice and Peace in the Middle East (CJPME)\, where he leads
+  the Media Accountability Project\, monitoring Canadian media coverage of 
+ Palestine. He has been active in Palestine solidarity for more than a deca
+ de. Jason previously worked in independent publishing with Black Rose Book
+ s and Daraja Press. He is the editor of Take the City and has published es
+ says on media\, municipalism\, Hannah Arendt\, and Murray Bookchin.\n—--
+ -------\nJoignez le journaliste Desmond Cole\, le partisan des médias Jas
+ on Toney\, et d’autres invités pour une conversation sur le récemment 
+ publié When Genocide Wasn’t News: How Canadian media covered-up the des
+ truction of Gaza.\nCette anthologie acerbe et brûlante met à nu la compl
+ icité des médias de l'establishment canadien dans la destruction de Gaza
+ .\nPubliée par The Breach\, un média indépendant primé\, la collection
+  rassemble des enquêtes et des analyses urgentes réalisées par des jour
+ nalistes indépendants et des défenseurs.euses des droits qui remettent l
+ es pendules à l'heure.\nPour plus d’information sur le livre\, visitez 
+ notre site web https://breachmedia.ca/when-genocide-wasnt-news/\nLe Cooper
+ ative Bar Milton Parc est accessible aux personnes en fauteuil roulant.\nL
+ ivres seront disponible à l'achat au prix 25 $.\n*Cet événement est gra
+ tuit\, et les billets ne sont pas obligatoires.\nRSVP: https://www.eventbr
+ ite.com/.../book-launch-when-genocide...\nBios:\nDesmond Cole est un journ
+ aliste indépendant et un journaliste senior de The Breach\, à Toronto. S
+ es nombreux travaux comprennent la presse écrite\, les podcasts\, la radi
+ o en direct\, les films documentaires et son livre best-seller\, The Skin 
+ We're In : A Year of Black Resistance and Power.\nJason Toney est directeu
+ r de la défense des médias chez Canadiens pour la justice et la paix au 
+ Moyen-Orient (CJPMO)\, où il dirige le projet de responsabilisation des m
+ édias\, qui surveille la couverture médiatique de la Palestine au Canada
+ . Il est actif dans la solidarité avec la Palestine depuis plus de dix an
+ s. Jason a travaillé dans l'édition indépendante avec Black Rose Books 
+ et Daraja Press. Il est l'éditeur de Take the City et a publié des essai
+ s sur les médias\, le municipalisme\, Hannah Arendt et Murray Bookchin.\n
+ &nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-19
+SEQUENCE:0
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250715T210000
 DTEND;TZID=America/Toronto:20250715T230000
 SUMMARY:Cinéma sous les étoiles : "Les oiseaux de nuit" + "Snake Hill"
@@ -586,9 +570,9 @@ DESCRIPTION:2025-07-15 21:00:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250715T210000
 DTEND;TZID=America/Toronto:20250715T230000
 SUMMARY:Cinéma sous les étoiles : "Middletown"
@@ -605,9 +589,9 @@ DESCRIPTION:2025-07-15 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250716T210000
 DTEND;TZID=America/Toronto:20250716T230000
 SUMMARY:Cinéma sous les étoiles : "Sur la paille"
@@ -622,9 +606,9 @@ DESCRIPTION:2025-07-16 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250717T210000
 DTEND;TZID=America/Toronto:20250717T230000
 SUMMARY:Cinéma sous les étoiles : "Plastic People"
@@ -641,9 +625,9 @@ DESCRIPTION:2025-07-17 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250718T180000
 DTEND;TZID=America/Toronto:20250718T200000
 SUMMARY:Atelier : viens créer un zine !
@@ -672,9 +656,9 @@ DESCRIPTION:2025-07-18 18:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250718T210000
 DTEND;TZID=America/Toronto:20250718T230000
 SUMMARY:Cinéma sous les étoiles : "Le goût des choses"
@@ -692,9 +676,9 @@ DESCRIPTION:2025-07-18 21:00:00\n\nMarché Maisonneuve (métro Pie-IX)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/relation/17587309
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250719T130000
 DTEND;TZID=America/Toronto:20250719T150000
 SUMMARY:Vigil for Palestine
@@ -712,9 +696,9 @@ DESCRIPTION:2025-07-19 13:00:00\n\n1435 St-Alexandre (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11401885399
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250720T170000
 DTEND;TZID=America/Toronto:20250720T190000
 SUMMARY:BBQ de l'ORA
@@ -722,9 +706,9 @@ LOCATION:TBD
 DESCRIPTION:2025-07-20 17:00:00\n\nTBD
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250720T193000
 DTEND;TZID=America/Toronto:20250720T213000
 SUMMARY:[mixité choisie] Trans Joy Zine Making Workshop
@@ -751,9 +735,9 @@ DESCRIPTION:2025-07-20 19:30:00\n\n2035 St-Laurent\, 3e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/node/2505201225
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250721T190000
 DTEND;TZID=America/Toronto:20250721T210000
 SUMMARY:Last Generation - Intro Talk
@@ -764,9 +748,9 @@ DESCRIPTION:2025-07-21 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250722T204500
 DTEND;TZID=America/Toronto:20250722T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #2
@@ -796,9 +780,9 @@ DESCRIPTION:2025-07-22 20:45:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250723T204500
 DTEND;TZID=America/Toronto:20250723T224500
 SUMMARY:Cinéma sous les étoildes : From Ground Zero
@@ -815,9 +799,9 @@ DESCRIPTION:2025-07-23 20:45:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250724T133000
 DTEND;TZID=America/Toronto:20250724T153000
 SUMMARY:Atelier mythes et réalités sur le droit au logement
@@ -834,9 +818,9 @@ DESCRIPTION:2025-07-24 13:30:00\n\n5350\, rue Lafond\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/12507463961
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250724T204500
 DTEND;TZID=America/Toronto:20250724T224500
 SUMMARY:Cinéma sous les étoiles : Dahomey
@@ -853,9 +837,9 @@ DESCRIPTION:2025-07-24 20:45:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250724T204500
 DTEND;TZID=America/Toronto:20250724T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #3
@@ -884,9 +868,9 @@ DESCRIPTION:2025-07-24 20:45:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250725T170000
 DTEND;TZID=America/Toronto:20250725T190000
 SUMMARY:Masse critique de juillet
@@ -935,9 +919,9 @@ DESCRIPTION:2025-07-25 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250725T204500
 DTEND;TZID=America/Toronto:20250725T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #4
@@ -962,9 +946,9 @@ DESCRIPTION:2025-07-25 20:45:00\n\nMarché Maisonneuve (métro Pie-IX)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/relation/17587309
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250726T120000
 DTEND;TZID=America/Toronto:20250726T140000
 SUMMARY:Vente de livres de gauche
@@ -991,9 +975,28 @@ DESCRIPTION:2025-07-26 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-37
+SEQUENCE:0
+DTSTAMP:20250707T033059
+DTSTART;TZID=America/Toronto:20250726T120000
+DTEND;TZID=America/Toronto:20250726T140000
+SUMMARY:Palestine in the Park
+LOCATION:(métro Angrignon)
+DESCRIPTION:2025-07-26 12:00:00\n\n(métro Angrignon)\n\nhttps://www.opens
+ treetmap.org/node/9327514395\n\noin us on July 26th to check out our bazaa
+ r\, featuring local Palestinian and Arab artisans!\n📍 Date: Saturday\, 
+ July 26\n🕛 Time: 12:00 PM - 8:00 PM\n📌 Location: Angrignon Park - 34
+ 00 Boulevard des Trinitaires\, Montreal\n••••\nVenez nous rejoindr
+ e le 26 juillet pour découvrir notre bazar\, qui présente des artisans p
+ alestiniens et arabes locaux !\n📅 Date : Samedi 26 juillet\n⏰ Heure :
+  12h00 — 20h00\n📍 Lieu : Parc Angrignon — 3400 boulevard des Trinit
+ aires\, Montréal\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/9327514395
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250726T170000
 DTEND;TZID=America/Toronto:20250726T190000
 SUMMARY:BMP turns one!
@@ -1013,7 +1016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250726T180000
 DTEND;TZID=America/Toronto:20250726T200000
 SUMMARY:Revolutionary Play 10$: Ram Mohammad Singh Azad (Shaheed Udham Sin
@@ -1057,7 +1060,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250728T204500
 DTEND;TZID=America/Toronto:20250728T224500
 SUMMARY:Cinéma sous les étoiles : Wilfred Buck
@@ -1072,7 +1075,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250730T204500
 DTEND;TZID=America/Toronto:20250730T224500
 SUMMARY:Cinéma sous les étoiles : "Cohabiter"
@@ -1090,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250731T204500
 DTEND;TZID=America/Toronto:20250731T224500
 SUMMARY:Cinéma sous les étoildes : "Chronique d'une crise"
@@ -1110,7 +1113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250801T180000
 DTEND;TZID=America/Toronto:20250801T200000
 SUMMARY:Noise Not Borders
@@ -1135,7 +1138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250802T100000
 DTEND;TZID=America/Toronto:20250802T120000
 SUMMARY:Terrain Vague : Bioblitz !
@@ -1154,7 +1157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250802T150000
 DTEND;TZID=America/Toronto:20250802T170000
 SUMMARY:Violet Hour Book Club: "I Remember Lights"
@@ -1218,7 +1221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250802T180000
 DTEND;TZID=America/Toronto:20250802T200000
 SUMMARY:Noise Not Borders
@@ -1243,7 +1246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20250706T033123
+DTSTAMP:20250707T033059
 DTSTART;TZID=America/Toronto:20250804T190000
 DTEND;TZID=America/Toronto:20250804T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1252,5 +1255,50 @@ DESCRIPTION:2025-08-04 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
  ://www.openstreetmap.org/node/11972883637\n\nIntro talk\n19h00 - 20h30 EDT
  \n5031 R. Saint-Denis\nMontreal\nQuebec\nH2J 2L9
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-48
+SEQUENCE:0
+DTSTAMP:20250707T033059
+DTSTART;TZID=America/Toronto:20250805T180000
+DTEND;TZID=America/Toronto:20250805T200000
+SUMMARY:Cinéma sous les étoiles : lauréat-e-s de la compétition de cou
+ rts métrages
+LOCATION:4375 Cartier (métro Mont-Royal)
+DESCRIPTION:2025-08-05 18:00:00\n\n4375 Cartier (métro Mont-Royal)\n\nhtt
+ ps://www.openstreetmap.org/way/112450111\n\nRendez-vous au parc des Compag
+ nons pour découvrir le palmarès de notre compétition de court métrage 
+ documentaire 2025.&nbsp\;\nLa programmation de courts métrages est divis
+ é en 3 catégories : Programmation québécoise\, Programmation canadienn
+ e et Programmation internationale. Un jury composé de professionnel·les 
+ et d'étudiant·e·s remettront plus de 30 000$ de prix dans 6 prix.&nbsp\
+ ;\nPrix Coup de Poing – remis dans la catégorie Programmation québéco
+ ise au film qui se démarque par la force de son propos.&nbsp\;&nbsp\;\n
+ – Prix de 3000 $ en services + un abonnement d'un an remis par Vidéogra
+ phe et 2500 $ en services remis par SLA Location.\nPrix Cinématographie 
+ – remis dans la catégorie Programmation québécoise au film qui se dé
+ marque par ses qualités cinématographiques\, sa direction artistique et 
+ ses qualités sonores.\nPrix de 2000 $ en services de production remis par
+  Main Film et 1600 $ en services remis par Bande à part.\nPrix Meilleur E
+ spoir – remis dans la catégorie Programmation québécoise\, le prix se
+ ra attribué à une première réalisation. Résidence d'une valeur de 900
+ 0$ chez Paraloeil. (Résidence d'une valeur de 9000$ chez Paraloeil\, incl
+ uant 1000$ de cachet\, 10 jours d'hébergement dans un lieu typiquement ba
+ s-laurentien\, un accès gratuit à notre parc d'équipements et notre sal
+ le de montage\, un mentorat de 5h avec un·e professionnel·le membre de P
+ araloeil\, 2 ans de membership pro\, une sortie de résidence au Cinéma P
+ araloeil\, ainsi qu'une intégration sympathique dans la vie socioculturel
+ le rimouskoise.)\nPrix Meilleur Court Métrage Canadien – remis dans la 
+ catégorie Programmation canadienne.\nPrix de 500$ en argent remis par l'O
+ bservatoire du Documentaire\, 500$ en argent remis par Les Films du 3 Mars
+ \, et un abonnement pro d'une valeur 250$ remis par Doc Canada.\nPrix Meil
+ leur Court Métrage International – remis dans la catégorie Programmati
+ on internationale.\nPrix de 250 $ en argent\, remis par Tënk.\nUn sixièm
+ e prix\, le Prix Coup de cœur étudiant\, remis dans la catégorie Progra
+ mmation québécoise\, sera décerné par un jury composé d’étudiant·
+ e·s.\nPrix de 5000 $ en services remis PRIM et 2500$ en service remis par
+  Royal Photo.\nLes trophées sont réalisés par les Forges de Montréal.\
+ n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/112450111
 END:VEVENT
 END:VCALENDAR
