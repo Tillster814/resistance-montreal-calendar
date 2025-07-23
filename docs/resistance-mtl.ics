@@ -8,70 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250722T033224
-DTSTART;TZID=America/Toronto:20250722T190000
-DTEND;TZID=America/Toronto:20250722T210000
-SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
-LOCATION:(ou organisez de quoi dans votre coin!)
-DESCRIPTION:2025-07-22 19:00:00\n\n(ou organisez de quoi dans votre coin!)
- \n\nhttps://www.openstreetmap.org/node/281754824 + https://www.openstreetm
- ap.org/node/5022472293\n\nLes Casseroles du mardi : Dehors la CAQ! est un 
- mouvement citoyen qui s'est animé suite à l'idée de ressortir nos casse
- roles\, comme en 2012\, pour exprimer notre opposition face aux décisions
-  prisent par le gouvernement de la CAQ !\nL'arrogance du Premier Ministre\
- , des ministres Duranceau\, Drainville\, Roberge\, Charette\, Carmant\, Gu
- ilbault\, Blanchette-Vézina\, Dubé et cie a assez fait de ravages !!! Le
- s dommages collatéraux de leurs décisions vulnérabilisent trop de perso
- nnes pour que l'on reste dans l'inertie !!!\nEnsemble\, ressortons nos cas
- seroles pour que ce gouvernement n'ait plus le choix d'entendre et d'écou
- ter notre opposition collective\, notre ras-le-bol collectif!!!\nCrise du 
- logement - Coupures en éducation - Coupures en culture - Mépris des cont
- ribuables - Investissements Pro-Israël - Stigmatisation des personnes imm
- igrantes - Racisme systémique - Nationalisme identitaire - Mépris des pe
- rsonnes en situation de pauvreté - Projets de lois adoptés sous baîllon
-  - Droits de l'environnement bafoués - Attaques aux droits des personnes 
- issues de la diversité sexuelle et de genre - Mépris des droits ancestra
- ux des Premiers peuples\, etc.\nEnsemble\, exigeons de nouvelles élection
- s ! Ensemble crions : DEHORS LA CAQ !!!!\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
- penstreetmap.org/node/5022472293
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250722T033224
-DTSTART;TZID=America/Toronto:20250722T204500
-DTEND;TZID=America/Toronto:20250722T224500
-SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #2
-LOCATION:(métro Frontenac)
-DESCRIPTION:2025-07-22 20:45:00\n\n(métro Frontenac)\n\nhttps://www.opens
- treetmap.org/way/159602678\n\nFILMS PRÉSENTÉS\nRacines\nMathieu Bélange
- r-Landry\nLinda retourne à Kapuskasing\, sa ville natale\, afin de compre
- ndre pourquoi sa famille autochtone l'a donnée en adoption.&nbsp\;\nIdent
- ité\, Premières nations\nAn Impression of Everything\nMillefiore Clarkes
- \nUn film lyrique tente de saisir l'unité face à la division mondiale cr
- oissante\, avec des images de productions\, d'archives et de banques libre
- s.&nbsp\;\nIdentité\, Social\nDepuis\, je vole\nAylin Gökmen\nUn Kurde n
- omade de 60 ans évoque son enfance idyllique\, son premier amour perdu et
-  les abus policiers subis en Turquie.&nbsp\;\nIdentité\, Portrait\nDespu
- és del silencio\nMatilde-Luna Perotti\nLa parole brise le silence de la v
- ictime\, arme essentielle contre la force de l'agresseur\, vers la libert
- é.&nbsp\;\nViolences sexuelles\nIlnikueu\nComité De femmes Puakuteu\nÀ 
- travers la confection de poupées\, des femmes Mashteuiatsh partagent leur
-  chemin de deuil et bâtissent une solidarité forte.&nbsp\;\nFéminisme\,
-  Premières nations\nSpeech for a melting statue\nCollectif Faire-Part\nUn
- e poétesse espère la chute de la statue de Léopold II à Bruxelles\, sy
- mbole du racisme institutionnel hérité du passé colonial belge.&nbsp\;\
- nLutte sociale\, Racisme\nÇa va finir par finir\nNancy Pettinicchio\nDesi
- gner queer montréalais\, Gabriel partage son acceptation du VIH et son en
- gagement communautaire dans un regard militant actuel et plein d'espoir.\n
- LGBTQI2SA+\, Social\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/159602678
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250723T204500
 DTEND;TZID=America/Toronto:20250723T224500
 SUMMARY:Cinéma sous les étoildes : From Ground Zero
@@ -88,9 +25,9 @@ DESCRIPTION:2025-07-23 20:45:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250724T133000
 DTEND;TZID=America/Toronto:20250724T153000
 SUMMARY:Atelier mythes et réalités sur le droit au logement
@@ -107,9 +44,9 @@ DESCRIPTION:2025-07-24 13:30:00\n\n5350\, rue Lafond\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/12507463961
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250724T153000
 DTEND;TZID=America/Toronto:20250724T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -138,9 +75,9 @@ DESCRIPTION:2025-07-24 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250724T204500
 DTEND;TZID=America/Toronto:20250724T224500
 SUMMARY:Cinéma sous les étoiles : Dahomey
@@ -157,9 +94,9 @@ DESCRIPTION:2025-07-24 20:45:00\n\nParc Lafontaine (métro Sherbrooke)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/7363083869
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250724T204500
 DTEND;TZID=America/Toronto:20250724T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #3
@@ -188,9 +125,9 @@ DESCRIPTION:2025-07-24 20:45:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250725T170000
 DTEND;TZID=America/Toronto:20250725T190000
 SUMMARY:Masse critique de juillet
@@ -239,9 +176,9 @@ DESCRIPTION:2025-07-25 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250725T204500
 DTEND;TZID=America/Toronto:20250725T224500
 SUMMARY:Cinéma sous les étoiles : Compétition de courts-métrages #4
@@ -266,9 +203,9 @@ DESCRIPTION:2025-07-25 20:45:00\n\nMarché Maisonneuve (métro Pie-IX)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/relation/17587309
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250726T120000
 DTEND;TZID=America/Toronto:20250726T140000
 SUMMARY:Vente de livres de gauche
@@ -295,9 +232,9 @@ DESCRIPTION:2025-07-26 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250726T120000
 DTEND;TZID=America/Toronto:20250726T140000
 SUMMARY:Palestine in the Park
@@ -314,9 +251,9 @@ DESCRIPTION:2025-07-26 12:00:00\n\n(métro Angrignon)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/node/9327514395
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250726T140000
 DTEND;TZID=America/Toronto:20250726T160000
 SUMMARY:Queer + Trans = Book + Zine swap
@@ -350,9 +287,9 @@ DESCRIPTION:2025-07-26 14:00:00\n\nCoin Sherbrooke/Papineau (métro Papine
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034659612
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250726T150000
 DTEND;TZID=America/Toronto:20250726T170000
 SUMMARY:Vigil for Palestine
@@ -368,9 +305,9 @@ DESCRIPTION:2025-07-26 15:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/1456304182
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250726T160000
 DTEND;TZID=America/Toronto:20250726T180000
 SUMMARY:Cinéma sous les étoiles : Pour la suite du doc - Apéro des cin
@@ -389,9 +326,9 @@ DESCRIPTION:2025-07-26 16:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250726T170000
 DTEND;TZID=America/Toronto:20250726T190000
 SUMMARY:BMP turns one!
@@ -409,9 +346,9 @@ DESCRIPTION:2025-07-26 17:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250726T180000
 DTEND;TZID=America/Toronto:20250726T200000
 SUMMARY:Revolutionary Play 10$: Ram Mohammad Singh Azad (Shaheed Udham Sin
@@ -453,9 +390,9 @@ DESCRIPTION:2025-07-26 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250728T204500
 DTEND;TZID=America/Toronto:20250728T224500
 SUMMARY:Cinéma sous les étoiles : Wilfred Buck
@@ -468,9 +405,9 @@ DESCRIPTION:2025-07-28 20:45:00\n\n1200 rue du Sussex (métro Atwater)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/52369969
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250729T190000
 DTEND;TZID=America/Toronto:20250729T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -499,9 +436,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250730T204500
 DTEND;TZID=America/Toronto:20250730T224500
 SUMMARY:Cinéma sous les étoiles : "Cohabiter"
@@ -517,9 +454,9 @@ DESCRIPTION:2025-07-30 20:45:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/102913023
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250731T153000
 DTEND;TZID=America/Toronto:20250731T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -548,9 +485,9 @@ DESCRIPTION:2025-07-31 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250731T204500
 DTEND;TZID=America/Toronto:20250731T224500
 SUMMARY:Cinéma sous les étoildes : "Chronique d'une crise"
@@ -568,9 +505,9 @@ DESCRIPTION:2025-07-31 20:45:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250801T180000
 DTEND;TZID=America/Toronto:20250801T200000
 SUMMARY:Noise Not Borders
@@ -593,9 +530,9 @@ DESCRIPTION:2025-08-01 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/2084779406
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250802T100000
 DTEND;TZID=America/Toronto:20250802T120000
 SUMMARY:Terrain Vague : Bioblitz !
@@ -612,9 +549,9 @@ DESCRIPTION:2025-08-02 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/9672911282
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250802T130000
 DTEND;TZID=America/Toronto:20250802T150000
 SUMMARY:Wild Pride Gaming Panel - Panel sur les jeux vidéos de Fierté In
@@ -635,9 +572,9 @@ DESCRIPTION:2025-08-02 13:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250802T150000
 DTEND;TZID=America/Toronto:20250802T170000
 SUMMARY:Violet Hour Book Club: "I Remember Lights"
@@ -699,9 +636,9 @@ DESCRIPTION:2025-08-02 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250802T150000
 DTEND;TZID=America/Toronto:20250802T170000
 SUMMARY:Vigil for Palestine
@@ -718,9 +655,9 @@ DESCRIPTION:2025-08-02 15:00:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165059035
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250802T180000
 DTEND;TZID=America/Toronto:20250802T200000
 SUMMARY:Noise Not Borders
@@ -743,9 +680,9 @@ DESCRIPTION:2025-08-02 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/2084779406
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250804T190000
 DTEND;TZID=America/Toronto:20250804T210000
 SUMMARY:Last Generation - Intro Talk
@@ -756,9 +693,9 @@ DESCRIPTION:2025-08-04 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250804T203000
 DTEND;TZID=America/Toronto:20250804T223000
 SUMMARY:Cinéma sous les étoiles : "Union" (reprise)
@@ -780,9 +717,9 @@ DESCRIPTION:2025-08-04 20:30:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250805T180000
 DTEND;TZID=America/Toronto:20250805T200000
 SUMMARY:Cinéma sous les étoiles : lauréat-e-s de la compétition de cou
@@ -825,9 +762,9 @@ DESCRIPTION:2025-08-05 18:00:00\n\n4375 Cartier (métro Mont-Royal)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/112450111
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250805T190000
 DTEND;TZID=America/Toronto:20250805T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -856,9 +793,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250806T000100
 DTEND;TZID=America/Toronto:20250806T020100
 SUMMARY:Présence autochtone
@@ -901,9 +838,9 @@ DESCRIPTION:2025-08-06 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250807T000100
 DTEND;TZID=America/Toronto:20250807T020100
 SUMMARY:Présence autochtone
@@ -946,9 +883,9 @@ DESCRIPTION:2025-08-07 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250807T153000
 DTEND;TZID=America/Toronto:20250807T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -977,9 +914,9 @@ DESCRIPTION:2025-08-07 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250807T203000
 DTEND;TZID=America/Toronto:20250807T223000
 SUMMARY:Cinéma sous les étoiles : "Accepte-toi comme je suis"
@@ -996,9 +933,9 @@ DESCRIPTION:2025-08-07 20:30:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250808T000100
 DTEND;TZID=America/Toronto:20250808T020100
 SUMMARY:Présence autochtone
@@ -1041,9 +978,9 @@ DESCRIPTION:2025-08-08 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250809T000100
 DTEND;TZID=America/Toronto:20250809T020100
 SUMMARY:Présence autochtone
@@ -1086,9 +1023,22 @@ DESCRIPTION:2025-08-09 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
+DTSTART;TZID=America/Toronto:20250809T130000
+DTEND;TZID=America/Toronto:20250809T150000
+SUMMARY:Lancement de livre : "Grann et moi\, l'été de mes 11 ans"
+LOCATION:2865 Fleury Est
+DESCRIPTION:2025-08-09 13:00:00\n\n2865 Fleury Est\n\nhttps://www.openstre
+ etmap.org/node/11972865852\n\nRoman jeunesse illustré - à partir de 10 a
+ ns
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972865852
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-36
+SEQUENCE:0
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250809T213000
 DTEND;TZID=America/Toronto:20250809T233000
 SUMMARY:Rad Pride
@@ -1102,9 +1052,9 @@ DESCRIPTION:2025-08-09 21:30:00\n\n(métro Berri)\n\nhttps://www.openstree
 URL;VALUE=URI:https://www.openstreetmap.org/way/27342719
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250810T000100
 DTEND;TZID=America/Toronto:20250810T020100
 SUMMARY:Présence autochtone
@@ -1147,9 +1097,9 @@ DESCRIPTION:2025-08-10 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250810T124500
 DTEND;TZID=America/Toronto:20250810T144500
 SUMMARY:Palestine tract distribution during the Pride Parade
@@ -1166,9 +1116,9 @@ DESCRIPTION:2025-08-10 12:45:00\n\n(métro McGill)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010965523
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250811T000100
 DTEND;TZID=America/Toronto:20250811T020100
 SUMMARY:Présence autochtone
@@ -1211,9 +1161,9 @@ DESCRIPTION:2025-08-11 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250812T000100
 DTEND;TZID=America/Toronto:20250812T020100
 SUMMARY:Présence autochtone
@@ -1256,9 +1206,9 @@ DESCRIPTION:2025-08-12 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250812T180000
 DTEND;TZID=America/Toronto:20250812T200000
 SUMMARY:Hindutva et liens transnationaux entre les extrêmes droites : la 
@@ -1361,9 +1311,9 @@ DESCRIPTION:2025-08-12 18:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250812T190000
 DTEND;TZID=America/Toronto:20250812T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1392,9 +1342,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250813T000100
 DTEND;TZID=America/Toronto:20250813T020100
 SUMMARY:Présence autochtone
@@ -1437,9 +1387,9 @@ DESCRIPTION:2025-08-13 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250814T000100
 DTEND;TZID=America/Toronto:20250814T020100
 SUMMARY:Présence autochtone
@@ -1482,9 +1432,9 @@ DESCRIPTION:2025-08-14 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250814T120000
 DTEND;TZID=America/Toronto:20250814T140000
 SUMMARY:Fête d'été de l'ACEF
@@ -1495,9 +1445,9 @@ DESCRIPTION:2025-08-14 12:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010970623
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250814T153000
 DTEND;TZID=America/Toronto:20250814T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -1526,9 +1476,9 @@ DESCRIPTION:2025-08-14 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250814T180000
 DTEND;TZID=America/Toronto:20250814T200000
 SUMMARY:Vie de quartier : Viens découvrir l’histoire de ton quartier (C
@@ -1543,9 +1493,9 @@ DESCRIPTION:2025-08-14 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250814T201500
 DTEND;TZID=America/Toronto:20250814T221500
 SUMMARY:Cinéma sous les étoiles : "Le dernier flip : démarchandiser l
@@ -1561,9 +1511,9 @@ DESCRIPTION:2025-08-14 20:15:00\n\ncour de l&#039\;école christ-roi (mét
 URL;VALUE=URI:https://www.openstreetmap.org/relation/13849241
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250815T000100
 DTEND;TZID=America/Toronto:20250815T020100
 SUMMARY:Présence autochtone
@@ -1606,9 +1556,9 @@ DESCRIPTION:2025-08-15 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250815T170000
 DTEND;TZID=America/Toronto:20250815T190000
 SUMMARY:Lancement de livre : "Le bonheur"
@@ -1638,9 +1588,9 @@ DESCRIPTION:2025-08-15 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250816T150000
 DTEND;TZID=America/Toronto:20250816T170000
 SUMMARY:Vigil for Palestine
@@ -1656,9 +1606,9 @@ DESCRIPTION:2025-08-16 15:00:00\n\n(métro de l&#039\;Église)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/node/311564349
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250818T190000
 DTEND;TZID=America/Toronto:20250818T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1669,9 +1619,9 @@ DESCRIPTION:2025-08-18 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250819T133000
 DTEND;TZID=America/Toronto:20250819T153000
 SUMMARY:Groupe de discussion sur un projet d'accompagnement pour la rénov
@@ -1684,9 +1634,9 @@ DESCRIPTION:2025-08-19 13:30:00\n\n7500 Chateaubriand (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010970623
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-55
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250819T190000
 DTEND;TZID=America/Toronto:20250819T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1715,9 +1665,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-56
+UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250819T200000
 DTEND;TZID=America/Toronto:20250819T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -1742,9 +1692,9 @@ DESCRIPTION:2025-08-19 20:00:00\n\n(Montréal-Ouest)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/1074568765
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-57
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20250722T033224
+DTSTAMP:20250723T033242
 DTSTART;TZID=America/Toronto:20250820T170000
 DTEND;TZID=America/Toronto:20250820T190000
 SUMMARY:Lancement de livre : "Devenir Lean"
@@ -1765,5 +1715,36 @@ DESCRIPTION:2025-08-20 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
  ques. Ce livre est le récit de la transformation culturelle du système p
  ublic de santé.\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-57
+SEQUENCE:0
+DTSTAMP:20250723T033242
+DTSTART;TZID=America/Toronto:20250821T153000
+DTEND;TZID=America/Toronto:20250821T173000
+SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
+LOCATION:3594 Jeanne-Mance (métro Place-des-Arts)
+DESCRIPTION:2025-08-21 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
+ s)\n\nhttps://www.openstreetmap.org/node/11973225504\n\nLa Ruche d’Art d
+ e Milton-Parc est de retour !\nTous les jeudis\, de 15h30 à 18h30\, à pa
+ rtir du 3 juillet\, à l’église St. John’s\, 3594 rue Jeanne-Mance.\n
+ Venez créer de l’art\, partager un repas et passer un moment avec votre
+  communauté ! Comme toujours\, il y aura du matériel artistique gratuit 
+ (dessin\, peinture\, sculpture et plus encore)\, un repas communautaire gr
+ atuit\, et des animateur·rice·s locaux·ales pour accompagner les activi
+ tés. Tlachiuak Atelier vendra aussi des oeuvres d'art réalisées par des
+  artistes locaux en situation d'itinérance.\nCet espace est ouvert à tou
+ stes celles et ceux qui se sentent lié·e·s à la communauté de Milton-
+ Parc\, de près ou de loin. Amenez vos ami·e·s\, et à très bientôt !\
+ n________________________________________\nThe Milton-Parc Art Hive is bac
+ k!\nEvery Thursday\, from 3:30 PM to 6:30 PM\, starting July 3rd\, at St. 
+ John’s Church – 3594 Jeanne-Mance.\nCome create art\, share a meal\, a
+ nd spend time with your community! As always\, there will be free art supp
+ lies (drawing\, painting\, carving\, and more)\, a free community meal\, a
+ nd local facilitators to support the activities. Tlachiuak Atelier will al
+ so be selling art made by local artists facing homelessness.\nThis space i
+ s open to anyone who feels connected to the Milton-Parc community in any w
+ ay. Bring your friends\, and we’ll see you there!\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 END:VCALENDAR
