@@ -8,194 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250726T033146
-DTSTART;TZID=America/Toronto:20250726T120000
-DTEND;TZID=America/Toronto:20250726T140000
-SUMMARY:Vente de livres de gauche
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2025-07-26 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208\n\n[English&nbsp\;below]\nVente&nb
- sp\;de&nbsp\;livres&nbsp\;de&nbsp\;gauche\nSamedi\,&nbsp\;le&nbsp\;26&nbsp
- \;juillet\n12–17h\nl'Achoppe&nbsp\;(1800&nbsp\;av.&nbsp\;Letourneux)\nEn
- trée&nbsp\;gratuite!&nbsp\;Bienvenue&nbsp\;à&nbsp\;toustes!\nAccessible&
- nbsp\;en&nbsp\;fauteuil&nbsp\;roulant\nVenez parcourir la littérature rad
- icale de plusieurs éditeurs et projets littéraires radicaux montréalais
- !\nqueer\,&nbsp\;féministe\,&nbsp\;anti-coloniale...\nanti-impérialiste\
- ,&nbsp\;marxiste\,&nbsp\;anarchiste...\nfiction\,&nbsp\;histoire\,&nbsp\;t
- héorie...\nIl&nbsp\;y&nbsp\;en&nbsp\;aura&nbsp\;pour&nbsp\;tous&nbsp\;les
- &nbsp\;goûts&nbsp\;!\npour&nbsp\;plus&nbsp\;d'infos:&nbsp\;leftwingbooks.
- net/popup\n***\nLeft-Wing&nbsp\;Books&nbsp\;Sale\nSaturday\,&nbsp\;July&nb
- sp\;26\n12–5pm\nl'Achoppe&nbsp\;(1800&nbsp\;av.&nbsp\;Letourneux)\nFree&
- nbsp\;Entry!&nbsp\;Everyone&nbsp\;Welcome!\nWheelchair&nbsp\;accessible\nC
- ome browse some fine radical literature from a number of Montreal radical 
- publishers and literature projects!\nqueer\,&nbsp\;feminist\,&nbsp\;anti-c
- olonial...\nanti-imperialist\,&nbsp\;marxist\,&nbsp\;anarchist...\nfiction
- \,&nbsp\;history\,&nbsp\;theory...\nSomething&nbsp\;for&nbsp\;everyone!\nf
- or&nbsp\;more&nbsp\;info:&nbsp\;leftwingbooks.net/popup\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250726T033146
-DTSTART;TZID=America/Toronto:20250726T120000
-DTEND;TZID=America/Toronto:20250726T140000
-SUMMARY:Palestine in the Park
-LOCATION:(métro Angrignon)
-DESCRIPTION:2025-07-26 12:00:00\n\n(métro Angrignon)\n\nhttps://www.opens
- treetmap.org/node/9327514395\n\noin us on July 26th to check out our bazaa
- r\, featuring local Palestinian and Arab artisans!\n📍 Date: Saturday\, 
- July 26\n🕛 Time: 12:00 PM - 8:00 PM\n📌 Location: Angrignon Park - 34
- 00 Boulevard des Trinitaires\, Montreal\n••••\nVenez nous rejoindr
- e le 26 juillet pour découvrir notre bazar\, qui présente des artisans p
- alestiniens et arabes locaux !\n📅 Date : Samedi 26 juillet\n⏰ Heure :
-  12h00 — 20h00\n📍 Lieu : Parc Angrignon — 3400 boulevard des Trinit
- aires\, Montréal\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/9327514395
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20250726T033146
-DTSTART;TZID=America/Toronto:20250726T140000
-DTEND;TZID=America/Toronto:20250726T160000
-SUMMARY:Queer + Trans = Book + Zine swap
-LOCATION:Coin Sherbrooke/Papineau (métro Papineau)
-DESCRIPTION:2025-07-26 14:00:00\n\nCoin Sherbrooke/Papineau (métro Papine
- au)\n\nhttps://www.openstreetmap.org/node/12034659612\n\nJoin Dick’s and
-  Sheer Spite for a book and zine swap! It will take place from 2-5 pm on S
- aturday\, July 26\, or at the same time on Sunday the 27th if it is rainin
- g on Saturday.\n🎒 You can bring zines you have made yourself\, or books
-  and zines that you’re done reading! If you don’t have anything to tra
- de\, you’re still welcome to come pick up some new reading material. The
-  books and zines you bring don’t need to be explicitly queer or trans\, 
- but nothing hateful please.\n📍 We’ll be meeting in Parc Lafontaine\, 
- in the southeast corner of the park (near Sherbrooke and Papineau).&nbsp\;
- \n💜 Access info: We’ll be right next to a parking lot for anyone arri
- ving by car. It is a relatively flat area of the park. It is four blocks u
- phill from Papineau metro\, and directly accessible via the 24 and 45 buse
- s. We don’t have plans for sign interpretation for this event.&nbsp\;\n
- 😷 We ask that you wear a mask (we’ll bring masks if you need one!). I
- f you know that you have\, or have been exposed to\, a contagious illness\
- , please stay home and rest.&nbsp\;\n📚 We’ll sort the books and zines
-  by genre and language to help you find things you’re interested in. At 
- the end of the swap\, books and zines that aren’t claimed will be added 
- to the Dick’s collection where applicable\, or donated.\n💌 This proje
- ct was made possible with the support of the English Language Arts Network
-  Trellis Micro-grant project. The Trellis Micro-grant project\, funded by 
- The Department of Canadian Heritage’s Official Languages Support Program
- s\, seeks to highlight English-language Arts and Artists to make them visi
- ble to a broader community\, and build bridges between Québec’s English
- -speaking minority and Francophone majority.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/12034659612
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20250726T033146
-DTSTART;TZID=America/Toronto:20250726T150000
-DTEND;TZID=America/Toronto:20250726T170000
-SUMMARY:Vigil for Palestine
-LOCATION:(métro Mont-Royal)
-DESCRIPTION:2025-07-26 15:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
- streetmap.org/node/1456304182\n\nJuly 26 @ 15 h 00 min - 17 h 00 min\nPAJU
-  VIGIL PALESTINE: SATURDAY July 26\, Mont-Royal avenue reserved for pedest
- rians\nMÉTRO MONT-ROYAL 470 Mont-Royal Ave E\, Montréal\, Québec\, Cana
- da\nPAJU VIGIL PALESTINE: SATURDAY July 26\, Mont-Royal avenue reserved fo
- r pedestrians &nbsp\; SATURDAY July 26&nbsp\;from 3 pm to 5 pm&nbsp\;on Mo
- nt-Royal avenue&nbsp\;reserved for pedestrians in front of the metro Mont-
- Royal\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/1456304182
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-4
-SEQUENCE:0
-DTSTAMP:20250726T033146
-DTSTART;TZID=America/Toronto:20250726T160000
-DTEND;TZID=America/Toronto:20250726T180000
-SUMMARY:Cinéma sous les étoiles : Pour la suite du doc - Apéro des cin
- éastes
-LOCATION:(métro Laurier)
-DESCRIPTION:2025-07-26 16:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
- eetmap.org/way/65067662\n\nNous sommes ravi·es de vous convier pour la 4
- ᵉ année de l’apéro de mobilisation\, présentée collaboration avec 
- Doc Québec\, Pour la suite du doc\, Les films du 3 Mars\, Réalisatrices 
- Équitables\, Tënk et le RIDM afin de soutenir l'amélioration des condit
- ions de travail des documentaristes au Québec.\nRencontres et échanges p
- our les professionnel·les du milieu documentaire : cinéastes\, partenair
- es et techniciens de l’industrie.\n🎸 Bar et ambiance festive 16h00 au
-  Parc Laurier&nbsp\;\n🍻 Une première bière est offerte aux cinéastes
- .&nbsp\;\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-5
-SEQUENCE:0
-DTSTAMP:20250726T033146
-DTSTART;TZID=America/Toronto:20250726T170000
-DTEND;TZID=America/Toronto:20250726T190000
-SUMMARY:BMP turns one!
-LOCATION:3714 du Parc (métro Place-des-Arts)
-DESCRIPTION:2025-07-26 17:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
- nhttps://www.openstreetmap.org/node/11729165947\n\nSPECIAL ANNOUNCEMENT!! 
- A little teaser post into what we’ve been cooking up…. and it’s some
- thing really exciting!! On July 26th from 5pm till late\, we’re hosting 
- our First Birthday party\, celebrating one year of being in operation!! 
- 🎉🎂\nMark it on your calendar early! 📆 We’ve got a whole evening
-  full of activities planned and trust\, you’re not gonna want to miss th
- is!! Come hang out with your favourite staff\, members\, bar regulars\, or
-  come check out the space for the very first time!!\n⭐️ Stay tuned for
-  more details and info ⭐️\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-6
-SEQUENCE:0
-DTSTAMP:20250726T033146
-DTSTART;TZID=America/Toronto:20250726T180000
-DTEND;TZID=America/Toronto:20250726T200000
-SUMMARY:Revolutionary Play 10$: Ram Mohammad Singh Azad (Shaheed Udham Sin
- gh)
-LOCATION:4848 St-Laurent (métro Laurier)
-DESCRIPTION:2025-07-26 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
- ps://www.openstreetmap.org/way/352197557\n\nPunjabi Revolutionary Play*\nR
- am Mohammad Singh Azad (Shaheed Udham Singh)\nDirected by Nitu Sharma\nWri
- tten by Late Sardar Charan Singh Sindhra\n$10\nAt Sala Rossa\n4848 St Laur
- ent Blvd\, Montreal\, Quebec H2T 1R5\nDoors open: 5pm\nPlay starts: 6pm\nf
- b event: https://www.facebook.com/events/1660496157997611/\n*Subtitles to 
- be displayed in French and English\nA play about revolutionary anti-coloni
- al struggle in British Ruled India.\nUdham Singh (born Sher Singh\; 26 Dec
- ember 1899 – 31 July 1940) was an Indian revolutionary belonging to the 
- Ghadar Party. He sought revenge for the Jallianwala Bagh massacre that too
- k place on 13 April 1919. The British Army opened fire on over 1500 people
-  gathered there (exit was blocked by the army and those trying to flee wer
- e also shot at). It was a protest in Punjab during the annual Baisakhi fai
- r against the arrest of pro-Indian independence activists.\nUdham Singh\, 
- who was the survivor of the Jallianwala Bagh massacre and in retaliation o
- f the massacre of up to 1500 people\, assassinated Michael O'Dwyer\, the f
- ormer lieutenant governor of the Punjab in India and responsible for order
- ing to shoot at the crowd. Singh was tried and incarcerated. While in jail
-  he used the name 'Ram Mohammad Singh Azad'\, which represents Hindu\, Mus
- lim\, Sikh names - the three major religions in India - and his anti-colon
- ial revolutionary desire of being free - Azad.\nHe was sentenced to death 
- and hanged in prison. During his trial\, he said:\n"I did it because I had
-  a grudge against him. He deserved it. He was the real culprit. He wanted 
- to crush the spirit of my people\, so I have crushed him. For full 21 year
- s\, I have been trying to seek vengeance. I am happy that I have done the 
- job. I am not scared of death. I am dying for my country. I have seen my p
- eople starving in India under the British rule. I have protested against t
- his\, it was my duty"[1]\nFor tickets\, contact: 438-934-9999 or at the do
- or.\n&nbsp\;\nPresented by\nArts in the Margins\nIn association with:\nCen
- ter For Performing Arts\nImmigrant Workers Center\nComité d'Action Parc-E
- xtension\nSouth Asian Diaspora Action Collective\nBureau d'Information de 
- Parc Extension\nMedia Partner:\nRadio Humsafar\n[1] https://kulveersamra.w
- ordpress.com/.../ram-mohammad.../\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-7
-SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250728T204500
 DTEND;TZID=America/Toronto:20250728T224500
 SUMMARY:Cinéma sous les étoiles : Wilfred Buck
@@ -208,9 +21,9 @@ DESCRIPTION:2025-07-28 20:45:00\n\n1200 rue du Sussex (métro Atwater)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/52369969
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250729T190000
 DTEND;TZID=America/Toronto:20250729T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -239,9 +52,47 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250730T000100
+DTEND;TZID=America/Toronto:20250730T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-07-30 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-3
+SEQUENCE:0
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250730T173000
+DTEND;TZID=America/Toronto:20250730T193000
+SUMMARY:Opening Ceremony of Wild Pride + March
+LOCATION:(métro Sherbrooke)
+DESCRIPTION:2025-07-30 17:30:00\n\n(métro Sherbrooke)\n\nhttps://www.open
+ streetmap.org/way/4889343\n\nYou are formally invited to join us for the O
+ pening and Closing Ceremony of Wild Pride\, a time to reflect\, honour our
+  collective work.&nbsp\;\nWe are also calling in all those who would like 
+ to march with Wild Pride to form contingents during the March. If ever tha
+ t's in your interests\, please answer this email so we can coordinate this
+  together.\nBring your banners\, your bodies\, and your beliefs.\nEager to
+  see you all
+URL;VALUE=URI:https://www.openstreetmap.org/way/4889343
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-4
+SEQUENCE:0
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250730T204500
 DTEND;TZID=America/Toronto:20250730T224500
 SUMMARY:Cinéma sous les étoiles : "Cohabiter"
@@ -257,9 +108,29 @@ DESCRIPTION:2025-07-30 20:45:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/102913023
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250731T000100
+DTEND;TZID=America/Toronto:20250731T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-07-31 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-6
+SEQUENCE:0
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250731T153000
 DTEND;TZID=America/Toronto:20250731T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -288,9 +159,9 @@ DESCRIPTION:2025-07-31 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250731T204500
 DTEND;TZID=America/Toronto:20250731T224500
 SUMMARY:Cinéma sous les étoildes : "Chronique d'une crise"
@@ -308,9 +179,29 @@ DESCRIPTION:2025-07-31 20:45:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250801T000100
+DTEND;TZID=America/Toronto:20250801T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-01 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-9
+SEQUENCE:0
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250801T180000
 DTEND;TZID=America/Toronto:20250801T200000
 SUMMARY:Noise Not Borders
@@ -333,9 +224,29 @@ DESCRIPTION:2025-08-01 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/2084779406
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250802T000100
+DTEND;TZID=America/Toronto:20250802T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-02 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-11
+SEQUENCE:0
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250802T100000
 DTEND;TZID=America/Toronto:20250802T120000
 SUMMARY:Terrain Vague : Bioblitz !
@@ -352,9 +263,9 @@ DESCRIPTION:2025-08-02 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/9672911282
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250802T130000
 DTEND;TZID=America/Toronto:20250802T150000
 SUMMARY:Wild Pride Gaming Panel - Panel sur les jeux vidéos de Fierté In
@@ -375,9 +286,9 @@ DESCRIPTION:2025-08-02 13:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250802T150000
 DTEND;TZID=America/Toronto:20250802T170000
 SUMMARY:Violet Hour Book Club: "I Remember Lights"
@@ -439,9 +350,9 @@ DESCRIPTION:2025-08-02 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250802T150000
 DTEND;TZID=America/Toronto:20250802T170000
 SUMMARY:Vigil for Palestine
@@ -458,9 +369,9 @@ DESCRIPTION:2025-08-02 15:00:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165059035
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
 DTSTART;TZID=America/Toronto:20250802T180000
 DTEND;TZID=America/Toronto:20250802T200000
 SUMMARY:Noise Not Borders
@@ -483,9 +394,79 @@ DESCRIPTION:2025-08-02 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/2084779406
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-16
+SEQUENCE:0
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250803T000100
+DTEND;TZID=America/Toronto:20250803T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-03 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-17
+SEQUENCE:0
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250803T140000
+DTEND;TZID=America/Toronto:20250803T160000
+SUMMARY:Assemblée d’entraide mutuelle pour migrant-e-s
+LOCATION:7009 Hutchison (métro Parc)
+DESCRIPTION:2025-08-03 14:00:00\n\n7009 Hutchison (métro Parc)\n\nhttps:/
+ /www.openstreetmap.org/node/11973414199\n\nAssemblée d’entraide mutuell
+ e pour migrant-e-s\nQuand? Dimanche le 3 août à 14h\nOù? Afrique au fem
+ inin\, 7009\, rue Hutchison (métro Parc)\nPourquoi?\n* Si vous faites fac
+ e à un risque de déportation (demande d’asile refusée\, dossier crimi
+ nel\, non renouvellement de visa\, etc.)\n* Si vous avez de la difficulté
+  à accéder aux services à cause de votre statut d’immigration\n* Si v
+ ous voulez créez des liens avec d’autres qui luttent avec un statut d
+ ’immigration précaire.\nVenez à notre assemblée d’entraide gratuite
+  pour discuter des options qui s’offrent à vous\, partager des stratég
+ ies\, rassembler de l’information\, en apprendre plus sur les ressources
+  et briser l’isolement.\nNous allons résumer les procédures légales e
+ t les options disponible selon les besoins\, partager des ressources\, ré
+ pondre aux questions individuelles\, discuter des stratégies politiques e
+ t des actions collectives possibles. Nous voulons offrir un espace sécuri
+ taire basé sur la solidarité pour discuter de questions et des choix dif
+ ficiles auxquels plusieurs migrant.e.s font face.\n*Accessibilité* : Nour
+ riture gratuite \; garderie pour les enfants gratuite et amusante disponib
+ le sur place \; billets de métro/autobus disponibles \; traduction anglai
+ s-français-espagnol.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973414199
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033430
+DTSTART;TZID=America/Toronto:20250804T000100
+DTEND;TZID=America/Toronto:20250804T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-04 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-19
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250804T190000
 DTEND;TZID=America/Toronto:20250804T210000
 SUMMARY:Last Generation - Intro Talk
@@ -496,9 +477,9 @@ DESCRIPTION:2025-08-04 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250804T203000
 DTEND;TZID=America/Toronto:20250804T223000
 SUMMARY:Cinéma sous les étoiles : "Union" (reprise)
@@ -520,9 +501,29 @@ DESCRIPTION:2025-08-04 20:30:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250805T000100
+DTEND;TZID=America/Toronto:20250805T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-05 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-22
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250805T180000
 DTEND;TZID=America/Toronto:20250805T200000
 SUMMARY:Cinéma sous les étoiles : lauréat-e-s de la compétition de cou
@@ -565,9 +566,9 @@ DESCRIPTION:2025-08-05 18:00:00\n\n4375 Cartier (métro Mont-Royal)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/112450111
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250805T190000
 DTEND;TZID=America/Toronto:20250805T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -596,9 +597,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250806T000100
 DTEND;TZID=America/Toronto:20250806T020100
 SUMMARY:Présence autochtone
@@ -641,9 +642,29 @@ DESCRIPTION:2025-08-06 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250806T000100
+DTEND;TZID=America/Toronto:20250806T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-06 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-26
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250807T000100
 DTEND;TZID=America/Toronto:20250807T020100
 SUMMARY:Présence autochtone
@@ -686,9 +707,29 @@ DESCRIPTION:2025-08-07 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250807T000100
+DTEND;TZID=America/Toronto:20250807T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-07 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-28
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250807T153000
 DTEND;TZID=America/Toronto:20250807T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -717,9 +758,9 @@ DESCRIPTION:2025-08-07 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250807T203000
 DTEND;TZID=America/Toronto:20250807T223000
 SUMMARY:Cinéma sous les étoiles : "Accepte-toi comme je suis"
@@ -736,9 +777,9 @@ DESCRIPTION:2025-08-07 20:30:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250808T000100
 DTEND;TZID=America/Toronto:20250808T020100
 SUMMARY:Présence autochtone
@@ -781,9 +822,29 @@ DESCRIPTION:2025-08-08 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250808T000100
+DTEND;TZID=America/Toronto:20250808T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-08 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-32
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250809T000100
 DTEND;TZID=America/Toronto:20250809T020100
 SUMMARY:Présence autochtone
@@ -826,9 +887,29 @@ DESCRIPTION:2025-08-09 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250809T000100
+DTEND;TZID=America/Toronto:20250809T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-09 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-34
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250809T130000
 DTEND;TZID=America/Toronto:20250809T150000
 SUMMARY:Lancement de livre : "Grann et moi\, l'été de mes 11 ans"
@@ -839,9 +920,9 @@ DESCRIPTION:2025-08-09 13:00:00\n\n2865 Fleury Est\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972865852
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250809T213000
 DTEND;TZID=America/Toronto:20250809T233000
 SUMMARY:Rad Pride
@@ -855,9 +936,9 @@ DESCRIPTION:2025-08-09 21:30:00\n\n(métro Berri)\n\nhttps://www.openstree
 URL;VALUE=URI:https://www.openstreetmap.org/way/27342719
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250810T000100
 DTEND;TZID=America/Toronto:20250810T020100
 SUMMARY:Présence autochtone
@@ -900,9 +981,29 @@ DESCRIPTION:2025-08-10 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250810T000100
+DTEND;TZID=America/Toronto:20250810T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-10 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-38
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250810T124500
 DTEND;TZID=America/Toronto:20250810T144500
 SUMMARY:Palestine tract distribution during the Pride Parade
@@ -919,9 +1020,9 @@ DESCRIPTION:2025-08-10 12:45:00\n\n(métro McGill)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010965523
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250811T000100
 DTEND;TZID=America/Toronto:20250811T020100
 SUMMARY:Présence autochtone
@@ -964,9 +1065,29 @@ DESCRIPTION:2025-08-11 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250811T000100
+DTEND;TZID=America/Toronto:20250811T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-11 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-41
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250812T000100
 DTEND;TZID=America/Toronto:20250812T020100
 SUMMARY:Présence autochtone
@@ -1009,9 +1130,29 @@ DESCRIPTION:2025-08-12 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250812T000100
+DTEND;TZID=America/Toronto:20250812T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-12 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-43
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250812T180000
 DTEND;TZID=America/Toronto:20250812T200000
 SUMMARY:Hindutva et liens transnationaux entre les extrêmes droites : la 
@@ -1114,9 +1255,9 @@ DESCRIPTION:2025-08-12 18:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250812T190000
 DTEND;TZID=America/Toronto:20250812T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1145,9 +1286,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250813T000100
 DTEND;TZID=America/Toronto:20250813T020100
 SUMMARY:Présence autochtone
@@ -1190,9 +1331,29 @@ DESCRIPTION:2025-08-13 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250813T000100
+DTEND;TZID=America/Toronto:20250813T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-13 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-47
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250814T000100
 DTEND;TZID=America/Toronto:20250814T020100
 SUMMARY:Présence autochtone
@@ -1235,9 +1396,29 @@ DESCRIPTION:2025-08-14 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250814T000100
+DTEND;TZID=America/Toronto:20250814T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-14 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-49
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250814T120000
 DTEND;TZID=America/Toronto:20250814T140000
 SUMMARY:Fête d'été de l'ACEF
@@ -1248,9 +1429,9 @@ DESCRIPTION:2025-08-14 12:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010970623
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250814T153000
 DTEND;TZID=America/Toronto:20250814T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -1279,9 +1460,9 @@ DESCRIPTION:2025-08-14 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250814T180000
 DTEND;TZID=America/Toronto:20250814T200000
 SUMMARY:Vie de quartier : Viens découvrir l’histoire de ton quartier (C
@@ -1296,9 +1477,9 @@ DESCRIPTION:2025-08-14 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250814T201500
 DTEND;TZID=America/Toronto:20250814T221500
 SUMMARY:Cinéma sous les étoiles : "Le dernier flip : démarchandiser l
@@ -1314,9 +1495,9 @@ DESCRIPTION:2025-08-14 20:15:00\n\ncour de l&#039\;école christ-roi (mét
 URL;VALUE=URI:https://www.openstreetmap.org/relation/13849241
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250815T000100
 DTEND;TZID=America/Toronto:20250815T020100
 SUMMARY:Présence autochtone
@@ -1359,9 +1540,29 @@ DESCRIPTION:2025-08-15 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250815T000100
+DTEND;TZID=America/Toronto:20250815T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-15 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-55
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250815T170000
 DTEND;TZID=America/Toronto:20250815T190000
 SUMMARY:Lancement de livre : "Le bonheur"
@@ -1391,9 +1592,29 @@ DESCRIPTION:2025-08-15 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250816T000100
+DTEND;TZID=America/Toronto:20250816T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-16 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-57
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250816T150000
 DTEND;TZID=America/Toronto:20250816T170000
 SUMMARY:Vigil for Palestine
@@ -1409,9 +1630,49 @@ DESCRIPTION:2025-08-16 15:00:00\n\n(métro de l&#039\;Église)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/node/311564349
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250817T000100
+DTEND;TZID=America/Toronto:20250817T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-17 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-59
+SEQUENCE:0
+DTSTAMP:20250727T033431
+DTSTART;TZID=America/Toronto:20250818T000100
+DTEND;TZID=America/Toronto:20250818T020100
+SUMMARY:Wild Pride ! Fierté Indomptable !
+LOCATION:(Montréal)
+DESCRIPTION:2025-08-18 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
+ , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
+ de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
+ ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
+  a queer and trans revolt\, rooted in intersectional solidarity and ground
+ ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
+ triarchy — and every oppression trying to erase or silence us.\nThis Pri
+ de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
+ , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
+ stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
+ ose erased or tokenized elsewhere.\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-60
+SEQUENCE:0
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250818T190000
 DTEND;TZID=America/Toronto:20250818T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1422,9 +1683,9 @@ DESCRIPTION:2025-08-18 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-61
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250819T133000
 DTEND;TZID=America/Toronto:20250819T153000
 SUMMARY:Groupe de discussion sur un projet d'accompagnement pour la rénov
@@ -1437,9 +1698,9 @@ DESCRIPTION:2025-08-19 13:30:00\n\n7500 Chateaubriand (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010970623
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-62
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250819T190000
 DTEND;TZID=America/Toronto:20250819T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1468,9 +1729,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-63
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250819T200000
 DTEND;TZID=America/Toronto:20250819T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -1495,9 +1756,9 @@ DESCRIPTION:2025-08-19 20:00:00\n\n(Montréal-Ouest)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/1074568765
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-64
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250820T170000
 DTEND;TZID=America/Toronto:20250820T190000
 SUMMARY:Lancement de livre : "Devenir Lean"
@@ -1520,9 +1781,9 @@ DESCRIPTION:2025-08-20 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-65
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250821T153000
 DTEND;TZID=America/Toronto:20250821T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -1551,9 +1812,9 @@ DESCRIPTION:2025-08-21 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-66
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250822T000100
 DTEND;TZID=America/Toronto:20250822T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -1587,9 +1848,9 @@ DESCRIPTION:2025-08-22 00:01:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-67
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250823T000100
 DTEND;TZID=America/Toronto:20250823T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -1623,9 +1884,9 @@ DESCRIPTION:2025-08-23 00:01:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-68
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250823T200000
 DTEND;TZID=America/Toronto:20250823T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -1650,9 +1911,9 @@ DESCRIPTION:2025-08-23 20:00:00\n\n(métro St-Michel)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/24358673
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-69
 SEQUENCE:0
-DTSTAMP:20250726T033146
+DTSTAMP:20250727T033431
 DTSTART;TZID=America/Toronto:20250824T000100
 DTEND;TZID=America/Toronto:20250824T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
