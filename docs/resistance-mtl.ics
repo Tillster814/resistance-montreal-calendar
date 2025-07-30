@@ -8,38 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250729T033606
-DTSTART;TZID=America/Toronto:20250729T190000
-DTEND;TZID=America/Toronto:20250729T210000
-SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
-LOCATION:(ou organisez de quoi dans votre coin!)
-DESCRIPTION:2025-07-29 19:00:00\n\n(ou organisez de quoi dans votre coin!)
- \n\nhttps://www.openstreetmap.org/node/281754824 + https://www.openstreetm
- ap.org/node/5022472293\n\nLes Casseroles du mardi : Dehors la CAQ! est un 
- mouvement citoyen qui s'est animé suite à l'idée de ressortir nos casse
- roles\, comme en 2012\, pour exprimer notre opposition face aux décisions
-  prisent par le gouvernement de la CAQ !\nL'arrogance du Premier Ministre\
- , des ministres Duranceau\, Drainville\, Roberge\, Charette\, Carmant\, Gu
- ilbault\, Blanchette-Vézina\, Dubé et cie a assez fait de ravages !!! Le
- s dommages collatéraux de leurs décisions vulnérabilisent trop de perso
- nnes pour que l'on reste dans l'inertie !!!\nEnsemble\, ressortons nos cas
- seroles pour que ce gouvernement n'ait plus le choix d'entendre et d'écou
- ter notre opposition collective\, notre ras-le-bol collectif!!!\nCrise du 
- logement - Coupures en éducation - Coupures en culture - Mépris des cont
- ribuables - Investissements Pro-Israël - Stigmatisation des personnes imm
- igrantes - Racisme systémique - Nationalisme identitaire - Mépris des pe
- rsonnes en situation de pauvreté - Projets de lois adoptés sous baîllon
-  - Droits de l'environnement bafoués - Attaques aux droits des personnes 
- issues de la diversité sexuelle et de genre - Mépris des droits ancestra
- ux des Premiers peuples\, etc.\nEnsemble\, exigeons de nouvelles élection
- s ! Ensemble crions : DEHORS LA CAQ !!!!\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
- penstreetmap.org/node/5022472293
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250730T000100
 DTEND;TZID=America/Toronto:20250730T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -57,9 +26,9 @@ DESCRIPTION:2025-07-30 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-2
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250730T173000
 DTEND;TZID=America/Toronto:20250730T193000
 SUMMARY:Opening Ceremony of Wild Pride + March
@@ -75,9 +44,9 @@ DESCRIPTION:2025-07-30 17:30:00\n\n(métro Sherbrooke)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/way/4889343
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250730T204500
 DTEND;TZID=America/Toronto:20250730T224500
 SUMMARY:Cinéma sous les étoiles : "Cohabiter"
@@ -93,9 +62,9 @@ DESCRIPTION:2025-07-30 20:45:00\n\n(métro Frontenac)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/102913023
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250731T000100
 DTEND;TZID=America/Toronto:20250731T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -113,9 +82,9 @@ DESCRIPTION:2025-07-31 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250731T153000
 DTEND;TZID=America/Toronto:20250731T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -144,9 +113,9 @@ DESCRIPTION:2025-07-31 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250731T180000
 DTEND;TZID=America/Toronto:20250731T200000
 SUMMARY:Soirée d’information et vente de merch - Non au PL97
@@ -169,9 +138,9 @@ DESCRIPTION:2025-07-31 18:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250731T204500
 DTEND;TZID=America/Toronto:20250731T224500
 SUMMARY:Cinéma sous les étoildes : "Chronique d'une crise"
@@ -189,9 +158,9 @@ DESCRIPTION:2025-07-31 20:45:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250801T000100
 DTEND;TZID=America/Toronto:20250801T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -209,9 +178,9 @@ DESCRIPTION:2025-08-01 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250801T193000
 DTEND;TZID=America/Toronto:20250801T213000
 SUMMARY:Noise Not Borders 35$ : Friday Night
@@ -228,9 +197,9 @@ DESCRIPTION:2025-08-01 19:30:00\n\n4388 St-Laurent (métro Mont-Royal)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972926501
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250802T000100
 DTEND;TZID=America/Toronto:20250802T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -248,9 +217,9 @@ DESCRIPTION:2025-08-02 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250802T100000
 DTEND;TZID=America/Toronto:20250802T120000
 SUMMARY:Terrain Vague : Bioblitz !
@@ -267,9 +236,9 @@ DESCRIPTION:2025-08-02 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/9672911282
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250802T130000
 DTEND;TZID=America/Toronto:20250802T150000
 SUMMARY:Wild Pride Gaming Panel - Panel sur les jeux vidéos de Fierté In
@@ -290,9 +259,9 @@ DESCRIPTION:2025-08-02 13:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250802T130000
 DTEND;TZID=America/Toronto:20250802T150000
 SUMMARY:Noise Not Borders 20$ : Saturday Matinee
@@ -308,9 +277,9 @@ DESCRIPTION:2025-08-02 13:00:00\n\n4873 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/1570292450
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250802T150000
 DTEND;TZID=America/Toronto:20250802T170000
 SUMMARY:Violet Hour Book Club: "I Remember Lights"
@@ -372,9 +341,9 @@ DESCRIPTION:2025-08-02 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250802T150000
 DTEND;TZID=America/Toronto:20250802T170000
 SUMMARY:Vigil for Palestine
@@ -391,9 +360,9 @@ DESCRIPTION:2025-08-02 15:00:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165059035
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250802T193000
 DTEND;TZID=America/Toronto:20250802T213000
 SUMMARY:Noise Not Borders 35$ : Saturday Night
@@ -410,9 +379,9 @@ DESCRIPTION:2025-08-02 19:30:00\n\n4388 St-Laurent (métro Mont-Royal)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972926501
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250803T000100
 DTEND;TZID=America/Toronto:20250803T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -430,9 +399,9 @@ DESCRIPTION:2025-08-03 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250803T140000
 DTEND;TZID=America/Toronto:20250803T160000
 SUMMARY:Assemblée d’entraide mutuelle pour migrant-e-s
@@ -460,9 +429,9 @@ DESCRIPTION:2025-08-03 14:00:00\n\n7009 Hutchison (métro Parc)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973414199
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250804T000100
 DTEND;TZID=America/Toronto:20250804T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -480,9 +449,9 @@ DESCRIPTION:2025-08-04 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250804T190000
 DTEND;TZID=America/Toronto:20250804T210000
 SUMMARY:Last Generation - Intro Talk
@@ -493,9 +462,9 @@ DESCRIPTION:2025-08-04 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250804T203000
 DTEND;TZID=America/Toronto:20250804T223000
 SUMMARY:Cinéma sous les étoiles : "Union" (reprise)
@@ -517,9 +486,9 @@ DESCRIPTION:2025-08-04 20:30:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250805T000100
 DTEND;TZID=America/Toronto:20250805T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -537,9 +506,9 @@ DESCRIPTION:2025-08-05 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250805T180000
 DTEND;TZID=America/Toronto:20250805T200000
 SUMMARY:Cinéma sous les étoiles : lauréat-e-s de la compétition de cou
@@ -582,9 +551,9 @@ DESCRIPTION:2025-08-05 18:00:00\n\n4375 Cartier (métro Mont-Royal)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/112450111
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250805T190000
 DTEND;TZID=America/Toronto:20250805T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -613,9 +582,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250805T190000
 DTEND;TZID=America/Toronto:20250805T210000
 SUMMARY:60 years of queer resistance in Tio'tia:ke
@@ -651,9 +620,9 @@ DESCRIPTION:2025-08-05 19:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250806T000100
 DTEND;TZID=America/Toronto:20250806T020100
 SUMMARY:Présence autochtone
@@ -696,9 +665,9 @@ DESCRIPTION:2025-08-06 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250806T000100
 DTEND;TZID=America/Toronto:20250806T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -716,9 +685,9 @@ DESCRIPTION:2025-08-06 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250807T000100
 DTEND;TZID=America/Toronto:20250807T020100
 SUMMARY:Présence autochtone
@@ -761,9 +730,9 @@ DESCRIPTION:2025-08-07 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250807T000100
 DTEND;TZID=America/Toronto:20250807T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -781,9 +750,9 @@ DESCRIPTION:2025-08-07 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250807T153000
 DTEND;TZID=America/Toronto:20250807T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -812,9 +781,9 @@ DESCRIPTION:2025-08-07 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250807T203000
 DTEND;TZID=America/Toronto:20250807T223000
 SUMMARY:Cinéma sous les étoiles : "Accepte-toi comme je suis"
@@ -831,9 +800,9 @@ DESCRIPTION:2025-08-07 20:30:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250808T000100
 DTEND;TZID=America/Toronto:20250808T020100
 SUMMARY:Présence autochtone
@@ -876,9 +845,9 @@ DESCRIPTION:2025-08-08 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250808T000100
 DTEND;TZID=America/Toronto:20250808T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -896,9 +865,9 @@ DESCRIPTION:2025-08-08 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250809T000100
 DTEND;TZID=America/Toronto:20250809T020100
 SUMMARY:Présence autochtone
@@ -941,9 +910,9 @@ DESCRIPTION:2025-08-09 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250809T000100
 DTEND;TZID=America/Toronto:20250809T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -961,9 +930,9 @@ DESCRIPTION:2025-08-09 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250809T130000
 DTEND;TZID=America/Toronto:20250809T150000
 SUMMARY:Lancement de livre : "Grann et moi\, l'été de mes 11 ans"
@@ -974,9 +943,9 @@ DESCRIPTION:2025-08-09 13:00:00\n\n2865 Fleury Est\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972865852
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250809T213000
 DTEND;TZID=America/Toronto:20250809T233000
 SUMMARY:Rad Pride
@@ -990,9 +959,9 @@ DESCRIPTION:2025-08-09 21:30:00\n\n(métro Berri)\n\nhttps://www.openstree
 URL;VALUE=URI:https://www.openstreetmap.org/way/27342719
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250810T000100
 DTEND;TZID=America/Toronto:20250810T020100
 SUMMARY:Présence autochtone
@@ -1035,9 +1004,9 @@ DESCRIPTION:2025-08-10 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250810T000100
 DTEND;TZID=America/Toronto:20250810T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1055,9 +1024,9 @@ DESCRIPTION:2025-08-10 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250810T124500
 DTEND;TZID=America/Toronto:20250810T144500
 SUMMARY:Palestine tract distribution during the Pride Parade
@@ -1074,9 +1043,9 @@ DESCRIPTION:2025-08-10 12:45:00\n\n(métro McGill)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010965523
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250810T140000
 DTEND;TZID=America/Toronto:20250810T160000
 SUMMARY:Wild Pride - Pride March
@@ -1089,9 +1058,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/way/36430663#map=17/45.508471/
  -73.566513
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250811T000100
 DTEND;TZID=America/Toronto:20250811T020100
 SUMMARY:Présence autochtone
@@ -1134,9 +1103,9 @@ DESCRIPTION:2025-08-11 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250811T000100
 DTEND;TZID=America/Toronto:20250811T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1154,9 +1123,9 @@ DESCRIPTION:2025-08-11 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250812T000100
 DTEND;TZID=America/Toronto:20250812T020100
 SUMMARY:Présence autochtone
@@ -1199,9 +1168,9 @@ DESCRIPTION:2025-08-12 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250812T000100
 DTEND;TZID=America/Toronto:20250812T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1219,9 +1188,9 @@ DESCRIPTION:2025-08-12 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250812T180000
 DTEND;TZID=America/Toronto:20250812T200000
 SUMMARY:Hindutva et liens transnationaux entre les extrêmes droites : la 
@@ -1324,9 +1293,9 @@ DESCRIPTION:2025-08-12 18:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250812T190000
 DTEND;TZID=America/Toronto:20250812T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1355,9 +1324,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250813T000100
 DTEND;TZID=America/Toronto:20250813T020100
 SUMMARY:Présence autochtone
@@ -1400,9 +1369,9 @@ DESCRIPTION:2025-08-13 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250813T000100
 DTEND;TZID=America/Toronto:20250813T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1420,9 +1389,9 @@ DESCRIPTION:2025-08-13 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250814T000100
 DTEND;TZID=America/Toronto:20250814T020100
 SUMMARY:Présence autochtone
@@ -1465,9 +1434,9 @@ DESCRIPTION:2025-08-14 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250814T000100
 DTEND;TZID=America/Toronto:20250814T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1485,9 +1454,9 @@ DESCRIPTION:2025-08-14 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250814T120000
 DTEND;TZID=America/Toronto:20250814T140000
 SUMMARY:Fête d'été de l'ACEF
@@ -1498,9 +1467,9 @@ DESCRIPTION:2025-08-14 12:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010970623
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250814T153000
 DTEND;TZID=America/Toronto:20250814T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -1529,9 +1498,9 @@ DESCRIPTION:2025-08-14 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250814T180000
 DTEND;TZID=America/Toronto:20250814T200000
 SUMMARY:Vie de quartier : Viens découvrir l’histoire de ton quartier (C
@@ -1546,9 +1515,9 @@ DESCRIPTION:2025-08-14 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-55
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250814T201500
 DTEND;TZID=America/Toronto:20250814T221500
 SUMMARY:Cinéma sous les étoiles : "Le dernier flip : démarchandiser l
@@ -1564,9 +1533,9 @@ DESCRIPTION:2025-08-14 20:15:00\n\ncour de l&#039\;école christ-roi (mét
 URL;VALUE=URI:https://www.openstreetmap.org/relation/13849241
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-56
+UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250815T000100
 DTEND;TZID=America/Toronto:20250815T020100
 SUMMARY:Présence autochtone
@@ -1609,9 +1578,9 @@ DESCRIPTION:2025-08-15 00:01:00\n\n(à Montréal)\n\nUn poster prophétiqu
  u trente-cinquième FIPA l’apothéose du Capitaine Assi Nukum.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-57
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250815T000100
 DTEND;TZID=America/Toronto:20250815T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1629,9 +1598,9 @@ DESCRIPTION:2025-08-15 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-58
+UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250815T170000
 DTEND;TZID=America/Toronto:20250815T190000
 SUMMARY:Lancement de livre : "Le bonheur"
@@ -1661,9 +1630,9 @@ DESCRIPTION:2025-08-15 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-59
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250816T000100
 DTEND;TZID=America/Toronto:20250816T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1681,9 +1650,9 @@ DESCRIPTION:2025-08-16 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-60
+UID:resmtl-59
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250816T150000
 DTEND;TZID=America/Toronto:20250816T170000
 SUMMARY:Vigil for Palestine
@@ -1699,9 +1668,9 @@ DESCRIPTION:2025-08-16 15:00:00\n\n(métro de l&#039\;Église)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/node/311564349
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-61
+UID:resmtl-60
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250817T000100
 DTEND;TZID=America/Toronto:20250817T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1719,9 +1688,9 @@ DESCRIPTION:2025-08-17 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-62
+UID:resmtl-61
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250818T000100
 DTEND;TZID=America/Toronto:20250818T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -1739,9 +1708,9 @@ DESCRIPTION:2025-08-18 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-63
+UID:resmtl-62
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250818T190000
 DTEND;TZID=America/Toronto:20250818T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1752,9 +1721,9 @@ DESCRIPTION:2025-08-18 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-64
+UID:resmtl-63
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250819T133000
 DTEND;TZID=America/Toronto:20250819T153000
 SUMMARY:Groupe de discussion sur un projet d'accompagnement pour la rénov
@@ -1767,9 +1736,9 @@ DESCRIPTION:2025-08-19 13:30:00\n\n7500 Chateaubriand (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6010970623
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-65
+UID:resmtl-64
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250819T190000
 DTEND;TZID=America/Toronto:20250819T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1798,9 +1767,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-66
+UID:resmtl-65
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250819T200000
 DTEND;TZID=America/Toronto:20250819T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -1825,9 +1794,9 @@ DESCRIPTION:2025-08-19 20:00:00\n\n(Montréal-Ouest)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/1074568765
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-67
+UID:resmtl-66
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250820T170000
 DTEND;TZID=America/Toronto:20250820T190000
 SUMMARY:Lancement de livre : "Devenir Lean"
@@ -1850,9 +1819,9 @@ DESCRIPTION:2025-08-20 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-68
+UID:resmtl-67
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250821T153000
 DTEND;TZID=America/Toronto:20250821T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -1881,9 +1850,9 @@ DESCRIPTION:2025-08-21 15:30:00\n\n3594 Jeanne-Mance (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973225504
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-69
+UID:resmtl-68
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250822T000100
 DTEND;TZID=America/Toronto:20250822T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -1917,9 +1886,9 @@ DESCRIPTION:2025-08-22 00:01:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-70
+UID:resmtl-69
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250823T000100
 DTEND;TZID=America/Toronto:20250823T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -1953,9 +1922,9 @@ DESCRIPTION:2025-08-23 00:01:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-71
+UID:resmtl-70
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250823T200000
 DTEND;TZID=America/Toronto:20250823T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -1980,9 +1949,9 @@ DESCRIPTION:2025-08-23 20:00:00\n\n(métro St-Michel)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/24358673
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-72
+UID:resmtl-71
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250824T000100
 DTEND;TZID=America/Toronto:20250824T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -2016,9 +1985,9 @@ DESCRIPTION:2025-08-24 00:01:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-73
+UID:resmtl-72
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250825T000100
 DTEND;TZID=America/Toronto:20250825T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -2028,9 +1997,9 @@ DESCRIPTION:2025-08-25 00:01:00\n\n(partout)\n\nVoir&nbsp\;https://www.fac
  ebook.com/upe.mtl pour les détails
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-74
+UID:resmtl-73
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250826T000100
 DTEND;TZID=America/Toronto:20250826T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -2040,9 +2009,9 @@ DESCRIPTION:2025-08-26 00:01:00\n\n(partout)\n\nVoir&nbsp\;https://www.fac
  ebook.com/upe.mtl pour les détails
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-75
+UID:resmtl-74
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250826T190000
 DTEND;TZID=America/Toronto:20250826T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -2071,9 +2040,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-76
+UID:resmtl-75
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250827T000100
 DTEND;TZID=America/Toronto:20250827T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -2083,9 +2052,9 @@ DESCRIPTION:2025-08-27 00:01:00\n\n(partout)\n\nVoir&nbsp\;https://www.fac
  ebook.com/upe.mtl pour les détails
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-77
+UID:resmtl-76
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250827T170000
 DTEND;TZID=America/Toronto:20250827T190000
 SUMMARY:Lancement de livre : "Maman est partie travailler"
@@ -2118,9 +2087,9 @@ DESCRIPTION:2025-08-27 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-78
+UID:resmtl-77
 SEQUENCE:0
-DTSTAMP:20250729T033606
+DTSTAMP:20250730T033327
 DTSTART;TZID=America/Toronto:20250827T200000
 DTEND;TZID=America/Toronto:20250827T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -2144,5 +2113,81 @@ DESCRIPTION:2025-08-27 20:00:00\n\n327 Melville (métro Vendôme)\n\nhttps
  me vierge de toute présence humaine au nom de notre survie ?&nbsp\;\n&nbs
  p\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/35161585
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-78
+SEQUENCE:0
+DTSTAMP:20250730T033327
+DTSTART;TZID=America/Toronto:20250828T000100
+DTEND;TZID=America/Toronto:20250828T020100
+SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
+ n
+LOCATION:(partout)
+DESCRIPTION:2025-08-28 00:01:00\n\n(partout)\n\nVoir&nbsp\;https://www.fac
+ ebook.com/upe.mtl pour les détails
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-79
+SEQUENCE:0
+DTSTAMP:20250730T033327
+DTSTART;TZID=America/Toronto:20250828T150000
+DTEND;TZID=America/Toronto:20250828T170000
+SUMMARY:Journée internationale de sensibilisation aux surdoses
+LOCATION:(métro Berri)
+DESCRIPTION:2025-08-28 15:00:00\n\n(métro Berri)\n\nhttps://www.openstree
+ tmap.org/way/27342719\n\nLa journée internationale de sensibilisation aux
+  surdoses aura lieu jeudi le 28 août à la Place Émilie-Gamelin de 15h 
+ à 18h. Il y aura un micro ouvert pour les personnes qui auront envie de p
+ rendre parole.\nNous sortirons bientôt une programmation d’activités p
+ our le mois d’août dans le cadre de la journée internationale de sensi
+ bilisation aux surdoses. Gardez l’œil ouvert !\n#JISS # JISS2025 #overd
+ oseday #overdoseawareness #sensibilisationauxsurdoses #odday #naloxone #na
+ loxonesaveslives #naloxoneforall #surdoses #drugusersrights #aqpsud #addic
+ q #wemissyou #grief #deuil #harmreduction #harmreductionsaveslives\n&nbsp\
+ ;
+URL;VALUE=URI:https://www.openstreetmap.org/way/27342719
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-80
+SEQUENCE:0
+DTSTAMP:20250730T033327
+DTSTART;TZID=America/Toronto:20250828T170000
+DTEND;TZID=America/Toronto:20250828T190000
+SUMMARY:Uni-es pour l'École - Rassemblement devant les bureaux de Pascale
+  Déry
+LOCATION:(522 Notre-Dame à Repent)
+DESCRIPTION:2025-08-28 17:00:00\n\n(522 Notre-Dame à Repent)\n\nhttps://w
+ ww.openstreetmap.org/node/6127177267\n\nLe mouvement Uni·es pour l’éco
+ le lance une semaine d’action pour la rentrée scolaire\, du 25 au 29 ao
+ ût.\nÀ la suite de notre mobilisation\, le gouvernement a décidé de re
+ venir en partie sur sa décision. Une enveloppe de 540 millions de dollars
+  a été annoncée pour les services aux élèves. Mais attention : cela n
+ e couvre pas la totalité des compressions initiales\, estimées à 570 mi
+ llions\, et plusieurs mesures demeurent.\nParce que la CAQ a reculé. Et e
+ lle a reculé grâce à votre mobilisation. Mais ne crions pas victoire tr
+ op vite :\nLes compressions n’ont pas été annulées  Les budgets n’o
+ nt pas été augmentés  Des enveloppes fermées\, conditionnelles et cont
+ rôlées sont imposées  Rien ne garantit qu’ils ne reviendront pas enco
+ re sur leur décision\, comme pour le 3e lien\nUni·es pour l’école s
+ ’oppose également aux coupures dans l’enseignement postsecondaire et 
+ réclame un réinvestissement massif.\nLes cégeps du Québec font face à
+  des compressions historiques de 151 millions de dollars pour l’année s
+ colaire 2025-2026 et en plus d'un gel d'embauche. Ce montant représente l
+ e manque à gagner entre les subventions gouvernementales et les besoins r
+ éels du réseau collégial\, dans un contexte où la population étudiant
+ e est en croissance constante.\nVoici des exemples :\nAbolition de plus de
+  210 postes\, incluant des psychologues\, éducateurs spécialisés\, cons
+ eillers en orientation et techniciens de laboratoire  Diminution anticipé
+ e de 10 % du personnel professionnel dans certains établissements  Réduc
+ tion des services psychosociaux\, de l’accompagnement pédagogique et du
+  soutien en laboratoire  Suspension de projets de rénovation et de recher
+ che\nAction: Rassemblement devant le bureau de Pascale Déry Ministre de l
+ ’Enseignement supérieur et membre du Conseil des ministres\nLieu : Bure
+ au de circonscription de Pascale Déry 534\, rue Notre-Dame\, bureau 105\,
+  Repentigny\, Québec J6A 2T8  Date : Jeudi 28 août  Heure : De 17h à 19
+ h\nApportez casseroles\, cuillères\, sifflets et pancartes — faisons du
+  bruit pour ceux qu’on tente de faire taire ! Parce que l’avenir de no
+ s enfants mérite mieux.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/6127177267
 END:VEVENT
 END:VCALENDAR
