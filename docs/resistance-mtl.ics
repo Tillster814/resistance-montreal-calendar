@@ -8,27 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250817T033125
-DTSTART;TZID=America/Toronto:20250817T000100
-DTEND;TZID=America/Toronto:20250817T020100
-SUMMARY:Wild Pride ! Fierté Indomptable !
-LOCATION:(Montréal)
-DESCRIPTION:2025-08-17 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
- , anti-colonial\, anti-capitalist\, anticorporate\, and uncompromising Pri
- de.\nIt’s not a stage for banks or rainbow logos to whitewash corporatio
- ns complicit in exploitation\, dispossession\, and genocide.\nOur Pride is
-  a queer and trans revolt\, rooted in intersectional solidarity and ground
- ed in our lived realities: precarity\, racism\, ableism\, colonialism\, pa
- triarchy — and every oppression trying to erase or silence us.\nThis Pri
- de is by and for queer\, trans\, racialized\, Indigenous\, neurodivergent\
- , precarious\, criminalized\, disabled\, unhoused\, Muslim\, Jewish\, Chri
- stian\, asexual\, aromantic folks\, queer parents\, sex workers — all th
- ose erased or tokenized elsewhere.\n&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250818T000100
 DTEND;TZID=America/Toronto:20250818T020100
 SUMMARY:Wild Pride ! Fierté Indomptable !
@@ -46,9 +26,33 @@ DESCRIPTION:2025-08-18 00:01:00\n\n(Montréal)\n\nWild Pride is a radical\
  ose erased or tokenized elsewhere.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-1
+SEQUENCE:0
+DTSTAMP:20250818T033252
+DTSTART;TZID=America/Toronto:20250818T173000
+DTEND;TZID=America/Toronto:20250818T193000
+SUMMARY:Manifestation en solidarité avec les agent-e-s de bord d'air cana
+ da
+LOCATION:(métro McGill)
+DESCRIPTION:2025-08-18 17:30:00\n\n(métro McGill)\n\nhttps://www.openstre
+ etmap.org/way/88609497\n\nLa ministre fédéral du travail veut forcer les
+  agents de bord d’Air Canada à mettre fin à leur grève et à retourne
+ r au travail\, malgré que la compagnie aérienne refuse de négocier de b
+ onne foi et le conflit d’intérêt avec le CCRI dont la présidente a é
+ té avocate pour Air Canada.\nIl s’agît de la plus récente d’une sé
+ rie d’attaque des gouvernements provinciaux et fédraux contre le droit 
+ de grève. (PL89\, retour forcé au travail pour les syndiqués de Postes 
+ Canada et du CN). Faisons preuve de solidarité et unissons nos forces con
+ tre ces attaques qui menacent nos droits et notre rapport de force.\nTenon
+ s-nous debout pour les agents de bord d'Air Canada et leur droit de grève
+ !\nQuand : le 18 août à 17h30\nPoint de départ de la manifestation : Sq
+ uare Phillips (Métro McGill)\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/88609497
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250818T190000
 DTEND;TZID=America/Toronto:20250818T210000
 SUMMARY:Last Generation - Intro Talk
@@ -61,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250819T133000
 DTEND;TZID=America/Toronto:20250819T153000
 SUMMARY:Groupe de discussion sur un projet d'accompagnement pour la rénov
@@ -76,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250819T173000
 DTEND;TZID=America/Toronto:20250819T193000
 SUMMARY:Bookclub on the book "Abolish Rent"
@@ -102,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250819T190000
 DTEND;TZID=America/Toronto:20250819T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -133,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250819T190000
 DTEND;TZID=America/Toronto:20250819T210000
 SUMMARY:Ciné-Club : Journée Internationale de Sensibilisation aux Surdos
@@ -151,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250819T200000
 DTEND;TZID=America/Toronto:20250819T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -178,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250820T170000
 DTEND;TZID=America/Toronto:20250820T190000
 SUMMARY:Lancement de livre : "Devenir Lean"
@@ -203,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250821T084500
 DTEND;TZID=America/Toronto:20250821T104500
 SUMMARY:États généraux du syndicalisme : Montréal
@@ -226,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250821T140000
 DTEND;TZID=America/Toronto:20250821T160000
 SUMMARY:Formation Frein Rétropédalage
@@ -248,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250821T153000
 DTEND;TZID=America/Toronto:20250821T173000
 SUMMARY:Milton Park Art Hive - Ruche d'art Milton Park
@@ -279,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250821T153000
 DTEND;TZID=America/Toronto:20250821T173000
 SUMMARY:Vigil for Palestine
@@ -298,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250821T180000
 DTEND;TZID=America/Toronto:20250821T200000
 SUMMARY:Soirée Palestinienne
@@ -311,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250822T000100
 DTEND;TZID=America/Toronto:20250822T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -347,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250822T140000
 DTEND;TZID=America/Toronto:20250822T160000
 SUMMARY:Palestine: Protest at General Dynamics
@@ -379,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250822T170000
 DTEND;TZID=America/Toronto:20250822T190000
 SUMMARY:Fattal Parking Lot Takeover 10$ - Béton Armé + Random Killing + 
@@ -390,7 +394,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250823T000100
 DTEND;TZID=America/Toronto:20250823T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -426,7 +430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250823T103000
 DTEND;TZID=America/Toronto:20250823T123000
 SUMMARY:Piquetage anti-proprio
@@ -459,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250823T150000
 DTEND;TZID=America/Toronto:20250823T170000
 SUMMARY:Vigil for Palestine
@@ -477,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250823T170000
 DTEND;TZID=America/Toronto:20250823T190000
 SUMMARY:Poster Handout for Palestine
@@ -505,7 +509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250823T200000
 DTEND;TZID=America/Toronto:20250823T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -532,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250824T000100
 DTEND;TZID=America/Toronto:20250824T020100
 SUMMARY:On s'organise : Contrecarrer l'extrême-droite
@@ -568,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250824T130000
 DTEND;TZID=America/Toronto:20250824T150000
 SUMMARY:Picnic Queer Anticapitaliste
@@ -589,7 +593,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250825T000100
 DTEND;TZID=America/Toronto:20250825T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -601,7 +605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250825T173000
 DTEND;TZID=America/Toronto:20250825T193000
 SUMMARY:Rassemblement Uni-e-s pour l'école
@@ -634,7 +638,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250826T000100
 DTEND;TZID=America/Toronto:20250826T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -646,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250826T140000
 DTEND;TZID=America/Toronto:20250826T160000
 SUMMARY:Dis/orientation: History of the quebec student movement w/ the CSU
@@ -662,7 +666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250826T153000
 DTEND;TZID=America/Toronto:20250826T173000
 SUMMARY:Vigil for Palestine
@@ -681,7 +685,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250826T190000
 DTEND;TZID=America/Toronto:20250826T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -712,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250827T000100
 DTEND;TZID=America/Toronto:20250827T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -724,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250827T160000
 DTEND;TZID=America/Toronto:20250827T180000
 SUMMARY:Repair Café Réparation
@@ -780,7 +784,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250827T170000
 DTEND;TZID=America/Toronto:20250827T190000
 SUMMARY:Lancement de livre : "Maman est partie travailler"
@@ -815,7 +819,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250827T200000
 DTEND;TZID=America/Toronto:20250827T220000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -843,7 +847,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250828T000100
 DTEND;TZID=America/Toronto:20250828T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -855,7 +859,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250828T110000
 DTEND;TZID=America/Toronto:20250828T130000
 SUMMARY:Dis/orientation: Union Day w/ PASU\, CSU + SLAM
@@ -874,7 +878,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250828T150000
 DTEND;TZID=America/Toronto:20250828T170000
 SUMMARY:Journée internationale de sensibilisation aux surdoses
@@ -895,7 +899,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250828T170000
 DTEND;TZID=America/Toronto:20250828T190000
 SUMMARY:Uni-es pour l'École - Rassemblement devant les bureaux de Pascale
@@ -938,7 +942,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250828T180000
 DTEND;TZID=America/Toronto:20250828T200000
 SUMMARY:AQPSUD : Lancement du guide "Sur la route du deuil"
@@ -955,7 +959,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250829T000100
 DTEND;TZID=America/Toronto:20250829T020100
 SUMMARY:Uni-es pour l'École - Semaine d'action pour défendre l'éducatio
@@ -967,7 +971,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250829T170000
 DTEND;TZID=America/Toronto:20250829T190000
 SUMMARY:Masse critique Montréal
@@ -1018,7 +1022,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250829T200000
 DTEND;TZID=America/Toronto:20250829T220000
 SUMMARY:AQPSUD : Show d'humour
@@ -1032,7 +1036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250831T130000
 DTEND;TZID=America/Toronto:20250831T150000
 SUMMARY:Vigil for Palestine
@@ -1050,7 +1054,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250831T150000
 DTEND;TZID=America/Toronto:20250831T170000
 SUMMARY:Dis/orientation: Barbecue
@@ -1065,7 +1069,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250831T180000
 DTEND;TZID=America/Toronto:20250831T200000
 SUMMARY:Souper mensueal ORA x CRUES
@@ -1091,7 +1095,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250901T190000
 DTEND;TZID=America/Toronto:20250901T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1104,7 +1108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250901T193000
 DTEND;TZID=America/Toronto:20250901T213000
 SUMMARY:Live\, Laugh\, Labour: show d'humour
@@ -1124,7 +1128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250902T190000
 DTEND;TZID=America/Toronto:20250902T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1155,7 +1159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250905T170000
 DTEND;TZID=America/Toronto:20250905T190000
 SUMMARY:Cinéma sous les étoiles : Soirée diffusion de court métrage
@@ -1170,7 +1174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250905T183000
 DTEND;TZID=America/Toronto:20250905T203000
 SUMMARY:DULF Fundraiser Show
@@ -1183,7 +1187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250905T190000
 DTEND;TZID=America/Toronto:20250905T210000
 SUMMARY:Fundraising for "The Squat" 15$ - Urban Sprawl\, Total Nada\, Dead
@@ -1197,7 +1201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250906T110000
 DTEND;TZID=America/Toronto:20250906T130000
 SUMMARY:Pousse\, mais poussettes égales : BBQ festif
@@ -1219,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250907T113000
 DTEND;TZID=America/Toronto:20250907T133000
 SUMMARY:Sit-in : Pas de futur sans nature
@@ -1258,7 +1262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250907T140000
 DTEND;TZID=America/Toronto:20250907T160000
 SUMMARY:Uni-e-s pour l'école : Du bruit pour l'école !
@@ -1289,7 +1293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250909T190000
 DTEND;TZID=America/Toronto:20250909T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1320,7 +1324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250910T180000
 DTEND;TZID=America/Toronto:20250910T200000
 SUMMARY:Vie de quartier : Notre pouvoir d'agir collectif comme quartier
@@ -1336,7 +1340,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250911T190000
 DTEND;TZID=America/Toronto:20250911T210000
 SUMMARY:No Suicide Act - tournée bénéfice antifasciste
@@ -1360,7 +1364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250912T180000
 DTEND;TZID=America/Toronto:20250912T200000
 SUMMARY:Party de financement pour les Révoltes : Fin du monde + Rentrée 
@@ -1387,7 +1391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250913T120000
 DTEND;TZID=America/Toronto:20250913T140000
 SUMMARY:Contre l'explosion des loyers\, un contrôle doit s'imposer : jour
@@ -1442,7 +1446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-59
 SEQUENCE:0
-DTSTAMP:20250817T033125
+DTSTAMP:20250818T033252
 DTSTART;TZID=America/Toronto:20250915T190000
 DTEND;TZID=America/Toronto:20250915T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1451,5 +1455,36 @@ DESCRIPTION:2025-09-15 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
  ://www.openstreetmap.org/node/11972883637\n\nIntro talk\n19h00 - 20h30 EDT
  \n5031 R. Saint-Denis\nMontreal\nQuebec\nH2J 2L9
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-60
+SEQUENCE:0
+DTSTAMP:20250818T033252
+DTSTART;TZID=America/Toronto:20250916T190000
+DTEND;TZID=America/Toronto:20250916T210000
+SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
+LOCATION:(ou organisez de quoi dans votre coin!)
+DESCRIPTION:2025-09-16 19:00:00\n\n(ou organisez de quoi dans votre coin!)
+ \n\nhttps://www.openstreetmap.org/node/281754824 + https://www.openstreetm
+ ap.org/node/5022472293\n\nLes Casseroles du mardi : Dehors la CAQ! est un 
+ mouvement citoyen qui s'est animé suite à l'idée de ressortir nos casse
+ roles\, comme en 2012\, pour exprimer notre opposition face aux décisions
+  prisent par le gouvernement de la CAQ !\nL'arrogance du Premier Ministre\
+ , des ministres Duranceau\, Drainville\, Roberge\, Charette\, Carmant\, Gu
+ ilbault\, Blanchette-Vézina\, Dubé et cie a assez fait de ravages !!! Le
+ s dommages collatéraux de leurs décisions vulnérabilisent trop de perso
+ nnes pour que l'on reste dans l'inertie !!!\nEnsemble\, ressortons nos cas
+ seroles pour que ce gouvernement n'ait plus le choix d'entendre et d'écou
+ ter notre opposition collective\, notre ras-le-bol collectif!!!\nCrise du 
+ logement - Coupures en éducation - Coupures en culture - Mépris des cont
+ ribuables - Investissements Pro-Israël - Stigmatisation des personnes imm
+ igrantes - Racisme systémique - Nationalisme identitaire - Mépris des pe
+ rsonnes en situation de pauvreté - Projets de lois adoptés sous baîllon
+  - Droits de l'environnement bafoués - Attaques aux droits des personnes 
+ issues de la diversité sexuelle et de genre - Mépris des droits ancestra
+ ux des Premiers peuples\, etc.\nEnsemble\, exigeons de nouvelles élection
+ s ! Ensemble crions : DEHORS LA CAQ !!!!\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
+ penstreetmap.org/node/5022472293
 END:VEVENT
 END:VCALENDAR
