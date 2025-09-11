@@ -8,35 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20250910T031221
-DTSTART;TZID=America/Toronto:20250910T170000
-DTEND;TZID=America/Toronto:20250910T190000
-SUMMARY:Bouffe collective à l'Achoppe
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2025-09-10 17:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20250910T031221
-DTSTART;TZID=America/Toronto:20250910T180000
-DTEND;TZID=America/Toronto:20250910T200000
-SUMMARY:Vie de quartier : Notre pouvoir d'agir collectif comme quartier
-LOCATION:1376 Ontario Est (métro Papineau)
-DESCRIPTION:2025-09-10 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
- ttps://www.openstreetmap.org/way/115814240\n\nLa Livrerie vous invite à u
- ne série de discussions autour de son quartier le Centre-Sud.\nCette deux
- ième rencontre portera sur le pouvoir d'agir citoyen dans le Centre-Sud. 
- Une discussion sera animée avec la participation de panélistes du RAPSIM
- \, ACVMtl\, et CDC Centre-Sud.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250911T141500
 DTEND;TZID=America/Toronto:20250911T161500
 SUMMARY:Vigil for Palestine
@@ -54,9 +26,9 @@ DESCRIPTION:2025-09-11 14:15:00\n\n821 Ste-Croix (métro Côte-Vertu)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/712569192
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250911T170000
 DTEND;TZID=America/Toronto:20250911T190000
 SUMMARY:DULF Harm Reduction Fair and Fundraiser 
@@ -69,9 +41,9 @@ DESCRIPTION:2025-09-11 17:00:00\n\n1440 Mackay (métro Guy-Concordia)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/5544176196
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250911T180000
 DTEND;TZID=America/Toronto:20250911T200000
 SUMMARY:BBQ du Front Pop (avant le concert)
@@ -83,9 +55,9 @@ DESCRIPTION:2025-09-11 18:00:00\n\ncoin Saint-Joseph et Saint-Laurent\n\nV
  nIl y aura des grillades et du maïs\; apportez vos boissons !
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250911T180000
 DTEND;TZID=America/Toronto:20250911T200000
 SUMMARY:Connaître les mécanismes de la crise du logement pour mieux lutt
@@ -95,9 +67,9 @@ DESCRIPTION:2025-09-11 18:00:00\n\n255 Ontario St E\, Montreal\, Quebec H2
  X 1X6\, Canada
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250911T190000
 DTEND;TZID=America/Toronto:20250911T210000
 SUMMARY:No Suicide Act - tournée bénéfice antifasciste
@@ -119,9 +91,9 @@ DESCRIPTION:2025-09-11 19:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250912T180000
 DTEND;TZID=America/Toronto:20250912T200000
 SUMMARY:Projection : "Ce qu'il reste de nous"
@@ -142,9 +114,9 @@ DESCRIPTION:2025-09-12 18:00:00\n\n50 Ste-Catherine Ouest (métro St-Laure
 URL;VALUE=URI:https://www.openstreetmap.org/way/340739753
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250912T180000
 DTEND;TZID=America/Toronto:20250912T200000
 SUMMARY:Party de financement pour les Révoltes : Fin du monde + Rentrée 
@@ -169,9 +141,9 @@ DESCRIPTION:2025-09-12 18:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T000100
 DTEND;TZID=America/Toronto:20250913T020100
 SUMMARY:Ateliers Slutopia
@@ -182,9 +154,9 @@ DESCRIPTION:2025-09-13 00:01:00\n\nTBA\n\n12h00-14h00: Theatre of the Oppr
  eyond the Basics\n*Plus d’information sous peu…
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T090000
 DTEND;TZID=America/Toronto:20250913T110000
 SUMMARY:Consultation sur les états généraux du syndicalisme - Région d
@@ -216,9 +188,9 @@ DESCRIPTION:2025-09-13 09:00:00\n\n(métro Pie-IX)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/85522712
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T120000
 DTEND;TZID=America/Toronto:20250913T140000
 SUMMARY:Contre l'explosion des loyers\, un contrôle doit s'imposer : jour
@@ -271,9 +243,9 @@ DESCRIPTION:2025-09-13 12:00:00\n\n(détails à venir)\n\n** English follo
   to come. See you soon!\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T120000
 DTEND;TZID=America/Toronto:20250913T140000
 SUMMARY:Bouffe contre le fascisme
@@ -287,9 +259,9 @@ DESCRIPTION:2025-09-13 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T120000
 DTEND;TZID=America/Toronto:20250913T140000
 SUMMARY:Festival du commun
@@ -329,9 +301,9 @@ DESCRIPTION:2025-09-13 12:00:00\n\n(métro Acadie)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/node/11666297290
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T123000
 DTEND;TZID=America/Toronto:20250913T143000
 SUMMARY:Manif: Convergeons contre Stablex
@@ -342,9 +314,9 @@ DESCRIPTION:2025-09-13 12:30:00\n\nBlainville\, QC J7C 3V8\n\n***CONVERGEO
  xication du monde.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T130000
 DTEND;TZID=America/Toronto:20250913T150000
 SUMMARY:Bâtiment 7 - journée portes ouvertes
@@ -370,9 +342,9 @@ DESCRIPTION:2025-09-13 13:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T140000
 DTEND;TZID=America/Toronto:20250913T160000
 SUMMARY:Manifestation contre le nouveau calcul des hausses de loyers
@@ -409,9 +381,9 @@ DESCRIPTION:2025-09-13 14:00:00\n\n(métro Place-St-Henri)\n\nCONTRE L'EXP
  𝗳𝗿𝗲𝗲𝘇𝗲 until a fair new regulation is in place.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T140000
 DTEND;TZID=America/Toronto:20250913T160000
 SUMMARY:canada will never be the 51st state
@@ -462,9 +434,9 @@ DESCRIPTION:2025-09-13 14:00:00\n\n1134 Ste-Catherine Ouest (métro Peel)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/12678070169
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T143000
 DTEND;TZID=America/Toronto:20250913T163000
 SUMMARY:CATS/SWAC Theater of the Oppressed
@@ -472,9 +444,9 @@ LOCATION:(réserver par courriel)
 DESCRIPTION:2025-09-13 14:30:00\n\n(réserver par courriel)
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250913T160000
 DTEND;TZID=America/Toronto:20250913T180000
 SUMMARY:Queer Friending Frenzy 5$
@@ -506,9 +478,9 @@ DESCRIPTION:2025-09-13 16:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250914T110000
 DTEND;TZID=America/Toronto:20250914T130000
 SUMMARY:Première édition de BBQ sans frontières\, festival de rue engag
@@ -537,9 +509,9 @@ DESCRIPTION:2025-09-14 11:00:00\n\n6850 de l&#039\;Épée (métro Parc)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/way/750410142
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250914T110000
 DTEND;TZID=America/Toronto:20250914T130000
 SUMMARY:Libre marché fermier
@@ -548,9 +520,9 @@ DESCRIPTION:2025-09-14 11:00:00\n\nCoin Ontario et Valois - Hochelaga\n\n
  À venir
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250914T120000
 DTEND;TZID=America/Toronto:20250914T140000
 SUMMARY:Vente de livres de gauche
@@ -572,9 +544,9 @@ DESCRIPTION:2025-09-14 12:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250914T120000
 DTEND;TZID=America/Toronto:20250914T140000
 SUMMARY:Festival du commun
@@ -614,9 +586,9 @@ DESCRIPTION:2025-09-14 12:00:00\n\n(métro Acadie)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/node/11666297290
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250914T130000
 DTEND;TZID=America/Toronto:20250914T150000
 SUMMARY:Manifestation non à la participation de l'équipe d'israël au gr
@@ -639,9 +611,9 @@ DESCRIPTION:2025-09-14 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250914T130000
 DTEND;TZID=America/Toronto:20250914T150000
 SUMMARY:Plateau : Assemblée citoyenne dans la rue !
@@ -664,9 +636,9 @@ DESCRIPTION:2025-09-14 13:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034361806
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250914T190000
 DTEND;TZID=America/Toronto:20250914T210000
 SUMMARY:Touching Grass 15$: A comedy fundraiser for carewagons mutual aid 
@@ -691,9 +663,9 @@ DESCRIPTION:2025-09-14 19:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250915T170000
 DTEND;TZID=America/Toronto:20250915T190000
 SUMMARY:Building Blocks Incubation Program - 2500$ seed funding
@@ -713,9 +685,9 @@ DESCRIPTION:2025-09-15 17:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250915T190000
 DTEND;TZID=America/Toronto:20250915T210000
 SUMMARY:Last Generation - Intro Talk
@@ -726,9 +698,9 @@ DESCRIPTION:2025-09-15 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250916T141500
 DTEND;TZID=America/Toronto:20250916T161500
 SUMMARY:Vigil for Palestine
@@ -746,9 +718,9 @@ DESCRIPTION:2025-09-16 14:15:00\n\nTourniquets du métro Atwater\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/213329687
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250916T173000
 DTEND;TZID=America/Toronto:20250916T193000
 SUMMARY:Lancement : "L'été en travers de la gorge"
@@ -769,9 +741,9 @@ DESCRIPTION:2025-09-16 17:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250916T180000
 DTEND;TZID=America/Toronto:20250916T200000
 SUMMARY:Regards croisés : enjeux socio-juridiques du PL97
@@ -807,9 +779,9 @@ DESCRIPTION:2025-09-16 18:00:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250916T180000
 DTEND;TZID=America/Toronto:20250916T200000
 SUMMARY:Lancement de livre : "Les rouges pour la fin"
@@ -851,9 +823,9 @@ DESCRIPTION:2025-09-16 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250916T180000
 DTEND;TZID=America/Toronto:20250916T200000
 SUMMARY:Sandy and Nora Talk
@@ -865,9 +837,9 @@ DESCRIPTION:2025-09-16 18:00:00\n\n1395 René-Lévesque Blvd W (métro Guy
 URL;VALUE=URI:https://www.openstreetmap.org/way/1424575974
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250916T190000
 DTEND;TZID=America/Toronto:20250916T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -896,9 +868,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250917T180000
 DTEND;TZID=America/Toronto:20250917T200000
 SUMMARY:Lancement de livre : "Braver l'interdit - Histoire féministe de l
@@ -946,9 +918,9 @@ DESCRIPTION:2025-09-17 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250917T183000
 DTEND;TZID=America/Toronto:20250917T203000
 SUMMARY:Projection : "¡Nae Pasaran!"
@@ -967,9 +939,9 @@ DESCRIPTION:2025-09-17 18:30:00\n\n1601 de Lorimier (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/345245850
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250918T141500
 DTEND;TZID=America/Toronto:20250918T161500
 SUMMARY:Vigil for Palestine
@@ -987,9 +959,9 @@ DESCRIPTION:2025-09-18 14:15:00\n\nTourniquets du métro Atwater\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/213329687
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250918T180000
 DTEND;TZID=America/Toronto:20250918T200000
 SUMMARY:Lancement de livre - "Tantôt aimer tantôt détruire"
@@ -1027,9 +999,9 @@ DESCRIPTION:2025-09-18 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250918T193000
 DTEND;TZID=America/Toronto:20250918T213000
 SUMMARY:Cinéma sous les étoiles : "Deep Rising"
@@ -1054,9 +1026,9 @@ DESCRIPTION:2025-09-18 19:30:00\n\n(métro de la Savane)\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/way/208170375
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250919T170000
 DTEND;TZID=America/Toronto:20250919T190000
 SUMMARY:tboy 5 à 7
@@ -1076,9 +1048,9 @@ DESCRIPTION:2025-09-19 17:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T000100
 DTEND;TZID=America/Toronto:20250920T020100
 SUMMARY:Fixons les limites - justice pour les personnes migrantes !
@@ -1109,9 +1081,9 @@ DESCRIPTION:2025-09-20 00:01:00\n\n(détail à venir)\n\nSamedi 20 septemb
  s limites."\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T110000
 DTEND;TZID=America/Toronto:20250920T130000
 SUMMARY:La Foire gourmande de Pointe-St-Charles
@@ -1146,9 +1118,9 @@ DESCRIPTION:2025-09-20 11:00:00\n\n625 rue Fortune (métro Charlevoix)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/12195916621
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T120000
 DTEND;TZID=America/Toronto:20250920T140000
 SUMMARY:Nos burn out sont politiques - 2e assemblée publique
@@ -1182,9 +1154,9 @@ DESCRIPTION:2025-09-20 12:00:00\n\n1710 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972991406
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T120000
 DTEND;TZID=America/Toronto:20250920T140000
 SUMMARY:Bouffe contre le fascisme
@@ -1198,9 +1170,9 @@ DESCRIPTION:2025-09-20 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T140000
 DTEND;TZID=America/Toronto:20250920T160000
 SUMMARY:canada will never be the 51st state
@@ -1251,9 +1223,9 @@ DESCRIPTION:2025-09-20 14:00:00\n\n1134 Ste-Catherine Ouest (métro Peel)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/12678070169
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T150000
 DTEND;TZID=America/Toronto:20250920T170000
 SUMMARY:Violet Hour Book Club: "Girl\, Woman\, Other"
@@ -1298,9 +1270,9 @@ DESCRIPTION:2025-09-20 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T190000
 DTEND;TZID=America/Toronto:20250920T210000
 SUMMARY:Show Punk/Folk 15$ : Los Fastidios / Hors Contrôle / Union Thugs 
@@ -1313,9 +1285,9 @@ DESCRIPTION:2025-09-20 19:00:00\n\n87 Ste-Catherine Est (métro St-Laurent
 URL;VALUE=URI:https://www.openstreetmap.org/node/1296620055
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T210000
 DTEND;TZID=America/Toronto:20250920T230000
 SUMMARY:Cabaret Slutopia (payant)
@@ -1346,9 +1318,9 @@ DESCRIPTION:2025-09-20 21:00:00\n\nTBA\n\nLe cabaret de SLUTOPIA est une p
  f you’re an ally.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250920T220000
 DTEND;TZID=America/Toronto:20250921T000000
 SUMMARY:Balade-manif en vélo pour la sécurité dans le nord-est de Montr
@@ -1366,9 +1338,9 @@ DESCRIPTION:2025-09-20 22:00:00\n\n(Montréal-Nord)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973329015
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250921T190000
 DTEND;TZID=America/Toronto:20250921T210000
 SUMMARY:Projection du film "El Estallido Social" de Submedia
@@ -1397,9 +1369,9 @@ DESCRIPTION:2025-09-21 19:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250922T120000
 DTEND;TZID=America/Toronto:20250922T140000
 SUMMARY:Spectre de rue : Blitz de nettoyage d'automne
@@ -1415,9 +1387,9 @@ DESCRIPTION:2025-09-22 12:00:00\n\n(métro Beaudry)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/2422279646
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250922T180000
 DTEND;TZID=America/Toronto:20250922T200000
 SUMMARY:Breaking Free from Closed Work Permits: Symbolic Action on parliam
@@ -1463,9 +1435,9 @@ DESCRIPTION:2025-09-22 18:00:00\n\nau parlement\n\nhttps://www.openstreetm
 URL;VALUE=URI:https://www.openstreetmap.org/way/296732958
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250923T113000
 DTEND;TZID=America/Toronto:20250923T133000
 SUMMARY:Vigil for Palestine
@@ -1481,9 +1453,9 @@ DESCRIPTION:2025-09-23 11:30:00\n\n1455 Maisonneuve W (metro Guy)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250923T170000
 DTEND;TZID=America/Toronto:20250923T190000
 SUMMARY:Lancement de livre : "Gentrification et résistances à Montréal"
@@ -1507,9 +1479,9 @@ DESCRIPTION:2025-09-23 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-55
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250923T183000
 DTEND;TZID=America/Toronto:20250923T203000
 SUMMARY:Film : "Le vivant qui se défend"
@@ -1533,9 +1505,9 @@ DESCRIPTION:2025-09-23 18:30:00\n\n2396 Beaubien Est (métro d&#039\;Iberv
 URL;VALUE=URI:https://www.openstreetmap.org/node/281865771
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-56
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250923T190000
 DTEND;TZID=America/Toronto:20250923T210000
 SUMMARY:Comedy Show 15$ : They go low\, we go laugh
@@ -1545,9 +1517,9 @@ DESCRIPTION:2025-09-23 19:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-57
+UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250923T190000
 DTEND;TZID=America/Toronto:20250923T210000
 SUMMARY:Lancement de la saison de l'UPop
@@ -1569,9 +1541,9 @@ DESCRIPTION:2025-09-23 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-58
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250923T190000
 DTEND;TZID=America/Toronto:20250923T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -1600,9 +1572,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-59
+UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250924T160000
 DTEND;TZID=America/Toronto:20250924T180000
 SUMMARY:Manifestation et lancement du Manifeste pour un québec sans pauvr
@@ -1643,9 +1615,9 @@ DESCRIPTION:2025-09-24 16:00:00\n\nCoin Berri-Maisonneuve (métro Berri)\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/6455474048
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-60
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250925T090000
 DTEND;TZID=America/Toronto:20250925T110000
 SUMMARY:Camp de formation UQAM
@@ -1661,9 +1633,9 @@ DESCRIPTION:2025-09-25 09:00:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-61
+UID:resmtl-59
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250925T160000
 DTEND;TZID=America/Toronto:20250925T180000
 SUMMARY:Vigil for Palestine
@@ -1677,9 +1649,9 @@ DESCRIPTION:2025-09-25 16:00:00\n\n(aux tourniquets)\n\nMÉTRO GUY-CONCORD
  p\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-62
+UID:resmtl-60
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250926T090000
 DTEND;TZID=America/Toronto:20250926T110000
 SUMMARY:Camp de formation UQAM
@@ -1695,9 +1667,9 @@ DESCRIPTION:2025-09-26 09:00:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-63
+UID:resmtl-61
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250926T170000
 DTEND;TZID=America/Toronto:20250926T190000
 SUMMARY:Masse critique montréal
@@ -1746,9 +1718,9 @@ DESCRIPTION:2025-09-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-64
+UID:resmtl-62
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250926T190000
 DTEND;TZID=America/Toronto:20250926T210000
 SUMMARY:Lancement de livre : "Précieux sang"
@@ -1779,9 +1751,9 @@ DESCRIPTION:2025-09-26 19:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-65
+UID:resmtl-63
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250927T090000
 DTEND;TZID=America/Toronto:20250927T110000
 SUMMARY:Camp de formation UQAM
@@ -1797,9 +1769,9 @@ DESCRIPTION:2025-09-27 09:00:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-66
+UID:resmtl-64
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250927T103000
 DTEND;TZID=America/Toronto:20250927T123000
 SUMMARY:Debian & Stuff
@@ -1815,9 +1787,9 @@ DESCRIPTION:2025-09-27 10:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-67
+UID:resmtl-65
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250927T120000
 DTEND;TZID=America/Toronto:20250927T140000
 SUMMARY:Bouffe contre le fascisme
@@ -1831,9 +1803,9 @@ DESCRIPTION:2025-09-27 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-68
+UID:resmtl-66
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250927T130000
 DTEND;TZID=America/Toronto:20250927T150000
 SUMMARY:Manifestation pour la suite du monde
@@ -1870,9 +1842,9 @@ DESCRIPTION:2025-09-27 13:00:00\n\n(Métro Place-des-Arts)\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/way/415626771
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-69
+UID:resmtl-67
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250927T140000
 DTEND;TZID=America/Toronto:20250927T160000
 SUMMARY:canada will never be the 51st state
@@ -1923,9 +1895,9 @@ DESCRIPTION:2025-09-27 14:00:00\n\n1134 Ste-Catherine Ouest (métro Peel)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/12678070169
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-70
+UID:resmtl-68
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250928T100000
 DTEND;TZID=America/Toronto:20250928T120000
 SUMMARY:Mobilisation 6600 - Foire paysanne
@@ -1951,9 +1923,9 @@ DESCRIPTION:2025-09-28 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/9672911284
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-71
+UID:resmtl-69
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250928T180000
 DTEND;TZID=America/Toronto:20250928T200000
 SUMMARY:Souper mensuel ORA x FLIP
@@ -1963,9 +1935,9 @@ DESCRIPTION:2025-09-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-72
+UID:resmtl-70
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250928T180000
 DTEND;TZID=America/Toronto:20250928T200000
 SUMMARY:Lancement du journal du FLIP
@@ -1975,9 +1947,9 @@ DESCRIPTION:2025-09-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-73
+UID:resmtl-71
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250929T190000
 DTEND;TZID=America/Toronto:20250929T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1988,9 +1960,9 @@ DESCRIPTION:2025-09-29 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-74
+UID:resmtl-72
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250930T130000
 DTEND;TZID=America/Toronto:20250930T150000
 SUMMARY:"Every Child Matter" March
@@ -2001,9 +1973,9 @@ DESCRIPTION:2025-09-30 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-75
+UID:resmtl-73
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20250930T190000
 DTEND;TZID=America/Toronto:20250930T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -2032,9 +2004,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-76
+UID:resmtl-74
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251001T190000
 DTEND;TZID=America/Toronto:20251001T210000
 SUMMARY:Projection : "Le droit international des droits humains : défis m
@@ -2059,9 +2031,9 @@ DESCRIPTION:2025-10-01 19:00:00\n\n1500 rue Balmoral (métro Place-des-Art
 URL;VALUE=URI:https://www.openstreetmap.org/node/8025526254
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-77
+UID:resmtl-75
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251002T143000
 DTEND;TZID=America/Toronto:20251002T163000
 SUMMARY:Foire populaire sur le droit à la mobilité
@@ -2083,9 +2055,9 @@ DESCRIPTION:2025-10-02 14:30:00\n\n(métro Henri-Bourassa)\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/way/35830566
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-78
+UID:resmtl-76
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251003T170000
 DTEND;TZID=America/Toronto:20251003T190000
 SUMMARY:Au file de la parole avec Kim Thuy - Lecture des textes des appren
@@ -2120,9 +2092,9 @@ DESCRIPTION:2025-10-03 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-79
+UID:resmtl-77
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251004T120000
 DTEND;TZID=America/Toronto:20251004T140000
 SUMMARY:Bouffe contre le fascisme
@@ -2136,9 +2108,9 @@ DESCRIPTION:2025-10-04 12:00:00\n\nVerdun (métro de l&#039\;Église)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/2925377065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-80
+UID:resmtl-78
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251004T130000
 DTEND;TZID=America/Toronto:20251004T150000
 SUMMARY:Grandiose manif-action pour le logement
@@ -2165,9 +2137,9 @@ DESCRIPTION:2025-10-04 13:00:00\n\nÎle des soeurs\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/93829446
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-81
+UID:resmtl-79
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251004T130000
 DTEND;TZID=America/Toronto:20251004T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -2179,9 +2151,9 @@ DESCRIPTION:2025-10-04 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-82
+UID:resmtl-80
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251004T140000
 DTEND;TZID=America/Toronto:20251004T160000
 SUMMARY:canada will never be the 51st state
@@ -2232,9 +2204,9 @@ DESCRIPTION:2025-10-04 14:00:00\n\n1134 Ste-Catherine Ouest (métro Peel)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/12678070169
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-83
+UID:resmtl-81
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251005T120000
 DTEND;TZID=America/Toronto:20251005T140000
 SUMMARY:Foire du livre révolutionnaire
@@ -2290,9 +2262,9 @@ DESCRIPTION:2025-10-05 12:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-84
+UID:resmtl-82
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251006T000100
 DTEND;TZID=America/Toronto:20251006T020100
 SUMMARY:Appel aux actions en solidarité avec la Palestine
@@ -2316,9 +2288,9 @@ DESCRIPTION:2025-10-06 00:01:00\n\n(vraiment partout)\n\n🇵🇸 In Pales
  eepalestine #stopgenocide\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-85
+UID:resmtl-83
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251007T000100
 DTEND;TZID=America/Toronto:20251007T020100
 SUMMARY:Appel aux actions en solidarité avec la Palestine
@@ -2342,9 +2314,9 @@ DESCRIPTION:2025-10-07 00:01:00\n\n(vraiment partout)\n\n🇵🇸 In Pales
  eepalestine #stopgenocide\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-86
+UID:resmtl-84
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251007T190000
 DTEND;TZID=America/Toronto:20251007T210000
 SUMMARY:Les Casseroles du Mardi : DEHORS LA CAQ!
@@ -2373,9 +2345,9 @@ URL;VALUE=URI:https://www.openstreetmap.org/node/281754824 + https://www.o
  penstreetmap.org/node/5022472293
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-87
+UID:resmtl-85
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251008T000100
 DTEND;TZID=America/Toronto:20251008T020100
 SUMMARY:Appel aux actions en solidarité avec la Palestine
@@ -2399,9 +2371,9 @@ DESCRIPTION:2025-10-08 00:01:00\n\n(vraiment partout)\n\n🇵🇸 In Pales
  eepalestine #stopgenocide\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-88
+UID:resmtl-86
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251008T170000
 DTEND;TZID=America/Toronto:20251008T190000
 SUMMARY:Bouffe collective à l'Achoppe
@@ -2411,9 +2383,9 @@ DESCRIPTION:2025-10-08 17:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-89
+UID:resmtl-87
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251008T190000
 DTEND;TZID=America/Toronto:20251008T210000
 SUMMARY:Projection : "Le mythe de la femme noire"
@@ -2435,9 +2407,9 @@ DESCRIPTION:2025-10-08 19:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-90
+UID:resmtl-88
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251009T000100
 DTEND;TZID=America/Toronto:20251009T020100
 SUMMARY:Appel aux actions en solidarité avec la Palestine
@@ -2461,9 +2433,9 @@ DESCRIPTION:2025-10-09 00:01:00\n\n(vraiment partout)\n\n🇵🇸 In Pales
  eepalestine #stopgenocide\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-91
+UID:resmtl-89
 SEQUENCE:0
-DTSTAMP:20250910T031221
+DTSTAMP:20250911T031632
 DTSTART;TZID=America/Toronto:20251009T120000
 DTEND;TZID=America/Toronto:20251009T140000
 SUMMARY:Midi-conférence - Démêler le privé du public
@@ -2512,5 +2484,31 @@ DESCRIPTION:2025-10-09 12:00:00\n\n(en ligne)\n\nLa privatisation en sant
  n sur l'événement ou d'ordre technique\, n'hésitez pas à nous contacte
  r à info@liguedesdroits.ca ou par téléphone au (514) 849-7717\, poste 3
  221.\nCliquez ici pour vous inscrire!\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-90
+SEQUENCE:0
+DTSTAMP:20250911T031632
+DTSTART;TZID=America/Toronto:20251010T000100
+DTEND;TZID=America/Toronto:20251010T020100
+SUMMARY:Appel aux actions en solidarité avec la Palestine
+LOCATION:(vraiment partout)
+DESCRIPTION:2025-10-10 00:01:00\n\n(vraiment partout)\n\n🇵🇸 In Pales
+ tine and everywhere else... RESISTANCE PERSISTS!\n🗓️ From October 6 t
+ o 12\, 2025: Call for an Action Week in solidarity with Palestine\n🔻 No
+  peace while Gaza bleeds: our duty is resistance\, by all means!\nD4P @des
+ investir4palestine and the Convergence des luttes anticapitaliste (CLAC) i
+ nvite everyone to organize with their community to PROVOKE\, DISTURB and P
+ ERTURB.&nbsp\;\n👉 To make visible our collective refusal of any complic
+ ity with genocide.\n👉 To recall the legitimacy of resistance\, in all i
+ ts forms\, in Palestine and here.\n✊ Through popular education\, demonst
+ rations\, direct action and our widespread mobilization.\n*This call to ac
+ tion echoes the one launched on July 20\, 2025 by six political groups and
+  resistance organizations in Gaza calling on us to escalate our actions to
+  increase the pressure on our complicit governments.\n🌐 Full text also 
+ available here: clac-montreal.net/en/palweek (link in @desinvestir4palesti
+ ne bio)\n🖋 Endorses the week as a group (link in bio). Limit : Septembe
+ r 28.\n.\n.\n#escalateforgaza #globalizeintifada #intifada #resistance #fr
+ eepalestine #stopgenocide\n&nbsp\;
 END:VEVENT
 END:VCALENDAR
