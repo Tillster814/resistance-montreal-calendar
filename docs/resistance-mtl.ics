@@ -8,50 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251122T032005
-DTSTART;TZID=America/Toronto:20251122T150000
-DTEND;TZID=America/Toronto:20251122T170000
-SUMMARY:Archives révolutionnaires - Histoire du Canada
-LOCATION:1900 Le Ber (métro Charlevoix)
-DESCRIPTION:2025-11-22 15:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
- s://www.openstreetmap.org/node/6074430797\n\n𝐃𝐞𝐬𝐜𝐫𝐢𝐩
- 𝐭𝐢𝐨𝐧 𝐝𝐮 𝐜𝐨𝐮𝐫𝐬\nCe cours propose une plong
- ée accessible et critique dans l’histoire du Canada au XIXᵉ siècle\,
-  une période charnière où s’imposent le capitalisme et l’État cana
- dien. À travers une approche matérialiste\, nous verrons comment les str
- uctures économiques et politiques se sont mises en place au profit des é
- lites\, souvent contre la volonté des classes populaires. En retraçant l
- es grandes transformations de l’époque et les luttes qui les ont accomp
- agnées\, nous réfléchirons ensemble à l’héritage de ce passé et au
- x possibles chemins vers une société plus démocratique.\n**INSCRIPTION 
- EN LIGNE OU SUR PLACE LORS DE LA PREMIÈRE SÉANCE**\n𝐅𝐨𝐫𝐦𝐚
- 𝐭\nCours de deux heures avec une pause. La première partie de la séan
- ce est magistrale\, la deuxième partie consiste en une discussion.\n𝐋
- 𝐞𝐜𝐭𝐮𝐫𝐞 𝐫𝐞𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞́𝐞\nL
- e cours se base sur le livre Capitalisme et confédération de Stanley Rye
- rson\, paru dans sa version définitive en 1972. Il est recommandé de se 
- procurer l’ouvrage et de lire les chapitres correspondants avant chaque 
- séance.\nRYERSON\, Stanley. Capitalisme et confédération\, Montréal\, 
- M Éditeur\, 2024.\n𝟏𝐞𝐫 𝐧𝐨𝐯\, 𝟏𝟓𝐡𝟎𝟎 : 
- 𝐒𝐞́𝐚𝐧𝐜𝐞 𝟏\nColonialisme canadien\, système seigneur
- ial\, révolte des Patriotes (1837-1838).\n(chap. 1-4\, pages 37-124)\n
- 𝟖 𝐧𝐨𝐯\, 𝟏𝟓𝐡𝟎𝟎 : 𝐒𝐞́𝐚𝐧𝐜𝐞 𝟐
- \nRévoltes Patriotes dans le Haut-Canada (1837-1838)\, Acte d'Union 1840\
- , transition du féodalisme au capitalisme.\n(chap. 5-8\, pages 125-205)\n
- 𝟏𝟓 𝐧𝐨𝐯\, 𝟏𝟓𝐡𝟎𝟎 : 𝐒𝐞́𝐚𝐧𝐜𝐞 
- 𝟑\nReconfiguration économique du Canada au tournant des années 1840-1
- 850.\n(chap. 9-12\, pages 207-296)\n𝟐𝟐 𝐧𝐨𝐯\, 𝟏𝟓𝐡
- 𝟎𝟎 : 𝐒𝐞́𝐚𝐧𝐜𝐞 𝟒\nDéveloppement du capitalisme 
- industriel et les débuts du mouvement ouvrier.\n(chap. 13-16\, pages 297-
- 391)\n𝟐𝟗 𝐧𝐨𝐯\, 𝟏𝟓𝐡𝟎𝟎 : 𝐒𝐞́𝐚𝐧
- 𝐜𝐞 𝟓\nCréation de l’État canadien (1867) et les résistances 
- populaires.\n(chap. 17-20\, pages 393-479)\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251123T103000
 DTEND;TZID=America/Toronto:20251123T123000
 SUMMARY:Balado - Grand Entretien avec Catherine Ego
@@ -91,9 +48,9 @@ DESCRIPTION:2025-11-23 10:30:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-2
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251123T140000
 DTEND;TZID=America/Toronto:20251123T160000
 SUMMARY:Manif : Face à la montée de l'extrême-droite\, résistance popu
@@ -134,9 +91,9 @@ DESCRIPTION:2025-11-23 14:00:00\n\n(métro McGill)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/88609497
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251123T173000
 DTEND;TZID=America/Toronto:20251123T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
@@ -151,9 +108,9 @@ DESCRIPTION:2025-11-23 17:30:00\n\n6450 Christophe-Colomb ou 6792 St-Laure
  \n21 décembre N’était-ce pas l’été
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251124T180000
 DTEND;TZID=America/Toronto:20251124T200000
 SUMMARY:Le dossier de crédit\, un outil de discrimination
@@ -173,9 +130,9 @@ DESCRIPTION:2025-11-24 18:00:00\n\n7500\, de Chateaubriand (métro Jean-Ta
 URL;VALUE=URI:https://www.openstreetmap.org/node/2429690656
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251124T190000
 DTEND;TZID=America/Toronto:20251124T210000
 SUMMARY:Last Generation - Intro Talk
@@ -188,9 +145,23 @@ DESCRIPTION:2025-11-24 19:00:00\n\n1440 Mackay (métro Guy-Concordia)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/5544176196
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-5
+SEQUENCE:0
+DTSTAMP:20251123T033214
+DTSTART;TZID=America/Toronto:20251124T190000
+DTEND;TZID=America/Toronto:20251124T210000
+SUMMARY:Cinema Politica : "Urban Disobedience Toolkit"
+LOCATION:Local H-110\, 1455 Maisonneuve W (metro Guy)
+DESCRIPTION:2025-11-24 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
+  Guy)\n\nhttps://www.openstreetmap.org/node/4035248248\n\nArtists and acti
+ vists reclaim a gentrified Prague with creative interventions and anarchis
+ t monkey-wrenching to show how a more egalitarian city is possible.
+URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251125T180000
 DTEND;TZID=America/Toronto:20251125T200000
 SUMMARY:Premier lancement de béances éditions
@@ -228,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251125T180000
 DTEND;TZID=America/Toronto:20251125T200000
 SUMMARY:Le mouvement syndical et la question du logement - Το συνδι
@@ -333,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251126T113000
 DTEND;TZID=America/Toronto:20251126T133000
 SUMMARY:Racisme\, genre et discrimination. Des espaces de médiation et de
@@ -396,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251126T163000
 DTEND;TZID=America/Toronto:20251126T183000
 SUMMARY:Distribution de soupe et assemblée citoyenne
@@ -408,7 +379,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251126T180000
 DTEND;TZID=America/Toronto:20251126T200000
 SUMMARY:Décoloniser la bibliothèque
@@ -423,7 +394,44 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
+DTSTART;TZID=America/Toronto:20251126T183000
+DTEND;TZID=America/Toronto:20251126T203000
+SUMMARY:Webinaire La CAQ attaque nos droits! Comprendre et combattre PL-1\
+ , loi constitutionnelle du Québec
+LOCATION:(en ligne)
+DESCRIPTION:2025-11-26 18:30:00\n\n(en ligne)\n\nWebinaire d'information e
+ t de mobilisation: La CAQ attaque nos droits\, comprendre et combattre le 
+ PL-1\, loi constitutionnelle du Québec\nLe Projet de loi 1 vise à adopte
+ r une Constitution du Québec\, mais il a été élaboré sans débat publ
+ ic. Plutôt que d’accroître les protections sociales\, légales et dém
+ ocratiques dont bénéficient les citoyen-ne-s\, il concentrera encore dav
+ antage de pouvoirs entre les mains du gouvernement. Il affaiblira le rôle
+  des tribunaux\, banalisera la suspension de droits fondamentaux et limite
+ ra la capacité des organismes et de la société civile à contester les 
+ décisions de l’État. Autrement dit\, ce projet est une véritable cata
+ strophe !\nLe PL 1 représente un recul majeur pour la démocratie et les 
+ droits humains au Québec. Il soulève des enjeux sérieux quant à la la
+ ïcité\, à la liberté de conscience et à l’égalité réelle\, parti
+ culièrement pour les groupes déjà marginalisés. Ce webinaire propose d
+ ’examiner ces impacts et de réfléchir ensemble à comment s’organise
+ r pour s’y opposer et défendre un véritable projet démocratique colle
+ ctif. À quelques jours du grand rassemblement du 29 novembre\, il nous do
+ nne une autre excellente raison de nous mobiliser et de contester le gouve
+ rnement de la CAQ !\nQuand? Le 26 novembre de 18 h 30 à 20 h\nOù? En vir
+ tuel sur zoom: https://us06web.zoom.us/j/81200210155\nAvec la participatio
+ n de :\nAlexandre Petitclerc\, président de la Ligue des droits et libert
+ és\nAnimation par Bertrand Guibord\, président du Conseil central du Mon
+ tréal métropolitain-CSN\nParticipons en grand nombre à la grande manife
+ station du 29 novembre à 13h30 Place du Canada à Montréal! https://www.
+ facebook.com/events/24617416827950494\n* * * * * * * * *\nDécouvrez tous 
+ les outils de la Ligue des droits et libertés au sujet du PL-1: https://l
+ iguedesdroits.ca/des-ressources-pour-comprendre.../\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-12
+SEQUENCE:0
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251127T100000
 DTEND;TZID=America/Toronto:20251127T120000
 SUMMARY:La vie maritale à l'aide sociale : un exemple de violence institu
@@ -449,9 +457,9 @@ DESCRIPTION:2025-11-27 10:00:00\n\n(métro Charlevoix)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973468721
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251127T130000
 DTEND;TZID=America/Toronto:20251127T150000
 SUMMARY:La criss de réforme de l'aide sociale
@@ -461,9 +469,9 @@ DESCRIPTION:2025-11-27 13:00:00\n\n3340 Ontario Est (métro Préfontaine)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/5111364856
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251127T170000
 DTEND;TZID=America/Toronto:20251127T190000
 SUMMARY:5 à 7 du Regroupement des médias critiques de gauche
@@ -481,9 +489,9 @@ DESCRIPTION:2025-11-27 17:00:00\n\n(métro Sherbrooke)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972945485
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251127T170000
 DTEND;TZID=America/Toronto:20251127T190000
 SUMMARY:Femmes résilientes\, violence de genre et solidarité du québec 
@@ -591,9 +599,9 @@ DESCRIPTION:2025-11-27 17:00:00\n\nSalle des boiseries (J-2805) métro Ber
 URL;VALUE=URI:https://www.openstreetmap.org/way/119612954
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251127T173000
 DTEND;TZID=America/Toronto:20251127T193000
 SUMMARY:Atelier féministe sur le droit des femmes et les violences sexist
@@ -679,9 +687,9 @@ DESCRIPTION:2025-11-27 17:30:00\n\nSalle des boiseries (J-2805)\, Pavillon
 URL;VALUE=URI:https://www.openstreetmap.org/way/119612954
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251127T180000
 DTEND;TZID=America/Toronto:20251127T200000
 SUMMARY:Comité BAILS - Souper de mobilisation
@@ -701,9 +709,9 @@ DESCRIPTION:2025-11-27 18:00:00\n\n3915 Ste-Catherine Est (métro Joliette
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973009128
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251127T183000
 DTEND;TZID=America/Toronto:20251127T203000
 SUMMARY:Projection : "Kanehsatake: 270 ans de résistance"
@@ -723,9 +731,28 @@ DESCRIPTION:2025-11-27 18:30:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
+DTSTART;TZID=America/Toronto:20251128T120000
+DTEND;TZID=America/Toronto:20251128T140000
+SUMMARY:Veillée communautaire en mémoire des 20+ membres de la communaut
+ é autochtone que nous avons perdus depuis juin 2024
+LOCATION:(métro Atwater)
+DESCRIPTION:2025-11-28 12:00:00\n\n(métro Atwater)\n\nhttps://www.openstr
+ eetmap.org/way/1274068972\n\nRejoignez-nous le 28 novembre à 12 h pour un
+ e veillée communautaire en mémoire des 20+ membres de la communauté que
+  nous avons perdus depuis juin 2024.\nNous nous réunissons pour honorer l
+ eur vie\, prononcer leurs noms et garder l'espace pour la guérison.\nAnim
+ é par le refuge pour femmes autochtones de Montréal et Résilience Montr
+ éal\, ce mémorial est une invitation à rester ensemble dans l'amour et 
+ le souvenir.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1274068972
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-20
+SEQUENCE:0
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251128T160000
 DTEND;TZID=America/Toronto:20251128T180000
 SUMMARY:Blood Moon Ritual 25$ - Antifascist Black Metal Fest
@@ -744,9 +771,9 @@ DESCRIPTION:2025-11-28 16:00:00\n\n257 Ste-Ferdinand (métro Place-St-Henr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973426432
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251128T170000
 DTEND;TZID=America/Toronto:20251128T190000
 SUMMARY:Masse Critique Montréal
@@ -795,9 +822,9 @@ DESCRIPTION:2025-11-28 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251128T180000
 DTEND;TZID=America/Toronto:20251128T200000
 SUMMARY:Projection du film "le vivant qui se défend"
@@ -808,9 +835,9 @@ DESCRIPTION:2025-11-28 18:00:00\n\n4560 rue Adam (métro Pie-IX)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973111762
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251129T133000
 DTEND;TZID=America/Toronto:20251129T153000
 SUMMARY:Manif contre la CAQ : Faire front avec les syndicats
@@ -828,9 +855,9 @@ DESCRIPTION:2025-11-29 13:30:00\n\n(métro Peel ou Bonaventure)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/way/21260051
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251129T150000
 DTEND;TZID=America/Toronto:20251129T170000
 SUMMARY:Archives révolutionnaires - Histoire du Canada
@@ -871,9 +898,9 @@ DESCRIPTION:2025-11-29 15:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251130T100000
 DTEND;TZID=America/Toronto:20251130T120000
 SUMMARY:Queer Healing Day - Café de soutien
@@ -883,9 +910,9 @@ DESCRIPTION:2025-11-30 10:00:00\n\n7355 Christophe-Colomb (métro Fabre)\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/250647918
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251130T180000
 DTEND;TZID=America/Toronto:20251130T200000
 SUMMARY:Food Against Police & Prisons
@@ -920,9 +947,9 @@ DESCRIPTION:2025-11-30 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251201T170000
 DTEND;TZID=America/Toronto:20251201T190000
 SUMMARY:POPIR : Relance du comité mob
@@ -943,9 +970,9 @@ DESCRIPTION:2025-12-01 17:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251201T190000
 DTEND;TZID=America/Toronto:20251201T210000
 SUMMARY:Cinema Politica - Khartoum + Sabren
@@ -963,9 +990,9 @@ DESCRIPTION:2025-12-01 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251202T090000
 DTEND;TZID=America/Toronto:20251202T110000
 SUMMARY:50 ans de solidarités - Journée de solidarité internationale ou
@@ -996,9 +1023,75 @@ DESCRIPTION:2025-12-02 09:00:00\n\n1601 de Lorimier (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/345245850
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
+DTSTART;TZID=America/Toronto:20251202T173000
+DTEND;TZID=America/Toronto:20251202T193000
+SUMMARY:Inspirations et enseignements des militantes impliquées dans la l
+ utte contre le VIH
+LOCATION:1210 St-Laurent (métro St-Laurent)
+DESCRIPTION:2025-12-02 17:30:00\n\n1210 St-Laurent (métro St-Laurent)\n\n
+ https://www.openstreetmap.org/node/11973468587\n\nLors d'une crise de sant
+ é publique\, on assiste souvent à une recherche effrénée de l’origin
+ e de la crise. Les communautés marginalisées deviennent souvent les bouc
+ s émissaires et les droits des individus et des communautés sont bafoué
+ s. D’un autre côté\, les épidémies comme celle du sida offrent aux c
+ ommunautés des possibilités infinies de se solidariser et de s'organiser
+  pour défendre les droits humains. Comment le milieu communautaire se mob
+ ilise et s’organise dans le contexte d'une pandémie. Quels sont les ens
+ eignements tirés de cette expérience ? Comment pourrait-il évoluer pour
+  se préparer aux prochaines crises ? Plusieurs organismes partageront leu
+ rs expériences. La discussion permettra de voir comment ces expériences 
+ peuvent s’adapter et inspirer d’autres organismes.\nPremier arrivé\, 
+ premier assis.\nCet événement est bilingue. Nous inviterons les invités
+  et les participants à parler dans leur langue.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973468587
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-31
+SEQUENCE:0
+DTSTAMP:20251123T033214
+DTSTART;TZID=America/Toronto:20251203T180000
+DTEND;TZID=America/Toronto:20251203T200000
+SUMMARY:Lancement de livre : "Délier les noeuds\, tisser les voix - Lutte
+ s féministes contre la prison"
+LOCATION:1426 Beaudry (métro Beaudry)
+DESCRIPTION:2025-12-03 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
+ //www.openstreetmap.org/node/4852683788\n\nLancement de l'ouvrage\nDélier
+  les nœuds\, tisser les voix\nLuttes féministes contre la prison\nde Cat
+ herine Chesnay\, Sophie Coulombe et Geneviève Dauphin-Johnson (dir.)\nave
+ c la participation de plusieurs personnes parmi les contributeurices: Ador
+ e Goldman\, Amira Issa\, Belinda Wandering Spirit\, Caro\, Caroline Keisha
+  Foray\, Catherine Leroux\, Cory Cardinal\, Danielle Bird\, Delphine Gauth
+ ier-Boiteau\, Fallon Rouiller\, Karrie Auger\, Lucie Lemonde\, Megan Gnana
+ sihamany\, Melina May\, Molly Swain\, Nancy Van Styvendale\, Nicole Filion
+ \, Philippe Néméh-Nombré\, Robyn Maynard\, Serenity Joo\, Sheri Prantea
+ u\, Sylvie Bordelais\, Thalia Anthony\, Tracey McIntosh et Vicki Chartrand
+ .\nDes détails suivront\, notamment sur l'accessibilité du lieu.\n===\nE
+ n remontant le fil reliant les luttes féministes et l’abolitionnisme p
+ énal au Québec\, l’ouvrage explore des pensées plurielles\, incarnée
+ s et situées\, en mettant au jour leurs convergences\, leurs tensions et 
+ leurs potentialités. Sans craindre la perspective résolument militante\,
+  Délier les nœuds\, tisser les voix est une contribution à la circulati
+ on en français des idées\, à la fois raisonnables et radicales\, qui so
+ us-tendent les luttes féministes pour l’abolition de la police\, des tr
+ ibunaux et des prisons.\nComment faire concorder un monde sans police ni p
+ risons avec la défense des droits individuels et collectifs ? Comment cer
+ taines luttes menées par les femmes autochtones s’accordent-elles avec 
+ l’abolitionnisme pénal ? Comment articuler ces combats au grand jour av
+ ec l’intimité des personnes incarcérées et de leurs proches ? Le plai
+ doyer pour la décriminalisation du travail du sexe peut-il éclairer l’
+ abolitionnisme pénal comme le font les luttes des communautés noires pou
+ r définancer la police ?\nLes textes proposés – des essais\, des entre
+ tiens\, des témoignages – mettent en valeur les savoirs qui se dégagen
+ t des pratiques militantes.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-32
+SEQUENCE:0
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251203T190000
 DTEND;TZID=America/Toronto:20251203T210000
 SUMMARY:Project : "Visions of Ecosocialism - What Happens after Capitalism
@@ -1017,9 +1110,9 @@ DESCRIPTION:2025-12-03 19:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T163000
 DTEND;TZID=America/Toronto:20251204T183000
 SUMMARY:Comprendre les oppressions à travers les films de disney
@@ -1040,9 +1133,9 @@ DESCRIPTION:2025-12-04 16:30:00\n\n(métro Charlevoix)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972703546
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T170000
 DTEND;TZID=America/Toronto:20251204T190000
 SUMMARY:Lancement de livre : "Brisons les mythes sur les personnes im-migr
@@ -1069,9 +1162,9 @@ DESCRIPTION:2025-12-04 17:00:00\n\n6201 St-Vallier (métro Beaubien)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/2429688948
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T173000
 DTEND;TZID=America/Toronto:20251204T193000
 SUMMARY:Féminétudes no. 25 - Violences\, savoirs et care: qu'en est-il d
@@ -1095,9 +1188,9 @@ DESCRIPTION:2025-12-04 17:30:00\n\n633 Beaumont (métro Acadie)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T180000
 DTEND;TZID=America/Toronto:20251204T200000
 SUMMARY:Hydro coûte trop cher – Crise climatique\, crise du logement et
@@ -1124,9 +1217,9 @@ DESCRIPTION:2025-12-04 18:00:00\n\n7500\, de Chateaubriand (métro Jean-Ta
 URL;VALUE=URI:https://www.openstreetmap.org/node/2429690656
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T180000
 DTEND;TZID=America/Toronto:20251204T200000
 SUMMARY:Causerie - Des vies non exemplaires - Corps\, choix et parentalit
@@ -1176,9 +1269,9 @@ DESCRIPTION:2025-12-04 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T180000
 DTEND;TZID=America/Toronto:20251204T200000
 SUMMARY:Conférence - Se loger dans le Sud-ouest
@@ -1206,9 +1299,9 @@ DESCRIPTION:2025-12-04 18:00:00\n\n2401 rue Mullins (métro Charlevoix)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/12109286948
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T190000
 DTEND;TZID=America/Toronto:20251204T210000
 SUMMARY:Projection : "Profilage nocturne / Night Watches Us"
@@ -1249,9 +1342,9 @@ DESCRIPTION:2025-12-04 19:00:00\n\nONF\, 1500 Balmoral (métro Place-des-A
 URL;VALUE=URI:https://www.openstreetmap.org/node/8025526254
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T190000
 DTEND;TZID=America/Toronto:20251204T210000
 SUMMARY:Projections : Briser le silence de l'inceste
@@ -1290,9 +1383,9 @@ DESCRIPTION:2025-12-04 19:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251204T193000
 DTEND;TZID=America/Toronto:20251204T213000
 SUMMARY:Gala de luttes 2 - Hommage aux travailleurs de Demix Lasalle-Longu
@@ -1322,9 +1415,9 @@ DESCRIPTION:2025-12-04 19:30:00\n\n425 Beaubien Est (métro Beaubien)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866053
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251205T090000
 DTEND;TZID=America/Toronto:20251205T110000
 SUMMARY:Colloque annuel du RéQEF « Décentrer le féminisme blanc : lutt
@@ -1408,9 +1501,9 @@ DESCRIPTION:2025-12-05 09:00:00\n\n1550 boulevard de Maisonneuve Ouest –
 URL;VALUE=URI:https://www.openstreetmap.org/way/22080581
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251205T150000
 DTEND;TZID=America/Toronto:20251205T170000
 SUMMARY:Vente de vélos d'hiver solidaire
@@ -1428,9 +1521,9 @@ DESCRIPTION:2025-12-05 15:00:00\n\nUQAM\, 200 Sherbrooke Est\, local SH-31
 URL;VALUE=URI:https://www.openstreetmap.org/relation/16837027
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251205T180000
 DTEND;TZID=America/Toronto:20251205T200000
 SUMMARY:Entretien avec Michel Jean sur le livre "Kabasa"
@@ -1462,9 +1555,9 @@ DESCRIPTION:2025-12-05 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251206T100000
 DTEND;TZID=America/Toronto:20251206T120000
 SUMMARY:Marché de noël solidaire
@@ -1485,9 +1578,9 @@ DESCRIPTION:2025-12-06 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1317575081
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251206T133000
 DTEND;TZID=America/Toronto:20251206T153000
 SUMMARY:Marche commémorative - Vigile contre les féminicides
@@ -1511,9 +1604,9 @@ DESCRIPTION:2025-12-06 13:30:00\n\n1950 Grand Trunk (métro Charlevoix)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034261976
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251207T100000
 DTEND;TZID=America/Toronto:20251207T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -1537,9 +1630,9 @@ DESCRIPTION:2025-12-07 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251207T150000
 DTEND;TZID=America/Toronto:20251207T170000
 SUMMARY:Club de lecture: Abolish rent
@@ -1549,9 +1642,9 @@ DESCRIPTION:2025-12-07 15:00:00\n\n2531 rue Ontario Est\n\nhttps://www.ope
 URL;VALUE=URI:https://www.openstreetmap.org/node/11108904483
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251207T173000
 DTEND;TZID=America/Toronto:20251207T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
@@ -1568,9 +1661,9 @@ DESCRIPTION:2025-12-07 17:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251208T180000
 DTEND;TZID=America/Toronto:20251208T200000
 SUMMARY:Balado - Sans normes avec Geneviève Jeanson
@@ -1605,9 +1698,9 @@ DESCRIPTION:2025-12-08 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251208T190000
 DTEND;TZID=America/Toronto:20251208T210000
 SUMMARY:Last Generation - Intro Talk
@@ -1620,9 +1713,24 @@ DESCRIPTION:2025-12-08 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
+DTSTART;TZID=America/Toronto:20251208T190000
+DTEND;TZID=America/Toronto:20251208T210000
+SUMMARY:Cinema Politica : "A Letter to my Tribe"
+LOCATION:Local H-110\, 1455 Maisonneuve W (metro Guy)
+DESCRIPTION:2025-12-08 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
+  Guy)\n\nhttps://www.openstreetmap.org/node/4035248248\n\nb.h. Yael offers
+  an intimate essay film that reflects on the colonization of Palestine and
+  her family’s story\, combining archival images with diary narration.\n&
+ nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-53
+SEQUENCE:0
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251209T120000
 DTEND;TZID=America/Toronto:20251209T140000
 SUMMARY:Les campements au Québec: État des lieux post-électoral
@@ -1646,9 +1754,9 @@ DESCRIPTION:2025-12-09 12:00:00\n\n(en ligne)\n\nCette conférence se veut
   Webinaire Évènements ODP\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251210T170000
 DTEND;TZID=America/Toronto:20251210T190000
 SUMMARY:Bouffe collective à l'Achoppe
@@ -1658,9 +1766,9 @@ DESCRIPTION:2025-12-10 17:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251212T190000
 DTEND;TZID=America/Toronto:20251212T210000
 SUMMARY:Enregistrement du podcast Farouches 15$
@@ -1673,9 +1781,9 @@ DESCRIPTION:2025-12-12 19:00:00\n\n50 Ste-Catherine Ouest (métro St-Laure
 URL;VALUE=URI:https://www.openstreetmap.org/way/340739753
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251213T193000
 DTEND;TZID=America/Toronto:20251213T213000
 SUMMARY:Συναυλία-αφιέρωμα για τα 100 χρόνια α
@@ -1727,9 +1835,9 @@ DESCRIPTION:2025-12-13 19:30:00\n\n5359 Parc (métro Laurier)\n\nhttps://w
 URL;VALUE=URI:https://www.openstreetmap.org/way/234717660
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251220T120000
 DTEND;TZID=America/Toronto:20251220T140000
 SUMMARY:Foire de livres de gauche
@@ -1741,9 +1849,9 @@ DESCRIPTION:2025-12-20 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20251122T032005
+DTSTAMP:20251123T033214
 DTSTART;TZID=America/Toronto:20251221T173000
 DTEND;TZID=America/Toronto:20251221T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
