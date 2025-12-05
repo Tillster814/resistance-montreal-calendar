@@ -8,350 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T163000
-DTEND;TZID=America/Toronto:20251204T183000
-SUMMARY:Comprendre les oppressions à travers les films de disney
-LOCATION:(métro Charlevoix)
-DESCRIPTION:2025-12-04 16:30:00\n\n(métro Charlevoix)\n\nhttps://www.open
- streetmap.org/node/11972703546\n\nDans le cadre des 12 jours d'action cont
- re les violences faites aux femmes\, organisé par le comité d'action fé
- ministe :\nÀ travers des extraits de films de Disney\, on explore comment
-  le sexisme et le racisme s’y glissent et contribuent à construire notr
- e vision du monde et à normaliser certaines inégalités.\nLa présentati
- on et la discussion seront animées par Jade Almeida.\nouvert à tout le m
- onde\, adapté aux personnes de 11 ans et plus\nOÙ : à la Maison des jeu
- nes Adozone Pointe-Saint-Charles- au 2532 rue Centre.\nCollation servie\n&
- nbsp\;\nLe comité d'action féministe regroupe : Madame prend congé\, Ac
- tion-Gardien\, le Carrefour d'éducation populaire de Pointe-Saint-Charles
- \, le Comité des personnes assistées sociales de Pointe-Saint-Charles\, 
- la Clinique communautaire de Pointe-Saint-Charles\, le Centre des ainés.
-URL;VALUE=URI:https://www.openstreetmap.org/node/11972703546
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T170000
-DTEND;TZID=America/Toronto:20251204T190000
-SUMMARY:Lancement de livre : "Brisons les mythes sur les personnes im-migr
- antes"
-LOCATION:6201 St-Vallier (métro Beaubien)
-DESCRIPTION:2025-12-04 17:00:00\n\n6201 St-Vallier (métro Beaubien)\n\nht
- tps://www.openstreetmap.org/node/2429688948\n\nLe jeudi 4 décembre\, nous
-  lançons une nouvelle trousse éducative développée en partenariat avec
-  Amnistie internationale Canada francophone.\nDestinée aux élèves du se
- condaire\, aux étudiant·es des cégeps et des universités\, elle s’ad
- resse aussi aux groupes communautaires\, aux milieux syndicaux et à toute
-  personne souhaitant s’informer. Bref\, un outil d’éducation populair
- e accessible à tous les âges!\nDans la continuité de la campagne “On 
- s’fera pas porter l’chapeau!” (https://observatoirepourlajusticemigr
- ante.org/.../lancem.../)\, cette trousse vise à mieux outiller le public 
- pour comprendre les enjeux vécus par les personnes migrantes et immigrant
- es au Québec\, déconstruire les idées reçues et animer des discussions
-  éclairées\, en classe\, en organisme… ou à la maison.\nL'évènement
-  est accessible et gratuit et vos plus jeunes sont les bienvenus!\nAu prog
- ramme:\n- Présentation du livret\, visionnement de quelques capsules vid
- éo et échanges avec les auteur.ices\n- Séance de dédicaces avec l'arti
- ste SFIYA qui illustré le livret\n- De la nourriture et des boissons sero
- nt offerts\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/2429688948
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T173000
-DTEND;TZID=America/Toronto:20251204T193000
-SUMMARY:Féminétudes no. 25 - Violences\, savoirs et care: qu'en est-il d
- e la santé?
-LOCATION:633 Beaumont (métro Acadie)
-DESCRIPTION:2025-12-04 17:30:00\n\n633 Beaumont (métro Acadie)\n\nhttps:/
- /www.openstreetmap.org/node/11973025945\n\n📢 Changement de date — lan
- cement reporté !\nUn petit report\, mais la même belle énergie ✨\nOn 
- se retrouve le 4 décembre à @briquexbrique pour célébrer ensemble le t
- out nouveau numéro de FéminÉtudes 💜\n🌿 « Violences\, savoirs et 
- care : qu’en est-il de la santé ? » explore les tensions\, les voix et
-  les récits qui repensent nos manières de soigner\, d’écouter et de p
- rendre soin — autrement.\n📅 Jeudi 4 décembre\n📍 Brique par Brique
-  – 633 Av. Beaumont\, Montréal (espace accessible aux chaises roulantes
- )\n🕒 17h30 à 19h30\n💜 Entrée gratuite\n🥂 Bouchées\, boissons e
- t kiosques féministes (@librairieleuguelionne \; @modo.poterie \; @creati
- ons.re_belles) seront au rendez-vous !\n(Événement Facebook à jour dans
-  la bio)\n#FéminÉtudes #LancementRevue #RevueFéministe #Care #SantéFé
- ministe #ViolencesSystémiques #SavoirsFéministes #SantéMentale #Pratiqu
- esDeSoin #MontréalÉvénement #Féminisme #ÉvénementMontréal
-URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T180000
-DTEND;TZID=America/Toronto:20251204T200000
-SUMMARY:Hydro coûte trop cher – Crise climatique\, crise du logement et
-  PL69 adopté sous bâillon
-LOCATION:7500\, de Chateaubriand (métro Jean-Talon)
-DESCRIPTION:2025-12-04 18:00:00\n\n7500\, de Chateaubriand (métro Jean-Ta
- lon)\n\nhttps://www.openstreetmap.org/node/2429690656\n\n⚡&nbsp\;Hydro c
- oûte trop cher – Crise climatique\, crise du logement et PL69 adopté s
- ous bâillon\n📅&nbsp\;Mercredi 4 décembre à 18 h\n📍&nbsp\;À l'ACE
- F du Nord de Montréal\nOn avait beaucoup parlé du&nbsp\;projet de loi 69
- &nbsp\;avant son adoption. On fera le point sur ce qui a été adopté... 
- et sur ce que cela signifie réellement&nbsp\;pour la clientèle résident
- ielle d'Hydro-Québec.\nOn discutera également des hausses de tarifs. Le 
- fameux « plafond de 3 % »&nbsp\;de Legault&nbsp\;est-il bien réel ?&nbs
- p\;En plus d'aborder d'autres thèmes tels que :&nbsp\;\nLes&nbsp\;phénom
- ènes météorologiques extrêmes&nbsp\;liés à la crise climatique augme
- ntent la consommation d'énergie pour chauffer ou climatiser les logements
- .\nLa&nbsp\;crise du logement\, avec la flambée des loyers\, rend encore 
- plus difficile le paiement des factures d'Hydro.\nEt les&nbsp\;conditions 
- de logement&nbsp\;(mauvaise isolation\, appareils vétustes) aggravent la 
- précarité énergétique.\n➡️&nbsp\;On vous invite à venir en discut
- er avec nous !\n📞&nbsp\;Appelez-nous pour vous inscrire.\n🍕&nbsp\;Un
-  léger goûter sera servi à 18 h.
-URL;VALUE=URI:https://www.openstreetmap.org/node/2429690656
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-4
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T180000
-DTEND;TZID=America/Toronto:20251204T200000
-SUMMARY:Causerie - Des vies non exemplaires - Corps\, choix et parentalit
- és
-LOCATION:1376 Ontario Est (métro Papineau)
-DESCRIPTION:2025-12-04 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
- ttps://www.openstreetmap.org/way/115814240\n\nDans le cadre du Salon du Li
- vre\, les éditions Remue-Ménage et la Livrerie vous invitent à une caus
- erie autours des livres&nbsp\;Corps accord : Fertilité\, grossesse et par
- entalité\, Familles queers : Récits et célébrations\, et Protéger nos
-  enfants : Queerness et adultisme.\nDans la dernière année\, ces trois e
- ssais ont souhaité ouvrir les possibles et contrecarrer les normes et imp
- ensés qui encadrent les définitions de familles\, de parentalités\, de 
- genres et de sexualités. Ces livres s’imposent comme outils incontourna
- bles pour soutenir l’agentivité des personnes et éclairer leurs prises
-  de décisions.\nEn présence des autrices Marianne Chbat\, Gabrielle Rich
- ard&nbsp\;et Nesrine Bessaïh de la CORPS féministe\, nous entendons ouvr
- ir un espace de dialogue et de réflexion avec les participant·es pour d
- éconstruire les mythes et les préjugés entretenus par la société hét
- éronormative et qui font obstacle au déploiement d’une réelle diversi
- té.&nbsp\;Repenser la norme\, c’est se permettre de vivre pleinement so
- n identité et ses relations dans toute leur complexité\, dans les doutes
-  et les préférences\, les désirs et les refus\, les deuils et les victo
- ires\, sans pour autant devenir des minorités exemplaires.\n—\nMarianne
-  Chbat\nMarianne Chbat est sociologue\, chercheuse et militante. Elle est 
- coordonnatrice principale de la recherche à la Clinique Mauve\, un labora
- toire social hébergé à l’Université de Montréal qui développe la r
- echerche auprès des personnes LGBTQ+ migrantes et racisées et leur offre
-  un accès à divers services de santé intégrés.\n—\nGabrielle Richar
- d\nGabrielle Richard est sociologue et directrice de la recherche\nau GRIS
- -Montréal. Elle a notamment fait paraître Hétéro\, l’école ? Plai
- doyer pour une éducation antioppressive à la sexualité (Remue-\nménage
- \, 2019).\n—\nNesrine Bessaïh\nNesrine Bessaïh est anthropologue et pr
- ofesseure en approches anti-oppressives (Département de sexologie – UQA
- M). Spécialiste de la mise en pratique de l’intersectionnalité\, son a
- ction et ses recherches s’intéressent à la justice reproductive. Elle 
- a signé l’entrée «&nbsp\;Justice reproductive&nbsp\;» dans&nbsp\;Feu
- ! Abécédaire des féminismes présents&nbsp\;(éditions Libertalia\, 202
- 1) un dictionnaire des luttes féministes coordonné par Elsa Dorlin.&nbsp
- \;Elle a orchestré les ouvrages collectifs&nbsp\;Corps Accord&nbsp\;: Gui
- de de sexualité positive&nbsp\;(éditions remue-ménage\, 2019) et Corps 
- Accord : Fertilité\, grossesse et parentalité (éditions remue-ménage\,
-  2025). Dans sa pratique de traductrice\, elle a traduit la série illustr
- ée d’Éloisa Aquino sur les artistes et intellectuelles queer du 20e et
-  21e siècle parue sous le titre Portraits d’illustres butchs (éditions
-  sans fin\, 2017).\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-5
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T180000
-DTEND;TZID=America/Toronto:20251204T200000
-SUMMARY:Conférence - Se loger dans le Sud-ouest
-LOCATION:2401 rue Mullins (métro Charlevoix)
-DESCRIPTION:2025-12-04 18:00:00\n\n2401 rue Mullins (métro Charlevoix)\n\
- nhttps://www.openstreetmap.org/node/12109286948\n\nDe Griffintown à Verdu
- n en passant par Ville-Emard\, St-Henri et Pointe-Saint-Charles\, il est d
- e plus en plus difficile de se loger dans le Sud-Ouest.\nNos logements co
- ûtent toujours plus chers et ils sont de plus en plus rare. Les quelques 
- logements disponibles à la location sont beaucoup trop chers \; à des pr
- ix que l'on ne peut pas se payer.\nAvec les hausses de loyers abusives et 
- les évictions\, le marché privé nous prive de logement. L'alternative 
- à ce marché qui nous évince\, c'est le logement social.\nCette soirée 
- conférence sur le thème du logement a pour objectif de parler des causes
-  de la crise du logement\, de ses effets mais aussi des solutions que nous
-  pouvons développer ensemble.\nL'événement est organisé par les trois 
- comités logements du Grand-Sud-Ouest \; Comité d'action des citoyennes e
- t citoyens de Verdun (CACV)\, le Regroupement Information Logement de Poin
- te-Saint-Charles (RIL) et le POPIR (Côte-Saint-Paul\, Ville-Émard\, St-H
- enri\, Petite-Bourgogne).\nQuand : Jeudi le 4 décembre dès 18h00\nOù : 
- 2401 rue Mullins (Centre des aînés de Pointe-Saint-Charles) C'est un rez
- -de-chaussé accessible sans marche\nGRATUIT!\nAvec des présentations de 
- \;\n-Francis Dolan (RIL)\n-Camille Toffoli et Mathilde Capone (CACV)\n-Fla
- v Choquette-Giguère (POPIR)\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/12109286948
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-6
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T183000
-DTEND;TZID=America/Toronto:20251204T203000
-SUMMARY:Ciné-club féministe: Nin e tepueinan - Mon cri
-LOCATION:4001\, rue Ste-Catherine Est
-DESCRIPTION:2025-12-04 18:30:00\n\n4001\, rue Ste-Catherine Est\n\n&nbsp\;
- 𝙇𝙖 𝙈𝙖𝙧𝙞𝙚 𝘿𝙚𝙗𝙤𝙪𝙩 𝙫𝙤𝙪𝙨 
- 𝙞𝙣𝙫𝙞𝙩𝙚 à 𝙨𝙤𝙣 𝙩𝙧𝙤𝙞𝙨𝙞è𝙢
- 𝙚 𝙘𝙞𝙣é-𝙘𝙡𝙪𝙗 𝙛é𝙢𝙞𝙣𝙞𝙨𝙩𝙚 
- 𝙙𝙚 𝙡'𝙖𝙪𝙩𝙤𝙢𝙣𝙚 ! !!!!\nLe 4 décembre prochain
- \, venez visionner le documentaire 𝙉𝙄𝙉 𝙀 𝙏𝙀𝙋𝙐𝙀
- 𝙄𝘼𝙉 – 𝙈𝙊𝙉 𝘾𝙍𝙄!!! Ce documentaire suit le parc
- ours de la poète\, comédienne et militante innue\, Natasha Kanapé Fonta
- ine\, à un moment charnière de sa carrière d’artiste.\nSynopsis 𝙉
- 𝙄𝙉 𝙀 𝙏𝙀𝙋𝙐𝙀𝙄𝘼𝙉 – 𝙈𝙊𝙉 𝘾𝙍
- 𝙄 ( Santiago Bertolino\, 2019): Depuis Idle No More\, Natasha Kanapé F
- ontaine se lève et prend la parole. Pour son peuple innu\, face au coloni
- alisme blanc\, mais aussi à travers la poésie des mots\, elle est de plu
- s en plus présente dans l’espace public. Ayant entrepris une réflexion
-  sur l’autodétermination des peuples autochtones\, la poétesse\, comé
- dienne et militante se retrouve à un carrefour. Pendant un an\, Santiago 
- Bertolino la suit dans ses questionnements et ses diverses façons de conc
- ilier son engagement politique avec son travail poétique. Le réalisateur
-  montréalais propose un vibrant et passionnant portrait d’une femme en 
- pleine quête personnelle.\nLe visionnement est 𝐠𝐫𝐚𝐭𝐮𝐢
- 𝐭 et sera suivi d'une discussion en groupe. Événement en mixité choi
- sie\, 𝑠𝑎𝑛𝑠 ℎ𝑜𝑚𝑚𝑒 𝑐𝑖𝑠𝑔𝑒𝑛𝑟
- 𝑒.\n&nbsp\;Popcorn et boissons offertes !!\nOù ? 4001 𝘙𝑢𝘦 
- 𝘚𝑎𝘪𝑛𝘵𝑒-𝐶𝘢𝑡𝘩𝑒𝘳𝑖𝘯𝑒 𝐸\, 𝘔
- 𝑜𝘯𝑡𝘳𝑒́𝘢𝑙\, 𝘘𝐶 𝐻1𝑊 2𝘎7\nNous vous invi
- tons à arriver en avance\, la projection débutera à 19h.\nLes inscripti
- ons sont appréciées ! Pour ce faire vous pouvez nous téléphoner ou nou
- s envoyer un courriel :\n&nbsp\;514-597-2311\ninfo@lamariedebout.org&nbsp\
- ;
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-7
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T190000
-DTEND;TZID=America/Toronto:20251204T210000
-SUMMARY:Projection : "Profilage nocturne / Night Watches Us"
-LOCATION:ONF\, 1500 Balmoral (métro Place-des-Arts)
-DESCRIPTION:2025-12-04 19:00:00\n\nONF\, 1500 Balmoral (métro Place-des-A
- rts)\n\nhttps://www.openstreetmap.org/node/8025526254\n\nSalut ciné ! Pro
- filage nocturne / Hello Film! Night Watches Us\nBy Office national du film
-  du Canada\nDec 4 from 7pm to 9pm EST\nOverview\nProjection gratuite / Fre
- e Screening\nSalut ciné ! Profilage nocturne\nStefan Verna\, 2025\n42 min
- utes\nVersion originale anglaise\, sous-titres français\nLe 21 août 2018
- \, un fils a perdu son père\, une mère a perdu son fils et un neveu a pe
- rdu son oncle. La communauté sait bien ce qui s’est passé. Des fleurs 
- poussent là où Nicholas Gibbs a rendu son dernier souffle. Le jeune homm
- e noir de 23 ans était en proie à des problèmes de santé mentale\, mai
- s c’est la police de Montréal qui l’a tué. Profilage nocturne\, de S
- tefan Verna\, examine les forces systémiques ayant conduit à la mort tra
- gique de Nicholas et raconte l’histoire du point de vue de sa famille et
-  de sa communauté\, unies dans leur deuil collectif. Mêlant divers style
- s documentaires à l’art urbain et au spoken word\, ce film est une lett
- re d’amour et un hommage à Nicholas et à la famille Gibbs.\nCette œuv
- re contient des scènes de violence. Pour public averti.\nLe documentaire 
- sera précédé du court métrage Les rois du court (Serville Poblete\, 20
- 25\, 20 min)\nHello Film! Night Watches Us\nStefan Verna\, 2024\n42 minute
- s\nOriginal English version\, French subtitles\nOn August 21\, 2018\, a so
- n lost his father\, a mother lost her son and a nephew lost his uncle. The
-  community knows what happened. Flowers bloom where Nicholas Gibbs last dr
- ew breath. He was a 23-year-old Black man plagued by mental health issues 
- but was murdered by the Montreal police. Stefan Verna’s Night Watches Us
-  examines the systemic forces that lead to Nicholas’s tragic death\, tel
- ling the story through the eyes of his family and community\, united in th
- eir collective grief. Using a blend of documentary styles mixed with stree
- t art and spoken word\, this film is a love letter in honour of Nicholas a
- nd the Gibbs family.\nThis work contains scenes of violence. Viewer discre
- tion is advised.\nThe documentary will be preceded by the short film King'
- s Court (Serville Poblete\, 2025\, 20 min)\nhttps://vimeo.com/1079522645?f
- l=ls&amp\;fe=ec\nhttps://www.eventbrite.com/e/salut-cine-profilage-nocturn
- e-hello-film-night-watc…\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/8025526254
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-8
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T190000
-DTEND;TZID=America/Toronto:20251204T210000
-SUMMARY:Projections : Briser le silence de l'inceste
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2025-12-04 19:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208\n\n(english in comments)\nLe Centr
- e Social Anarchiste l'Achoppe vous invite à une série de projection de f
- ilms sur le thème de l'inceste les jeudi 2 octobre\, 6 novembre et 4 déc
- embre à 19h.\nL'inceste est omniprésent dans le cinéma\, mais il est so
- uvent érotisé\, sensualisé et banalisé. Avec cette sélection on souha
- ite dépasser une représentation dominante nuisible\, et aborder plutôt 
- les mécanismes qui permettent à l'inceste de se perpétuer (le déni\, l
- e tabou\, la silenciation des victimes) et mettre à l'honneur des histoir
- es\, qu'elle soient fictives ou vraies où la voix des victimes s'exprime 
- et se débat pour être entendue. Parce que nos communautés ne sont pas 
- épargnées par ce fléau et qu'on souhaite y voir grandir des enfants lib
- res d'une des pires formes de la domination adulte et parce que le vrai ta
- bou de l'inceste ce n'est pas de le faire mais d'en parler\, on vous invit
- e à briser les tabous et à vous intéresser à ce sujet qui nous touche 
- toustes de près ou de loin. Les projections seront suivies d'une discussi
- on informelle.\n2 octobre : ON BECOMING A GUINEA FOWL\, 2024\, Rungano Nyo
- ni\neng/bemba with eng subtitles\nEn rentrant d'une soirée\, Shula trouve
-  le corps mort de son oncle étendu sur la route. À travers le processus 
- de deuil familial qui suit cet événement\, on apprend que Shula et bien 
- d'autres femmes de la famille ont été victimes de cet homme\, et on est 
- témoin des différents mécanismes qu'elles déploient pour se faire ente
- ndre et voir par leurs proches.\n6 novembre : UNE FAMILLE\, 2023\, Christi
- ne Angot\nfr with fr subtitles\nDans ce documentaire\, Christine Angot\, e
- ntourée de ses ami-es armé-es d'une caméra et de micros\, confronte les
-  membres de famille qui ont été complices silencieux de l'inceste qu'ell
- e a subi par son père pendant des années. On voit le déni\, la culpabil
- ité\, l'incapacité à faire coexister l'affection qu'on peut avoir pour 
- quelqu'un avec la reconnaissance que cette personne peut avoir commis des 
- violences irréparables\, et la colère de Christine qui se débat pour qu
- e son histoire soit reconnue.\n(suite dans les commentaires)\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-9
-SEQUENCE:0
-DTSTAMP:20251204T032913
-DTSTART;TZID=America/Toronto:20251204T193000
-DTEND;TZID=America/Toronto:20251204T213000
-SUMMARY:Gala de luttes 2 - Hommage aux travailleurs de Demix Lasalle-Longu
- euil
-LOCATION:425 Beaubien Est (métro Beaubien)
-DESCRIPTION:2025-12-04 19:30:00\n\n425 Beaubien Est (métro Beaubien)\n\nh
- ttps://www.openstreetmap.org/way/46866053\n\nAprès le succès de l'éditi
- on 2024\, le Conseil central du Montréal métropolitain - CSN vous invite
-  à une nouvelle édition de l'événement\, le Gala de luttes 2 : Hommage
-  aux travailleurs de Demix Lasalle-Longueuil !\nDans une ambiance authenti
- que de sous-sol d'église\, la soirée sera éclatée et mémorable !\nDAT
- E : 4 décembre\nHEURE : 19 h 30\nLIEU : Sous-sol de l’église Saint-Éd
- ouard\, 425\, Rue Beaubien Est\, métro Beaubien\nLes billets sont en vent
- e au coût de 5$.\nPour acheter votre billet: https://www.zeffy.com/.../ga
- la-de-luttes-2-hommage-aux...\nDéroulement de la soirée:\nSpectacle d'hu
- mour avec Coralie Laperrière et Christian Vanasse\nCombats de lutte metta
- nt en vedette Sexxxy Eddy vs Heavy Rox\, Diable en personne vs Maria Belmo
- nt\, CrasherKid vs Dirty Belmar et en grande finale La Pègre (Le Saint et
-  Fred Romeo) vs Les Invincibles (Marko Estrada et Franky the Mobster)\nSpe
- ctacle des Union Thugs\nDanse avec DJ Onlyfun\nLa soirée est l'activité 
- de lancement régional de la campagne des paniers de Noël de la CSN\, au 
- bénéfice des membres du Syndicat des travailleurs de Demix Lasalle-Longu
- euil-CSN et ceux du Syndicat des travailleuses et travailleurs de Librairi
- e Renaud-Bray-CSN\, en lock-out depuis près d'un an.\nTous les profits de
-  la soirée seront remis aux travailleuses et travailleurs en conflit ! C'
- est un rendez-vous!
-URL;VALUE=URI:https://www.openstreetmap.org/way/46866053
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-10
-SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251205T090000
 DTEND;TZID=America/Toronto:20251205T110000
 SUMMARY:Colloque annuel du RéQEF « Décentrer le féminisme blanc : lutt
@@ -435,9 +92,9 @@ DESCRIPTION:2025-12-05 09:00:00\n\n1550 boulevard de Maisonneuve Ouest –
 URL;VALUE=URI:https://www.openstreetmap.org/way/22080581
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251205T150000
 DTEND;TZID=America/Toronto:20251205T170000
 SUMMARY:Vente de vélos d'hiver solidaire
@@ -455,9 +112,9 @@ DESCRIPTION:2025-12-05 15:00:00\n\nUQAM\, 200 Sherbrooke Est\, local SH-31
 URL;VALUE=URI:https://www.openstreetmap.org/relation/16837027
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251205T180000
 DTEND;TZID=America/Toronto:20251205T200000
 SUMMARY:Entretien avec Michel Jean sur le livre "Kabasa"
@@ -489,9 +146,9 @@ DESCRIPTION:2025-12-05 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251205T180000
 DTEND;TZID=America/Toronto:20251205T200000
 SUMMARY:Projection : "Put Your Soul on Your Hand and Walk"
@@ -513,9 +170,9 @@ DESCRIPTION:2025-12-05 18:00:00\n\n505 Jean-Talon Est (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251206T100000
 DTEND;TZID=America/Toronto:20251206T120000
 SUMMARY:Marché de noël solidaire
@@ -536,9 +193,9 @@ DESCRIPTION:2025-12-06 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1317575081
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251206T133000
 DTEND;TZID=America/Toronto:20251206T153000
 SUMMARY:Marche commémorative - Vigile contre les féminicides
@@ -562,9 +219,80 @@ DESCRIPTION:2025-12-06 13:30:00\n\n1950 Grand Trunk (métro Charlevoix)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034261976
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
+DTSTART;TZID=America/Toronto:20251206T140000
+DTEND;TZID=America/Toronto:20251206T160000
+SUMMARY: STOP C-12 : Consultation populaire
+LOCATION:(métro Parc)
+DESCRIPTION:2025-12-06 14:00:00\n\n(métro Parc)\n\nhttps://www.openstreet
+ map.org/node/11973143419\n\n[english below / español abajo]\n&nbsp\;\nSTO
+ P C-12 : Consultation populaire\nJustice et dignité pour tous\n&nbsp\;\nS
+ amedi 6 décembre 2025 à 14h\n7110 Av. de l'Épée (métro Parc)\n&nbsp\;
+ \nhttps://www.facebook.com/share/1A7eig61s5/?mibextid=wwXIfr\n&nbsp\;\nNou
+ rriture offerte\n&nbsp\;\nVous êtes invité·e à participer à la consul
+ tation populaire sur le projet de loi C-12\, une loi anti-migrant·e·s qu
+ e le gouvernement libéral fédéral souhaite faire adopter dans les proch
+ aines semaines.&nbsp\;\n&nbsp\;\nRéunissons-nous pour écouter les person
+ nes directement touchées par ce projet de loi ainsi que les organisations
+  qui soutiennent la lutte pour la justice migrante dans le cadre de cette 
+ initiative populaire.\n&nbsp\;\nLe projet de loi C-12\, si adopté\,&nbsp\
+ ;\nrendra encore plus difficile pour les migrants de déposer la demande d
+ 'asile si on entre par voie irrégulière\, et d'obtenir le statut de rés
+ ident permanent au Canada\,&nbsp\;\ndonnera au gouvernement le pouvoir d'a
+ nnuler des groupes entiers de dossiers en cours\,&nbsp\;\naugmentera les e
+ xpulsions et augmentera le nombre de personnes sans papiers.&nbsp\;\nrendr
+ a impossible de demander l'asile au-delà d'un an passé au Canada.&nbsp\;
+ \nTémoignages\, déclarations de soutien\, coin artistique et plus encore
+ . Programme détaillé à venir. Tout le monde est bienvenu !\nDénonçons
+  le projet de loi C-12\, exigeons l'arrêt des déportations et la fin des
+  détentions.&nbsp\;\nUn statut pour toutes et&nbsp\; tous \, MAINTENANT !
+ \n+++++\n&nbsp\;\nSTOP C-12: People's Consultation\nJustice and Dignity fo
+ r All\n&nbsp\;\nSaturday\, December 6\, 2025 at 2pm&nbsp\;\n7110 de l'Ép
+ ée Ave. (Parc metro)\n&nbsp\;\nhttps://www.facebook.com/share/1A7eig61s5/
+ ?mibextid=wwXIfr\n&nbsp\;\nFood served\nYou are invited to participate at 
+ the People's Consultation on Bill C-12\, an anti-migrant bill that the fed
+ eral Liberal government hopes to pass in the coming weeks.&nbsp\;\nLet's c
+ ome together to hear from those directly affected by this bill and the org
+ anizations supporting the fight for migrant justice as part of this grassr
+ oots initiative.\nIf passed\, Bill C-12 will:\nmake it even more difficult
+  for migrants to apply for asylum if they enter irregularly and to obtain 
+ permanent resident status in Canada\;\nIt will give the government the pow
+ er to cancel entire groups of pending cases\;\nincrease deportations\, and
+  increase the number of undocumented people\;\nmake it impossible to claim
+  asylum after spending more than one year in Canada.&nbsp\;\nTestimonials\
+ , statements of support\, art corner\, and more. Detailed program to come.
+  Everyone is welcome!\nLet's denounce Bill C-12 and demand an end to depor
+ tations and detentions.&nbsp\;\nStatus for all\, NOW!\n+++\n&nbsp\;\nPAREM
+ OS C-12: Consulta popular\nJusticia y dignidad para todos\n&nbsp\;\nSábad
+ o\, 6 de diciembre de 2025 14:00\n7110 Av. de l'Épée\, Métro parc\n&nbs
+ p\;\nhttps://www.facebook.com/share/1A7eig61s5/?mibextid=wwXIfr\n&nbsp\;\n
+ Incluye comida gratis&nbsp\;\nLe invitamos a participar en la consulta pop
+ ular sobre el proyecto de ley C-12\, una ley antimigrantes que el Gobierno
+  liberal busca aprobar en las próximas semanas.&nbsp\;\nReunámonos para 
+ escuchar a las personas directamente afectadas por este proyecto de ley\, 
+ así como a las organizaciones que apoyan la lucha por la justicia migrato
+ ria en el marco de esta iniciativa popular.\nEl proyecto de ley C-12\, si 
+ se aprueba\,\ndificultará aún más a los migrantes solicitar asilo si en
+ tran de forma irregular y obtener la residencia permanente en Canadá\,\no
+ torgará al gobierno la capacidad de cancelar grupos enteros de expediente
+ s en trámite\,\naumentará las expulsiones y aumentará el número de per
+ sonas indocumentadas.\nhará imposible solicitar asilo después de haber p
+ asado más de un año en Canadá.\nTestimonios\, declaraciones de apoyo\, 
+ rincón artístico y mucho más. Próximamente se publicará el programa d
+ etallado. ¡Todo el mundo es bienvenido!\nDenunciemos el proyecto de ley C
+ -12\, exijamos el cese de las deportaciones y el fin de las detenciones. 
+ ¡Un estatus para todos y todas\, YA!\n&nbsp\;\n+++++++++\nSolidarité san
+ s frontières:  www.solidaritesansfrontieres.org\nSolidarity Across Border
+ s:  www.solidarityacrossborders.org\nSolidaridad sin fronteras:  www.solid
+ arityacrossborders.org/es\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973143419
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-7
+SEQUENCE:0
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251207T100000
 DTEND;TZID=America/Toronto:20251207T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -588,9 +316,9 @@ DESCRIPTION:2025-12-07 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251207T130000
 DTEND;TZID=America/Toronto:20251207T150000
 SUMMARY:Marché du disque punk/DIY
@@ -603,9 +331,9 @@ DESCRIPTION:2025-12-07 13:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251207T150000
 DTEND;TZID=America/Toronto:20251207T170000
 SUMMARY:Club de lecture: Abolish rent
@@ -615,9 +343,9 @@ DESCRIPTION:2025-12-07 15:00:00\n\n2531 rue Ontario Est\n\nhttps://www.ope
 URL;VALUE=URI:https://www.openstreetmap.org/node/11108904483
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251207T173000
 DTEND;TZID=America/Toronto:20251207T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
@@ -634,9 +362,9 @@ DESCRIPTION:2025-12-07 17:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251208T180000
 DTEND;TZID=America/Toronto:20251208T200000
 SUMMARY:Balado - Sans normes avec Geneviève Jeanson
@@ -671,9 +399,9 @@ DESCRIPTION:2025-12-08 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251208T190000
 DTEND;TZID=America/Toronto:20251208T210000
 SUMMARY:Last Generation - Intro Talk
@@ -686,9 +414,9 @@ DESCRIPTION:2025-12-08 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251208T190000
 DTEND;TZID=America/Toronto:20251208T210000
 SUMMARY:Cinema Politica : "A Letter to my Tribe"
@@ -701,9 +429,9 @@ DESCRIPTION:2025-12-08 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251209T120000
 DTEND;TZID=America/Toronto:20251209T140000
 SUMMARY:Les campements au Québec: État des lieux post-électoral
@@ -727,9 +455,9 @@ DESCRIPTION:2025-12-09 12:00:00\n\n(en ligne)\n\nCette conférence se veut
   Webinaire Évènements ODP\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251209T123000
 DTEND;TZID=America/Toronto:20251209T143000
 SUMMARY:Projection If an owl calls your name
@@ -742,9 +470,9 @@ DESCRIPTION:2025-12-09 12:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251209T180000
 DTEND;TZID=America/Toronto:20251209T200000
 SUMMARY:Le bureau des enquêtes "indépendantes" : une imposture ?
@@ -778,9 +506,9 @@ DESCRIPTION:2025-12-09 18:00:00\n\n1601 de Lorimier (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/345245850
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251210T123000
 DTEND;TZID=America/Toronto:20251210T143000
 SUMMARY:Projection If an owl calls your name
@@ -793,9 +521,9 @@ DESCRIPTION:2025-12-10 12:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251210T170000
 DTEND;TZID=America/Toronto:20251210T190000
 SUMMARY:Bouffe collective à l'Achoppe
@@ -805,9 +533,9 @@ DESCRIPTION:2025-12-10 17:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251211T123000
 DTEND;TZID=America/Toronto:20251211T143000
 SUMMARY:Projection If an owl calls your name
@@ -820,9 +548,9 @@ DESCRIPTION:2025-12-11 12:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251211T180000
 DTEND;TZID=America/Toronto:20251211T200000
 SUMMARY:Open-mic en soutien aux gardien.ne.s du territoire
@@ -834,9 +562,9 @@ DESCRIPTION:2025-12-11 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251211T180000
 DTEND;TZID=America/Toronto:20251211T200000
 SUMMARY:Projection : "Put Your Soul on Your Hand and Walk"
@@ -858,9 +586,9 @@ DESCRIPTION:2025-12-11 18:00:00\n\n505 Jean-Talon Est (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251212T123000
 DTEND;TZID=America/Toronto:20251212T143000
 SUMMARY:Projection If an owl calls your name
@@ -873,9 +601,9 @@ DESCRIPTION:2025-12-12 12:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251212T190000
 DTEND;TZID=America/Toronto:20251212T210000
 SUMMARY:Enregistrement du podcast Farouches 15$
@@ -888,9 +616,9 @@ DESCRIPTION:2025-12-12 19:00:00\n\n50 Ste-Catherine Ouest (métro St-Laure
 URL;VALUE=URI:https://www.openstreetmap.org/way/340739753
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251213T193000
 DTEND;TZID=America/Toronto:20251213T213000
 SUMMARY:Συναυλία-αφιέρωμα για τα 100 χρόνια α
@@ -942,9 +670,9 @@ DESCRIPTION:2025-12-13 19:30:00\n\n5359 Parc (métro Laurier)\n\nhttps://w
 URL;VALUE=URI:https://www.openstreetmap.org/way/234717660
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251220T120000
 DTEND;TZID=America/Toronto:20251220T140000
 SUMMARY:Foire de livres de gauche
@@ -956,9 +684,9 @@ DESCRIPTION:2025-12-20 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251220T180000
 DTEND;TZID=America/Toronto:20251220T200000
 SUMMARY:Projection : "Put Your Soul on Your Hand and Walk"
@@ -980,9 +708,9 @@ DESCRIPTION:2025-12-20 18:00:00\n\n505 Jean-Talon Est (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251221T173000
 DTEND;TZID=America/Toronto:20251221T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
@@ -999,9 +727,9 @@ DESCRIPTION:2025-12-21 17:30:00\n\n6792 St-Laurent (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251226T170000
 DTEND;TZID=America/Toronto:20251226T190000
 SUMMARY:Masse critique de décembre
@@ -1048,9 +776,9 @@ DESCRIPTION:2025-12-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251228T180000
 DTEND;TZID=America/Toronto:20251228T200000
 SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
@@ -1062,9 +790,9 @@ DESCRIPTION:2025-12-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20251204T032913
+DTSTAMP:20251205T032853
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
