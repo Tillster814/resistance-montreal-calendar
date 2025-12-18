@@ -8,37 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251217T033008
-DTSTART;TZID=America/Toronto:20251217T150000
-DTEND;TZID=America/Toronto:20251217T170000
-SUMMARY:Café populaire du comité BAILS
-LOCATION:(métro Joliette)
-DESCRIPTION:2025-12-17 15:00:00\n\n(métro Joliette)\n\nhttps://www.openst
- reetmap.org/node/11973389662\n\nLe 17 décembre le comité BAILS vous invi
- te à son café pop d'avant les fêtes\, spécial Noël !\nCafé et bûche
-  au rendez-vous !\nDiscussions sur l'année qui vient de passer et sur nos
-  souhaits pour l'année prochaine\, annonce du party de Noël du comité B
- AILS qui aura lieu en janvier\, et du fun garanti\nÀ mercredi prochain le
-  17 décembre !
-URL;VALUE=URI:https://www.openstreetmap.org/node/11973389662
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251217T033008
-DTSTART;TZID=America/Toronto:20251217T173000
-DTEND;TZID=America/Toronto:20251217T193000
-SUMMARY:Journée internationale pour mettre fin à la violence contre les 
- travailleuses du sexe
-LOCATION:1210 St-Laurent (métro St-Laurent)
-DESCRIPTION:2025-12-17 17:30:00\n\n1210 St-Laurent (métro St-Laurent)\n\n
- https://www.openstreetmap.org/node/11973468587
-URL;VALUE=URI:https://www.openstreetmap.org/node/11973468587
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251218T170000
 DTEND;TZID=America/Toronto:20251218T190000
 SUMMARY:Vernissage d'exposition : "Mirar - archives végétales d'une rés
@@ -91,9 +61,9 @@ DESCRIPTION:2025-12-18 17:00:00\n\n372 rue Sainte-Catherine O. Espace 442-
 URL;VALUE=URI:https://www.openstreetmap.org/node/9738612369
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251218T170000
 DTEND;TZID=America/Toronto:20251218T190000
 SUMMARY:Journée internationale des migrants : Retour de la délégation I
@@ -126,9 +96,9 @@ DESCRIPTION:2025-12-18 17:00:00\n\n4755 Van Horne\, suite 110 (métro Plam
 URL;VALUE=URI:https://www.openstreetmap.org/way/390371893
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251218T180000
 DTEND;TZID=America/Toronto:20251218T200000
 SUMMARY:Assemblée migrante : Uni-e-s pour un statut pour tou-te-s ! Régu
@@ -417,9 +387,9 @@ DESCRIPTION:2025-12-18 18:00:00\n\n7335 Christohpe-Colomb (métro Jean-Tal
 URL;VALUE=URI:https://www.openstreetmap.org/node/11645300862
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251219T110000
 DTEND;TZID=America/Toronto:20251219T130000
 SUMMARY:Marché de noël de l'Achoppe
@@ -456,9 +426,9 @@ DESCRIPTION:2025-12-19 11:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251219T170000
 DTEND;TZID=America/Toronto:20251219T190000
 SUMMARY:Liberated Futures: A Community Risograph Workshop For Speculative 
@@ -502,9 +472,9 @@ DESCRIPTION:2025-12-19 17:00:00\n\n633 Beaumont (métro Acadie)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251220T120000
 DTEND;TZID=America/Toronto:20251220T140000
 SUMMARY:Foire de livres de gauche
@@ -516,9 +486,9 @@ DESCRIPTION:2025-12-20 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251220T133000
 DTEND;TZID=America/Toronto:20251220T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -549,9 +519,9 @@ DESCRIPTION:2025-12-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
  la veille de l'événement.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251220T150000
 DTEND;TZID=America/Toronto:20251220T170000
 SUMMARY:Violet Hour Book Club - A Last Supper of Queer Apostles
@@ -610,9 +580,9 @@ DESCRIPTION:2025-12-20 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251220T180000
 DTEND;TZID=America/Toronto:20251220T200000
 SUMMARY:Projection : "Put Your Soul on Your Hand and Walk"
@@ -634,9 +604,9 @@ DESCRIPTION:2025-12-20 18:00:00\n\n505 Jean-Talon Est (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251221T173000
 DTEND;TZID=America/Toronto:20251221T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
@@ -653,9 +623,9 @@ DESCRIPTION:2025-12-21 17:30:00\n\n6792 St-Laurent (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251226T113000
 DTEND;TZID=America/Toronto:20251226T133000
 SUMMARY:Marche Trans 2025 de Montréal - À bas la CAQ\, l'autoritarisme e
@@ -675,9 +645,9 @@ DESCRIPTION:2025-12-26 11:30:00\n\n(métro Guy)\n\nhttps://www.openstreetm
 URL;VALUE=URI:https://www.openstreetmap.org/node/4062527877
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251226T170000
 DTEND;TZID=America/Toronto:20251226T190000
 SUMMARY:Masse critique de décembre
@@ -724,9 +694,9 @@ DESCRIPTION:2025-12-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251228T180000
 DTEND;TZID=America/Toronto:20251228T200000
 SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
@@ -738,9 +708,9 @@ DESCRIPTION:2025-12-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -750,9 +720,9 @@ DESCRIPTION:2025-12-31 16:30:00\n\nMétro Henri-Bourassa\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/9605912783
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -773,9 +743,9 @@ DESCRIPTION:2026-01-03 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -799,9 +769,9 @@ DESCRIPTION:2026-01-04 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -869,9 +839,9 @@ DESCRIPTION:2026-01-09 12:00:00\n\n(en ligne)\n\nCommuniqué du Collectif
  llectif
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -889,9 +859,9 @@ DESCRIPTION:2026-01-11 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -935,9 +905,9 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20251217T033008
+DTSTAMP:20251218T033036
 DTSTART;TZID=America/Toronto:20260115T220000
 DTEND;TZID=America/Toronto:20260116T000000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
