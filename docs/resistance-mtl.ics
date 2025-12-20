@@ -8,92 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251219T033147
-DTSTART;TZID=America/Toronto:20251219T110000
-DTEND;TZID=America/Toronto:20251219T130000
-SUMMARY:Marché de noël de l'Achoppe
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2025-12-19 11:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208\n\n** English will follow **\nCett
- e année encore l‘Achoppe organise son marché de Noël alternatif! Et e
- ncore une fois dans l’optique de ramasser des fonds pour une bonne cause
- . Nous organisons un encant avec les artistes et artisan.e.s suivant.e.s:\
- n- Toxic Leather ( @toxic.leather )\n- Yamato Tattoo ( @bactine_junkie )\n
- - Cath Tattoo ( @cath_tattoo )\n- Groovy Kam\n- Akira Auger Art ( @akira_a
- uger_art )\n- Outrageous Virgo ( @outrageousvirgo )\n- Spikie Illustration
- s\n- Kid Poubelle ( @kid.poubelle )\n- Romanticize Love ( @romanticizelove
-  )\nN’encouragez pas les multinationales qui financent le génocide en P
- alestine! Venez en grand nombre et encouragez les artistes locaux tout en 
- offrant des cadeaux éthiques et originaux à vos proches pour Noël.\nLe 
- collectif des Sans Dessins sera également présent pour ajouter une atmos
- phère psychédélique à l’événement.\nRendez-vous le 19 décembre 20
- 25 de 12h à 19h au Centre Social l‘Achoppe (1800 Avenue Letourneux).\nA
- u plaisir de vous y voir!\n***\nThis year again l’Achoppe is organizing 
- its alternative Christmas market! This time again with the aim of raising 
- funds for a good cause. We will be organizing an auction with the followin
- g artists:\n- Toxic Leather ( @toxic.leather )\n- Yamato Tattoo ( @bactine
- _junkie )\n- Cath Tattoo ( @44nomie )\n- Groovy Kam\n- Akira Auger Art ( @
- akira_auger_art )\n- Outrageous Virgo ( @outrageousvirgo )\n- Spikie Illus
- trations\n- Kid Poubelle ( @kid.poubelle )\n- Romanticize Love ( @romantic
- izelove )\nDon’t give your money to multinationals that finance the geno
- cide in Palestine! Come in large numbers and encourage local artists while
-  offering ethical and original gifts to your loved ones for Christmas.\nTh
- e collective Les Sans Dessins will be there to add a psychedelic atmospher
- e to the event!.\nSee you on December 19th\, 2025 from noon to 7 p.m. at L
- ’Achoppe‘s Social Center (1800 Avenue Letourneux).\nLooking forward to
-  seeing you there!\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251219T033147
-DTSTART;TZID=America/Toronto:20251219T170000
-DTEND;TZID=America/Toronto:20251219T190000
-SUMMARY:Liberated Futures: A Community Risograph Workshop For Speculative 
- Dreaming
-LOCATION:633 Beaumont (métro Acadie)
-DESCRIPTION:2025-12-19 17:00:00\n\n633 Beaumont (métro Acadie)\n\nhttps:/
- /www.openstreetmap.org/node/11973025945\n\nJoin us for Liberated Futures\,
-  a zine-making workshop focused on providing a space for speculative dream
- ing and collective imagination for those in the trans\, non-binary\, and t
- wo-spirited community. Through a writing exercise of speculative storytell
- ing\, participants will explore alternative futures rooted in care\, auton
- omy\, and justice. This project responds to a deep community need for crea
- tive spaces that prioritize joy\, imagination\, and political expression\,
-  especially for those historically excluded from dominant narratives.\nThe
-  resulting one-page folded zines will be printed using our in-house risogr
- aphs at Cyber Love Garden and will be given to participants and to Dick’
- s Lending Library’s collection.\nRegister for the workshop here. Given t
- he nature of this workshop\, registration is limited to 8 participants.\nW
- orkshop Details:\nDate: Friday\, December 19th\, 2025\nTime: 5:00-7:00pm E
- ST\nWhere: Brique x Brique (633 Beaumont Ave.)&nbsp\;\nCost: PWYC (w/ proc
- eeds going to&nbsp\;a mutual aid action for QT Disabled Black folks)&nbsp\
- ;\nRSVP required (space is limited)\nFacilitator Bio:\nNoka’s (they/them
- /elle) practice is an ever expansive amalgamation of what is vivid\, fun a
- nd immersive. They’re drawn to projects where they get to play with pape
- r and ink\, have an affinity to geometric compositions\, the exploration o
- f surreal dichotomies\, socio-political discourse and the world of indie h
- orror.\nMore Details:\nCyber Love Garden is a community tech studio based 
- in Tiohtià:ke / Mooniyang / Montreal with a mission to create space for m
- arginalized individuals and grassroots organizations to explore\, learn\, 
- and create using technology for social change. Operated by and for critica
- l tech workers\, designers\, cultural workers\, and artists from marginali
- zed communities\, Cyber Love Garden engages in resource sharing\, peer lea
- rning\, and collective healing through workshops\, events\, and co-working
- .\nThis workshop was made possible with the support of the English Languag
- e Arts Network’s Trellis Micro-grant project. The Trellis Micro-grant pr
- oject\, funded by The Department of Canadian Heritage’s Official Languag
- es Support Programs\, seeks to highlight English-language Arts and Artists
-  to make them visible to a broader community\, and build bridges between Q
- uébec’s English-speaking minority and Francophone majority.&nbsp\;&nbsp
- \;\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251220T120000
 DTEND;TZID=America/Toronto:20251220T140000
 SUMMARY:Foire de livres de gauche
@@ -105,9 +20,9 @@ DESCRIPTION:2025-12-20 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251220T133000
 DTEND;TZID=America/Toronto:20251220T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -138,9 +53,9 @@ DESCRIPTION:2025-12-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
  la veille de l'événement.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251220T150000
 DTEND;TZID=America/Toronto:20251220T170000
 SUMMARY:Violet Hour Book Club - A Last Supper of Queer Apostles
@@ -199,9 +114,9 @@ DESCRIPTION:2025-12-20 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251220T180000
 DTEND;TZID=America/Toronto:20251220T200000
 SUMMARY:Projection : "Put Your Soul on Your Hand and Walk"
@@ -223,9 +138,9 @@ DESCRIPTION:2025-12-20 18:00:00\n\n505 Jean-Talon Est (métro Jean-Talon)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251221T173000
 DTEND;TZID=America/Toronto:20251221T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
@@ -242,9 +157,9 @@ DESCRIPTION:2025-12-21 17:30:00\n\n6792 St-Laurent (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251226T113000
 DTEND;TZID=America/Toronto:20251226T133000
 SUMMARY:Marche Trans 2025 de Montréal - À bas la CAQ\, l'autoritarisme e
@@ -264,9 +179,9 @@ DESCRIPTION:2025-12-26 11:30:00\n\n(métro Guy)\n\nhttps://www.openstreetm
 URL;VALUE=URI:https://www.openstreetmap.org/node/4062527877
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251226T170000
 DTEND;TZID=America/Toronto:20251226T190000
 SUMMARY:Masse critique de décembre
@@ -313,9 +228,9 @@ DESCRIPTION:2025-12-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251228T180000
 DTEND;TZID=America/Toronto:20251228T200000
 SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
@@ -327,9 +242,9 @@ DESCRIPTION:2025-12-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -339,9 +254,9 @@ DESCRIPTION:2025-12-31 16:30:00\n\nMétro Henri-Bourassa\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/9605912783
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -362,9 +277,9 @@ DESCRIPTION:2026-01-03 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -388,9 +303,9 @@ DESCRIPTION:2026-01-04 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -458,9 +373,9 @@ DESCRIPTION:2026-01-09 12:00:00\n\n(en ligne)\n\nCommuniqué du Collectif
  llectif
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -478,9 +393,9 @@ DESCRIPTION:2026-01-11 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -524,9 +439,9 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251219T033147
+DTSTAMP:20251220T032618
 DTSTART;TZID=America/Toronto:20260115T220000
 DTEND;TZID=America/Toronto:20260116T000000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
