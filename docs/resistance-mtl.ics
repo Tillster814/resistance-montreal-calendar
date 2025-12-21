@@ -8,139 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251220T032618
-DTSTART;TZID=America/Toronto:20251220T120000
-DTEND;TZID=America/Toronto:20251220T140000
-SUMMARY:Foire de livres de gauche
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2025-12-20 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208\n\nSamedi 20 décembre\n12h–17h\
- nCSA l'Achoppe\, 1800 ave Letourneux\nLes événements sont gratuits et to
- ut le monde est le bienvenu.&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251220T032618
-DTSTART;TZID=America/Toronto:20251220T133000
-DTEND;TZID=America/Toronto:20251220T153000
-SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
-LOCATION:(en ligne)
-DESCRIPTION:2025-12-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
- iposte communautaire!\nUn panel sur l’imposition de la philanthropie et 
- les formes de contrôle du milieu communautaire\nMardi 20 janvier de 13h30
-  à 15h – en ligne sur zoom\nInterprétation en Langue des signes québ
- écoise (LSQ)\nInscription pour obtenir le lien zoom : https://forms.gle/c
- Yhpge668ANoaFR78\nLe gouvernement multiplie les attaques au communautaire.
-  Ce n’est plus suffisant pour le gouvernement d’appauvrir les organism
- es communautaires autonomes et de maintenir leur sous-financement chroniqu
- e. Maintenant\, il souhaite privatiser le financement avec la philanthropi
- e\, l’orienter vers les services individuels et nous éloigner de l’ac
- tion collective et politique.\nDans sa dérive autoritariste\, le gouverne
- ment pond et adopte des projets de loi (PL7\, PL103\, PL1\, PL89\, etc.) 
- à une vitesse inquiétante. Tous auront pour effet d’affaiblir l’auto
- nomie des groupes et leur capacité à revendiquer et défendre les droits
- . Or\, l’action communautaire autonome prend justement racine dans le po
- uvoir des membres et des communautés d’améliorer leur milieu et de rev
- endiquer leurs droits. Cette autonomie n’est pas négociable!\nRendez-vo
- us le 20 janvier pour discuter ensemble de l’imposition de la philanthro
- pie au communautaire et de ses impacts sur le mouvement ainsi que des form
- es de répression et de contrôle de nos actions politiques.\nPanélistes 
- :\n- Maxim Fortin\, chercheur à l’Institut de recherche et d’informat
- ions socioéconomiques (IRIS)\n- Joëlle Dussault\, professeure à l’Uni
- versité du Québec à Trois-Rivières (UQTR)\nVous recevrez le lien zoom 
- la veille de l'événement.\n&nbsp\;
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20251220T032618
-DTSTART;TZID=America/Toronto:20251220T150000
-DTEND;TZID=America/Toronto:20251220T170000
-SUMMARY:Violet Hour Book Club - A Last Supper of Queer Apostles
-LOCATION:6450 avenue Christophe-Colomb
-DESCRIPTION:2025-12-20 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
- //www.openstreetmap.org/way/1080082859\n\nJoin us for the next meeting of 
- the Violet Hour Book Club\, a reading group devoted to classic and contemp
- orary works of LGBTQ literature. The book we will be discussing is A Last 
- Supper of Queer Apostles: Selected Essays (2024) by Pedro Lemebel. This mo
- nth’s meeting in held in collaboration with ACCM (AIDS Community Care Mo
- ntreal).\nToustes sont invités·es au Violet Hour Book Club\, et chacun.e
-  est bienvenu.e à partager ses pensées sur le livre en anglais ou en fra
- nçais.\nWe will be meeting at Espace des Possibles Petite-Patrie (6450 Av
- enue Christophe Colomb\, Beaubien Metro). L’Espace des Possibles a comme
-  mission d’offrir un lieu d’entraide\, d’apprentissages et d’impli
- cation dédié à la transition sociale et écologique (la transition soci
- o-écologique).\nThe space is given to us for free\, but VHBC participants
-  are welcome to make voluntary contributions to help support our mandate t
- o create LGBTQ literary events for Montrealers.\nA reminder: All VHBC titl
- es are available at Librairie Paragraphe Bookstore (2220\, McGill College 
- Ave) at 15% off and at Librairie Pulp Books &amp\; Cafe (3952 Wellington S
- t.) at 10% off.\nABOUT THE BOOK ///\nA galvanizing look at life on the mar
- gins of society by a crowning figure of Latin America’s queer countercul
- ture who celebrated “melodrama\, kitsch\, extravagance\, and vulgarity o
- f all kinds” (Garth Greenwell) in playful\, performative\, linguisticall
- y inventive essays\, now in English for the first time\nA Penguin Classic\
- n“I speak from my difference\,” wrote Pedro Lemebel\, an openly queer 
- writer and artist living through Chile’s AIDS epidemic and the collapse 
- of the Pinochet dictatorship. In brilliantly innovative essays—known as 
- crónicas—that combine memoir\, reportage\, fiction\, history\, and poet
- ry\, he brought visibility and dignity to sexual minorities\, the poor\, a
- nd the powerless. Touching on everything from Che Guevara to Elizabeth Tay
- lor\, from the aftermath of authoritarian rule to the daily lives of Chile
- ’s locas—a slur for trans women and effeminate gay men that he boldly 
- reclaims—his writing infuses political urgency with playfulness\, realis
- m with absurdism\, and resistance with camp\, and his AIDS crónicas immor
- talize a generation of Chileans doubly “disappeared” by casting each l
- oca\, as she falls sick\, in the starring role of her own private tragedy.
-  This volume brings together the best of his work\, introducing readers of
-  English to the subversive genius of a literary activist and queer icon wh
- ose acrobatic explorations of the Santiago demimonde reverberate around th
- e world.\nFor more than seventy-five years\, Penguin has been the leading 
- publisher of classic literature in the English-speaking world. With more t
- han 2\,000 titles\, Penguin Classics represents a global bookshelf of the 
- best works throughout history and across genres and disciplines. Readers t
- rust the series to provide authoritative texts enhanced by introductions a
- nd notes by distinguished scholars and contemporary authors\, as well as u
- p-to-date translations by award-winning translators.\n*Winner of the Natio
- nal Book Critics Circle Translation Prize*\n“These days\, when an Americ
- an president has decreed that ‘there are only two genders: male and fema
- le’ . . . an undaunted\, lyrical voice from a southern corner of the hem
- isphere offers a model of resistance.” —The New Yorker\n“Intoxicatin
- g . . . Sexy\, political and deeply humane . . . We all owe Penguin Classi
- cs a round of shots for A Last Supper of Queer Apostles.” —The Washing
- ton Post\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20251220T032618
-DTSTART;TZID=America/Toronto:20251220T180000
-DTEND;TZID=America/Toronto:20251220T200000
-SUMMARY:Projection : "Put Your Soul on Your Hand and Walk"
-LOCATION:505 Jean-Talon Est (métro Jean-Talon)
-DESCRIPTION:2025-12-20 18:00:00\n\n505 Jean-Talon Est (métro Jean-Talon)\
- n\nhttps://www.openstreetmap.org/node/6441386091\n\nSepideh Farsi\, an exi
- led Iranian filmmaker based in Paris\, begins a remote exchange with Fatim
- a Hassouna\, a young Palestinian photojournalist. Their only link is throu
- gh video calls—the fragile thread connecting two worlds. Fatima shares h
- er besieged daily life\, her photographs\, and her unwavering hope\; each 
- network outage triggers panic\, while each reconnection brings warmth and 
- relief. From these exchanges\, Sepideh Farsi crafts an epistolary document
- ary that is stunningly poignant—offering a raw\, visceral experience of 
- war. The day after Put Your Soul on Your Hand and Walk was selected for Ca
- nnes\, Fatima Hassouna was killed\, along with her family\, in an Israeli 
- airstrike. What remains is this sensitive and harrowing dialogue—a truly
-  essential film\, a rare embodiment of cinema in the immediate present.\n&
- nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-4
-SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20251221T173000
 DTEND;TZID=America/Toronto:20251221T193000
 SUMMARY:Club de lecture solidaire anticapitaliste
@@ -157,9 +25,9 @@ DESCRIPTION:2025-12-21 17:30:00\n\n6792 St-Laurent (métro de Castelnau)\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20251226T113000
 DTEND;TZID=America/Toronto:20251226T133000
 SUMMARY:Marche Trans 2025 de Montréal - À bas la CAQ\, l'autoritarisme e
@@ -179,9 +47,9 @@ DESCRIPTION:2025-12-26 11:30:00\n\n(métro Guy)\n\nhttps://www.openstreetm
 URL;VALUE=URI:https://www.openstreetmap.org/node/4062527877
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20251226T170000
 DTEND;TZID=America/Toronto:20251226T190000
 SUMMARY:Masse critique de décembre
@@ -228,9 +96,9 @@ DESCRIPTION:2025-12-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20251228T180000
 DTEND;TZID=America/Toronto:20251228T200000
 SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
@@ -242,9 +110,9 @@ DESCRIPTION:2025-12-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -254,9 +122,9 @@ DESCRIPTION:2025-12-31 16:30:00\n\nMétro Henri-Bourassa\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/9605912783
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -277,9 +145,9 @@ DESCRIPTION:2026-01-03 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -303,9 +171,41 @@ DESCRIPTION:2026-01-04 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
+DTSTART;TZID=America/Toronto:20260104T113000
+DTEND;TZID=America/Toronto:20260104T133000
+SUMMARY:Sit-in mensuel de Mères au front montréal
+LOCATION:Coin Sherbrooke/McGill College (métro McGill)
+DESCRIPTION:2026-01-04 11:30:00\n\nCoin Sherbrooke/McGill College (métro 
+ McGill)\n\nhttps://www.openstreetmap.org/node/11289831402\n\nLe 3 avril 20
+ 22\, les Mères au Front se réunissaient pour la première fois devant le
+  bureau du Premier Ministre du Québec\, à Montréal\, pour lui rappeler\
+ , ainsi qu’au gouvernement fédéral\, que nous devons écouter la scien
+ ce et répondre avec urgence.\nChaque dimanche pendant un an\, puis chaque
+  premier dimanche du mois depuis avril 2023\, nous nous regroupons toujour
+ s devant son bureau\, persévérantes\, décidées\, aimantes et en colèr
+ e.\nPourquoi ?\nParce que François Legault a été réélu et la politiqu
+ e environnementale de ce gouvernement n'a encore rien montré de convainca
+ nt.\nAlors nous veillerons. Toujours. Encore\nPour l'avenir de nos enfants
+  !\nNous voulons une réduction des émissions de 65% d'ici à 2030\, en l
+ ien avec les recommandations du GIEC. Nous demandons à ce que toutes les 
+ décisions politiques soient désormais passées au crible de leur impact 
+ environnemental.\nNous voulons être entendues\, alors nous serons là\, c
+ haque semaine. Rejoignez-nous!\nPOUR PORTER LE MESSAGE :\n-Portez fièreme
+ nt le coeur équarri vert de MAF\n-Venez avec vos enfants\, parents\, conj
+ oint.e.s !\n-Amenez de la craie pour laisser vos messages au sol. Toutes p
+ ancartes\, messages et banderoles relayant nos revendications sont les bie
+ nvenus!\nVisionnez les magnifiques vidéos d'anniversaires :\nhttps://www.
+ facebook.com/MAFMontreal/videos/395662006640031\nhttps://www.facebook.com/
+ MAFMontreal/videos/1434201113650756/\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11289831402
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-8
+SEQUENCE:0
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -373,9 +273,24 @@ DESCRIPTION:2026-01-09 12:00:00\n\n(en ligne)\n\nCommuniqué du Collectif
  llectif
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
+DTSTART;TZID=America/Toronto:20260109T173000
+DTEND;TZID=America/Toronto:20260109T193000
+SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
+LOCATION:1426 Beaudry (métro Beaudry)
+DESCRIPTION:2026-01-09 17:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
+ //www.openstreetmap.org/node/4852683788\n\nLe 9 janvier\, rejoignez-nous p
+ our accueillir la célèbre Rebeka Warrior lors d’une causerie et séanc
+ e de dédicace autour de son nouveau livre Toutes les vies !! 💥\nUn év
+ énement exceptionnel à ne surtout pas manquer !\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-10
+SEQUENCE:0
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -393,9 +308,85 @@ DESCRIPTION:2026-01-11 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-11
+SEQUENCE:0
+DTSTAMP:20251221T033244
+DTSTART;TZID=America/Toronto:20260113T180000
+DTEND;TZID=America/Toronto:20260113T200000
+SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
+LOCATION:1376 Ontario Est (métro Papineau)
+DESCRIPTION:2026-01-13 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
+ ttps://www.openstreetmap.org/way/115814240\n\nLe balado Sans normes et la 
+ Livrerie vous invitent à un enregistrement devant public. Sans normes est
+  un balado qui aborde des sujets parfois considérés comme hors normes da
+ ns la société tout en donnant la parole à des personnes aux parcours si
+ nguliers.\nPour l’occasion\, l’animatrice Alexe Trudeau reçoit Mélik
+ ah Abdelmoumen\, autrice de Traité de la petite bonté: Lettre à une jeu
+ ne amie tsigane.\n—\nLe cœur battant de l’histoire n’est pas l’af
+ frontement titanesque du Bien contre le Mal\, écrit Vassili Grossman dans
+  Vie et destin\, c’est plutôt l’assaut désespéré du mal contre la 
+ minuscule graine d’humanité qu’aucune guerre ni aucune violence n’a
+  su pulvériser. Ce livre raconte l’histoire d’une amitié entre Méli
+ kah Abdelmoumen\, une Gadji (une «non-Rom»)\, et des membres de la commu
+ nauté tsigane de Lyon qu’elle côtoie depuis des années. Parmi eux\, l
+ a jeune Florina et sa famille. Le récit décrit la violence qui s’exerc
+ e à l’encontre des habitants des bidonvilles et narre les combats et le
+ s errances de marginaux aussi démunis que débrouillards\, astucieux que 
+ généreux. Il rend hommage à toute la constellation de personnes anonyme
+ s qui\, de mille façons\, refusent de laisser quiconque à l’abandon et
+  contribuent ainsi à entretenir ce minuscule grain d’humanité sans leq
+ uel nous serions perdus. Il ressort de ce texte une réflexion parfois dur
+ e sur l’entraide\, un portrait intime du peuple tsigane\, et surtout\, u
+ ne défense et illustration de la force irréductible de la petite bonté.
+ \n—\nRomancière et essayiste\, Mélikah Abdelmoumen est née à Chicout
+ imi en 1972. Son essai&nbsp\;Baldwin\, Styron et moi&nbsp\;(Mémoire d’e
+ ncrier\, 2022)\, a remporté le prix Pierre-Vadeboncoeur. Elle habite à M
+ ontréal mais a vécu douze ans en France.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-12
+SEQUENCE:0
+DTSTAMP:20251221T033244
+DTSTART;TZID=America/Toronto:20260115T100000
+DTEND;TZID=America/Toronto:20260115T120000
+SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
+ droits
+LOCATION:(en ligne)
+DESCRIPTION:2026-01-15 10:00:00\n\n(en ligne)\n\nDans le cadre de sa campa
+ gne « Les droits\, ça se défend collectivement »\, le RODCD vous invit
+ e à un zoom de mobilisation le 15 janvier à 10 h en ligne ! Événement 
+ ouvert à tous les groupes membres ou non\, aux équipes et aux membres de
+ s organismes ainsi qu'à toutes les organisations alliées et partenaires.
+ \nPour s'inscrire: https://us02web.zoom.us/.../register/EE7XmlMiQRuzvxFr23
+ 4ENA\nAu menu\nPrésentation de la semaine de grève et de mobilisation\nC
+ alendrier de la semaine\nPrises de parole des différentes régions\nLance
+ ment d'un portrait de la DCD\nInvité-e-s surprise !\nPep talk et discussi
+ on commune\n&nbsp\;\nTous les groupes en défense collective des droits (D
+ CD) sont invités à organiser et à participer aux journées de grève ro
+ tative et aux différentes actions qui auront lieu dans la semaine du 2 f
+ évrier 2026 un peu partout au Québec en prévision du dernier budget du 
+ gouvernement caquiste actuel.\n&nbsp\;\nPOURQUOI UNE SEMAINE DE GRÈVE ET 
+ DE MOBILISATION?\nPARCE QUE...\nMalgré ce que le gouvernement caquiste se
+ mble penser\, les groupes en DCD sont essentiels pour la protection des dr
+ oits de plusieurs communautés!\nNotre financement est insuffisant pour ac
+ complir nos missions!\nNous n’avons aucune indexation depuis plusieurs a
+ nnées!\nTrès peu de nouveaux groupes sont financés annuellement!\nLes o
+ rganismes en défense collective des droits sont parmi les groupes communa
+ utaires les moins bien financés!\nLes choix budgétaires de la CAQ sont d
+ ésastreux et favorisent les plus fortunés!\nLa poursuite des politiques 
+ néolibérales appauvrit les populations en situation de pauvreté et à f
+ aible revenu et ajoute au fardeau des organismes!\nLe sous-financement\, 
+ ÇA SUFFIT!\nBudget après budget\, les groupes sont chroniquement sous-fi
+ nancés et s’appauvrissent d’année en année à coup d’inflation et
+  d'absence d'indexation. C'est inacceptable!\nNous sommes une grande part 
+ du filet social\, faisons-le savoir!\nPour informations: info@rodcd.org\n&
+ nbsp\;
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251220T032618
+DTSTAMP:20251221T033244
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -437,44 +428,5 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
  PRU. TOUTES LES INFOS SONT LÀ  https://www.frapru.qc.ca/retoursocial/\n&n
  bsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-14
-SEQUENCE:0
-DTSTAMP:20251220T032618
-DTSTART;TZID=America/Toronto:20260115T220000
-DTEND;TZID=America/Toronto:20260116T000000
-SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
- droits
-LOCATION:(en ligne)
-DESCRIPTION:2026-01-15 22:00:00\n\n(en ligne)\n\nDans le cadre de sa campa
- gne « Les droits\, ça se défend collectivement »\, le RODCD vous invit
- e à un zoom de mobilisation le 15 janvier à 10 h en ligne ! Événement 
- ouvert à tous les groupes membres ou non\, aux équipes et aux membres de
- s organismes ainsi qu'à toutes les organisations alliées et partenaires.
- \nPour s'inscrire: https://us02web.zoom.us/.../register/EE7XmlMiQRuzvxFr23
- 4ENA\nAu menu\nPrésentation de la semaine de grève et de mobilisation\nC
- alendrier de la semaine\nPrises de parole des différentes régions\nLance
- ment d'un portrait de la DCD\nInvité-e-s surprise !\nPep talk et discussi
- on commune\n&nbsp\;\nTous les groupes en défense collective des droits (D
- CD) sont invités à organiser et à participer aux journées de grève ro
- tative et aux différentes actions qui auront lieu dans la semaine du 2 f
- évrier 2026 un peu partout au Québec en prévision du dernier budget du 
- gouvernement caquiste actuel.\n&nbsp\;\nPOURQUOI UNE SEMAINE DE GRÈVE ET 
- DE MOBILISATION?\nPARCE QUE...\nMalgré ce que le gouvernement caquiste se
- mble penser\, les groupes en DCD sont essentiels pour la protection des dr
- oits de plusieurs communautés!\nNotre financement est insuffisant pour ac
- complir nos missions!\nNous n’avons aucune indexation depuis plusieurs a
- nnées!\nTrès peu de nouveaux groupes sont financés annuellement!\nLes o
- rganismes en défense collective des droits sont parmi les groupes communa
- utaires les moins bien financés!\nLes choix budgétaires de la CAQ sont d
- ésastreux et favorisent les plus fortunés!\nLa poursuite des politiques 
- néolibérales appauvrit les populations en situation de pauvreté et à f
- aible revenu et ajoute au fardeau des organismes!\nLe sous-financement\, 
- ÇA SUFFIT!\nBudget après budget\, les groupes sont chroniquement sous-fi
- nancés et s’appauvrissent d’année en année à coup d’inflation et
-  d'absence d'indexation. C'est inacceptable!\nNous sommes une grande part 
- du filet social\, faisons-le savoir!\nPour informations: info@rodcd.org\n&
- nbsp\;
 END:VEVENT
 END:VCALENDAR
