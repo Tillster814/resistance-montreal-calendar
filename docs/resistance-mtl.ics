@@ -8,26 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251221T033244
-DTSTART;TZID=America/Toronto:20251221T173000
-DTEND;TZID=America/Toronto:20251221T193000
-SUMMARY:Club de lecture solidaire anticapitaliste
-LOCATION:6792 St-Laurent (métro de Castelnau)
-DESCRIPTION:2025-12-21 17:30:00\n\n6792 St-Laurent (métro de Castelnau)\n
- \nhttps://www.openstreetmap.org/way/1082416935\n\nProchain livre Les damn
- és de la terre de Frantz Fanon.\nATTENTION!: Les rencontres sont en alter
- nance à la Librairie N'était-ce-pas l'été et à l'Espace des Possibles
-  Petite-Patrie\, voici les dates et lieux...\n28 septembre N’était-ce p
- as l’été\n12 octobre Espace des possibles\n26 octobre N’était-ce pa
- s l’été\n9 novembre Espace des possibles\n23 novembre N’était-ce pa
- s l’été\n7 décembre Espace des possibles\n21 décembre N’était-ce 
- pas l’été
-URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20251226T113000
 DTEND;TZID=America/Toronto:20251226T133000
 SUMMARY:Marche Trans 2025 de Montréal - À bas la CAQ\, l'autoritarisme e
@@ -47,9 +28,9 @@ DESCRIPTION:2025-12-26 11:30:00\n\n(métro Guy)\n\nhttps://www.openstreetm
 URL;VALUE=URI:https://www.openstreetmap.org/node/4062527877
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-2
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20251226T170000
 DTEND;TZID=America/Toronto:20251226T190000
 SUMMARY:Masse critique de décembre
@@ -96,9 +77,9 @@ DESCRIPTION:2025-12-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20251228T180000
 DTEND;TZID=America/Toronto:20251228T200000
 SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
@@ -110,9 +91,9 @@ DESCRIPTION:2025-12-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -122,9 +103,9 @@ DESCRIPTION:2025-12-31 16:30:00\n\nMétro Henri-Bourassa\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/9605912783
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -145,9 +126,9 @@ DESCRIPTION:2026-01-03 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -171,9 +152,9 @@ DESCRIPTION:2026-01-04 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -203,9 +184,9 @@ DESCRIPTION:2026-01-04 11:30:00\n\nCoin Sherbrooke/McGill College (métro
 URL;VALUE=URI:https://www.openstreetmap.org/node/11289831402
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -273,9 +254,9 @@ DESCRIPTION:2026-01-09 12:00:00\n\n(en ligne)\n\nCommuniqué du Collectif
  llectif
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -288,9 +269,9 @@ DESCRIPTION:2026-01-09 17:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -308,9 +289,35 @@ DESCRIPTION:2026-01-11 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-10
+SEQUENCE:0
+DTSTAMP:20251222T033402
+DTSTART;TZID=America/Toronto:20260112T170000
+DTEND;TZID=America/Toronto:20260112T190000
+SUMMARY:Atelier sur la reprise de logement
+LOCATION:(métro Mont-Royal)
+DESCRIPTION:2026-01-12 17:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
+ streetmap.org/node/12034353384\n\nDate : Lundi 12 janvier 2026 1/12/26 17:
+ 00\nLieu : En ligne\nUn atelier sur la reprise de logement aura lieu le 15
+  décembre 2025 de 17h30 à 19h\, au 4450 rue Saint-Hubert\, salle 432. L
+ ’entrée arrière située au 4449 rue Berri est accessible aux personnes
+  à mobilité réduite.&nbsp\;&nbsp\;\nVous avez reçu un avis de reprise 
+ de logement de la part de votre propriétaire ? Vous anticipez que vos nou
+ veaux propriétaires puissent utiliser cette tactique pour vous faire quit
+ ter? Vous cherchez à comprendre ce qu’est une reprise dite de mauvaise 
+ foi et désirez connaître des indices pour la reprérer? Bref\, si vous d
+ ésirez connaître vos droits et recours en lien avec la reprise de logeme
+ nt\, une des seules exceptions au droit au maintient dans les lieux des lo
+ cataires\, venez en grand nombre à notre atelier du 15 décembre!\nS.V.P.
+  vous inscrire si vous désirez participer!\nVous pouvez vous inscrire en 
+ remplissant le formulaire au lien suivant :&nbsp\;https://forms.office.com
+ /r/5U0gRJttPG\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/12034353384
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -347,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -386,7 +393,66 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251221T033244
+DTSTAMP:20251222T033402
+DTSTART;TZID=America/Toronto:20260115T120000
+DTEND;TZID=America/Toronto:20260115T140000
+SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
+LOCATION:(en ligne)
+DESCRIPTION:2026-01-15 12:00:00\n\n(en ligne)\n\nCLIQUEZ ICI POUR VOUS INS
+ CRIRE\nWebinaire\nUn événement pour s’informer sur le projet de loi f
+ édéral C-9\, Loi visant à lutter contre la haine\, présentement à l
+ ’étude à la Chambre des communes. C-9\, une menace au droit de manifes
+ ter et&nbsp\;aux libertés d’expression\, de réunion pacifique et d’a
+ ssociation.\nQuand? Jeudi 15 janvier 2026\, de 12h à 13h30\nOù? En ligne
+ \, sur la plate-forme zoom.&nbsp\;\nCo-organisé par l'Association canadie
+ nne des libertés civiles et la Ligue des droits et libertés.\nPanéliste
+ s\nAnaïs Bussières McNicoll\, porte-parole Québec et directrice des Lib
+ ertés fondamentales à l’Association canadienne des libertés civiles\n
+ Lucia Flores Echaiz\, avocate criminaliste et militante au comité Surveil
+ lance des populations\, intelligence artificielle et droits humains de la 
+ Ligue des droits et libertés\nLynda Khelil\, responsable de dossiers poli
+ tiques à la Ligue des droits et libertés\nEn septembre 2025\, le gouvern
+ ement fédéral a déposé le projet de loi C-9 en affirmant qu’il perme
+ ttrait de lutter contre la haine au Canada\, un problème bien réel. Or\,
+  à la suite d’une analyse sérieuse du texte du projet de loi\, de nomb
+ reuses organisations de la société civile ont constaté que C-9 ne conti
+ ent pas de nouveaux outils efficaces pour lutter contre la haine\, mais pl
+ utôt des dispositions qui porteront atteinte de manière injustifiée aux
+  libertés d’expression\, de réunion pacifique et d’association prot
+ égées par les Chartes canadienne et québécoise.\nPlutôt que de s'atta
+ quer aux racines structurelles du racisme et de la haine\, le projet de lo
+ i C-9 perpétue un modèle punitif qui finit invariablement par être util
+ isé contre les communautés mêmes qu'il prétend protéger.&nbsp\;\nParm
+ i les dispositions inquiétantes de C-9 : de nouvelles infractions crimine
+ lles d’intimidation et d’empêcher ou de gêner l’accès à toute un
+ e série de lieux\, notamment des lieux de cultes\, utilisés par un group
+ e identifiable\, au libellé si large qu’elles risquent même d’empêc
+ her les travailleur·euses et membres de communautés marginalisées de ma
+ nifester devant leurs propres institutions\; et une nouvelle infraction cr
+ iminelle de fomenter la haine en exposant un symbole associé à une entit
+ é inscrite sur la liste canadienne des entités terroristes\, une liste h
+ autement politique critiquée de longue date par des organisations de la s
+ ociété civile. De plus\, C-9 abaisse le seuil à partir duquel des propo
+ s pourraient être qualifiés de propagande haineuse criminelle\, incluant
+  en ligne. &nbsp\;\nNe manquez pas ce webinaire pour s'informer sur C-9 et
+  s’organiser contre les atteintes au droit de manifester et aux droits h
+ umains.\nBienvenue à toustes!\n&nbsp\;\n&nbsp\;\nPOUR EN SAVOIR PLUS\nApp
+ el à l'action\nDemandez aux député·es de retirer C-9 en deux clics\nM
+ émoires sur C-9\nMémoire de l'Association canadienne des libertés civil
+ es (21 octobre 2025)\nMémoire de la Ligue des droits et libertés&nbsp\;(
+ 6 novembre 2025)\nLettre collective\nLettre de plus de 40 organisations de
+  la société civile au Canada (6 octobre 2025)​​​​)\nAutres docum
+ ents\nContribution au&nbsp\;Rapporteur spécial de&nbsp\;l'ONU&nbsp\;« Po
+ ur un rejet du paradigme du terrorisme »\, par la Ligue des droits et lib
+ ertés et&nbsp\;la Coalition pour la surveillance internationale des liber
+ tés civiles (1er décembre 2025)\n&nbsp\;\nCLIQUEZ ICI POUR VOUS INSCRIRE
+ \nPour avoir accès à la Politique de protection des renseignements perso
+ nnels de la LDL\, cliquez ICI.&nbsp\;\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-14
+SEQUENCE:0
+DTSTAMP:20251222T033402
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -428,5 +494,38 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
  PRU. TOUTES LES INFOS SONT LÀ  https://www.frapru.qc.ca/retoursocial/\n&n
  bsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-15
+SEQUENCE:0
+DTSTAMP:20251222T033402
+DTSTART;TZID=America/Toronto:20260120T133000
+DTEND;TZID=America/Toronto:20260120T153000
+SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
+LOCATION:(en ligne)
+DESCRIPTION:2026-01-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
+ iposte communautaire!\nUn panel sur l’imposition de la philanthropie et 
+ les formes de contrôle du milieu communautaire\nMardi 20 janvier de 13h30
+  à 15h – en ligne sur zoom\nInterprétation en Langue des signes québ
+ écoise (LSQ)\nInscription pour obtenir le lien zoom : https://forms.gle/c
+ Yhpge668ANoaFR78\nLe gouvernement multiplie les attaques au communautaire.
+  Ce n’est plus suffisant pour le gouvernement d’appauvrir les organism
+ es communautaires autonomes et de maintenir leur sous-financement chroniqu
+ e. Maintenant\, il souhaite privatiser le financement avec la philanthropi
+ e\, l’orienter vers les services individuels et nous éloigner de l’ac
+ tion collective et politique.\nDans sa dérive autoritariste\, le gouverne
+ ment pond et adopte des projets de loi (PL7\, PL103\, PL1\, PL89\, etc.) 
+ à une vitesse inquiétante. Tous auront pour effet d’affaiblir l’auto
+ nomie des groupes et leur capacité à revendiquer et défendre les droits
+ . Or\, l’action communautaire autonome prend justement racine dans le po
+ uvoir des membres et des communautés d’améliorer leur milieu et de rev
+ endiquer leurs droits. Cette autonomie n’est pas négociable!\nRendez-vo
+ us le 20 janvier pour discuter ensemble de l’imposition de la philanthro
+ pie au communautaire et de ses impacts sur le mouvement ainsi que des form
+ es de répression et de contrôle de nos actions politiques.\nPanélistes 
+ :\n- Maxim Fortin\, chercheur à l’Institut de recherche et d’informat
+ ions socioéconomiques (IRIS)\n- Joëlle Dussault\, professeure à l’Uni
+ versité du Québec à Trois-Rivières (UQTR)\nVous recevrez le lien zoom 
+ la veille de l'événement.\n&nbsp\;
 END:VEVENT
 END:VCALENDAR
