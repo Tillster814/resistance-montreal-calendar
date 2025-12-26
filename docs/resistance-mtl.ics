@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20251226T113000
 DTEND;TZID=America/Toronto:20251226T133000
 SUMMARY:Marche Trans 2025 de Montréal - À bas la CAQ\, l'autoritarisme e
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20251226T170000
 DTEND;TZID=America/Toronto:20251226T190000
 SUMMARY:Masse critique de décembre
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20251228T180000
 DTEND;TZID=America/Toronto:20251228T200000
 SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -105,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -154,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -186,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -256,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -271,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -291,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -317,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -354,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -393,7 +393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -452,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -498,7 +498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -531,7 +531,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -564,7 +564,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251225T033220
+DTSTAMP:20251226T033155
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -631,5 +631,48 @@ DESCRIPTION:2026-01-23 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
  le vit et travaille à Montréal comme éditrice. Dévotion est son premie
  r roman.\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-18
+SEQUENCE:0
+DTSTAMP:20251226T033155
+DTSTART;TZID=America/Toronto:20260124T150000
+DTEND;TZID=America/Toronto:20260124T170000
+SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2026-01-24 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\nJoin us for the next meeting of 
+ the Violet Hour Book Club\, a reading group devoted to classic and contemp
+ orary works of LGBTQ literature. The book we will be discussing is Five Po
+ ints on an Invisible Line (2025) by Su J Sokol.\nToustes sont invités·es
+  au Violet Hour Book Club\, et chacun.e est bienvenu.e à partager ses pen
+ sées sur le livre en anglais ou en français.\nWe will be meeting at Espa
+ ce des Possibles Petite-Patrie (6450 Avenue Christophe Colomb\, Beaubien M
+ etro). L’Espace des Possibles a comme mission d’offrir un lieu d’ent
+ raide\, d’apprentissages et d’implication dédié à la transition soc
+ iale et écologique (la transition socio-écologique).\nThe space is given
+  to us for free\, but VHBC participants are welcome to make voluntary cont
+ ributions to help support our mandate to create LGBTQ literary events for 
+ Montrealers.\nA reminder: All VHBC titles are available at Librairie Parag
+ raphe Bookstore (2220\, McGill College Ave) at 15% off and at Librairie Pu
+ lp Books &amp\; Cafe (3952 Wellington St.) at 10% off.\nABOUT THE BOOK ///
+ \nThe long-awaited sequel that weaves five lives into one invisible thread
+ \, binding them across borders and worlds.\nSome families we choose\, some
+  battles we can't avoid\, some lines we must cross together.\nA bomb at th
+ e airport.\nA mysterious disappearance.\nA family pushing boundaries.\nThr
+ ee years after finding refuge in near-future Montreal\, Laek and Janie pre
+ pare to expand their unconventional family. But when their friend Philip's
+  arrival coincides with an explosion at the airport\, their sanctuary begi
+ ns to crack.\nStruggling with PTSD\, Laek must forge an alliance with some
+ one he doesn't trust as street kids start vanishing from his school. Meanw
+ hile\, Janie dreams of building a larger family through a polyamorous unio
+ n\, even as dangers mount around them.\nTheir community of queer\, poly\, 
+ and neurodivergent activists fights for justice in a city that's both have
+ n and battleground. But when protecting others means risking everything th
+ ey've built\, how much are they willing to sacrifice?\nIn a world of invis
+ ible lines\, which ones are worth crossing?\nSunburst Award-nominated Su J
+  Sokol crafts hopepunk science fiction where hope isn't just resistance—
+ it's revolution.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 END:VCALENDAR
