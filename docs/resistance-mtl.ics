@@ -8,31 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251227T033107
-DTSTART;TZID=America/Toronto:20251227T150000
-DTEND;TZID=America/Toronto:20251227T170000
-SUMMARY:Manif contre l'abolition du PEQ
-LOCATION:1200 St-Laurent (métro St-Laurent)
-DESCRIPTION:2025-12-27 15:00:00\n\n1200 St-Laurent (métro St-Laurent)\n\n
- https://www.openstreetmap.org/node/7818532101\n\nMontréal\, le 27 décemb
- re 2025 – La suppression du Programme de l’expérience québécoise (P
- EQ) continue d’avoir des conséquences humaines majeures pour des millie
- rs de personnes immigrantes établies au Québec. Travailleurs\, étudiant
- s et familles\, pourtant intégrés et actifs\,\nvoient aujourd’hui leur
- s parcours brutalement remis en question.\nFace à l’absence de mesures 
- transitoires claires et malgré les mobilisations des dernières semaines\
- , Le Québec c’est nous aussi organise une veillée citoyenne à Montré
- al afin de dénoncer les conséquences humaines de ces décisions et de ra
- ppeler l’urgence de protéger les\nparcours déjà engagés.\nÀ cette o
- ccasion\, le collectif convie les médias à couvrir la veillée. Plusieur
- s personnes directement touchées seront disponibles pour répondre aux qu
- estions et accorder des entrevues.\nAmour et rage
-URL;VALUE=URI:https://www.openstreetmap.org/node/7818532101
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20251228T180000
 DTEND;TZID=America/Toronto:20251228T200000
 SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
@@ -44,9 +20,9 @@ DESCRIPTION:2025-12-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-2
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -56,9 +32,9 @@ DESCRIPTION:2025-12-31 16:30:00\n\nMétro Henri-Bourassa\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/9605912783
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -79,9 +55,9 @@ DESCRIPTION:2026-01-03 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -105,9 +81,9 @@ DESCRIPTION:2026-01-04 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -137,9 +113,44 @@ DESCRIPTION:2026-01-04 11:30:00\n\nCoin Sherbrooke/McGill College (métro
 URL;VALUE=URI:https://www.openstreetmap.org/node/11289831402
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-5
+SEQUENCE:0
+DTSTAMP:20251228T033431
+DTSTART;TZID=America/Toronto:20260106T160000
+DTEND;TZID=America/Toronto:20260106T180000
+SUMMARY:Vigil for Palestine
+LOCATION:aux tourniquets
+DESCRIPTION:2026-01-06 16:00:00\n\naux tourniquets\n\n06/01/2026 @ 16 h 00
+  min - 17 h 30 min\nVigil and distribution PAJU Palestine: &nbsp\; TUESDAY
+  JANUARY 6\, 2026 at&nbsp\;&nbsp\;METRO LIONEL-GROULX\nMétro Lionel-Groul
+ x Montréal\, Québec\, Canada\nJOIN US AT THE PAJU VIGILS Vigil and distr
+ ibution PAJU Palestine: &nbsp\; TUESDAY JANUARY 6\, 2026 at&nbsp\;&nbsp\;M
+ ETRO LIONEL-GROULX TUESDAY&nbsp\;JANUARY 6&nbsp\;&nbsp\;FROM 4 PM TO 5:30 
+ &nbsp\;PM &nbsp\;inside the&nbsp\;LIONEL-GROULX&nbsp\;metro&nbsp\;station 
+ just outside of the turnstiles. Join us in solidarity with the people of P
+ alestine\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
+DTSTART;TZID=America/Toronto:20260108T160000
+DTEND;TZID=America/Toronto:20260108T180000
+SUMMARY:Vigil for Palestine
+LOCATION:aux tourniquets
+DESCRIPTION:2026-01-08 16:00:00\n\naux tourniquets\n\n08/01/2026 @ 16 h 00
+  min - 17 h 30 min\nVigil and distribution PAJU Palestine: &nbsp\; THURSDA
+ Y JANUARY 8 at&nbsp\;the METRO LIONEL-GROULX\nMétro Lionel-Groulx Montré
+ al\, Québec\, Canada\nVigil and distribution PAJU Palestine: &nbsp\; THUR
+ SDAY JANUARY 8 at&nbsp\;the METRO LIONEL-GROULX THURSDAY&nbsp\;JANUARY 8&n
+ bsp\;&nbsp\;FROM 4 PM TO 5:30 PM &nbsp\;inside the&nbsp\;LIONEL-GROULX&nbs
+ p\;metro&nbsp\;station just outside of the turnstiles. Join us in solidari
+ ty with the people of Palestine\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-7
+SEQUENCE:0
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -207,9 +218,9 @@ DESCRIPTION:2026-01-09 12:00:00\n\n(en ligne)\n\nCommuniqué du Collectif
  llectif
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -222,9 +233,9 @@ DESCRIPTION:2026-01-09 17:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -242,9 +253,9 @@ DESCRIPTION:2026-01-11 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -268,9 +279,9 @@ DESCRIPTION:2026-01-12 17:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034353384
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -305,9 +316,9 @@ DESCRIPTION:2026-01-13 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -344,9 +355,9 @@ DESCRIPTION:2026-01-15 10:00:00\n\n(en ligne)\n\nDans le cadre de sa campa
  nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -403,9 +414,9 @@ DESCRIPTION:2026-01-15 12:00:00\n\n(en ligne)\n\nCLIQUEZ ICI POUR VOUS INS
  nnels de la LDL\, cliquez ICI.&nbsp\;\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -449,9 +460,9 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -482,9 +493,9 @@ DESCRIPTION:2026-01-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
  la veille de l'événement.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -515,9 +526,9 @@ DESCRIPTION:2026-01-21 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -586,9 +597,9 @@ DESCRIPTION:2026-01-23 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20251227T033107
+DTSTAMP:20251228T033431
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
