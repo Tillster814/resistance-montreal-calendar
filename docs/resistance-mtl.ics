@@ -8,21 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251228T033431
-DTSTART;TZID=America/Toronto:20251228T180000
-DTEND;TZID=America/Toronto:20251228T200000
-SUMMARY:Souper de l'ORA : Ni Patrie ni État\, ni dinde ni atocas
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2025-12-28 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208\n\nVous êtes solidairement convi
- é-es à la deuxième édition du souper de noel de l'ORA : Ni Patrie ni 
- État\, ni dinde ni atocas ! Dès 18h à l'Achoppe
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -32,9 +18,9 @@ DESCRIPTION:2025-12-31 16:30:00\n\nMétro Henri-Bourassa\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/9605912783
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-2
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -55,9 +41,9 @@ DESCRIPTION:2026-01-03 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -81,9 +67,9 @@ DESCRIPTION:2026-01-04 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -113,9 +99,9 @@ DESCRIPTION:2026-01-04 11:30:00\n\nCoin Sherbrooke/McGill College (métro
 URL;VALUE=URI:https://www.openstreetmap.org/node/11289831402
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260106T160000
 DTEND;TZID=America/Toronto:20260106T180000
 SUMMARY:Vigil for Palestine
@@ -131,9 +117,9 @@ DESCRIPTION:2026-01-06 16:00:00\n\naux tourniquets\n\n06/01/2026 @ 16 h 00
  alestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260108T160000
 DTEND;TZID=America/Toronto:20260108T180000
 SUMMARY:Vigil for Palestine
@@ -148,9 +134,9 @@ DESCRIPTION:2026-01-08 16:00:00\n\naux tourniquets\n\n08/01/2026 @ 16 h 00
  ty with the people of Palestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -218,9 +204,9 @@ DESCRIPTION:2026-01-09 12:00:00\n\n(en ligne)\n\nCommuniqué du Collectif
  llectif
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -233,9 +219,9 @@ DESCRIPTION:2026-01-09 17:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -253,9 +239,9 @@ DESCRIPTION:2026-01-11 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -279,9 +265,9 @@ DESCRIPTION:2026-01-12 17:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034353384
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -316,9 +302,9 @@ DESCRIPTION:2026-01-13 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -355,9 +341,9 @@ DESCRIPTION:2026-01-15 10:00:00\n\n(en ligne)\n\nDans le cadre de sa campa
  nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -414,9 +400,9 @@ DESCRIPTION:2026-01-15 12:00:00\n\n(en ligne)\n\nCLIQUEZ ICI POUR VOUS INS
  nnels de la LDL\, cliquez ICI.&nbsp\;\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -460,9 +446,9 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -493,9 +479,9 @@ DESCRIPTION:2026-01-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
  la veille de l'événement.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -526,9 +512,9 @@ DESCRIPTION:2026-01-21 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -597,9 +583,9 @@ DESCRIPTION:2026-01-23 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251228T033431
+DTSTAMP:20251229T033514
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
