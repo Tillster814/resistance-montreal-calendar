@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -101,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260106T160000
 DTEND;TZID=America/Toronto:20260106T180000
 SUMMARY:Vigil for Palestine
@@ -119,7 +119,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260108T160000
 DTEND;TZID=America/Toronto:20260108T180000
 SUMMARY:Vigil for Palestine
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -206,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -241,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -267,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -304,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -343,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -402,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -448,7 +448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -481,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -514,7 +514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -585,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251229T033514
+DTSTAMP:20251230T033247
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
@@ -624,5 +624,121 @@ DESCRIPTION:2026-01-24 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
   Sokol crafts hopepunk science fiction where hope isn't just resistance—
  it's revolution.\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-18
+SEQUENCE:0
+DTSTAMP:20251230T033247
+DTSTART;TZID=America/Toronto:20260128T110000
+DTEND;TZID=America/Toronto:20260128T130000
+SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
+ itoyenneté
+LOCATION:Pavillon Lionel-Groulx\, 3150 Rue Jean-Brillant (salle C-1017-02)
+DESCRIPTION:2026-01-28 11:00:00\n\nPavillon Lionel-Groulx\, 3150 Rue Jean-
+ Brillant (salle C-1017-02)\n\nhttps://www.openstreetmap.org/way/27334101\n
+ \nDescription : Nous organiserons un colloque intitulé « Discours ambian
+ t et répercussions sur notre citoyenneté ». Cet événement explorera c
+ omment les discours publics et médiatiques\, souvent marqués par des dou
+ bles standards\, influencent notre conception de la citoyenneté et des dr
+ oits civiques au Québec. Le colloque réunira chercheurs\, journalistes e
+ t experts en communication pour analyser comment les disparités dans le t
+ raitement des différentes communautés par les médias et les institution
+ s façonnent les perceptions et l’inclusion des minorités. Nous discute
+ rons des impacts de ces discours biaisés sur la cohésion sociale et la m
+ arginalisation des groupes spécifiques. Il sera sous forme de trois parti
+ es.\n1- Conférence de M. Patrice Brodeur sur les enjeux actuels du dialog
+ ue interreligieux et de la citoyenneté\, en mettant l’accent sur les d
+ éfis et opportunités créés par les interactions entre différentes com
+ munautés au sein de la société.\n2- Conférence de Mme Samira Laouni et
+  Mme Miriam Taylor\, qui se concentrera sur les stéréotypes et les écha
+ nges interculturels\, en offrant des perspectives sur la manière dont les
+  stéréotypes influencent les relations interculturelles et sur des moyen
+ s de surmonter ces obstacles pour un dialogue constructif.\n3- Conférence
+  de Mme Catherine Larouche et Mr Jean-Michel Laundry\, qui abordera le th
+ ème du port du couvre-tête dans les trois religions monothéistes\, une 
+ analyse qui interroge les pratiques religieuses et leurs implications soci
+ étales. En plus d’examiner les problématiques\, nous mettrons en lumi
+ ère des pistes de solutions pour promouvoir une représentation plus équ
+ itable et inclusive dans les médias et les discours publics.\nCet événe
+ ment est ouvert au grand public et sera annoncé par communiqué de presse
+ \, lors du lancement de la SSM-MAW\, ainsi que via nos canaux numériques 
+ (site web\, pages Facebook\, Instagram) et ceux de nos partenaires.
+URL;VALUE=URI:https://www.openstreetmap.org/way/27334101
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-19
+SEQUENCE:0
+DTSTAMP:20251230T033247
+DTSTART;TZID=America/Toronto:20260128T120000
+DTEND;TZID=America/Toronto:20260128T140000
+SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
+  l’ampleur du phénomène et ses impacts
+LOCATION:(en ligne)
+DESCRIPTION:2026-01-28 12:00:00\n\n(en ligne)\n\nL’Observatoire des prof
+ ilages vous invite au webinaire sur le «&nbsp\;Dossier noir de la déscol
+ arisation: des pistes pour mieux mesurer l’ampleur du phénomène et ses
+  impacts&nbsp\;» le mercredi 28 janvier prochain de 12h à 13h30.\nInscri
+ ption gratuite requise\nPrésentation:&nbsp\;\nLaurence Simard-Gagnon\, pr
+ ofesseure au département de psychosociologie et de travail social de l’
+ Université du Québec à Rimouski et membre du Comité pour le droit à l
+ a scolarisation\nPatrice Lemieux Breton\, coordonnateur du Comité pour le
+  droit à la scolarisation\nAnimation: Christine Vézina\, professeure à 
+ la Faculté de droit de l’Université Laval et chercheure principale de 
+ la Communauté de recherche-action sur les droits économiques et sociaux 
+ (COMRADES)\nRésumé de la présentation : Le dossier noir de la déscolar
+ isation présente les principaux constats du projet de recherche Agir ense
+ mble pour la scolarisation des élèves neurodivergent.e.s. Ces constats s
+ e basent sur 20 témoignages recueillis auprès de parents d’élèves en
+  situation de handicap ou en difficulté d’adaptation ou d’apprentissa
+ ge (HDAA) ayant vécu des trajectoires de déscolarisation\, c’est-à-di
+ re de scolarisation interrompue\, partielle ou précaire. Le projet de rec
+ herche visait à documenter les écueils communs dans ces trajectoires ain
+ si que les impacts de l’exclusion scolaire sur les élèves et leurs fam
+ illes. Il a permis de mieux comprendre le phénomène des bris de scolaris
+ ation et d’en proposer une définition plus globale et ancrée dans les 
+ droits économiques et sociaux.\nPour en savoir plus sur le Comité pour l
+ e droit à la scolarisation\n28 janvier 2026 12 h 00 min - 13 h 30 min Obs
+ ervatoire des profilages\, Comité pour le droit à la solarisation Webina
+ ire Évènements ODP\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-20
+SEQUENCE:0
+DTSTAMP:20251230T033247
+DTSTART;TZID=America/Toronto:20260128T173000
+DTEND;TZID=America/Toronto:20260128T193000
+SUMMARY:Projection de film : "Pluri'Elles"
+LOCATION:McCall MacBain Arts Building\, 853 Sherbrooke Street West (métro
+  McGill)
+DESCRIPTION:2026-01-28 17:30:00\n\nMcCall MacBain Arts Building\, 853 Sher
+ brooke Street West (métro McGill)\n\nhttps://www.openstreetmap.org/way/21
+ 340756\n\nDescription : From an empowerment perspective\, where it’s imp
+ ortant for marginalized groups to share their experiences and become aware
+  of their power\, we aim to help build the resilience of&nbsp\;young Quebe
+ cer Muslim women&nbsp\;by presenting them with portraits of women living i
+ n the same context\, facing various obstacles and engaged in society in di
+ fferent spheres.\nThe film&nbsp\;Pluri’Elles&nbsp\;follows the careers o
+ f six young Quebecer Muslim women working in different professional fields
+ . Through their testimonies\, they share their challenges and successes\, 
+ as well as their relationship with their faith.\nPluri’Elles&nbsp\;aims 
+ to shed light on the multiple and complex identities of Muslim women livin
+ g in Quebec\, in order to reduce their essentialization and dispel prejudi
+ ces against them.”\nThis event is co-organised by the Student Affairs Li
+ aison for Muslim Students (Office of the Dean of Students) in collaboratio
+ n with the McGill Muslim Alumni Society.\nDans une perspective «&nbsp\;d
+ ’empowerment&nbsp\;» où il est important pour les groupes marginalisé
+ s de partager leurs expériences et de prendre conscience de leur pouvoir\
+ , nous visons à contribuer à bâtir la résilience des&nbsp\;jeunes Qué
+ bécoises musulmanes&nbsp\;en leur présentant des portraits de femmes viv
+ ant dans le même contexte\, confrontant divers obstacles et engagées dan
+ s la société dans diverses sphères.\nLe film&nbsp\;Pluri’Elles&nbsp\;
+ suit le parcours de six jeunes Québécoises musulmanes œuvrant dans des 
+ domaines professionnels différents. À travers leur témoignage\, elles p
+ artagent leurs défis et leurs succès ainsi que leur rapport à leur foi.
+ \nPluri’Elles&nbsp\;a pour objectif de mettre en lumière les identités
+  multiples et complexes des femmes musulmanes vivant au Québec afin de r
+ éduire leur essentialisation et de faire tomber les préjugés à leur é
+ gard.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/21340756
 END:VEVENT
 END:VCALENDAR
