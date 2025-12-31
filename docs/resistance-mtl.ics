@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20251231T163000
 DTEND;TZID=America/Toronto:20251231T183000
 SUMMARY:New Year's Eve Noise Demo
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -101,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260106T160000
 DTEND;TZID=America/Toronto:20260106T180000
 SUMMARY:Vigil for Palestine
@@ -119,7 +119,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260108T160000
 DTEND;TZID=America/Toronto:20260108T180000
 SUMMARY:Vigil for Palestine
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -206,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -241,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -267,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -304,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -343,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -402,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -448,7 +448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -481,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -514,7 +514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -585,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
@@ -628,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260128T110000
 DTEND;TZID=America/Toronto:20260128T130000
 SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
@@ -668,7 +668,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260128T120000
 DTEND;TZID=America/Toronto:20260128T140000
 SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
@@ -704,7 +704,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20251230T033247
+DTSTAMP:20251231T033248
 DTSTART;TZID=America/Toronto:20260128T173000
 DTEND;TZID=America/Toronto:20260128T193000
 SUMMARY:Projection de film : "Pluri'Elles"
@@ -740,5 +740,29 @@ DESCRIPTION:2026-01-28 17:30:00\n\nMcCall MacBain Arts Building\, 853 Sher
  éduire leur essentialisation et de faire tomber les préjugés à leur é
  gard.\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/21340756
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-21
+SEQUENCE:0
+DTSTAMP:20251231T033248
+DTSTART;TZID=America/Toronto:20260129T160000
+DTEND;TZID=America/Toronto:20260129T180000
+SUMMARY:Commémoration de l’attentat à la Grande mosquée de Québec
+LOCATION:(métro Parc)
+DESCRIPTION:2026-01-29 16:00:00\n\n(métro Parc)\n\nhttps://www.openstreet
+ map.org/node/7810702129\n\nDescription : Pour honorer la mémoire des vict
+ imes et des rescapés\, l’Hôtel de Ville de Montréal\, ainsi que d’a
+ utres villes à travers le Québec et le Canada\, participeront à cet év
+ énement commémoratif. Nous invitons le grand public\, ainsi que les orga
+ nisateurs et les leaders des différentes communautés religieuses\, à se
+  joindre à nous pour cette occasion significative. Pour marquer cela\, no
+ us organisons\, comme à chaque édition\, un rassemblement au métro Parc
+ \, ou des prises de paroles auront lieu.\nCette activité sera largement a
+ nnoncée par un communiqué de presse et au cours du lancement de la SSM-M
+ AW. Pour assurer une large diffusion\, nous utiliserons notre réseau de c
+ ommunication\, comprenant notre site web\, nos pages Facebook et Instagram
+ \, ainsi que les canaux de nos partenaires et participants à la SSM-MAW.\
+ n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/7810702129
 END:VEVENT
 END:VCALENDAR
