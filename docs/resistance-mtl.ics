@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260103T130000
 DTEND;TZID=America/Toronto:20260103T150000
 SUMMARY:Manif à vélo pour la Palestine
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260106T160000
 DTEND;TZID=America/Toronto:20260106T180000
 SUMMARY:Vigil for Palestine
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260108T160000
 DTEND;TZID=America/Toronto:20260108T180000
 SUMMARY:Vigil for Palestine
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -194,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -209,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -229,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -292,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -331,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -390,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -436,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -469,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -502,7 +502,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -573,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
@@ -616,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260128T110000
 DTEND;TZID=America/Toronto:20260128T130000
 SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
@@ -656,7 +656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260128T120000
 DTEND;TZID=America/Toronto:20260128T140000
 SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
@@ -692,7 +692,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260128T173000
 DTEND;TZID=America/Toronto:20260128T193000
 SUMMARY:Projection de film : "Pluri'Elles"
@@ -732,7 +732,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260129T160000
 DTEND;TZID=America/Toronto:20260129T180000
 SUMMARY:Commémoration de l’attentat à la Grande mosquée de Québec
@@ -756,7 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260101T033541
+DTSTAMP:20260102T033302
 DTSTART;TZID=America/Toronto:20260130T170000
 DTEND;TZID=America/Toronto:20260130T190000
 SUMMARY:Masse critique de janvier
@@ -801,5 +801,26 @@ DESCRIPTION:2026-01-30 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
  ssecritiqueamtl )\,\nInstagram ( instagram.com/masse_critique_montreal )\n
  or email us at masse_critique_montreal@protonmail.com\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-22
+SEQUENCE:0
+DTSTAMP:20260102T033302
+DTSTART;TZID=America/Toronto:20260131T163000
+DTEND;TZID=America/Toronto:20260131T183000
+SUMMARY:The Era of Law 21: Impacts on Muslim Women and the Making of a New
+  Normal
+LOCATION:Faculty of Law\, 3644 Peel Street (métro Peel)
+DESCRIPTION:2026-01-31 16:30:00\n\nFaculty of Law\, 3644 Peel Street (mét
+ ro Peel)\n\nhttps://www.openstreetmap.org/way/263213891\n\nDescription : T
+ he conference on “Bill 21 and its Impact on Citizenship in Quebec” wil
+ l take place on January 31\, 2025\, at McGill University\, organized by Mc
+ Gill in collaboration with SSM-MAW. The event will address the impact of B
+ ill 21 on fundamental rights\, particularly within Muslim communities\, an
+ d its implications for diversity and inclusion in Quebec.\nHuman rights an
+ d public policy experts will discuss issues related to secularism and reli
+ gious freedom. This event is open to the general public\, professionals\, 
+ and policymakers.
+URL;VALUE=URI:https://www.openstreetmap.org/way/263213891
 END:VEVENT
 END:VCALENDAR
