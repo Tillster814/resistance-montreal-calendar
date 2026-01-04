@@ -8,30 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260103T033101
-DTSTART;TZID=America/Toronto:20260103T130000
-DTEND;TZID=America/Toronto:20260103T150000
-SUMMARY:Manif à vélo pour la Palestine
-LOCATION:Coin du Parc/Rachel (métro Mont-Royal)
-DESCRIPTION:2026-01-03 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
- \n\nhttps://www.openstreetmap.org/way/143352036\n\n🚨 MANIF À VÉLO À 
- TIOHTIA:KE (MTL) LE SAMEDI 6 DÉCEMBRE À 13H - STATUE DU MONT ROYAL 🚨\
- nNos rides en soutien à la lutte palestinienne continuent cet hiver.\nDep
- uis le cessez-le-feu\, plus de 300 palestiniens et palestiniennes ont ét
- é tués par Israël. Pendant que l’état génocidaire continue ses crim
- es en toute impunité avec la complicité du Canada\, de nos institutions 
- et entreprises\, l’aide humanitaire est également limitée: les palesti
- niens et les palestiniennes font toujours face aux bombardements\, à la f
- amine\, aux déplacements\, aux maladies\, etc.\nExigeons la fin de la com
- plicité du Canada\,\nExigeons un embargo bilatéral sur les armes\,\nExig
- eons le boycott\, le désinvestissement et la sanction des complices du g
- énocide toujours en cours en Palestine.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260104T100000
 DTEND;TZID=America/Toronto:20260104T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -55,9 +32,9 @@ DESCRIPTION:2026-01-04 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-2
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260104T113000
 DTEND;TZID=America/Toronto:20260104T133000
 SUMMARY:Sit-in mensuel de Mères au front montréal
@@ -87,9 +64,42 @@ DESCRIPTION:2026-01-04 11:30:00\n\nCoin Sherbrooke/McGill College (métro
 URL;VALUE=URI:https://www.openstreetmap.org/node/11289831402
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-2
+SEQUENCE:0
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260104T130000
+DTEND;TZID=America/Toronto:20260104T150000
+SUMMARY:Contre la guerre au Vénézuela
+LOCATION:1134 Ste-Catherine W (métro Peel)
+DESCRIPTION:2026-01-04 13:00:00\n\n1134 Ste-Catherine W (métro Peel)\n\nh
+ ttps://www.openstreetmap.org/node/12678070169
+URL;VALUE=URI:https://www.openstreetmap.org/node/12678070169
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260104T190000
+DTEND;TZID=America/Toronto:20260104T210000
+SUMMARY:Fediverse Punk Month Online Drop In #1
+LOCATION:(online)
+DESCRIPTION:2026-01-04 19:00:00\n\n(online)\n\nIt's Fediverse Punk Month! 
+ The Counterforce is encouraging punks to spend January trying the Fedivers
+ e: DIY alternative social media that is open\, decentralized\, and not-for
+ -profit.\nCheck out the website for all the info: ALLPUNKSPLEASELEAVEMETA.
+ com\nAs part of this initiative\, we're hosting a series of online drop-in
+ s.\n#1 is this Sunday. Join anytime between 7pm and 10pm eastern time. Thi
+ s is very informal\, and we'll do whatever folks wanna do: answer question
+ s\, do some demos\, skillshare\, walkthroughs. Bring your questions\, or j
+ ust come to listen and learn!\nThe Jitsi call link will be added to this e
+ ven before 7pm on Sunday. You'll be able to join the call with any browser
+ .\nThis even is open to people outside Montreal!\nIf you can't make this o
+ ne\, don't worry there will be others later in the month!
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-4
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260106T160000
 DTEND;TZID=America/Toronto:20260106T180000
 SUMMARY:Vigil for Palestine
@@ -105,9 +115,9 @@ DESCRIPTION:2026-01-06 16:00:00\n\naux tourniquets\n\n06/01/2026 @ 16 h 00
  alestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260108T160000
 DTEND;TZID=America/Toronto:20260108T180000
 SUMMARY:Vigil for Palestine
@@ -122,9 +132,51 @@ DESCRIPTION:2026-01-08 16:00:00\n\naux tourniquets\n\n08/01/2026 @ 16 h 00
  ty with the people of Palestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260108T170000
+DTEND;TZID=America/Toronto:20260108T190000
+SUMMARY:Vernissage - Alex Fatta
+LOCATION:1900 Le Ber (métro Charlevoix)
+DESCRIPTION:2026-01-08 17:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
+ s://www.openstreetmap.org/node/6074430797\n\nVenez découvrir les œuvre i
+ mpressionnantes d’Alex Fata (Fa Tta) aux sans-taverne! Le vernissage aur
+ a lieu le 8 janvier à 17h.\nÀ propos de l’artiste:\n"Né en 1976 sur l
+ a Côte-Nord. J’ai longtemps tâtonné différentes techniques et matér
+ iaux : peinture\, assemblages d’objets\, marionnettes\, cinéma d’anim
+ ation…\nJe n’ai commencé à graver qu’en 2019\, à 43 ans. Mes grav
+ ures expriment le chaos du monde contemporain et l’urgence de s’oppose
+ r au retour de l’autoritarisme et du fascisme".
+URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-7
+SEQUENCE:0
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260108T183000
+DTEND;TZID=America/Toronto:20260108T203000
+SUMMARY:Montréal socialiste : réunion Spring
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2026-01-08 18:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\n**English below**\nÊtes-vous un
+  socialiste dans le Grand Montréal qui cherche à s’organiser?\nVenez n
+ ous rejoindre le jeudi 8 janvier à 18h30 à l’Espace des Possibles Peti
+ te-Patrie\, La nouvelle porte est accessible au 1052 Beaubien\nOn débuter
+ a avec une discussion au socialisme et aux méthodologies politiques de Sp
+ ring. Ensuite on discutera des événements politiques récents.\nOrganiso
+ ns ensemble! Tout le monde est le bienvenu!\n__________\nAre you a sociali
+ st in the Montréal area looking to get organized?\nJoin Spring’s Montre
+ al meeting on Thursday\, January 8\, 6:30pm at Espace des Possibles Petite
+ -Patrie The New Door is accessible on Beaubien (1052 Beaubien)\nWe will be
+  discussing socialism\, Spring’s politics\, and recent political events.
+ \nLet’s organize together. All are welcome!
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-8
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -192,9 +244,9 @@ DESCRIPTION:2026-01-09 12:00:00\n\n(en ligne)\n\nCommuniqué du Collectif
  llectif
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -207,9 +259,45 @@ DESCRIPTION:2026-01-09 17:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260111T100000
+DTEND;TZID=America/Toronto:20260111T120000
+SUMMARY:Atelier de chant pour la justice sociale
+LOCATION:5031 St-Denis (métro Laurier)
+DESCRIPTION:2026-01-11 10:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
+ ://www.openstreetmap.org/node/11972883637\n\n&lt\;&lt\;&lt\;&lt\; POUR S'I
+ NSCRIRE\, c'est ICI : https://forms.gle/ddU2gd32SdCER1E27 &gt\;&gt\;&gt\;&
+ gt\;\nNous vous invitons à un atelier de chant pensé pour les personnes 
+ engagées\, celles et ceux qui portent des causes — le climat\, la paix\
+ , les droits des femmes\, la justice sociale — et qui souhaitent se ress
+ ourcer en faisant vibrer leur voix.\n&lt\;&lt\;&lt\; LES CHANTS TRANSMIS S
+ ERONT CEUX CHANTÉS PAR LE CHOEUR DE LA TRANSITION DANS LES MANIFS &gt\;&g
+ t\;&gt\;\nCet espace est à la fois un moment pour apprendre des chants en
+ gagés venus d’ici et d’ailleurs\, et un temps précieux pour souffler
+ \, prendre soin de soi\, et se relier aux autres dans la simplicité et la
+  joie du chant.\n&nbsp\;\nQUAND ? DIMANCHE 11 JANVIER de 10h à 15h\,\nOu 
+ ? Au Tiers-Lieu Montréal 5031 R. Saint-Denis\, Montréal\, QC H2J 2L9\nNo
+ us chanterons en canon et explorerons de belles harmonies\, accessibles à
+  toutes et tous. Aucune audition\, aucune partition : nous accueillons cha
+ que participant tel qu’il est\, avec sa voix\, son souffle\, son énergi
+ e du moment.\nUn temps pour se faire du bien\, pour créer du lien\, et po
+ ur faire résonner ensemble les chants qui portent nos engagements et nos 
+ espoirs.\nJe serai accompagnée du guitariste Loïc Reeves\, dont la sensi
+ bilité musicale soutiendra et enveloppera nos voix.\nEn m'inscrivant à c
+ et atelier\, j'accède à\n- 5 heures de stage de chants.\n- un livret de 
+ paroles envoyé à l'avance\n- des enregistrements d'apprentissage (pour c
+ eux qui souhaitent garder une trace)\,\n- des enregistrements finaux du Ch
+ oeur.\nOn vous invite à apporter un lunch\, nous aurons une petite pause 
+ !\nAvec qui ? Charline Marion (Passeuse de chants ) et Loic Reeves (Guitar
+ iste du choeur de la transition)\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-11
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -227,9 +315,9 @@ DESCRIPTION:2026-01-11 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -253,9 +341,26 @@ DESCRIPTION:2026-01-12 17:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034353384
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260113T160000
+DTEND;TZID=America/Toronto:20260113T180000
+SUMMARY:Vigil for Palestine
+LOCATION:(aux tourniquets)
+DESCRIPTION:2026-01-13 16:00:00\n\n(aux tourniquets)\n\nJanuary 13 @ 16 h 
+ 00 min - 17 h 30 min\nVigil and distribution PAJU Palestine: &nbsp\; TUESD
+ AY JANUARY 13\, 2026 at&nbsp\;&nbsp\;METRO PARC\nMETRO PARC 7245 Hutchison
+  St.\, Montréal\, Québec\, Canada\nJOIN US AT THE PAJU VIGILS Vigil and 
+ distribution PAJU Palestine: &nbsp\; TUESDAY JANUARY 13\, 2026 at&nbsp\;&n
+ bsp\;METRO PARC TUESDAY&nbsp\;JANUARY 13&nbsp\;&nbsp\;FROM 4 PM TO 5:30 &n
+ bsp\;PM &nbsp\;inside the&nbsp\;PARC&nbsp\;metro&nbsp\;station just outsid
+ e of the turnstiles. Join us in solidarity with the people of Palestine
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-14
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -290,13 +395,33 @@ DESCRIPTION:2026-01-13 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260114T150000
+DTEND;TZID=America/Toronto:20260114T170000
+SUMMARY:Café populaire du comité BAILS
+LOCATION:(métro Joliette)
+DESCRIPTION:2026-01-14 15:00:00\n\n(métro Joliette)\n\nhttps://www.openst
+ reetmap.org/node/11973389662\n\nLe café populaire du mois de janvier sera
+  le moment parfait pour jaser des différents comités qui seront mis sur 
+ place par et pour les membres !\nVous avez des idées ? Vous voulez vous i
+ mpliquer ?\nQue ce soit pour faire de la bouffe\, pour tenir des kiosques\
+ , pour faire des vidéos promotionnels\, préparer des pancartes ou tout a
+ utres tâches ou implication\, tu es bienvenu\n2026 part en force\nLe 14 j
+ anvier\, 15h dans nos locaux !\nPssst... tu veux t'impliquer mais tu n'es 
+ pas dispo cette journée-là ? pas de stress\, tu peux nous écrire et nou
+ s t'ajouterons au comité de ton choix !\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973389662
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-16
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
- droits
+ droits)
 LOCATION:(en ligne)
 DESCRIPTION:2026-01-15 10:00:00\n\n(en ligne)\n\nDans le cadre de sa campa
  gne « Les droits\, ça se défend collectivement »\, le RODCD vous invit
@@ -329,9 +454,9 @@ DESCRIPTION:2026-01-15 10:00:00\n\n(en ligne)\n\nDans le cadre de sa campa
  nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -388,9 +513,9 @@ DESCRIPTION:2026-01-15 12:00:00\n\n(en ligne)\n\nCLIQUEZ ICI POUR VOUS INS
  nnels de la LDL\, cliquez ICI.&nbsp\;\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -434,9 +559,41 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260115T160000
+DTEND;TZID=America/Toronto:20260115T180000
+SUMMARY:Vigil for Palestine
+LOCATION:(aux tourniquets)
+DESCRIPTION:2026-01-15 16:00:00\n\n(aux tourniquets)\n\nJanuary 15 @ 16 h 
+ 00 min - 17 h 30 min\nVigil and distribution PAJU Palestine: &nbsp\; THURS
+ DAY JANUARY 15 at&nbsp\;the METRO PARC\nMETRO PARC 7245 Hutchison St.\, Mo
+ ntréal\, Québec\, Canada\nVigil and distribution PAJU Palestine: &nbsp\;
+  THURSDAY JANUARY 15 at&nbsp\;the METRO PARC THURSDAY&nbsp\;JANUARY 15&nbs
+ p\;&nbsp\;FROM 4 PM TO 5:30 PM &nbsp\;inside the&nbsp\;PARC&nbsp\;metro&nb
+ sp\;station just outside of the turnstiles. Join us in solidarity with the
+  people of Palestine\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-20
+SEQUENCE:0
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260115T170000
+DTEND;TZID=America/Toronto:20260115T190000
+SUMMARY:Bière des écolos
+LOCATION:5101 St-Laurent (métro Laurier)
+DESCRIPTION:2026-01-15 17:00:00\n\n5101 St-Laurent (métro Laurier)\n\nhtt
+ ps://www.openstreetmap.org/node/5891252786\n\nPour commencer 2026 en beaut
+ é\, quoi de mieux que de prendre un moment pour prendre soin de nos liens
+  entre militant·es? Venez nous rencontrer et refaire le monde avec nous!\
+ nNous serons là dès 17h.
+URL;VALUE=URI:https://www.openstreetmap.org/node/5891252786
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-21
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -467,9 +624,27 @@ DESCRIPTION:2026-01-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
  la veille de l'événement.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260120T160000
+DTEND;TZID=America/Toronto:20260120T180000
+SUMMARY:Vigil for Palestine
+LOCATION:(aux tourniquets)
+DESCRIPTION:2026-01-20 16:00:00\n\n(aux tourniquets)\n\nJanuary 20 @ 16 h 
+ 00 min - 17 h 30 min\nVigil and distribution PAJU Palestine: &nbsp\; TUESD
+ AY JANUARY 20\, 2026 at&nbsp\;&nbsp\;METRO ST-MICHEL\nMÉTRO SAINT-MICHEL 
+ 7325\, boul. Saint-Michel\, Montréal\, Québec\, Canada\nJOIN US AT THE P
+ AJU VIGILS Vigil and distribution PAJU Palestine: &nbsp\; TUESDAY JANUARY 
+ 20\, 2026 at&nbsp\;&nbsp\;METRO ST-MICHEL TUESDAY&nbsp\;JANUARY 20&nbsp\;&
+ nbsp\;FROM 4 PM TO 5:30 &nbsp\;PM &nbsp\;inside the&nbsp\;ST-MICHEL&nbsp\;
+ metro&nbsp\;station just outside of the turnstiles. Join us in solidarity 
+ with the people of Palestine\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-23
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -500,9 +675,26 @@ DESCRIPTION:2026-01-21 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
+DTSTART;TZID=America/Toronto:20260122T160000
+DTEND;TZID=America/Toronto:20260122T180000
+SUMMARY:Vigil for Palestine
+LOCATION:(aux tourniquets)
+DESCRIPTION:2026-01-22 16:00:00\n\n(aux tourniquets)\n\nJanuary 22 @ 16 h 
+ 00 min - 17 h 30 min\nVigil and distribution PAJU Palestine: &nbsp\; THURS
+ DAY JANUARY 22 at&nbsp\;the METRO ST-MICHEL\nMÉTRO SAINT-MICHEL 7325\, bo
+ ul. Saint-Michel\, Montréal\, Québec\, Canada\nVigil and distribution PA
+ JU Palestine: &nbsp\; THURSDAY JANUARY 22 at&nbsp\;the METRO ST-MICHEL THU
+ RSDAY&nbsp\;JANUARY 22&nbsp\;&nbsp\;FROM 4 PM TO 5:30 PM &nbsp\;inside the
+ &nbsp\;ST-MICHEL&nbsp\;metro&nbsp\;station just outside of the turnstiles.
+  Join us in solidarity with the people of Palestine
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-25
+SEQUENCE:0
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -571,9 +763,9 @@ DESCRIPTION:2026-01-23 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
@@ -614,9 +806,9 @@ DESCRIPTION:2026-01-24 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260128T110000
 DTEND;TZID=America/Toronto:20260128T130000
 SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
@@ -654,9 +846,9 @@ DESCRIPTION:2026-01-28 11:00:00\n\nPavillon Lionel-Groulx\, 3150 Rue Jean-
 URL;VALUE=URI:https://www.openstreetmap.org/way/27334101
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260128T120000
 DTEND;TZID=America/Toronto:20260128T140000
 SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
@@ -690,9 +882,9 @@ DESCRIPTION:2026-01-28 12:00:00\n\n(en ligne)\n\nL’Observatoire des prof
  ire Évènements ODP\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260128T173000
 DTEND;TZID=America/Toronto:20260128T193000
 SUMMARY:Projection de film : "Pluri'Elles"
@@ -730,9 +922,9 @@ DESCRIPTION:2026-01-28 17:30:00\n\nMcCall MacBain Arts Building\, 853 Sher
 URL;VALUE=URI:https://www.openstreetmap.org/way/21340756
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260129T160000
 DTEND;TZID=America/Toronto:20260129T180000
 SUMMARY:Commémoration de l’attentat à la Grande mosquée de Québec
@@ -754,9 +946,9 @@ DESCRIPTION:2026-01-29 16:00:00\n\n(métro Parc)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/7810702129
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260130T170000
 DTEND;TZID=America/Toronto:20260130T190000
 SUMMARY:Masse critique de janvier
@@ -803,9 +995,9 @@ DESCRIPTION:2026-01-30 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260131T163000
 DTEND;TZID=America/Toronto:20260131T183000
 SUMMARY:The Era of Law 21: Impacts on Muslim Women and the Making of a New
@@ -824,9 +1016,9 @@ DESCRIPTION:2026-01-31 16:30:00\n\nFaculty of Law\, 3644 Peel Street (mét
 URL;VALUE=URI:https://www.openstreetmap.org/way/263213891
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260103T033101
+DTSTAMP:20260104T033527
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
