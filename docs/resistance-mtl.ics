@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260106T160000
 DTEND;TZID=America/Toronto:20260106T180000
 SUMMARY:Vigil for Palestine
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260108T160000
 DTEND;TZID=America/Toronto:20260108T180000
 SUMMARY:Vigil for Palestine
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260108T170000
 DTEND;TZID=America/Toronto:20260108T190000
 SUMMARY:Vernissage - Alex Fatta
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260108T183000
 DTEND;TZID=America/Toronto:20260108T203000
 SUMMARY:Montréal socialiste : réunion Spring
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260109T120000
 DTEND;TZID=America/Toronto:20260109T140000
 SUMMARY:Webinaire du "Collectif du 19 mars" : Gaza\, de la faillite global
@@ -155,7 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260109T173000
 DTEND;TZID=America/Toronto:20260109T193000
 SUMMARY:Lancement de livre : "Toutes les vies" de Rebeka Warrior
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260111T100000
 DTEND;TZID=America/Toronto:20260111T120000
 SUMMARY:Atelier de chant pour la justice sociale
@@ -206,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260111T200000
 DTEND;TZID=America/Toronto:20260111T220000
 SUMMARY:Queer Laughs
@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260112T170000
 DTEND;TZID=America/Toronto:20260112T190000
 SUMMARY:Atelier sur la reprise de logement
@@ -252,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260113T160000
 DTEND;TZID=America/Toronto:20260113T180000
 SUMMARY:Vigil for Palestine
@@ -269,7 +269,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260113T180000
 DTEND;TZID=America/Toronto:20260113T200000
 SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
@@ -306,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260114T150000
 DTEND;TZID=America/Toronto:20260114T170000
 SUMMARY:Café populaire du comité BAILS
@@ -326,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -365,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -424,7 +424,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -470,7 +470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260115T160000
 DTEND;TZID=America/Toronto:20260115T180000
 SUMMARY:Vigil for Palestine
@@ -487,7 +487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260115T170000
 DTEND;TZID=America/Toronto:20260115T190000
 SUMMARY:Bière des écolos
@@ -502,7 +502,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -535,7 +535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260120T160000
 DTEND;TZID=America/Toronto:20260120T180000
 SUMMARY:Vigil for Palestine
@@ -553,7 +553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -586,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260122T160000
 DTEND;TZID=America/Toronto:20260122T180000
 SUMMARY:Vigil for Palestine
@@ -603,7 +603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -674,7 +674,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
@@ -717,7 +717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260128T110000
 DTEND;TZID=America/Toronto:20260128T130000
 SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
@@ -757,7 +757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260128T120000
 DTEND;TZID=America/Toronto:20260128T140000
 SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
@@ -793,7 +793,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260128T173000
 DTEND;TZID=America/Toronto:20260128T193000
 SUMMARY:Projection de film : "Pluri'Elles"
@@ -833,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260129T160000
 DTEND;TZID=America/Toronto:20260129T180000
 SUMMARY:Commémoration de l’attentat à la Grande mosquée de Québec
@@ -857,7 +857,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260130T170000
 DTEND;TZID=America/Toronto:20260130T190000
 SUMMARY:Masse critique de janvier
@@ -906,7 +906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260131T163000
 DTEND;TZID=America/Toronto:20260131T183000
 SUMMARY:The Era of Law 21: Impacts on Muslim Women and the Making of a New
@@ -927,7 +927,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260105T033751
+DTSTAMP:20260106T033258
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -949,5 +949,42 @@ DESCRIPTION:2026-02-01 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
  ticipantes\nSi ça vous interpelle\, tous les détails sont dans le&nbsp\;
  formulaire d’inscription. Il faut s’inscrire\, mais c’est gratuit!
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-30
+SEQUENCE:0
+DTSTAMP:20260106T033258
+DTSTART;TZID=America/Toronto:20260204T000100
+DTEND;TZID=America/Toronto:20260204T020100
+SUMMARY:Grève des groupes en défense collective des droits (DCD)
+LOCATION:(partout !)
+DESCRIPTION:2026-02-04 00:01:00\n\n(partout !)\n\nLa défense collective d
+ es droits dans la mire\nProjet de loi 7\, fusion de notre programme de fin
+ ancement et fin de nos conventions\nLe secteur de la défense collective d
+ es droits est un des parents pauvre de l’action communautaire autonome. 
+ Cliquez ici pour en savoir plus.\nDes actions seront organisées le mercre
+ di 4 février.
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-31
+SEQUENCE:0
+DTSTAMP:20260106T033258
+DTSTART;TZID=America/Toronto:20260204T180000
+DTEND;TZID=America/Toronto:20260204T200000
+SUMMARY: Ateliers sur les hausses de loyer
+LOCATION:(métro Mont-Royal)
+DESCRIPTION:2026-02-04 18:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
+ streetmap.org/node/11973426417\n\nVous pouvez refuser une augmentation de 
+ loyer!\nCette année\, les comités logement de Montréal ont mis en commu
+ n leurs calendriers d’ateliers pour la saison des hausses.\nAu Plateau\,
+  nous donnons des ateliers hausses aux dates suivantes :\nMercredi 4 févr
+ ier 18h – présentiel : 4450 rue St-hubert – Salle 533\nMercredi 4 mar
+ s 17h30 – virtuel\nMercredi 18 mars 17h30 – virtuel\nMardi 7 avril 18h
+ 00 – présentiel : 4450 rue St-hubert – Salle 533\nPour vous inscrire\
+ , contactez nous au clplateau@clpmr.com avec la date de votre choix.\nPour
+  vous inscrire dans un autre comité logement\, cliquez sur l’image pour
+  connaître les dates d’ateliers et les modalités d’inscription :&nbs
+ p\;&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973426417
 END:VEVENT
 END:VCALENDAR
