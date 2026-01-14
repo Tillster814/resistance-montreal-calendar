@@ -8,61 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260113T033247
-DTSTART;TZID=America/Toronto:20260113T160000
-DTEND;TZID=America/Toronto:20260113T180000
-SUMMARY:Vigil for Palestine
-LOCATION:(aux tourniquets)
-DESCRIPTION:2026-01-13 16:00:00\n\n(aux tourniquets)\n\nJanuary 13 @ 16 h 
- 00 min - 17 h 30 min\nVigil and distribution PAJU Palestine: &nbsp\; TUESD
- AY JANUARY 13\, 2026 at&nbsp\;&nbsp\;METRO PARC\nMETRO PARC 7245 Hutchison
-  St.\, Montréal\, Québec\, Canada\nJOIN US AT THE PAJU VIGILS Vigil and 
- distribution PAJU Palestine: &nbsp\; TUESDAY JANUARY 13\, 2026 at&nbsp\;&n
- bsp\;METRO PARC TUESDAY&nbsp\;JANUARY 13&nbsp\;&nbsp\;FROM 4 PM TO 5:30 &n
- bsp\;PM &nbsp\;inside the&nbsp\;PARC&nbsp\;metro&nbsp\;station just outsid
- e of the turnstiles. Join us in solidarity with the people of Palestine
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260113T033247
-DTSTART;TZID=America/Toronto:20260113T180000
-DTEND;TZID=America/Toronto:20260113T200000
-SUMMARY:Balado "Sans normes" avec Mélikah Abdelmoumen
-LOCATION:1376 Ontario Est (métro Papineau)
-DESCRIPTION:2026-01-13 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
- ttps://www.openstreetmap.org/way/115814240\n\nLe balado Sans normes et la 
- Livrerie vous invitent à un enregistrement devant public. Sans normes est
-  un balado qui aborde des sujets parfois considérés comme hors normes da
- ns la société tout en donnant la parole à des personnes aux parcours si
- nguliers.\nPour l’occasion\, l’animatrice Alexe Trudeau reçoit Mélik
- ah Abdelmoumen\, autrice de Traité de la petite bonté: Lettre à une jeu
- ne amie tsigane.\n—\nLe cœur battant de l’histoire n’est pas l’af
- frontement titanesque du Bien contre le Mal\, écrit Vassili Grossman dans
-  Vie et destin\, c’est plutôt l’assaut désespéré du mal contre la 
- minuscule graine d’humanité qu’aucune guerre ni aucune violence n’a
-  su pulvériser. Ce livre raconte l’histoire d’une amitié entre Méli
- kah Abdelmoumen\, une Gadji (une «non-Rom»)\, et des membres de la commu
- nauté tsigane de Lyon qu’elle côtoie depuis des années. Parmi eux\, l
- a jeune Florina et sa famille. Le récit décrit la violence qui s’exerc
- e à l’encontre des habitants des bidonvilles et narre les combats et le
- s errances de marginaux aussi démunis que débrouillards\, astucieux que 
- généreux. Il rend hommage à toute la constellation de personnes anonyme
- s qui\, de mille façons\, refusent de laisser quiconque à l’abandon et
-  contribuent ainsi à entretenir ce minuscule grain d’humanité sans leq
- uel nous serions perdus. Il ressort de ce texte une réflexion parfois dur
- e sur l’entraide\, un portrait intime du peuple tsigane\, et surtout\, u
- ne défense et illustration de la force irréductible de la petite bonté.
- \n—\nRomancière et essayiste\, Mélikah Abdelmoumen est née à Chicout
- imi en 1972. Son essai&nbsp\;Baldwin\, Styron et moi&nbsp\;(Mémoire d’e
- ncrier\, 2022)\, a remporté le prix Pierre-Vadeboncoeur. Elle habite à M
- ontréal mais a vécu douze ans en France.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260114T120000
 DTEND;TZID=America/Toronto:20260114T140000
 SUMMARY:Webinaire : La violence conjugale en milieu de travail
@@ -83,9 +29,9 @@ DESCRIPTION:2026-01-14 12:00:00\n\n(en ligne)\n\nJoignez vous à nous pour
  nce conjugale: https://milieuxdetravailallies.com/\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260114T150000
 DTEND;TZID=America/Toronto:20260114T170000
 SUMMARY:Café populaire du comité BAILS
@@ -103,9 +49,9 @@ DESCRIPTION:2026-01-14 15:00:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973389662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260115T100000
 DTEND;TZID=America/Toronto:20260115T120000
 SUMMARY:Zoom de mobilisation - Semaine de la DCD (Défense collective des 
@@ -142,9 +88,9 @@ DESCRIPTION:2026-01-15 10:00:00\n\n(en ligne)\n\nDans le cadre de sa campa
  nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260115T120000
 DTEND;TZID=America/Toronto:20260115T140000
 SUMMARY:Webinaire | Projet de loi C-9 : une menace pour les droits humains
@@ -201,9 +147,9 @@ DESCRIPTION:2026-01-15 12:00:00\n\n(en ligne)\n\nCLIQUEZ ICI POUR VOUS INS
  nnels de la LDL\, cliquez ICI.&nbsp\;\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260115T133000
 DTEND;TZID=America/Toronto:20260115T153000
 SUMMARY:Assemblée publique pour le logement social
@@ -247,9 +193,9 @@ DESCRIPTION:2026-01-15 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260115T160000
 DTEND;TZID=America/Toronto:20260115T180000
 SUMMARY:Vigil for Palestine
@@ -264,9 +210,9 @@ DESCRIPTION:2026-01-15 16:00:00\n\n(aux tourniquets)\n\nJanuary 15 @ 16 h
   people of Palestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260115T170000
 DTEND;TZID=America/Toronto:20260115T190000
 SUMMARY:Bière des écolos
@@ -279,9 +225,9 @@ DESCRIPTION:2026-01-15 17:00:00\n\n5101 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/5891252786
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260115T180000
 DTEND;TZID=America/Toronto:20260115T200000
 SUMMARY:Soirée de tricot militant (et crochet)
@@ -297,9 +243,9 @@ DESCRIPTION:2026-01-15 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -330,9 +276,9 @@ DESCRIPTION:2026-01-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
  la veille de l'événement.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260120T160000
 DTEND;TZID=America/Toronto:20260120T180000
 SUMMARY:Vigil for Palestine
@@ -348,9 +294,9 @@ DESCRIPTION:2026-01-20 16:00:00\n\n(aux tourniquets)\n\nJanuary 20 @ 16 h
  with the people of Palestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -381,9 +327,9 @@ DESCRIPTION:2026-01-21 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260121T180000
 DTEND;TZID=America/Toronto:20260121T200000
 SUMMARY:Café populaire Bellechasse - Crise du logement\, crise climatique
@@ -398,9 +344,9 @@ DESCRIPTION:2026-01-21 18:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/2295839157
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260121T180000
 DTEND;TZID=America/Toronto:20260121T200000
 SUMMARY:Conférence 10$ : états-unis\, de pire empire
@@ -429,9 +375,9 @@ DESCRIPTION:2026-01-21 18:00:00\n\nAmphitéâtre\, 200\, rue Sherbrooke Ou
 URL;VALUE=URI:https://www.openstreetmap.org/relation/16837027
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260122T160000
 DTEND;TZID=America/Toronto:20260122T180000
 SUMMARY:Vigil for Palestine
@@ -446,9 +392,9 @@ DESCRIPTION:2026-01-22 16:00:00\n\n(aux tourniquets)\n\nJanuary 22 @ 16 h
   Join us in solidarity with the people of Palestine
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260122T170000
 DTEND;TZID=America/Toronto:20260122T190000
 SUMMARY:Foire anti-impérialiste et anti-coloniale
@@ -458,9 +404,9 @@ DESCRIPTION:2026-01-22 17:00:00\n\n405\, Ste-Catherine Est\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/way/119612954
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260122T173000
 DTEND;TZID=America/Toronto:20260122T193000
 SUMMARY:Mouvement par et pour : créer des espaces politiques et culturels
@@ -482,9 +428,9 @@ DESCRIPTION:2026-01-22 17:30:00\n\n1210 St-Laurent (métro St-Laurent)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973468587
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -553,9 +499,9 @@ DESCRIPTION:2026-01-23 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
@@ -596,9 +542,9 @@ DESCRIPTION:2026-01-24 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260126T183000
 DTEND;TZID=America/Toronto:20260126T203000
 SUMMARY:Diaspora diaries - A space of discussion with the members of South
@@ -617,9 +563,9 @@ DESCRIPTION:2026-01-26 18:30:00\n\n2100 Guy suite 205 (métro Guy)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/103522209
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260126T190000
 DTEND;TZID=America/Toronto:20260126T210000
 SUMMARY:Last Generation - Intro Talk
@@ -632,9 +578,9 @@ DESCRIPTION:2026-01-26 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260128T110000
 DTEND;TZID=America/Toronto:20260128T130000
 SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
@@ -672,9 +618,9 @@ DESCRIPTION:2026-01-28 11:00:00\n\nPavillon Lionel-Groulx\, 3150 Rue Jean-
 URL;VALUE=URI:https://www.openstreetmap.org/way/27334101
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260128T120000
 DTEND;TZID=America/Toronto:20260128T140000
 SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
@@ -708,9 +654,9 @@ DESCRIPTION:2026-01-28 12:00:00\n\n(en ligne)\n\nL’Observatoire des prof
  ire Évènements ODP\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260128T160000
 DTEND;TZID=America/Toronto:20260128T180000
 SUMMARY:Repair Café
@@ -764,9 +710,9 @@ DESCRIPTION:2026-01-28 16:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260128T173000
 DTEND;TZID=America/Toronto:20260128T193000
 SUMMARY:Projection de film : "Pluri'Elles"
@@ -804,9 +750,9 @@ DESCRIPTION:2026-01-28 17:30:00\n\nMcCall MacBain Arts Building\, 853 Sher
 URL;VALUE=URI:https://www.openstreetmap.org/way/21340756
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260129T000100
 DTEND;TZID=America/Toronto:20260129T020100
 SUMMARY:Commémoration de l’attentat à la Grande mosquée de Québec
@@ -814,9 +760,9 @@ LOCATION:à déterminer
 DESCRIPTION:2026-01-29 00:01:00\n\nà déterminer\n\nDétails à venir
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260130T170000
 DTEND;TZID=America/Toronto:20260130T190000
 SUMMARY:Masse critique de janvier
@@ -863,9 +809,9 @@ DESCRIPTION:2026-01-30 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260131T170000
 DTEND;TZID=America/Toronto:20260131T190000
 SUMMARY:Artistes contre le génocide
@@ -892,9 +838,9 @@ DESCRIPTION:2026-01-31 17:00:00\n\n429 Viger Est (métro Champ-de-Mars)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/4058675976
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -918,9 +864,9 @@ DESCRIPTION:2026-02-01 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260204T000100
 DTEND;TZID=America/Toronto:20260204T020100
 SUMMARY:Grève des groupes en défense collective des droits (DCD)
@@ -933,9 +879,9 @@ DESCRIPTION:2026-02-04 00:01:00\n\n(partout !)\n\nLa défense collective d
  di 4 février.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260204T180000
 DTEND;TZID=America/Toronto:20260204T200000
 SUMMARY: Ateliers sur les hausses de loyer
@@ -955,9 +901,9 @@ DESCRIPTION:2026-02-04 18:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973426417
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260207T130000
 DTEND;TZID=America/Toronto:20260207T150000
 SUMMARY:Manif en vélo pour la Palestine
@@ -978,9 +924,9 @@ DESCRIPTION:2026-02-07 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260113T033247
+DTSTAMP:20260114T033500
 DTSTART;TZID=America/Toronto:20260208T200000
 DTEND;TZID=America/Toronto:20260208T220000
 SUMMARY:Queer Laughs
