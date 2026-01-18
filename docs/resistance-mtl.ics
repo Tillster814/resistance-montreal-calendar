@@ -8,49 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260117T033112
-DTSTART;TZID=America/Toronto:20260117T130000
-DTEND;TZID=America/Toronto:20260117T150000
-SUMMARY:Kiosque de solidarité avec nos voisin.es non logé.es
-LOCATION:Métro Pie-Ix
-DESCRIPTION:2026-01-17 13:00:00\n\nMétro Pie-Ix\n\nhttps://www.openstreet
- map.org/relation/14023444\n\n(English will follow)\nAprès la réussite du
-  kiosque au parc Morgan en décembre dernier\, le collectif Entrave (annon
- ce publique à venir) a décidé de le reproduire tout l'hiver\, le troisi
- ème samedi du mois jusqu'en avril.\nLes Hochelagais.es\, logé.es ou non\
- , sont venu.es en nombre pour donner ou pour recevoir du matériel nécess
- aire pour survivre l'hiver.\nVenez samedi prochain\, de 13h à 17h\, discu
- ter de notre monde commun\, manger un repas et boire un chocolat chauds pr
- éparés par @les.greniers.agricoles.qc .\nÀ samedi!\n*Liste de matériel
-  (accessible avec le code QR):\n- matériel de camping (cordes\, piquets\,
-  bashes)\n- sacs de couchage\n- tentes\n- matelas/oreillers\n- couvertures
- &nbsp\;\n- réservoirs de propane\n- bottes/souliers (besoin de grandes ta
- illes)\n- vêtements chauds (chandails manches longues\, gants\, foulards\
- , tuques\, combines\, etc.)\n- chaussettes&nbsp\;\n- des "pads" chauffants
- \n- lingettes nettoyantes (désinfectantes ou pour le corps)\n- gel hydroa
- lcoolique\n- matériel de premiers soins&nbsp\;\n- matériel de réduction
-  des risques liés à la consommation\n- bougies\n- lampes de poche\n- bat
- teries AA ou AAA&nbsp\;\n---\nFollowing the success of the kiosk at Morgan
-  Park last December\, the Entrave collective (public announcement to follo
- w) has decided to repeat the initiative throughout the winter\, on the thi
- rd Saturday of each month until April.\nHochelaga residents\, both homeles
- s and housed\, came out in large numbers to give or receive the supplies t
- hey need to survive the winter.\nCome next Saturday\, from 1:00 p.m. to 5:
- 00 p.m.\, to discuss our shared world\, enjoy a meal and hot chocolate pre
- pared by @les.greniers.agricoles.qc .\nSee you Saturday!\n*List of supplie
- s needed (accessible with the QR code):\n- Camping equipment (ropes\, stak
- es\, bashes)\n- Sleeping bags\n- Tents\n- Mattresses/pillows\n- Blankets&n
- bsp\;\n- Propane tanks\n- Boots/shoes (large sizes needed)\n- Warm clothin
- g (long-sleeved sweaters\, gloves\, scarves\, hats\, snowsuits\, etc.)\n- 
- socks\n- heating pads\n- cleaning wipes (disinfectant or body wipes)\n- ha
- nd sanitizer\n- first aid supplies\n- substance use risk reduction supplie
- s\n- candles\n- flashlights\n- AA or AAA batteries\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/relation/14023444
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260118T123000
 DTEND;TZID=America/Toronto:20260118T143000
 SUMMARY:Fediverse Punk Month Online Drop In #3
@@ -70,9 +28,9 @@ DESCRIPTION:2026-01-18 12:30:00\n\n(online)\n\nIt's Fediverse Punk Month!
   in the month!\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-2
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260120T123000
 DTEND;TZID=America/Toronto:20260120T143000
 SUMMARY:BMP Community Lunch
@@ -102,9 +60,9 @@ DESCRIPTION:2026-01-20 12:30:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260120T133000
 DTEND;TZID=America/Toronto:20260120T153000
 SUMMARY:Panel - Attaques autoritaires\, riposte communautaire !
@@ -135,9 +93,9 @@ DESCRIPTION:2026-01-20 13:30:00\n\n(en ligne)\n\nAttaques autoritaires\, r
  la veille de l'événement.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260120T160000
 DTEND;TZID=America/Toronto:20260120T180000
 SUMMARY:Vigil for Palestine
@@ -153,9 +111,80 @@ DESCRIPTION:2026-01-20 16:00:00\n\n(aux tourniquets)\n\nJanuary 20 @ 16 h
  with the people of Palestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-4
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260120T180000
+DTEND;TZID=America/Toronto:20260120T200000
+SUMMARY:Conférence - 500 ans de résistance autochtone - Jocelyn Sioui
+LOCATION:6400 Monkland (NDG)
+DESCRIPTION:2026-01-20 18:00:00\n\n6400 Monkland (NDG)\n\nhttps://www.open
+ streetmap.org/node/4022185267\n\nConférence-atelier avec Jocelyn Sioui en
+ richissant votre expérience de l’exposition présentée à la biblioth
+ èque du 12 janvier au 8 février.\nDescription\nArtiste: Jocelyn Sioui (a
+ uteur\, interprète\, marionnettiste wendat)\, vous pouvez obtenir plus d
+ ’informations sur son site web.\nEn marge de l’exposition sur l’œuv
+ re de Gord Hill\, Jocelyn Sioui vous propose «Presque 500 ans de résista
+ nce autochtone au Canada».\nDu choc de la rencontre entre Donnacona et Ja
+ cques Cartier\, jusqu’au mouvement Idle no more\, Jocelyn démontre que 
+ les Premières Nations n’ont jamais cessé de lutter. Il racontera l’a
+ utre côté de l’histoire que l’école ne nous a pas enseigné.
+URL;VALUE=URI:https://www.openstreetmap.org/node/4022185267
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260120T190000
+DTEND;TZID=America/Toronto:20260120T210000
+SUMMARY:Webinar: Movement Briefing: From Venezuela to Palestine\, Canada m
+ ust cut off the flow of weapons to the U.S.
+LOCATION:(online)
+DESCRIPTION:2026-01-20 19:00:00\n\n(online)\n\nMovement Briefing: From Ven
+ ezuela to Palestine\, Canada must cut off the flow of weapons to the U.S.\
+ nStart: Tuesday\, January 20\, 2026 at 7:00 PM EST\nEvent Type: Virtual\nA
+  virtual link will be communicated before the event.\nHost Contact Info: i
+ nfo@armsembargonow.ca\n&nbsp\;
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-6
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260121T133000
+DTEND;TZID=America/Toronto:20260121T153000
+SUMMARY:Éducation populaire : Mon toit\, mon droit
+LOCATION:2515 Rue Delisle (métro lionel-groulx)
+DESCRIPTION:2026-01-21 13:30:00\n\n2515 Rue Delisle (métro lionel-groulx)
+ \n\nhttps://www.openstreetmap.org/way/347696464\n\nL'équipe du POPIR vous
+  invite à une activité d'éducation populaire sur le droit du logement c
+ hez les aîné.e.s\nCe 21 janvier au CÉDA\, nous aurons le plaisir d'accu
+ eillir Louise Buzit\, spécialiste de la lutte à la maltraitance envers l
+ es personnes aînées\, ainsi que deux avocates de l'organisme Juristes à
+  Domicile.\nÀ l'horaire:\nUne présentation sur la maltraitance psycholog
+ ique\, la maltraitance financière et la violation des droits.\nUne pério
+ de de discussion et d'échange avec les invitées.\nCe sera une occasion p
+ arfaite pour poser vos questions sur vos droits par rapport au logement à
+  des spécialistes du domaine!\nOù: Dans la grande salle du CÉDA (2515 r
+ ue Delisle)\nQuand : 21 janvier\, à 13h30\nDes collations et du cafés se
+ ront fournis sur place\nAu plaisir de vous y voir en grand nombre!\n______
+ _______________________________________________________________\nPopular E
+ ducation Activity at POPIR!\n&nbsp\;\nThe POPIR team invites you to a popu
+ lar education activity focusing on housing rights for seniors.\nThis Janua
+ ry 21st at CÉDA\, we will have the pleasure of welcoming Louise Buzit\, s
+ pecialist in the prevention of elder abuse\, as well as two lawyers from t
+ he organization Juristes à Domicile.\nOn the schedule:\nA presentation on
+  psychological abuse\, financial abuse\, and violation of rights.\nA discu
+ ssion and a Questions &amp\; Answers period\nThis will be a perfect opport
+ unity to ask specialists your questions about your housing rights!\n&nbsp\
+ ;\nWhere : Large hall at CÉDA (2515 Delisle Street)\nWhen : January 21 at
+  1:30 p.m.\nSnacks and coffee will be provided on site\n&nbsp\;\nWe look f
+ oward to seeing many of you there!
+URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-7
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260121T170000
 DTEND;TZID=America/Toronto:20260121T190000
 SUMMARY:Lancement : "Saint-Nicolas-des-Marins"
@@ -186,9 +215,9 @@ DESCRIPTION:2026-01-21 17:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260121T180000
 DTEND;TZID=America/Toronto:20260121T200000
 SUMMARY:Café populaire Bellechasse - Crise du logement\, crise climatique
@@ -203,9 +232,9 @@ DESCRIPTION:2026-01-21 18:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/2295839157
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260121T180000
 DTEND;TZID=America/Toronto:20260121T200000
 SUMMARY:Conférence 10$ : états-unis\, de pire empire
@@ -234,9 +263,9 @@ DESCRIPTION:2026-01-21 18:00:00\n\nAmphitéâtre\, 200\, rue Sherbrooke Ou
 URL;VALUE=URI:https://www.openstreetmap.org/relation/16837027
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260121T190000
 DTEND;TZID=America/Toronto:20260121T210000
 SUMMARY:Films: Red Road to Palestine
@@ -262,9 +291,46 @@ DESCRIPTION:2026-01-21 19:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260122T120000
+DTEND;TZID=America/Toronto:20260122T140000
+SUMMARY:Échos du CRACH : Se loger dans l'ère digitale et financiarisée
+LOCATION:(en ligne)
+DESCRIPTION:2026-01-22 12:00:00\n\n(en ligne)\n\nTitre du séminaire : Se 
+ loger dans l’ère digitale et financiarisée\nCe séminaire midi a lieu 
+ le jeudi 22 janvier à midi\nRésumé du séminaire :\nFiducies de placeme
+ nts\, plateformes de location court-terme\, applications de financement pa
+ rticipatif : plusieurs pressions s’exercent sur les locataires par la cl
+ asse rentière qui perçoit le logement comme un bien financier plutôt qu
+ ’un droit fondamental. Cette présentation examine l’évolution de la 
+ financiarisation à Montréal et l’intégration de technologies du type 
+ « proptech » dans le marché locatif. Cette recherche démontre que la p
+ roportion du parc locatif détenue par les propriétaires financiarisés e
+ st plus élevée qu’estimée précédemment\, avec deux groupes de locat
+ aires plus exposés à la financiarisation dans la ville. Cette financiari
+ sation est rendue possible par des technologies digitales permettant la ge
+ stion et l’investissement dans le parc locatif\, présente particulière
+ ment dans les nouveaux développements. La présentation conclue avec des 
+ implications de ces phénomènes sur les locataires et le droit au logemen
+ t.\nCette présentation est effectuée par Cloé Saint-Hilaire :\nCloé St
+ -Hilaire est doctorante en urbanisme à l’Université de Waterloo et ré
+ cipiendaire d’une bourse Vanier. Sa recherche se concentre sur la financ
+ iarisation du parc locatif canadien et sur l’impact des technologies dig
+ itales (ex : Airbnb) sur les locataires. Elle fait également partie du gr
+ oupe de recherche « Balanced Supply of Housing » et du groupe de recherc
+ he en gouvernance et politiques urbaines de McGill\, pour lesquels elle re
+ cherche les évictions\, les locations court-terme\, et les augmentations 
+ de loyer.\n&nbsp\;\nCette présentation s'effectue par Zoom au lien suivan
+ t: https://umontreal.zoom.us/j/88019361014...\nID de réunion 880 1936 101
+ 4\nCode secret 544216\n--------------\nVeuillez noter que le séminaire se
+ ra enregistré pour en permettre sa diffusion ultérieure.
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-12
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260122T160000
 DTEND;TZID=America/Toronto:20260122T180000
 SUMMARY:Vigil for Palestine
@@ -279,9 +345,9 @@ DESCRIPTION:2026-01-22 16:00:00\n\n(aux tourniquets)\n\nJanuary 22 @ 16 h
   Join us in solidarity with the people of Palestine
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260122T170000
 DTEND;TZID=America/Toronto:20260122T190000
 SUMMARY:Foire anti-impérialiste et anti-coloniale
@@ -291,9 +357,9 @@ DESCRIPTION:2026-01-22 17:00:00\n\n405\, Ste-Catherine Est\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/way/119612954
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260122T173000
 DTEND;TZID=America/Toronto:20260122T193000
 SUMMARY:Mouvement par et pour : créer des espaces politiques et culturels
@@ -315,9 +381,9 @@ DESCRIPTION:2026-01-22 17:30:00\n\n1210 St-Laurent (métro St-Laurent)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973468587
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260123T180000
 DTEND;TZID=America/Toronto:20260123T200000
 SUMMARY:Causerie - Alex Viens\, Maryse Andraos et Alice Rivard
@@ -386,9 +452,9 @@ DESCRIPTION:2026-01-23 18:00:00\n\n1376 Ontario Est (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260124T150000
 DTEND;TZID=America/Toronto:20260124T170000
 SUMMARY:Violet Hour Book Club : "Five Points on an Invisible Line"
@@ -429,9 +495,62 @@ DESCRIPTION:2026-01-24 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260124T150000
+DTEND;TZID=America/Toronto:20260124T170000
+SUMMARY:Queerer Times and Alternatives Futures
+LOCATION:633 Beaumont (métro Parc)
+DESCRIPTION:2026-01-24 15:00:00\n\n633 Beaumont (métro Parc)\n\nhttps://w
+ ww.openstreetmap.org/node/11973025945\n\nRSVP first.\nImage description: O
+ n a mauve collaged background\, the following text appears: “Queerer Tim
+ es &amp\; Alternative Futures / Workshop facilitated by Hanss Lujan Torres
+  / January 24 / 3pm / Brique x Brique / 633 Beaumont Ave / RSVP Required.
+ ” An image of an alarm clock on fire appears on the bottom right side of
+  the image\, and Dick’s logo appears on the bottom left corner.\nRegistr
+ ation is now open for the second workshop in our winter series\, Queerer T
+ imes and Alternative Futures\, facilitated by Hanss Lujan Torres (@haannss
+ l)!&nbsp\;\nThis workshop explores queer temporality and futurity through 
+ collective discussion and shared making. Rooted in 2SQTBIPOC lived and col
+ lective experiences\, it engages broader timescapes to make sense of the 
+ “queerer” times we are all living through. Inspired by texts on tempor
+ ality and futurity found in Dick’s Lending Library\, the workshop invite
+ s participants to reflect on how futures are imagined when time is underst
+ ood outside heteronormative\, colonial\, and linear frameworks. The worksh
+ op creates space for a generative conversation about how time is experienc
+ ed\, what constitutes the present\, and what it means to imagine queer\, t
+ rans\, and nonbinary futures.&nbsp\;\nFollowing the discussion\, participa
+ nts will engage in a hands-on collage and drawing activity\, using images\
+ , texts\, and materials to create their own clocks and calendars as specul
+ ative timekeeping devices for imagining and building possible futures. Mat
+ erials will be provided\, but participants are encouraged to bring anythin
+ g they’d like to include in their collages.\nRegister for the workshop h
+ ere! Registration is limited to 15 participants.&nbsp\;\nWorkshop details:
+ \nDate: Saturday\, January 24th\, 2026\nTime: 3:00-6:00pm EST\nWhere: Briq
+ ue x Brique (633 Beaumont Ave)\nCost: PWYC (w/ proceeds going to a mutual 
+ aid action for QT Disabled Black folks)&nbsp\;\nRSVP required (space is li
+ mited)\nFacilitator Bio:&nbsp\;\nHanss Lujan Torres (he/him) is a research
+ er\, writer\, and curator from Cusco\, Peru\, currently based in Tiohtià:
+ ke/Mooniyang/Montréal. His research and writing explore various notions o
+ f time\, particularly how artists reimagine it and reflect on the precario
+ us conditions of the present. He works with subjugated archives and queer 
+ temporalities to imagine alternative futures.\nAccess Info:\n– K/N95 mas
+ ks required &amp\; provided\n– A large HEPA filter will be in the space\
+ n– Wheelchair-accessible&nbsp\;\n– Fragrance-free\n– ASL interpretat
+ ion available upon request\nThis workshop was made possible with the suppo
+ rt of the English Language Arts Network’s Trellis Micro-grant project. T
+ he Trellis Micro-grant project\, funded by The Department of Canadian Heri
+ tage’s Official Languages Support Programs\, seeks to highlight English-
+ language Arts and Artists to make them visible to a broader community\, an
+ d build bridges between Québec’s English-speaking minority and Francoph
+ one majority.&nbsp\;&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-18
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260124T210000
 DTEND;TZID=America/Toronto:20260124T230000
 SUMMARY:Queer Karaoke Mtl - Punk Night!
@@ -445,9 +564,9 @@ DESCRIPTION:2026-01-24 21:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260125T173000
 DTEND;TZID=America/Toronto:20260125T193000
 SUMMARY:Souper CATS x ORA
@@ -483,9 +602,47 @@ DESCRIPTION:2026-01-25 17:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260125T173000
+DTEND;TZID=America/Toronto:20260125T193000
+SUMMARY:Club de lecture anticapitaliste
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2026-01-25 17:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\nNotre club de lecture solidaire 
+ s’inscrit dans la transition socio-écologique en favorisant l’éveil 
+ des consciences\, le dialogue critique et la solidarité.\nOn accède main
+ tenant à l'Espace des Possibles par la porte au 1052 Beaubien. Le lieu et
+  maintenant accessible aux personnes moibilité réduite.\nLecture en cour
+ s: Les damnés de la terre de Frantz Fanon.\nATTENTION!: Les rencontres so
+ nt en alternance à la Librairie N'était-ce-pas l'été et à l'Espace de
+ s Possibles Petite-Patrie\, voici les dates et lieux...\nCalendrier des re
+ ncontres:\n11 janvier - N’était-ce pas l’été\n25 janvier - Espace d
+ es possibles\n8 février - N’était-ce pas l’été\n22 février - Espa
+ ce des possibles\n8 mars - N’était-ce pas l’été\n22 mars - Espace d
+ es possibles\n5 avril- N’était-ce pas l’été\n19 avril - Espace des 
+ possibles\n3 mai- N’était-ce pas l’été\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-21
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260126T180000
+DTEND;TZID=America/Toronto:20260126T200000
+SUMMARY:Atelier sur le logement social
+LOCATION:(en ligne)
+DESCRIPTION:2026-01-26 18:00:00\n\n(en ligne)\n\nEn plus d'être offert en
+  personne une fois par mois\, notre atelier sur le logement social sera of
+ fert par Zoom\, en soirée\, afin de convenir à plus de personne.\nLe 26 
+ janvier 2026 à 18h00\, sur Zoom.\nPour recevoir le lien\, envoyer un cour
+ riel à info@comite-bails.org
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-22
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260126T183000
 DTEND;TZID=America/Toronto:20260126T203000
 SUMMARY:Diaspora diaries - A space of discussion with the members of South
@@ -504,9 +661,9 @@ DESCRIPTION:2026-01-26 18:30:00\n\n2100 Guy suite 205 (métro Guy)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/103522209
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260126T190000
 DTEND;TZID=America/Toronto:20260126T210000
 SUMMARY:Last Generation - Intro Talk
@@ -519,9 +676,29 @@ DESCRIPTION:2026-01-26 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260127T170000
+DTEND;TZID=America/Toronto:20260127T190000
+SUMMARY:Immediate Impacts of Bill 94 - impacts\, realities and perspective
+ s
+LOCATION:(métro Côte-des-Neiges)
+DESCRIPTION:2026-01-27 17:00:00\n\n(métro Côte-des-Neiges)\n\nhttps://ww
+ w.openstreetmap.org/node/8353776205\n\nAs part of Muslim Awareness Week 20
+ 26\, this roundtable offers a spacefor dialogue and analysis on the immedi
+ ate impacts of Bill 94.\nBringing togetherpanelists from different sectors
+  — community\, legal\, academic\, andinstitutional — the discussion wi
+ ll explore concrete impacts\, livedrealities\, and short‑term perspectiv
+ es surrounding the law.\nThis event aims tosupport informed public dialogu
+ e and foster critical reflection onthe social and civic implications of Bi
+ ll 94.
+URL;VALUE=URI:https://www.openstreetmap.org/node/8353776205
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-25
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260128T110000
 DTEND;TZID=America/Toronto:20260128T130000
 SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
@@ -559,9 +736,9 @@ DESCRIPTION:2026-01-28 11:00:00\n\nPavillon Lionel-Groulx\, 3150 Rue Jean-
 URL;VALUE=URI:https://www.openstreetmap.org/way/27334101
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260128T120000
 DTEND;TZID=America/Toronto:20260128T140000
 SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
@@ -595,9 +772,9 @@ DESCRIPTION:2026-01-28 12:00:00\n\n(en ligne)\n\nL’Observatoire des prof
  ire Évènements ODP\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260128T160000
 DTEND;TZID=America/Toronto:20260128T180000
 SUMMARY:Repair Café
@@ -651,59 +828,121 @@ DESCRIPTION:2026-01-28 16:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260128T173000
 DTEND;TZID=America/Toronto:20260128T193000
-SUMMARY:Projection de film : "Pluri'Elles"
-LOCATION:McCall MacBain Arts Building\, 853 Sherbrooke Street West (métro
-  McGill)
-DESCRIPTION:2026-01-28 17:30:00\n\nMcCall MacBain Arts Building\, 853 Sher
- brooke Street West (métro McGill)\n\nhttps://www.openstreetmap.org/way/21
- 340756\n\nDescription : From an empowerment perspective\, where it’s imp
- ortant for marginalized groups to share their experiences and become aware
-  of their power\, we aim to help build the resilience of&nbsp\;young Quebe
- cer Muslim women&nbsp\;by presenting them with portraits of women living i
- n the same context\, facing various obstacles and engaged in society in di
- fferent spheres.\nThe film&nbsp\;Pluri’Elles&nbsp\;follows the careers o
- f six young Quebecer Muslim women working in different professional fields
- . Through their testimonies\, they share their challenges and successes\, 
- as well as their relationship with their faith.\nPluri’Elles&nbsp\;aims 
- to shed light on the multiple and complex identities of Muslim women livin
- g in Quebec\, in order to reduce their essentialization and dispel prejudi
- ces against them.”\nThis event is co-organised by the Student Affairs Li
- aison for Muslim Students (Office of the Dean of Students) in collaboratio
- n with the McGill Muslim Alumni Society.\nDans une perspective «&nbsp\;d
- ’empowerment&nbsp\;» où il est important pour les groupes marginalisé
- s de partager leurs expériences et de prendre conscience de leur pouvoir\
- , nous visons à contribuer à bâtir la résilience des&nbsp\;jeunes Qué
- bécoises musulmanes&nbsp\;en leur présentant des portraits de femmes viv
- ant dans le même contexte\, confrontant divers obstacles et engagées dan
- s la société dans diverses sphères.\nLe film&nbsp\;Pluri’Elles&nbsp\;
- suit le parcours de six jeunes Québécoises musulmanes œuvrant dans des 
- domaines professionnels différents. À travers leur témoignage\, elles p
- artagent leurs défis et leurs succès ainsi que leur rapport à leur foi.
- \nPluri’Elles&nbsp\;a pour objectif de mettre en lumière les identités
-  multiples et complexes des femmes musulmanes vivant au Québec afin de r
- éduire leur essentialisation et de faire tomber les préjugés à leur é
- gard.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/21340756
+SUMMARY:Lancement de livre : "Fiertés et résistances – les droits des 
+ personnes LGBTQIA2+"
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-01-28 17:30:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nLa Livrerie et la Ligue des d
+ roits et libertés vous invitent au lancement du vol. 144 no 2 de la revue
+  Droits &amp\; libertés\n“Fiertés et résistances” – les droits de
+ s personnes LGBTQIA2+.\nAnimation : Stéphanie Mayer\, du comité de réda
+ ction\, membre du CA de la Ligue des droits et libertés\nInvité·es : Al
+ exis Graindorge\, du GRIS Montréal \; Judith Lefebvre du Mouvement transf
+ éministe\; et d’autres invité·es à confirmer.\nPour s’inscrire gra
+ tuitement\n—\nLA LIGUE DES DROITS ET LIBERTÉS\nFondée en 1963\, la Lig
+ ue des droits et libertés (LDL) est un organisme sans but lucratif\, ind
+ épendant et non partisan\, issu de la société civile québécoise et af
+ filié à la Fédération internationale pour les droits humains (FIDH). E
+ lle vise à faire connaître\, à défendre et à promouvoir l’universal
+ ité\, l’indivisibilité et l’interdépendance des droits reconnus dan
+ s la Charte internationale des droits de l'homme.\n—\nDROITS ET RÉSISTA
+ NCES\nAu Québec\, évoquer un ressac contre les droits humains LGBTQ+ n
+ ’a rien d’exagéré. Malgré des avancées aussi imparfaites que signi
+ ficatives\, les droits obtenus ont permis aux personnes dissidentes des no
+ rmes hétérocisnormatives de gagner en dignité\, de se sentir respecté
+ ·es et même d’exister avec fierté\, peut-être\, l’espace d’un mo
+ ment. Nous assistons à une montée de l’extrême droite et à un glisse
+ ment faisant en sorte que des idées fascisantes deviennent ou redeviennen
+ t plus acceptables au sein de la population. Les personnes LGBTQ+ figurent
+  parmi les premières cibles des discours ultraconservateurs\, nationalist
+ es et masculinistes produisant des paniques morales dont les personnes mig
+ rantes\, racisées\, pauvres\, vivant avec des enjeux de santé mentale ou
+  un handicap font aussi les frais
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260117T033112
-DTSTART;TZID=America/Toronto:20260129T000100
-DTEND;TZID=America/Toronto:20260129T020100
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260129T163000
+DTEND;TZID=America/Toronto:20260129T183000
 SUMMARY:Commémoration de l’attentat à la Grande mosquée de Québec
-LOCATION:à déterminer
-DESCRIPTION:2026-01-29 00:01:00\n\nà déterminer\n\nDétails à venir
+LOCATION:Grande Place\, Metro Parc\, 7245 Hutchison Street
+DESCRIPTION:2026-01-29 16:30:00\n\nGrande Place\, Metro Parc\, 7245 Hutchi
+ son Street\n\nhttps://www.openstreetmap.org/way/365029559\n\nEach year\, M
+ uslim Awareness Week organizes a public gathering to honor the memory of t
+ he victims of the January 29\, 2017 Quebec City mosque attack.\nThis comme
+ moration is first and foremost a moment of remembrance\, dignity\, and col
+ lective reflection\, offering the public an opportunity to come together t
+ o remember\, reflect\, and reaffirm a shared commitment to coexistence and
+  solidarity.\nRemarks from community representatives and elected officials
+  are planned\, along with a symbolic moment of reflection. Media presence 
+ will help extend this message beyond the gathering\, highlighting the impo
+ rtance of solidarity\, vigilance\, and respect for human dignity and right
+ s.
+URL;VALUE=URI:https://www.openstreetmap.org/way/365029559
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260129T180000
+DTEND;TZID=America/Toronto:20260129T200000
+SUMMARY:Lancement de livre : "Gender Trash from Hell"
+LOCATION:1230 St-Laurent (métro St-Laurent)
+DESCRIPTION:2026-01-29 18:00:00\n\n1230 St-Laurent (métro St-Laurent)\n\n
+ https://www.openstreetmap.org/node/11281513088\n\nLaunch of Gendertrash Fr
+ om Hell\, featuring Mirha-Soleil Ross\nThursday January 29 2026\nDoors at 
+ 5:45pm\, reading at 6pm\nCafé Cléopâtre\, 1260 boul. Saint-Laurent\, 2n
+ d floor\, Tiohtia:ke (Montréal)\nReadings by Trish Salah\, Viviane Namast
+ e and H Felix Chau Bradley. Additional guests to be announced. Book sales 
+ on site!\nIn collaboration with LittlePuss Press and L'Euguélionne\nAbout
+  Gendertrash From Hell\nIn 1993\, Mirha-Soleil Ross and Xanthra Phillippa 
+ MacKay\, fed up with a gay scene that rejected trans people and a trans sc
+ ene that saw no alternative to going "stealth\," began to publish the zine
+  Gendertrash From Hell.\nOver four issues\, they interviewed sex workers a
+ nd prisoners\; they printed collages\, soap operas and polemics\; they ran
+  regular sections with titles like “Trannies Speak Out” and “Hooker 
+ of the Year”. They redefined transsexual culture forever\, and their exp
+ losive ideas resonate deeply today.\nRemastered from the original layouts\
+ , this foundational work is now available in book form for the first time\
+ , including previously-unseen drafts from the unfinished fifth issue and e
+ ssays by Trish Salah and Leah Tigers. Irreverent\, furious\, reckless\, se
+ xy\, hilarious and incisive\, Gendertrash from Hell is here to set all you
+ r presuppositions on fire.\nhttps://www.littlepuss.net/.../gendertrash-fro
+ m-hell...]\n****\nLancement de Gendertrash from Hell avec Mirha-Soleil Ros
+ s\nJeudi 29 janvier 2026\nOuverture des portes à 17 h 45\, début de l’
+ événement à 18 h\nCafé Cléopâtre\, 1260\, boul. Saint-Laurent\, 2e 
+ étage\, Tiohtia:ke (Montréal)\nLectures par Trish Salah\, Viviane Namast
+ e et H Felix Chau Bradley. Autres invitées à confirmer.\nVente de livres
+  sur place !\nEn collaboration avec LittlePuss Press et L'Euguélionne\nÀ
+  propos de Gendertrash From Hell\nEn 1993\, Mirha-Soleil Ross et Xanthra P
+ hillippa MacKay\, fatiguées d'une scène gaie qui rejetait les personnes 
+ trans et d'une scène trans qui ne voyait d'autre alternative que de se ca
+ cher\, ont commencé à publier le zine Gendertrash From Hell.\nAu fil de 
+ quatre éditions\, elles ont interviewé des travailleuses du sexe et des 
+ prisonnières\, publié des collages\, des feuilleton et des polémiques\,
+  et proposé des chroniques régulières intitulées « Trannies Speak Out
+  » et « Hooker of the Year ». Elles ont redéfini à jamais la culture 
+ transsexuelle\, et leurs idées explosives trouvent encore aujourd'hui un 
+ profond écho.\nRemasterisé à partir des mises en page originales\, cet 
+ ouvrage fondateur est désormais disponible pour la première fois sous fo
+ rme de livre\, comprenant des ébauches inédits du cinquième numéro ina
+ chevé et des essais de Trish Salah et Leah Tigers. Irrévérencieux\, fur
+ ieux\, téméraire\, sexy\, hilarant et incisif\, Gendertrash from Hell es
+ t là pour mettre le feu à toutes vos idées préconçues.\nhttps://www.l
+ ittlepuss.net/.../gendertrash-from-hell...]\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11281513088
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-31
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260130T170000
 DTEND;TZID=America/Toronto:20260130T190000
 SUMMARY:Masse critique de janvier
@@ -750,9 +989,9 @@ DESCRIPTION:2026-01-30 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260131T170000
 DTEND;TZID=America/Toronto:20260131T190000
 SUMMARY:Artistes contre le génocide
@@ -779,9 +1018,9 @@ DESCRIPTION:2026-01-31 17:00:00\n\n429 Viger Est (métro Champ-de-Mars)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/4058675976
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -805,9 +1044,9 @@ DESCRIPTION:2026-02-01 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Étoile du Nord - Grand Debrief 2026
@@ -849,9 +1088,54 @@ DESCRIPTION:2026-02-01 10:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260201T113000
+DTEND;TZID=America/Toronto:20260201T133000
+SUMMARY:Sit-in mensuel de Mères au front
+LOCATION:coin McGill College / Sherbrooke (métro McGill)
+DESCRIPTION:2026-02-01 11:30:00\n\ncoin McGill College / Sherbrooke (métr
+ o McGill)\n\nhttps://www.openstreetmap.org/node/11973148551\n\nLe 3 avril 
+ 2022\, les Mères au Front se réunissaient pour la première fois devant 
+ le bureau du Premier Ministre du Québec\, à Montréal\, pour lui rappele
+ r\, ainsi qu’au gouvernement fédéral\, que nous devons écouter la sci
+ ence et répondre avec urgence.\nChaque dimanche pendant un an\, puis chaq
+ ue premier dimanche du mois depuis avril 2023\, nous nous regroupons toujo
+ urs devant son bureau\, persévérantes\, décidées\, aimantes et en col
+ ère.\nPourquoi ?\nParce que François Legault a été réélu et la polit
+ ique environnementale de ce gouvernement n'a encore rien montré de convai
+ ncant.\nAlors nous veillerons. Toujours. Encore\nPour l'avenir de nos enfa
+ nts !\nNous voulons une réduction des émissions de 65% d'ici à 2030\, e
+ n lien avec les recommandations du GIEC. Nous demandons à ce que toutes l
+ es décisions politiques soient désormais passées au crible de leur impa
+ ct environnemental.\nNous voulons être entendues\, alors nous serons là\
+ , chaque semaine. Rejoignez-nous!\nPOUR PORTER LE MESSAGE :\n-Portez fièr
+ ement le coeur équarri vert de MAF\n-Venez avec vos enfants\, parents\, c
+ onjoint.e.s !\n-Amenez de la craie pour laisser vos messages au sol. Toute
+ s pancartes\, messages et banderoles relayant nos revendications sont les 
+ bienvenus!\nVisionnez les magnifiques vidéos d'anniversaires :\nhttps://w
+ ww.facebook.com/MAFMontreal/videos/395662006640031\nhttps://www.facebook.c
+ om/MAFMontreal/videos/1434201113650756/\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973148551
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-36
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260202T190000
+DTEND;TZID=America/Toronto:20260202T210000
+SUMMARY:Cinema Politica : "To Kill a War Machine"
+LOCATION:Local H-110\, 1455 Maisonneuve W (metro Guy)
+DESCRIPTION:2026-02-02 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
+  Guy)\n\nhttps://www.openstreetmap.org/node/4035248248\n\nDocumentary abou
+ t the activist group Palestine Action.
+URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-37
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260204T000100
 DTEND;TZID=America/Toronto:20260204T020100
 SUMMARY:Grève des groupes en défense collective des droits (DCD)
@@ -864,9 +1148,9 @@ DESCRIPTION:2026-02-04 00:01:00\n\n(partout !)\n\nLa défense collective d
  di 4 février.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260204T180000
 DTEND;TZID=America/Toronto:20260204T200000
 SUMMARY: Ateliers sur les hausses de loyer
@@ -886,9 +1170,9 @@ DESCRIPTION:2026-02-04 18:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973426417
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260205T113000
 DTEND;TZID=America/Toronto:20260205T133000
 SUMMARY:Action montréalaise pour la défense collective des droits
@@ -908,9 +1192,90 @@ DESCRIPTION:2026-02-05 11:30:00\n\n605 St-Jacques O\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973164054
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260205T180000
+DTEND;TZID=America/Toronto:20260205T200000
+SUMMARY:Rencontre du comité féministe du POPIR
+LOCATION:2515 Rue Delisle (métro lionel-groulx)
+DESCRIPTION:2026-02-05 18:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
+ \n\nhttps://www.openstreetmap.org/way/347696464\n\nLe comité féministe d
+ u POPIR se réunit le jeudi 5 février à 18H. Rejoignez-nous pour discute
+ r des enjeux féministes liés au logement\, partager nos réalités et r
+ éfléchir ensemble à des stratégies pour défendre collectivement nos d
+ roits!\nOÙ : Local 123 du CÉDA (2515 rue Delisle)\nQUAND : Jeudi le 5 f
+ évrier à 18H\nDes collations et breuvages seront offerts.\n&nbsp\;\nVous
+  êtes les bienvenues!\n__________________________________________________
+ ____________________\nPOPIR Feminist Comitee meeting!\nPOPIR's Feminist Co
+ mitee will meet on Thursday\, Febuary 5 at 6:00 PM. Join us to discuss fem
+ inist issues related to housing\, share our experiences\, and collectivell
+ y reflect on strategies to defend our rights together.\nWHERE : Room 123\,
+  CÉDA (2515 Delisle Street)\nWHEN : Thursday Febuary 5\, 6:00 PM\nSnacks 
+ and drinks will be provided\n&nbsp\;\nYou are all welcome!
+URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-41
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260206T093000
+DTEND;TZID=America/Toronto:20260206T113000
+SUMMARY:La démocratie et l’état de droit à l’épreuve du projet de 
+ constitution du Québec
+LOCATION:détails à venir
+DESCRIPTION:2026-02-06 09:30:00\n\ndétails à venir\n\nLa démocratie et 
+ l’état de droit à l’épreuve du projet de constitution du Québec\nV
+ endredi 6 février 2026 de 09:00 à 17:30 En personneUQAM\nVeuillez svp vo
+ us inscrire en remplissant le formulaire au bas de cette page pour réserv
+ er votre place.\nPrésentation de l’activité\nFace à la multiplication
+  des initiatives législatives et politiques qui fragilisent les droits et
+  libertés\, tant au Québec qu’à l’échelle internationale\, cet év
+ énement propose une journée de réflexion et d’échanges sur les trans
+ formations contemporaines de l’État de droit et de la démocratie. En p
+ renant appui sur le projet de constitution du gouvernement de la CAQ et su
+ r d’autres initiatives récentes au Québec\, l’événement vise à mi
+ eux comprendre la portée et les effets des réformes en cours et d’ouvr
+ ir la réflexion sur les conditions démocratiques nécessaires à la déf
+ inition du vivre-ensemble.\nLa journée prendra la forme d’un échange s
+ tructuré en trois grandes séances thématiques.\n1. La dévitalisation d
+ e l’État de droit : perspectives croisées sur un phénomène mondial\n
+ Cette première séance situera les débats québécois dans un contexte i
+ nternational marqué par un affaiblissement généralisé des mécanismes 
+ de protection des droits et de limitation du pouvoir politique. Les interv
+ entions porteront sur les transformations de l’État de droit\, la norma
+ lisation des atteintes aux droits fondamentaux et les stratégies de conto
+ urnement des contre-pouvoirs institutionnels. L’objectif est de mieux co
+ mprendre ce qui change\, comment ces mutations s’opèrent et quelles en 
+ sont les conséquences pour les régimes démocratiques contemporains.\n2.
+  Droits et libertés sous tension : le PL1 et les initiatives législative
+ s récentes\nCette séance se concentrera sur le contexte québécois. Ell
+ e analysera le projet de constitution du Québec (PL1) à la lumière d’
+ un ensemble plus large de lois et de politiques publiques adoptées au cou
+ rs des dernières années qui contribuent à redéfinir l’équilibre des
+  pouvoirs et le régime de protection des droits et libertés au Québec. 
+ Seront par exemple abordées les lois touchant les droits syndicaux\, la l
+ aïcité\, la langue\, l’égalité entre les femmes et les hommes\, ains
+ i que la normalisation du recours à la disposition de dérogation.\n3. Re
+ valoriser la démocratie et l’État de droit : participation\, inclusion
+  et reconnaissance\nLa dernière séance ouvrira la réflexion sur les enj
+ eux démocratiques que soulèvent les transformations en cours. Elle porte
+ ra sur les conditions d’un processus constituant inclusif\, bénéfician
+ t d’une forte légitimité démocratique\, de la conception de la commun
+ auté politique et du «&nbsp\;nous&nbsp\;» dans les initiatives gouverne
+ mentales récentes\, ainsi que de l’importance de la co-construction ave
+ c les peuples autochtones dans la définition du vivre-ensemble au Québec
+ .\nTéléchargez l’horaire détaillé de la journée\nCette journée de 
+ réflexion est organisée par le Centre de recherche sur la diversité et 
+ la démocratie au Québec en collaboration avec le Centre de recherche en 
+ éthique\, Amnistie internationale\, le Barreau du Québec\, Conseil de la
+  Nation Atikamekw\, la Fédération des femmes du Québec\, la Ligue des d
+ roits et libertés\, et l’Observatoire pour la justice migrante.
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-42
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260206T180000
 DTEND;TZID=America/Toronto:20260206T200000
 SUMMARY:Front Rose : Soirée de lancement de l’édition un
@@ -939,9 +1304,29 @@ DESCRIPTION:2026-02-06 18:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260206T180000
+DTEND;TZID=America/Toronto:20260206T200000
+SUMMARY:Party de la révolution
+LOCATION:5584 de la Roche
+DESCRIPTION:2026-02-06 18:00:00\n\n5584 de la Roche\n\nhttps://www.openstr
+ eetmap.org/node/9753046468\n\nEn ce début d'année bouleversant\, nous vo
+ us invitons à venir danser et révolutionner le monde dans le plaisir!\nQ
+ ue ce soit de contrecarré la droite\, que ce soit contre les projets qui 
+ détruisent l'environnement\, que ce soit pour structurer le monde politiq
+ ue de demain\, que ce soit pour préparer la grève sociale ou pour transf
+ ormer les guerres en espace de paix\, venez en grand nombre à cette soir
+ ée révolutionnaire.\nTirage\, ping pong\, danse\, conversations et surto
+ ut\, des rencontres pour construire l'avenir!\nÉvénement gratuit \; les 
+ consommations sur place sont à vos frais.
+URL;VALUE=URI:https://www.openstreetmap.org/node/9753046468
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-44
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260207T130000
 DTEND;TZID=America/Toronto:20260207T150000
 SUMMARY:Manif en vélo pour la Palestine
@@ -962,9 +1347,82 @@ DESCRIPTION:2026-02-07 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260207T140000
+DTEND;TZID=America/Toronto:20260207T160000
+SUMMARY:Acte VII - Manif contre le programme d'immigration PEQ
+LOCATION:1200 St-Laurent (métro St-Laurent)
+DESCRIPTION:2026-02-07 14:00:00\n\n1200 St-Laurent (métro St-Laurent)\n\n
+ https://www.openstreetmap.org/node/11973366508\n\nLes événements à Qué
+ bec\, à Trois-Rivières et à Sherbrooke seront publiés sous peu\nNous n
+ ’abandonnerons pas\nLa société québécoise se tient debout à côté 
+ des orphelins du PEQ et de toutes les personnes qui voient leur permis de 
+ travail non renouvelés alors qu’elles ont leur place ici.\nNous appelon
+ s à des rassemblements de solidarité à travers la province. Les maires 
+ et mairesses\, les entreprises et employeurs\, les députés des oppositio
+ ns à l’assemblée nationale\, les organismes communautaires et les synd
+ icats sont à nos côtés.\nIl est impensable que dans le Québec qu’on 
+ aime\, celui qui tient sa parole on accepte une telle injustice.\nNous exi
+ geons que le gouvernement réouvre le PEQ ou au minimum accorde un droit a
+ cquis à toutes les personnes déjà présentes avant la suppression (sans
+  préavis ni transition) du PEQ.\nEnsemble pour un Québec tricoté serré
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973366508
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-46
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260208T130000
+DTEND;TZID=America/Toronto:20260208T150000
+SUMMARY:Assemblée vers la grève en mai
+LOCATION:1430 Rue St-Denis\, salle D-R200 (métro Berri)
+DESCRIPTION:2026-02-08 13:00:00\n\n1430 Rue St-Denis\, salle D-R200 (métr
+ o Berri)\n\nhttps://www.openstreetmap.org/way/124134688\n\nLe 29 novembre\
+ , nous étions des milliers dans la rue pour nous opposer aux lois anti-sy
+ ndicales et anti-travailleur•euses.\nMaintenant\, quelle est la suite?\n
+ Joignez-vous à nous pour discuter de la manière d’organiser une grève
+  en dehors de la convention collective et des négociations — la grève 
+ politique! Échangeons sur la façon de coordonner des actions avec nos sy
+ ndicats locaux avant et pendant la semaine du 1er mai.\nNous sommes plus f
+ orts lorsque nous agissons ensemble!\nNous lançons un appel à tous les s
+ yndicats locaux et à leurs membres\, ainsi qu’à tous les groupes commu
+ nautaires : votre implication est cruciale. Il faut construire un rapport 
+ de force et faire reculer le gouvernement.\nFaites-nous savoir si vous\, v
+ otre syndicat ou votre organisation souhaitez participer.\nQuand: 8 févri
+ er de 13h à 16h\nLieu: UQAM\, pavillon Athanase-David\, 1430 Rue St-Denis
+ \, salle D-R200
+URL;VALUE=URI:https://www.openstreetmap.org/way/124134688
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-47
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260208T173000
+DTEND;TZID=America/Toronto:20260208T193000
+SUMMARY:Club de lecture anticapitaliste
+LOCATION:6792 St-Laurent
+DESCRIPTION:2026-02-08 17:30:00\n\n6792 St-Laurent\n\nhttps://www.openstre
+ etmap.org/way/1082416935\n\nNotre club de lecture solidaire s’inscrit da
+ ns la transition socio-écologique en favorisant l’éveil des conscience
+ s\, le dialogue critique et la solidarité.\nOn accède maintenant à l'Es
+ pace des Possibles par la porte au 1052 Beaubien. Le lieu et maintenant ac
+ cessible aux personnes moibilité réduite.\nLecture en cours: Les damnés
+  de la terre de Frantz Fanon.\nATTENTION!: Les rencontres sont en alternan
+ ce à la Librairie N'était-ce-pas l'été et à l'Espace des Possibles Pe
+ tite-Patrie\, voici les dates et lieux...\nCalendrier des rencontres:\n11 
+ janvier - N’était-ce pas l’été\n25 janvier - Espace des possibles\n
+ 8 février - N’était-ce pas l’été\n22 février - Espace des possibl
+ es\n8 mars - N’était-ce pas l’été\n22 mars - Espace des possibles\n
+ 5 avril- N’était-ce pas l’été\n19 avril - Espace des possibles\n3 m
+ ai- N’était-ce pas l’été\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-48
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260208T200000
 DTEND;TZID=America/Toronto:20260208T220000
 SUMMARY:Queer Laughs
@@ -983,9 +1441,82 @@ DESCRIPTION:2026-02-08 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20260117T033112
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260209T190000
+DTEND;TZID=America/Toronto:20260209T210000
+SUMMARY:Cinema Politica : "True North"
+LOCATION:Local H-110\, 1455 Maisonneuve W (metro Guy)
+DESCRIPTION:2026-02-09 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
+  Guy)\n\nhttps://www.openstreetmap.org/node/4035248248\n\nA haunting plung
+ e into the Canadian archive\, recapturing a 1969 student protest at Montre
+ al’s Sir George Williams University against the administration’s anti-
+ Black racism
+URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-50
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260212T180000
+DTEND;TZID=America/Toronto:20260212T200000
+SUMMARY:Lancement de livre : "Vida\, Journal de la peur"
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-02-12 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nLes éditions Remue-Ménage e
+ t la Livrerie vous invitent au lancement de Vida\, Journal de la peur de N
+ icholas Dawson.\n—\nVIDA\, JOURNAL DE LA PEUR\nJournal de l’écrivain 
+ et éditeur d’origine chilienne Nicholas Dawson\, Vida a été rédigé 
+ pendant les deux dernières années de vie de sa sœur\, Caroline Dawson\,
+  autrice de Là où je me terre. Il y explore les manières dont la peur c
+ ircule et s’exprime en lui\, dans sa famille\, dans le monde médical et
+  avec ses proches. Quels mots pour dire la crainte de perdre un être aim
+ é et l’accompagnement d’une personne en fin de vie ? Nicholas Dawson 
+ raconte aussi les moments doux partagés avec sa sœur et la profonde amit
+ ié qui les lie. Les mots couchés dans son journal pour canaliser l’eff
+ roi et appréhender ses émotions se sont tranquillement transformés en r
+ écit\, dans la lignée d’Annie Ernaux ou d’Hervé Guibert. Un récit 
+ de l’intime au cœur d’une expérience de maladie vécue sous l’œil
+  du public.\nJe décide aujourd’hui de raconter ce petit récit de ma pe
+ ur\, parce que Caroline\, dans un acte de partage courageux et féministe\
+ , a rendu sa maladie publique pour inviter les autres à faire partie de s
+ on histoire. Ce faisant\, elle nous a invité·es à notre tour à raconte
+ r nos histoires\, qu’elles soient de maladie\, de peur\, de mort ou de d
+ euil\, aussi bien que de joies et de fêtes\, pour sortir coûte que coût
+ e d’un silence qui serait\, d’après ses dires\, un silence de mort.\n
+ —\nNICHOLAS DAWSON\nNé au Chili et établi à Tiohtià:ke / Montréal\,
+  nicholas dawson\nest écrivain\, artiste\, éditeur\, commissaire et cher
+ cheur. Il écrit de la poésie\, des récits et des essais\, dans une appr
+ oche indisciplinaire\, hybride et de recherche-création.\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-51
+SEQUENCE:0
+DTSTAMP:20260118T033407
+DTSTART;TZID=America/Toronto:20260212T183000
+DTEND;TZID=America/Toronto:20260212T203000
+SUMMARY:Karaoké contre les hausses ! - Karaoke against rent hikes!
+LOCATION:(métro de l&#039\;Église)
+DESCRIPTION:2026-02-12 18:30:00\n\n(métro de l&#039\;Église)\n\nhttps://
+ www.openstreetmap.org/node/12111677580\n\nC’est officiellement la saison
+  des hausses de loyer.\nLes comités logement du Sud-Ouest (CACV\, POPIR\,
+  RIL) vous invitent à une soirée de communauté\, de rires et peut-être
+  même de cris (thérapeutiques) pour le lancement de notre campagne contr
+ e les hausses de loyer.\nKaraoké\, collations\, voisin·es — good times
+  guaranteed!\nSolidarité\, micros ouverts et rage collective. Let’s go!
+ \n___________\nIt’­s officially rent increase season. South-west housin
+ g committees invite you to join us for an evening of community\, laughter\
+ , and maybe even some (therapeutic) screaming for the launch of our campai
+ gn against rent hikes.\nKaraoke\, snacks\, neighbours\, good times guarant
+ eed!\nSolidarity\, open mics and collective rage. Let’s go!
+URL;VALUE=URI:https://www.openstreetmap.org/node/12111677580
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-52
+SEQUENCE:0
+DTSTAMP:20260118T033407
 DTSTART;TZID=America/Toronto:20260214T164500
 DTEND;TZID=America/Toronto:20260214T184500
 SUMMARY:Palestine\, mon amour ! Table-ronde sur la solidarité Québec-Pal
