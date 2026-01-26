@@ -8,69 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260125T033712
-DTSTART;TZID=America/Toronto:20260125T173000
-DTEND;TZID=America/Toronto:20260125T193000
-SUMMARY:Souper CATS x ORA
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2026-01-25 17:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208\n\n*English follows*\nCATS x ORA 2
- 5 JAN\nSouper à 17h30 Film à 20h\nVenez manger avec nous ! Venez vous or
- ganiser avec nous !\nJoignez-vous à nous pour un souper avec le SWAC (Com
- ité autonome des travailleuses du sexe)\, en collaboration avec ORA (L’
- Organisation révolutionnaire anarchiste).\nCATS est un projet d’organis
- ation politique par et pour les travailleuses du sexe basé à Montréal\,
-  dédié à la lutte pour de meilleures conditions de travail dans l’ind
- ustrie du sexe!\nCette soirée est consacrée à la rencontre de travaille
- uses du sexe militantes et d’anarchistes\, au partage de nourriture\, d
- ’idées\, de rage\, et à la construction d’une véritable solidarité
- . La soirée débutera par une courte présentation de CATS sur l’organi
- sation et la résistance des travailleuses du sexe.\nLa soirée se poursui
- vra avec la projection de Live Nude Girls Unite! Un documentaire sur des t
- ravailleuses du sexe qui établissent un syndicat à San Francisco à la f
- in des années 90!\nNourriture. Politique. Organisation.\nJoignez-vous à 
- nous!\n——————\nCATS x ORA\nJan 25th ·&nbsp\;\nSupper at 5:30p
- m\nFilm at 8pm\nCome eat with us! Come organize with us!\nJoin us for a su
- pper with SWAC (The Sex Work Autonomous Committee)\, in collaboration with
-  ORA (L’Organisation révolutionnaire anarchiste).\nCATS is a political 
- organizing project by and for sex workers based in Montreal that is dedica
- ted to fighting for better working conditions in the sex industry!\nThis n
- ight is about meeting militant sex workers and anarchists\, sharing food\,
-  ideas\, rage\, and building real solidarity. The evening will start with 
- a short presentation by CATS on sex worker organizing and resistance.&nbsp
- \;\nThe even with a screening of Live Nude Girls Unite! A documentary on s
- ex workers establishing a union in San Francisco in the late 90s!\nFood. P
- olitics. Organizing. Join us.
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260125T033712
-DTSTART;TZID=America/Toronto:20260125T173000
-DTEND;TZID=America/Toronto:20260125T193000
-SUMMARY:Club de lecture anticapitaliste
-LOCATION:6450 avenue Christophe-Colomb
-DESCRIPTION:2026-01-25 17:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
- //www.openstreetmap.org/way/1080082859\n\nNotre club de lecture solidaire 
- s’inscrit dans la transition socio-écologique en favorisant l’éveil 
- des consciences\, le dialogue critique et la solidarité.\nOn accède main
- tenant à l'Espace des Possibles par la porte au 1052 Beaubien. Le lieu et
-  maintenant accessible aux personnes moibilité réduite.\nLecture en cour
- s: Les damnés de la terre de Frantz Fanon.\nATTENTION!: Les rencontres so
- nt en alternance à la Librairie N'était-ce-pas l'été et à l'Espace de
- s Possibles Petite-Patrie\, voici les dates et lieux...\nCalendrier des re
- ncontres:\n11 janvier - N’était-ce pas l’été\n25 janvier - Espace d
- es possibles\n8 février - N’était-ce pas l’été\n22 février - Espa
- ce des possibles\n8 mars - N’était-ce pas l’été\n22 mars - Espace d
- es possibles\n5 avril- N’était-ce pas l’été\n19 avril - Espace des 
- possibles\n3 mai- N’était-ce pas l’été\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260126T180000
 DTEND;TZID=America/Toronto:20260126T200000
 SUMMARY:Atelier sur le logement social
@@ -82,9 +20,9 @@ DESCRIPTION:2026-01-26 18:00:00\n\n(en ligne)\n\nEn plus d'être offert en
  riel à info@comite-bails.org
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260126T183000
 DTEND;TZID=America/Toronto:20260126T203000
 SUMMARY:Diaspora diaries - A space of discussion with the members of South
@@ -103,9 +41,9 @@ DESCRIPTION:2026-01-26 18:30:00\n\n2100 Guy suite 205 (métro Guy)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/103522209
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260126T190000
 DTEND;TZID=America/Toronto:20260126T210000
 SUMMARY:Last Generation - Intro Talk
@@ -118,9 +56,9 @@ DESCRIPTION:2026-01-26 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260127T160000
 DTEND;TZID=America/Toronto:20260127T180000
 SUMMARY:Vigil for Palestine
@@ -136,9 +74,9 @@ DESCRIPTION:2026-01-27 16:00:00\n\n(aux tourniquets)\n\nJanuary 27 @ 16 h
  the people of Palestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260127T170000
 DTEND;TZID=America/Toronto:20260127T190000
 SUMMARY:Immediate Impacts of Bill 94 - impacts\, realities and perspective
@@ -156,9 +94,9 @@ DESCRIPTION:2026-01-27 17:00:00\n\n(métro Côte-des-Neiges)\n\nhttps://ww
 URL;VALUE=URI:https://www.openstreetmap.org/node/8353776205
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260127T173000
 DTEND;TZID=America/Toronto:20260127T193000
 SUMMARY:Lancement de livre : "Avant d'en arriver là - Essai choral sur le
@@ -210,9 +148,9 @@ DESCRIPTION:2026-01-27 17:30:00\n\n1575 Laurier Est\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11815376254
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260128T110000
 DTEND;TZID=America/Toronto:20260128T130000
 SUMMARY:Semaine musulmane : Discours ambiant et répercussions sur notre c
@@ -250,9 +188,9 @@ DESCRIPTION:2026-01-28 11:00:00\n\nPavillon Lionel-Groulx\, 3150 Rue Jean-
 URL;VALUE=URI:https://www.openstreetmap.org/way/27334101
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260128T120000
 DTEND;TZID=America/Toronto:20260128T140000
 SUMMARY:Dossier noir de la déscolarisation: des pistes pour mieux mesurer
@@ -286,9 +224,9 @@ DESCRIPTION:2026-01-28 12:00:00\n\n(en ligne)\n\nL’Observatoire des prof
  ire Évènements ODP\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260128T160000
 DTEND;TZID=America/Toronto:20260128T180000
 SUMMARY:Repair Café
@@ -342,9 +280,9 @@ DESCRIPTION:2026-01-28 16:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260128T173000
 DTEND;TZID=America/Toronto:20260128T193000
 SUMMARY:Lancement de livre : "Fiertés et résistances – les droits des 
@@ -380,9 +318,9 @@ DESCRIPTION:2026-01-28 17:30:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260129T160000
 DTEND;TZID=America/Toronto:20260129T180000
 SUMMARY:Vigil for Palestine
@@ -397,9 +335,9 @@ DESCRIPTION:2026-01-29 16:00:00\n\n(aux tourniquets)\n\nJanuary 29 @ 16 h
  th the people of Palestine\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260129T163000
 DTEND;TZID=America/Toronto:20260129T183000
 SUMMARY:Commémoration de l’attentat à la Grande mosquée de Québec
@@ -419,9 +357,9 @@ DESCRIPTION:2026-01-29 16:30:00\n\nGrande Place\, Metro Parc\, 7245 Hutchi
 URL;VALUE=URI:https://www.openstreetmap.org/way/365029559
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260129T180000
 DTEND;TZID=America/Toronto:20260129T200000
 SUMMARY:Lancement de livre : "Gender Trash from Hell"
@@ -471,9 +409,9 @@ DESCRIPTION:2026-01-29 18:00:00\n\n1230 St-Laurent (métro St-Laurent)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11281513088
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260129T200000
 DTEND;TZID=America/Toronto:20260129T220000
 SUMMARY:Palestine Activist Legal Defence Fundraiser 10$ : Dirty milk\, Mon
@@ -495,9 +433,9 @@ DESCRIPTION:2026-01-29 20:00:00\n\n(métro Beaubien)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/1536070983
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260130T170000
 DTEND;TZID=America/Toronto:20260130T190000
 SUMMARY:Masse critique de janvier
@@ -544,9 +482,9 @@ DESCRIPTION:2026-01-30 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260130T183000
 DTEND;TZID=America/Toronto:20260130T203000
 SUMMARY:Soirée déchaînée : Vélo hamac
@@ -561,9 +499,9 @@ DESCRIPTION:2026-01-30 18:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260131T170000
 DTEND;TZID=America/Toronto:20260131T190000
 SUMMARY:Artistes contre le génocide
@@ -590,9 +528,9 @@ DESCRIPTION:2026-01-31 17:00:00\n\n429 Viger Est (métro Champ-de-Mars)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/4058675976
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -616,9 +554,9 @@ DESCRIPTION:2026-02-01 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Étoile du Nord - Grand Debrief 2026
@@ -660,9 +598,9 @@ DESCRIPTION:2026-02-01 10:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260201T113000
 DTEND;TZID=America/Toronto:20260201T133000
 SUMMARY:Sit-in mensuel de Mères au front
@@ -692,9 +630,9 @@ DESCRIPTION:2026-02-01 11:30:00\n\ncoin McGill College / Sherbrooke (métr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973148551
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260201T190000
 DTEND;TZID=America/Toronto:20260201T210000
 SUMMARY:Queer Open Mic Night
@@ -716,9 +654,9 @@ DESCRIPTION:2026-02-01 19:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260202T190000
 DTEND;TZID=America/Toronto:20260202T210000
 SUMMARY:Cinema Politica : "To Kill a War Machine"
@@ -729,9 +667,9 @@ DESCRIPTION:2026-02-02 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260204T000100
 DTEND;TZID=America/Toronto:20260204T020100
 SUMMARY:Grève des groupes en défense collective des droits (DCD)
@@ -744,9 +682,9 @@ DESCRIPTION:2026-02-04 00:01:00\n\n(partout !)\n\nLa défense collective d
  di 4 février.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260204T180000
 DTEND;TZID=America/Toronto:20260204T200000
 SUMMARY: Ateliers sur les hausses de loyer
@@ -766,9 +704,9 @@ DESCRIPTION:2026-02-04 18:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973426417
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260205T113000
 DTEND;TZID=America/Toronto:20260205T133000
 SUMMARY:Action montréalaise pour la défense collective des droits
@@ -788,9 +726,9 @@ DESCRIPTION:2026-02-05 11:30:00\n\n605 St-Jacques O\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973164054
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260205T180000
 DTEND;TZID=America/Toronto:20260205T200000
 SUMMARY:Rencontre du comité féministe du POPIR
@@ -812,9 +750,9 @@ DESCRIPTION:2026-02-05 18:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260205T180000
 DTEND;TZID=America/Toronto:20260205T200000
 SUMMARY:Atelier - Les demandes d'accès à l'information
@@ -837,9 +775,9 @@ DESCRIPTION:2026-02-05 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260206T093000
 DTEND;TZID=America/Toronto:20260206T113000
 SUMMARY:La démocratie et l’état de droit à l’épreuve du projet de 
@@ -894,9 +832,9 @@ DESCRIPTION:2026-02-06 09:30:00\n\ndétails à venir\n\nLa démocratie et
  roits et libertés\, et l’Observatoire pour la justice migrante.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260206T180000
 DTEND;TZID=America/Toronto:20260206T200000
 SUMMARY:Front Rose : Soirée de lancement de l’édition un
@@ -925,9 +863,9 @@ DESCRIPTION:2026-02-06 18:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260206T180000
 DTEND;TZID=America/Toronto:20260206T200000
 SUMMARY:Party de la révolution
@@ -945,9 +883,9 @@ DESCRIPTION:2026-02-06 18:00:00\n\n5584 de la Roche\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/9753046468
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260206T190000
 DTEND;TZID=America/Toronto:20260206T210000
 SUMMARY:Club de lecture non-mixte : "Salvation" de bell hooks
@@ -968,9 +906,9 @@ DESCRIPTION:2026-02-06 19:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260206T193000
 DTEND;TZID=America/Toronto:20260206T213000
 SUMMARY:Les Insoumises présentent 5$ : Niivi / Revi my beloved / L I L A 
@@ -983,9 +921,9 @@ DESCRIPTION:2026-02-06 19:30:00\n\n2526 Ontario Est (métro Frontenac)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11108904483
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260207T130000
 DTEND;TZID=America/Toronto:20260207T150000
 SUMMARY:Manif en vélo pour la Palestine
@@ -1006,9 +944,9 @@ DESCRIPTION:2026-02-07 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260207T140000
 DTEND;TZID=America/Toronto:20260207T160000
 SUMMARY:Acte VII - Manif contre le programme d'immigration PEQ
@@ -1030,9 +968,9 @@ DESCRIPTION:2026-02-07 14:00:00\n\n1200 St-Laurent (métro St-Laurent)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973366508
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260208T130000
 DTEND;TZID=America/Toronto:20260208T150000
 SUMMARY:Assemblée vers la grève en mai
@@ -1055,9 +993,9 @@ DESCRIPTION:2026-02-08 13:00:00\n\n1430 Rue St-Denis\, salle D-R200 (métr
 URL;VALUE=URI:https://www.openstreetmap.org/way/124134688
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260208T173000
 DTEND;TZID=America/Toronto:20260208T193000
 SUMMARY:Club de lecture anticapitaliste
@@ -1079,9 +1017,9 @@ DESCRIPTION:2026-02-08 17:30:00\n\n6792 St-Laurent\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260208T200000
 DTEND;TZID=America/Toronto:20260208T220000
 SUMMARY:Queer Laughs
@@ -1100,9 +1038,9 @@ DESCRIPTION:2026-02-08 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260209T120000
 DTEND;TZID=America/Toronto:20260209T140000
 SUMMARY:Séance d'accueil à la Ligue des droits et libertés
@@ -1130,9 +1068,9 @@ DESCRIPTION:2026-02-09 12:00:00\n\n(en ligne)\n\nCLIQUEZ ICI POUR VOUS INS
  liquez ICI.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260209T190000
 DTEND;TZID=America/Toronto:20260209T210000
 SUMMARY:Cinema Politica : "True North"
@@ -1145,9 +1083,9 @@ DESCRIPTION:2026-02-09 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260210T180000
 DTEND;TZID=America/Toronto:20260210T200000
 SUMMARY:Lancement de livre : "Ce que je sais de toi" d'Éric Chacour
@@ -1178,9 +1116,9 @@ DESCRIPTION:2026-02-10 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260211T180000
 DTEND;TZID=America/Toronto:20260211T200000
 SUMMARY:Causerie autour de l’essai "La fierté de Gaza"
@@ -1210,9 +1148,9 @@ DESCRIPTION:2026-02-11 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260212T180000
 DTEND;TZID=America/Toronto:20260212T200000
 SUMMARY:Frigo Vert: Goodbye Old Space + Packing Party
@@ -1231,9 +1169,9 @@ DESCRIPTION:2026-02-12 18:00:00\n\n1440 Mackay (métro Guy-Concordia)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/5544176196
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260212T180000
 DTEND;TZID=America/Toronto:20260212T200000
 SUMMARY:Lancement de livre : "Vida\, Journal de la peur"
@@ -1267,9 +1205,9 @@ DESCRIPTION:2026-02-12 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260212T183000
 DTEND;TZID=America/Toronto:20260212T203000
 SUMMARY:Karaoké contre les hausses ! - Karaoke against rent hikes!
@@ -1289,9 +1227,9 @@ DESCRIPTION:2026-02-12 18:30:00\n\n(métro de l&#039\;Église)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/node/12111677580
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260213T000100
 DTEND;TZID=America/Toronto:20260213T020100
 SUMMARY:Camp de formation de la CRUES
@@ -1303,9 +1241,9 @@ DESCRIPTION:2026-02-13 00:01:00\n\n(reserved to students)\n\nLa CRUES vous
   là-bas!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260214T000100
 DTEND;TZID=America/Toronto:20260214T020100
 SUMMARY:Camp de formation de la CRUES
@@ -1317,9 +1255,9 @@ DESCRIPTION:2026-02-14 00:01:00\n\n(reserved to students)\n\nLa CRUES vous
   là-bas!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260214T080000
 DTEND;TZID=America/Toronto:20260214T100000
 SUMMARY:La fête du vélo d'hiver
@@ -1363,9 +1301,9 @@ DESCRIPTION:2026-02-14 08:00:00\n\nCoeur des Sciences de l&#039\;UQAM\, pa
 URL;VALUE=URI:https://www.openstreetmap.org/node/4151821311
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260214T164500
 DTEND;TZID=America/Toronto:20260214T184500
 SUMMARY:Palestine\, mon amour ! Table-ronde sur la solidarité Québec-Pal
@@ -1394,9 +1332,9 @@ DESCRIPTION:2026-02-14 16:45:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260214T173000
 DTEND;TZID=America/Toronto:20260214T193000
 SUMMARY:Souper-bénéfice pour les arrêté·e·s du 15 mars et du 1er mai
@@ -1424,9 +1362,9 @@ DESCRIPTION:2026-02-14 17:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260215T000100
 DTEND;TZID=America/Toronto:20260215T020100
 SUMMARY:Camp de formation de la CRUES
@@ -1438,9 +1376,9 @@ DESCRIPTION:2026-02-15 00:01:00\n\n(reserved to students)\n\nLa CRUES vous
   là-bas!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260216T190000
 DTEND;TZID=America/Toronto:20260216T210000
 SUMMARY:UPop : Lancement de la session d'hiver
@@ -1463,9 +1401,9 @@ DESCRIPTION:2026-02-16 19:00:00\n\n1945 Fullum (métro Frontenac)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973405149
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260216T190000
 DTEND;TZID=America/Toronto:20260216T210000
 SUMMARY:Cinema Politica: "Unclickable"
@@ -1485,9 +1423,9 @@ DESCRIPTION:2026-02-16 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260219T110000
 DTEND;TZID=America/Toronto:20260219T130000
 SUMMARY:Tribunal populaire pour les centres d'éducation populaires (CEP)
@@ -1513,9 +1451,9 @@ DESCRIPTION:2026-02-19 11:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-55
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260219T180000
 DTEND;TZID=America/Toronto:20260219T200000
 SUMMARY:Lancement de la revue Caminando : "EAU-delà des frontières : riv
@@ -1540,9 +1478,9 @@ DESCRIPTION:2026-02-19 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-56
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260220T000100
 DTEND;TZID=America/Toronto:20260220T020100
 SUMMARY:Journée mondiale pour la justice sociale
@@ -1551,9 +1489,9 @@ DESCRIPTION:2026-02-20 00:01:00\n\n(partout !)\n\nRestez à l’affût des
   actions qui seront organisées dans le cadre de cette Journée.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-57
+UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260220T113000
 DTEND;TZID=America/Toronto:20260220T133000
 SUMMARY:Action pour la justice sociale - Montréal
@@ -1585,9 +1523,9 @@ DESCRIPTION:2026-02-20 11:30:00\n\n(sur inscription)\n\nLe 20 février 202
  nous contacter.\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-58
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260221T130000
 DTEND;TZID=America/Toronto:20260221T150000
 SUMMARY:Kiosque de solidarité avec nos voisin.es non logé.es
@@ -1627,9 +1565,9 @@ DESCRIPTION:2026-02-21 13:00:00\n\nMétro Pie-Ix\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/relation/14023444
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-59
+UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260222T150000
 DTEND;TZID=America/Toronto:20260222T170000
 SUMMARY:Violet Hour Book Club : "How we Fight for our Lives"
@@ -1677,9 +1615,9 @@ DESCRIPTION:2026-02-22 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-60
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20260125T033712
+DTSTAMP:20260126T033932
 DTSTART;TZID=America/Toronto:20260222T173000
 DTEND;TZID=America/Toronto:20260222T193000
 SUMMARY:Club de lecture anticapitaliste
