@@ -8,73 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260130T034705
-DTSTART;TZID=America/Toronto:20260130T170000
-DTEND;TZID=America/Toronto:20260130T190000
-SUMMARY:Masse critique de janvier
-LOCATION:Coin du Parc/Rachel (métro Mont-Royal)
-DESCRIPTION:2026-01-30 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
- \n\nhttps://www.openstreetmap.org/way/143352036\n\n𝗠𝗔𝗦𝗦𝗘 
- 𝗖𝗥𝗜𝗧𝗜𝗤𝗨𝗘 au Parc du Mont-Royal à la statue George
- -Étienne Cartier\nRDV 17h\n(っ◔◡◔)っ  DÉPART 17h30\nOuvre l’ap
- p Critical Maps pour nous rejoindre en cours de route.\nViens célébrer l
- e plus beau moyen de transport qui soit\, pendant une balade d'une heure!\
- nNous recommandons fortement d'amener de la musique\, des guirlandes lumin
- euses et de quoi vous amusez sur vos bécyks !\nAimerais-tu 𝙙𝙤𝙣
- 𝙣𝙚𝙧 𝙪𝙣 𝙥𝙚𝙪 𝙙𝙚 𝙩𝙚𝙢𝙥𝙨 aux masse
- s critiques ?\nPeux-tu poser quelques 𝐚𝐟𝐟𝐢𝐜𝐡𝐞𝐬 
- 𝐝𝐚𝐧𝐬 𝐭𝐚 𝐜𝐨𝐦𝐦𝐮𝐧𝐚𝐮𝐭é ?\nEs-tu 
- 𝑫𝑱 𝒐𝒖 𝒎𝒖𝒔𝒊𝒄𝒊𝒆𝒏•𝒏𝒆 ?\nNous avon
- s un cyclopousse capable de t'accueillir pendant un set-concert roulant qu
- i accompagnerait la balade.\nAs-tu une cause sociale-environnementale à p
- artager ?\nTu pourras faire un 𝒅𝒊𝒔𝒄𝒐𝒖𝒓𝒔 en début 
- ou fin de balade à notre communauté.\nAimerais-tu faire la fiesta avec n
- ous ?\nTu peux nous 𝒔𝒖𝒈𝒈𝒆́𝒓𝒆𝒓 𝒖𝒏 𝒍𝒊
- 𝒆𝒖 qui pourrait nous accueillir après la balade.\nÉcris-nous sur\n
- Facebook ( facebook.com/massecritiqueamtl )\nInstagram ( instagram.com/mas
- se_critique_montreal )\,\nou par Courriel à masse_critique_montreal@proto
- nmail.com\nC'est tu ta première Masse Critique? La Masse Critique c'est u
- ne balade mani-festive qui a lieu tous les derniers vendredis du mois dans
-  les plus grandes villes du monde! Tu trouveras plus d'infos sur notre pag
- e !\n---\n𝗖𝗥𝗜𝗧𝗜𝗖𝗔𝗟 𝗠𝗔𝗦𝗦 at Mont-Royal 
- Park  Meetup 5pm at the George-Étienne Cartier monument.\n(っ◔◡◔)
- っ  DEPARTURE 5:30PM\nOpen the Critical Maps app to join us along the way
- .\nCome celebrate the most beautiful form of transportation there is\, dur
- ing a one-hour ride!\nWe highly recommend bringing music\, lights and some
- thing to have fun with on your bike!\nWould you like to 𝒈𝒊𝒗𝒆 
- 𝒔𝒐𝒎𝒆 𝒕𝒊𝒎𝒆 to critical masses?\nCan you hang a few 
- posters in your community ?\nAre you 𝑫𝑱 𝒐𝒓 𝒎𝒖𝒔𝒊
- 𝒄𝒊𝒂𝒏?\nWe have a rickshaw that can accommodate you during a ro
- lling set-concert that would accompany the ride.\nDo you have a social-env
- ironmental cause to share?\nYou can make a 𝒔𝒑𝒆𝒂𝒄𝒉 at the
-  beginning or end of the ride to our community.\nWould you like to party w
- ith us?\nYou can 𝒔𝒖𝒈𝒈𝒆𝒔𝒕 𝒂 𝒑𝒍𝒂𝒄𝒆 wh
- o could host us after the ride.\nContact us on\nFacebook ( facebook.com/ma
- ssecritiqueamtl )\,\nInstagram ( instagram.com/masse_critique_montreal )\n
- or email us at masse_critique_montreal@protonmail.com\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260130T034705
-DTSTART;TZID=America/Toronto:20260130T183000
-DTEND;TZID=America/Toronto:20260130T203000
-SUMMARY:Soirée déchaînée : Vélo hamac
-LOCATION:1800 Letourneux (métro Pie-IX)
-DESCRIPTION:2026-01-30 18:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
- s://www.openstreetmap.org/way/363150208\n\nLes soirées déchaînées sont
-  de retour!✊⛓\nLe comité mob de BQAM-E vous a concocté une belle con
- férence/discussion avec Vélo Hamac un couple qui voyage autour du monde 
- à vélo et qui partagerons leurs fabuleuses expériences.\n👉30 Janvier
-  18h30. Juste après la @masse_critique_montreal qui part du Mont-Royal à
-  17h00.\n👇\nÀ l'achoppe : 1800 rue Létourneux.\n&nbsp\;
-URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260131T153000
 DTEND;TZID=America/Toronto:20260131T173000
 SUMMARY:Vigile en solidarité avec les victimes de ICE
@@ -105,9 +39,9 @@ DESCRIPTION:2026-01-31 15:30:00\n\n(métro McGill)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/88609497
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-3
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260131T170000
 DTEND;TZID=America/Toronto:20260131T190000
 SUMMARY:Artistes contre le génocide
@@ -134,9 +68,9 @@ DESCRIPTION:2026-01-31 17:00:00\n\n429 Viger Est (métro Champ-de-Mars)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/4058675976
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Cercle de partage pour personnes hypersensibles
@@ -160,9 +94,9 @@ DESCRIPTION:2026-02-01 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260201T100000
 DTEND;TZID=America/Toronto:20260201T120000
 SUMMARY:Étoile du Nord - Grand Debrief 2026
@@ -204,9 +138,9 @@ DESCRIPTION:2026-02-01 10:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260201T113000
 DTEND;TZID=America/Toronto:20260201T133000
 SUMMARY:Sit-in mensuel de Mères au front
@@ -236,9 +170,9 @@ DESCRIPTION:2026-02-01 11:30:00\n\ncoin McGill College / Sherbrooke (métr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973148551
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260201T190000
 DTEND;TZID=America/Toronto:20260201T210000
 SUMMARY:Queer Open Mic Night
@@ -260,9 +194,9 @@ DESCRIPTION:2026-02-01 19:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260202T173000
 DTEND;TZID=America/Toronto:20260202T193000
 SUMMARY:Ras-le-bol : Cuisine collective
@@ -275,9 +209,9 @@ DESCRIPTION:2026-02-02 17:30:00\n\n(sur inscription)\n\n🥕🍄‍🟫
  évènements! ☺️
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260202T180000
 DTEND;TZID=America/Toronto:20260202T200000
 SUMMARY:Permanence de l'Achoppe
@@ -300,9 +234,9 @@ DESCRIPTION:2026-02-02 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260202T190000
 DTEND;TZID=America/Toronto:20260202T210000
 SUMMARY:Cinema Politica : "To Kill a War Machine"
@@ -313,9 +247,9 @@ DESCRIPTION:2026-02-02 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260203T163000
 DTEND;TZID=America/Toronto:20260203T183000
 SUMMARY:Fabrique ton garde-boue (mixité choisie)
@@ -327,9 +261,9 @@ DESCRIPTION:2026-02-03 16:30:00\n\n200 rue Sherbrooke O local SH-R315\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/relation/16837027
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260204T000100
 DTEND;TZID=America/Toronto:20260204T020100
 SUMMARY:Grève des groupes en défense collective des droits (DCD)
@@ -342,9 +276,9 @@ DESCRIPTION:2026-02-04 00:01:00\n\n(partout !)\n\nLa défense collective d
  di 4 février.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260204T180000
 DTEND;TZID=America/Toronto:20260204T200000
 SUMMARY: Ateliers sur les hausses de loyer
@@ -364,9 +298,9 @@ DESCRIPTION:2026-02-04 18:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973426417
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260205T113000
 DTEND;TZID=America/Toronto:20260205T133000
 SUMMARY:Action montréalaise pour la défense collective des droits
@@ -386,9 +320,9 @@ DESCRIPTION:2026-02-05 11:30:00\n\n605 St-Jacques O\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973164054
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260205T123000
 DTEND;TZID=America/Toronto:20260205T143000
 SUMMARY:Ras-le-bol : Distribution de bouffe
@@ -404,9 +338,9 @@ DESCRIPTION:2026-02-05 12:30:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260205T173000
 DTEND;TZID=America/Toronto:20260205T193000
 SUMMARY:Projection: La révolution ne sera pas télévisée
@@ -418,9 +352,9 @@ DESCRIPTION:2026-02-05 17:30:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260205T180000
 DTEND;TZID=America/Toronto:20260205T200000
 SUMMARY:Rencontre du comité féministe du POPIR
@@ -442,9 +376,9 @@ DESCRIPTION:2026-02-05 18:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260205T180000
 DTEND;TZID=America/Toronto:20260205T200000
 SUMMARY:Atelier - Les demandes d'accès à l'information
@@ -467,9 +401,9 @@ DESCRIPTION:2026-02-05 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260206T093000
 DTEND;TZID=America/Toronto:20260206T113000
 SUMMARY:La démocratie et l’état de droit à l’épreuve du projet de 
@@ -524,9 +458,46 @@ DESCRIPTION:2026-02-06 09:30:00\n\ndétails à venir\n\nLa démocratie et
  roits et libertés\, et l’Observatoire pour la justice migrante.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
+DTSTART;TZID=America/Toronto:20260206T140000
+DTEND;TZID=America/Toronto:20260206T160000
+SUMMARY:Discussion sur Frantz Fanon suite au lancement du film "Fanon" en 
+ présence du réalisateur
+LOCATION:1575 Laurier Est
+DESCRIPTION:2026-02-06 14:00:00\n\n1575 Laurier Est\n\nhttps://www.openstr
+ eetmap.org/node/11815376254\n\nDans le cadre de la sortie québécoise du 
+ film FANON le 6 février\, nous vous invitons à une discussion en présen
+ ce du réalisateur du film Jean-Claude Barny et du doctorant en philosophi
+ e Jacques Renaud Stinfil.\nQuand : Vendredi février de 14h à 15h\nOù : 
+ Librairie Un livre à soi à Montréal\nEntrée libre\nJEAN-CLAUDE BARNY\n
+ Réalisateur français de Guadeloupe et Trinidad &amp\; Tobago\, il mêle 
+ l’Europe des auteurs à l’industrie du divertissement américain.\nAut
+ odidacte\, il débute à 16 ans en analysant des films d’auteur\, d’ac
+ tion et de fiction.\nEn 1994\, il réalise PUTAIN DE PORTE avec des acteur
+ s comme Vincent Cassel et Mathieu Kassovitz\, puis il collabore au casting
+  de LA HAINE. Il se forme ensuite auprès de Jacques Audiard et réalise d
+ es clips pour la scène urbaine française et des artistes caribéens.\nEn
+  2003\, Jean-Claude Barny s’installe en Guadeloupe et réalise son premi
+ er long métrage\, NÈG MARON (2005)\, qui traite des problèmes de la jeu
+ nesse antillaise.\nSon second long métrage\, LE GANG DES ANTILLAIS (2016)
+ \, revisite l’autobiographie de Loïc Lery\, braqueur martiniquais des a
+ nnées 1970.\nSon troisième long métrage\, FANON (2025)\, revient sur l
+ ’histoire de l’écrivain et psychiatre militant pour l’indépendance
+  de l’Algérie.\nJACQUES RENAUD STINFIL\nPrésentement en fin de parcour
+ s doctoral en philosophie à l'Université de Montréal\, sa thèse porte 
+ sur les survivances coloniales dans les relations d'Haïti et de la Répub
+ lique dominicaine.\nIl s’intéresse à la pensée de Frantz Fanon\, aux 
+ études décoloniales et\, plus récemment\, aux études noires.\nIl a eu 
+ plusieurs charges de cours à l'Université de Montréal. Il est présente
+ ment chargé de cours à l'Université de Moncton.
+URL;VALUE=URI:https://www.openstreetmap.org/node/11815376254
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-19
+SEQUENCE:0
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260206T180000
 DTEND;TZID=America/Toronto:20260206T200000
 SUMMARY:Front Rose : Soirée de lancement de l’édition un
@@ -555,9 +526,9 @@ DESCRIPTION:2026-02-06 18:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260206T180000
 DTEND;TZID=America/Toronto:20260206T200000
 SUMMARY:Party de la révolution
@@ -575,9 +546,9 @@ DESCRIPTION:2026-02-06 18:00:00\n\n5584 de la Roche\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/9753046468
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260206T190000
 DTEND;TZID=America/Toronto:20260206T210000
 SUMMARY:Club de lecture non-mixte : "Salvation" de bell hooks
@@ -598,9 +569,9 @@ DESCRIPTION:2026-02-06 19:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260206T193000
 DTEND;TZID=America/Toronto:20260206T213000
 SUMMARY:Les Insoumises présentent 5$ : Niivi / Revi my beloved / L I L A 
@@ -613,9 +584,37 @@ DESCRIPTION:2026-02-06 19:30:00\n\n2526 Ontario Est (métro Frontenac)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/11108904483
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-23
+SEQUENCE:0
+DTSTAMP:20260131T034538
+DTSTART;TZID=America/Toronto:20260207T130000
+DTEND;TZID=America/Toronto:20260207T150000
+SUMMARY:Projection : "Fanon"
+LOCATION:2396 Beaubien Est (métro Iberville)
+DESCRIPTION:2026-02-07 13:00:00\n\n2396 Beaubien Est (métro Iberville)\n\
+ nhttps://www.openstreetmap.org/node/281865771\n\nFilm biographique sur le 
+ grand intellectuel et militant anticolonialiste\, méconnu du grand public
+ \, Frantz Fanon\, FANON&nbsp\;a connu un véritable succès public lors de
+  sa sortie en France en 2025. Le film met en vedette la révélation Alexa
+ ndre Bouyer dans le rôle de la figure militante ainsi que Déborah Franç
+ ois (L'Enfant\, Le Premier Jour du reste de ta vie) et Stanislas Merhar (D
+ ossier 137).\nFrantz Fanon\, un psychiatre français originaire de la Mart
+ inique vient d'être nommé chef de service à l'hôpital psychiatrique de
+  Blida en Algérie. Ses méthodes contrastent avec celles des autres méde
+ cins dans un contexte de colonisation. Un biopic au cœur de la guerre d'A
+ lgérie où se livre un combat au nom de l'Humanité.\nCoproduit avec la F
+ rance par Péripheria (Yanick Létourneau) au Québec\,  FANON&nbsp\;retra
+ ce le parcours de Frantz Fanon\, psychiatre et militant anticolonialiste\,
+  en poste en Algérie et impliqué dans la lutte pour l'indépendance de l
+ 'Algérie dans les années 50\, de son combat politique à son cheminement
+  profondément humain en racontant la construction de son livre Les Damné
+ s de la Terre.&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/281865771
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260207T130000
 DTEND;TZID=America/Toronto:20260207T150000
 SUMMARY:Manif en vélo pour la Palestine
@@ -638,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260207T140000
 DTEND;TZID=America/Toronto:20260207T160000
 SUMMARY:Acte VII - Manif contre l'abolition du programme d'immigration PEQ
@@ -662,7 +661,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260208T130000
 DTEND;TZID=America/Toronto:20260208T150000
 SUMMARY:Assemblée vers la grève en mai
@@ -687,7 +686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260208T173000
 DTEND;TZID=America/Toronto:20260208T193000
 SUMMARY:Club de lecture anticapitaliste
@@ -711,7 +710,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260208T200000
 DTEND;TZID=America/Toronto:20260208T220000
 SUMMARY:Queer Laughs
@@ -732,7 +731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260209T120000
 DTEND;TZID=America/Toronto:20260209T140000
 SUMMARY:Séance d'accueil à la Ligue des droits et libertés
@@ -762,7 +761,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260209T180000
 DTEND;TZID=America/Toronto:20260209T200000
 SUMMARY:Permanence de l'Achoppe
@@ -787,7 +786,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260209T183000
 DTEND;TZID=America/Toronto:20260209T203000
 SUMMARY:Projection : "Visions of Abolition: From Critical Resistance to A 
@@ -800,7 +799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260209T190000
 DTEND;TZID=America/Toronto:20260209T210000
 SUMMARY:Cinema Politica : "True North"
@@ -815,7 +814,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260210T173000
 DTEND;TZID=America/Toronto:20260210T193000
 SUMMARY:Accompagnement international en Colombie: Soirée d'information
@@ -837,7 +836,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260210T180000
 DTEND;TZID=America/Toronto:20260210T200000
 SUMMARY:Lancement de livre : "Ce que je sais de toi" d'Éric Chacour
@@ -870,7 +869,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260210T183000
 DTEND;TZID=America/Toronto:20260210T203000
 SUMMARY:Lancement À bâbord!: Épiceries. Faim de justice.
@@ -901,7 +900,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260211T170000
 DTEND;TZID=America/Toronto:20260211T190000
 SUMMARY:Bouffe collective de l'Achoppe
@@ -920,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260211T173000
 DTEND;TZID=America/Toronto:20260211T193000
 SUMMARY:Ras-le-bol : Cuisine collective
@@ -935,7 +934,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260211T180000
 DTEND;TZID=America/Toronto:20260211T200000
 SUMMARY:Causerie autour de l’essai "La fierté de Gaza"
@@ -967,7 +966,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T123000
 DTEND;TZID=America/Toronto:20260212T143000
 SUMMARY:Ras-le-bol : Distribution de bouffe
@@ -985,7 +984,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T180000
 DTEND;TZID=America/Toronto:20260212T200000
 SUMMARY:Frigo Vert: Goodbye Old Space + Packing Party
@@ -1006,7 +1005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T180000
 DTEND;TZID=America/Toronto:20260212T200000
 SUMMARY:Break-up with AI : zine launch
@@ -1033,7 +1032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T180000
 DTEND;TZID=America/Toronto:20260212T200000
 SUMMARY:Criminal Queers: a free screening of "Queer Abolitionist Camp Clas
@@ -1058,7 +1057,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T180000
 DTEND;TZID=America/Toronto:20260212T200000
 SUMMARY:Lancement de livre : "Vida\, Journal de la peur"
@@ -1094,7 +1093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T183000
 DTEND;TZID=America/Toronto:20260212T203000
 SUMMARY:CIné-club féministe: Comme entendre au travers une feuille de m
@@ -1130,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T183000
 DTEND;TZID=America/Toronto:20260212T203000
 SUMMARY:Karaoké contre les hausses ! - Karaoke against rent hikes!
@@ -1152,7 +1151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260212T190000
 DTEND;TZID=America/Toronto:20260212T210000
 SUMMARY:Concert bénéfice pour MAMO
@@ -1168,7 +1167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260213T000100
 DTEND;TZID=America/Toronto:20260213T020100
 SUMMARY:Camp de formation de la CRUES
@@ -1182,7 +1181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260213T150000
 DTEND;TZID=America/Toronto:20260213T170000
 SUMMARY:ICE tue\, le québec paie : Manif contre gardaworld
@@ -1229,7 +1228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260214T000100
 DTEND;TZID=America/Toronto:20260214T020100
 SUMMARY:Camp de formation de la CRUES
@@ -1243,7 +1242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260214T080000
 DTEND;TZID=America/Toronto:20260214T100000
 SUMMARY:La fête du vélo d'hiver
@@ -1289,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260214T164500
 DTEND;TZID=America/Toronto:20260214T184500
 SUMMARY:Palestine\, mon amour ! Table-ronde sur la solidarité Québec-Pal
@@ -1320,7 +1319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260214T173000
 DTEND;TZID=America/Toronto:20260214T193000
 SUMMARY:Souper-bénéfice pour les arrêté·e·s du 15 mars et du 1er mai
@@ -1350,7 +1349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260215T000100
 DTEND;TZID=America/Toronto:20260215T020100
 SUMMARY:Camp de formation de la CRUES
@@ -1364,7 +1363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260216T130000
 DTEND;TZID=America/Toronto:20260216T150000
 SUMMARY:Anticapitalist Week : Understanding Sudan's Counter-Revolutionary 
@@ -1382,7 +1381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260216T170000
 DTEND;TZID=America/Toronto:20260216T190000
 SUMMARY:Anticapitalist Week : What thrives beyond productivity\, disabilit
@@ -1399,7 +1398,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260216T173000
 DTEND;TZID=America/Toronto:20260216T193000
 SUMMARY:Ras-le-bol : Cuisine collective
@@ -1414,7 +1413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260216T180000
 DTEND;TZID=America/Toronto:20260216T200000
 SUMMARY:Permanence de l'Achoppe
@@ -1439,7 +1438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260216T190000
 DTEND;TZID=America/Toronto:20260216T210000
 SUMMARY:UPop : Lancement de la session d'hiver
@@ -1464,7 +1463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-59
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260216T190000
 DTEND;TZID=America/Toronto:20260216T210000
 SUMMARY:Cinema Politica: "Unclickable"
@@ -1486,7 +1485,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-60
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260217T180000
 DTEND;TZID=America/Toronto:20260217T200000
 SUMMARY:Café populaire Bellechasse : Projection de "Les murs qui nous hab
@@ -1507,7 +1506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-61
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260217T183000
 DTEND;TZID=America/Toronto:20260217T203000
 SUMMARY:Anti-capitaliste Week: Street solidarity\, harm reduction\, and mu
@@ -1520,7 +1519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-62
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260218T130000
 DTEND;TZID=America/Toronto:20260218T150000
 SUMMARY:Anticapitalist Week: Fight rent increases through solidarity and d
@@ -1533,7 +1532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-63
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260219T110000
 DTEND;TZID=America/Toronto:20260219T130000
 SUMMARY:Tribunal populaire pour les centres d'éducation populaires (CEP)
@@ -1561,7 +1560,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-64
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260219T123000
 DTEND;TZID=America/Toronto:20260219T143000
 SUMMARY:Ras-le-bol : Distribution de bouffe
@@ -1579,7 +1578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-65
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260219T170000
 DTEND;TZID=America/Toronto:20260219T190000
 SUMMARY:Soirée de création et travail du métal pour et par personnes qu
@@ -1606,7 +1605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-66
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260219T180000
 DTEND;TZID=America/Toronto:20260219T200000
 SUMMARY:Lancement de la revue Caminando : "EAU-delà des frontières : riv
@@ -1633,7 +1632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-67
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260219T190000
 DTEND;TZID=America/Toronto:20260219T210000
 SUMMARY:Écoféminisme\, surréalisme\, anarchisme dans les œuvres de Leo
@@ -1646,7 +1645,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-68
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260220T000100
 DTEND;TZID=America/Toronto:20260220T020100
 SUMMARY:Journée mondiale pour la justice sociale
@@ -1657,7 +1656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-69
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260220T113000
 DTEND;TZID=America/Toronto:20260220T133000
 SUMMARY:Action pour la justice sociale - Montréal
@@ -1691,7 +1690,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-70
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260220T173000
 DTEND;TZID=America/Toronto:20260220T193000
 SUMMARY:Résister et souper de la Mob
@@ -1708,7 +1707,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-71
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260221T130000
 DTEND;TZID=America/Toronto:20260221T150000
 SUMMARY:Kiosque de solidarité avec nos voisin.es non logé.es
@@ -1750,7 +1749,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-72
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260222T150000
 DTEND;TZID=America/Toronto:20260222T170000
 SUMMARY:Violet Hour Book Club : "How we Fight for our Lives"
@@ -1800,7 +1799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-73
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260222T173000
 DTEND;TZID=America/Toronto:20260222T193000
 SUMMARY:Club de lecture anticapitaliste
@@ -1824,7 +1823,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-74
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260223T180000
 DTEND;TZID=America/Toronto:20260223T200000
 SUMMARY:Permanence de l'Achoppe
@@ -1849,7 +1848,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-75
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260225T173000
 DTEND;TZID=America/Toronto:20260225T193000
 SUMMARY:Ras-le-bol : Cuisine collective
@@ -1864,7 +1863,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-76
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260226T123000
 DTEND;TZID=America/Toronto:20260226T143000
 SUMMARY:Ras-le-bol : Distribution de bouffe
@@ -1882,7 +1881,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-77
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260226T180000
 DTEND;TZID=America/Toronto:20260226T200000
 SUMMARY:Emma Goldman: La femme la plus dangereuse d'Amérique débarque à
@@ -1896,7 +1895,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-78
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260227T170000
 DTEND;TZID=America/Toronto:20260227T190000
 SUMMARY:Masse critique de février
@@ -1945,7 +1944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-79
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260227T173000
 DTEND;TZID=America/Toronto:20260227T193000
 SUMMARY:Lancement double : "De mauvais augure" d’Erika Soucy et "Arabes 
@@ -1999,7 +1998,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-80
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260228T101500
 DTEND;TZID=America/Toronto:20260228T121500
 SUMMARY:Cercle de lecture : L'Afrofuturisme avec Mélodie Joseph
@@ -2026,7 +2025,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-81
 SEQUENCE:0
-DTSTAMP:20260130T034705
+DTSTAMP:20260131T034538
 DTSTART;TZID=America/Toronto:20260228T190000
 DTEND;TZID=America/Toronto:20260228T210000
 SUMMARY:La Chaîne - New Band Show
@@ -2039,5 +2038,31 @@ DESCRIPTION:2026-02-28 19:00:00\n\n4388 St-Laurent (métro Mont-Royal)\n\n
  s time\, please get in touch!\nEmail: la_chaine@riseup.net\nSignal: lachai
  ne.01 or 438-383-6270\nSMS/voicemail: 438-383-6270\n&nbsp\;
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034360402
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-82
+SEQUENCE:0
+DTSTAMP:20260131T034538
+DTSTART;TZID=America/Toronto:20260301T100000
+DTEND;TZID=America/Toronto:20260301T120000
+SUMMARY:Cercle de partage pour personnes hypersensibles
+LOCATION:6510 rue Saint-Valier
+DESCRIPTION:2026-03-01 10:00:00\n\n6510 rue Saint-Valier\n\nhttps://www.op
+ enstreetmap.org/node/6698037452\n\nEn partenariat avec&nbsp\;Le Rebond\, n
+ ous lançons à partir d’octobre une série de cercles de partage pour l
+ es personnes hypersensibles.\nQu’est-ce que l’hypersensibilité?\nSelo
+ n Elaine N. Aron\, l’hypersensibilité est un trait de personnalité car
+ actérisé par une sensibilité plus haute que la moyenne à des stimuli d
+ e l’environnement\, ce qui entraîne des sensations\, des émotions\, de
+ s pensées et une empathie décuplée.\nVous vous retrouvez dans ce descri
+ ptif? Alors vous êtes les bienvenu-e-s.\nNos cercles visent à créer un 
+ espace d’échange pour permettre aux personnes hypersensibles de mieux s
+ e connaître et de développer des outils pour naviguer ces défis et valo
+ riser leurs forces. Les cercles proposeront entre autres des discussions\,
+  des partage de savoirs\, des exercices intellectuels et corporels et des 
+ activités artistiques qui seront décidées par et pour les personnes par
+ ticipantes\nSi ça vous interpelle\, tous les détails sont dans le&nbsp\;
+ formulaire d’inscription. Il faut s’inscrire\, mais c’est gratuit!
+URL;VALUE=URI:https://www.openstreetmap.org/node/6698037452
 END:VEVENT
 END:VCALENDAR
