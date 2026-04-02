@@ -8,75 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260401T040341
-DTSTART;TZID=America/Toronto:20260401T120000
-DTEND;TZID=America/Toronto:20260401T140000
-SUMMARY:Zap téléphonique pour l'accès aux soins des personnes migrantes
-LOCATION:(partout !)
-DESCRIPTION:2026-04-01 12:00:00\n\n(partout !)\n\nJoignez-vous au Migrant 
- Rights Network (MRN)\, au Conseil canadien pour les réfugiés (CCR) et au
-  Canadian Refugee Health Network (CRHN) pour dire #NonAuxCoupuresBudgetair
- esDuPFSI pour les soins de santé des réfugié.e.s. Le 1er mai 2026\, le 
- gouvernement libéral compte introduire des frais supplémentaires nuisibl
- es et inabordables pour les soins de santé des réfugié.e.s.\n📞 Parti
- cipez au « zap téléphonique » et au webinaire : lun. 30 mars à 19 h (
- HE) et/ou mer. 1er avril à 12 h (HE) (voir le lien en bio)\n☝️ Signez
-  la pétition du Migrant Rights Network (voir le lien en bio)\n📢 Des ex
- pert·e·s en justice migrante et des clinicien·ne·s discuteront de l’
- impact de ces coupures sur les communautés réfugiées lors du webinaire.
- \n☎️ Nous utiliserons notre voix collective pour appeler des député
- ·e·s clés et exiger l’arrêt des coupures dans les soins de santé po
- ur les réfugié.e.s.\n🔗 Nous savons que les mesures d’austérité nu
- isent à tout le monde et coûteront plus cher à nos communautés\, et no
- n moins. Nous devons exiger à nos député·e·s de mettre fin à ces cou
- pures. Nous sommes tous.tes en meilleure santé lorsque tout le monde a ac
- cès aux soins.\n#NonAuxCoupuresEnSante #SantéPourTous #ContreLesCoupures
- AuPFSI
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260401T040341
-DTSTART;TZID=America/Toronto:20260401T180000
-DTEND;TZID=America/Toronto:20260401T200000
-SUMMARY:Triple lancement et « fête de la parole antifasciste »
-LOCATION:2300 Holt
-DESCRIPTION:2026-04-01 18:00:00\n\n2300 Holt\n\nhttps://www.openstreetmap.
- org/node/5485581949\n\nLancement et «&nbsp\;fête de la parole antifascis
- te&nbsp\;» le 1er avril\nLe collectif de la revue À bâbord&nbsp\;! vous
-  invite au lancement de son numéro 107 et du dossier «&nbsp\;Les lignes 
- de front de l’antifascisme&nbsp\;».\nCe lancement est organisé conjoin
- tement avec la revue Liberté et M Éditeur.\nÇa se passe à MaBrasserie 
- (2300 Holt\, Montréal)\, le mercredi 1er avril à 18h.\nEntrée libre\, b
- ienvenue à toutes et à tous&nbsp\;!
-URL;VALUE=URI:https://www.openstreetmap.org/node/5485581949
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260401T040341
-DTSTART;TZID=America/Toronto:20260401T190000
-DTEND;TZID=America/Toronto:20260401T210000
-SUMMARY:CASCQ : Discussion de fin de shift
-LOCATION:(en ligne)
-DESCRIPTION:2026-04-01 19:00:00\n\n(en ligne)\n\nTRAVAILLEURS ET TRAVAILLE
- USES DE LA CONSTRUCTION et leurs alliées :\nNotre prochaine discussion ap
- rès le travail aura lieu le mercredi 1er avril à 19h en ligne.\nL’enqu
- ête du coroner sur les morts sur les chantiers de construction a commenc
- é le 23 mars dernier et déjà ça va mal!\nLa coroner a décidé d’app
- liquer l’omerta en interdisant tout enregistrement audio et vidéo des a
- udiences. Après tout\, il faut respecter l’intimité des employeurs qui
-  vont avouer jouer avec la vie des gens pour sauver quelques piasses. Il f
- audrait surtout pas qu’ils vivent des conséquences!\nOn a le droit de s
- avoir pourquoi nos collègues meurent sur les chantiers et qui est respons
- able de leur mort!\nC’est assez de l’omerta dans l’industrie!\nLien 
- de l’appel jitsi : https://meet.jit.si/.../d66400d12e866cfa49260be641fac
- c37d...
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T110000
 DTEND;TZID=America/Toronto:20260402T130000
 SUMMARY:Le communautaire à boutte ! Manifestation
@@ -127,9 +59,9 @@ DESCRIPTION:2026-04-02 11:00:00\n\n1150\, avenue Honoré-Mercier\, ville d
 URL;VALUE=URI:https://www.openstreetmap.org/way/577383256
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T124500
 DTEND;TZID=America/Toronto:20260402T144500
 SUMMARY:Collectif Lueurs - Café de soutien
@@ -147,9 +79,9 @@ DESCRIPTION:2026-04-02 12:45:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T130000
 DTEND;TZID=America/Toronto:20260402T150000
 SUMMARY:Manifestation "nationale" - Droits piétinés\, faut résister
@@ -182,9 +114,9 @@ DESCRIPTION:2026-04-02 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T140000
 DTEND;TZID=America/Toronto:20260402T160000
 SUMMARY:Consultation de la ville de montréal sur des pistes cyclables dan
@@ -217,9 +149,9 @@ DESCRIPTION:2026-04-02 14:00:00\n\n(métro Langelier)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972880310
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T160000
 DTEND;TZID=America/Toronto:20260402T180000
 SUMMARY:Vigil for Palestine
@@ -234,9 +166,9 @@ DESCRIPTION:2026-04-02 16:00:00\n\n(aux tourniquets)\n\nApril 2 @ 16 h 00
  in solidarity with the people of Palestine
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T173000
 DTEND;TZID=America/Toronto:20260402T193000
 SUMMARY:Care Workshop 4 the Rad & Mad
@@ -264,9 +196,9 @@ DESCRIPTION:2026-04-02 17:30:00\n\n(métro Préfontaine)\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973307079
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T180000
 DTEND;TZID=America/Toronto:20260402T200000
 SUMMARY:Projection: "Eat the Rich"
@@ -287,9 +219,9 @@ DESCRIPTION:2026-04-02 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260402T180000
 DTEND;TZID=America/Toronto:20260402T200000
 SUMMARY:Cercle de lecture : Karl Marx - Salaire\, prix\, profit
@@ -317,9 +249,9 @@ DESCRIPTION:2026-04-02 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260403T190000
 DTEND;TZID=America/Toronto:20260403T210000
 SUMMARY:Anniversaire Distro X Frigo - vendredi
@@ -337,9 +269,9 @@ DESCRIPTION:2026-04-03 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260403T190000
 DTEND;TZID=America/Toronto:20260403T210000
 SUMMARY:Désintérêt national : Présentation du texte et ouverture de la
@@ -364,9 +296,9 @@ DESCRIPTION:2026-04-03 19:00:00\n\n(coin de Lorimier/des Carrières)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T000100
 DTEND;TZID=America/Toronto:20260404T020100
 SUMMARY:Contre l'intérêt national
@@ -410,9 +342,9 @@ DESCRIPTION:2026-04-04 00:01:00\n\n5860 de Lorimier\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T120000
 DTEND;TZID=America/Toronto:20260404T140000
 SUMMARY:Anniversaire Distro X Frigo - samedi
@@ -431,9 +363,9 @@ DESCRIPTION:2026-04-04 12:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T120000
 DTEND;TZID=America/Toronto:20260404T140000
 SUMMARY:Bookswap PWYC fundraiser for MAMO premières nations
@@ -470,9 +402,9 @@ DESCRIPTION:2026-04-04 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T130000
 DTEND;TZID=America/Toronto:20260404T150000
 SUMMARY:Palestine: Great Ride of Return
@@ -491,9 +423,9 @@ DESCRIPTION:2026-04-04 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T130000
 DTEND;TZID=America/Toronto:20260404T150000
 SUMMARY:Désintérêt national : Le génocide à main levée: critiques ka
@@ -514,9 +446,9 @@ DESCRIPTION:2026-04-04 13:00:00\n\n(coin de Lorimier/des Carrières)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T150000
 DTEND;TZID=America/Toronto:20260404T170000
 SUMMARY:Cours: Apprendre à militer (10 séances)
@@ -552,9 +484,9 @@ DESCRIPTION:2026-04-04 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T160000
 DTEND;TZID=America/Toronto:20260404T180000
 SUMMARY:Désintérêt national : Focus group et discussions
@@ -568,9 +500,32 @@ DESCRIPTION:2026-04-04 16:00:00\n\n(coin de Lorimier/des Carrières)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
+DTSTART;TZID=America/Toronto:20260404T173000
+DTEND;TZID=America/Toronto:20260404T193000
+SUMMARY:Projection : "Voir — Juger — Agir : L’histoire de la JOC au 
+ Québec"
+LOCATION:Salle Fernand-Seguin\, 335 Maisonneuve Est (métro Berri)
+DESCRIPTION:2026-04-04 17:30:00\n\nSalle Fernand-Seguin\, 335 Maisonneuve 
+ Est (métro Berri)\n\nhttps://www.openstreetmap.org/node/4162415329\n\nVoi
+ r — Juger — Agir : L’histoire de la JOC au Québec retrace l’histo
+ ire méconnue de la Jeunesse Ouvrière Catholique (JOC)\, un mouvement ouv
+ rier ancré dans les quartiers populaires du Québec depuis les années 19
+ 30. À travers des témoignages\, des archives inédites et les regards d
+ ’expert·e·s\, le film dévoile près d’un siècle d’engagement soc
+ ial porté par des jeunes travailleurs et travailleuses en quête de justi
+ ce et de solidarité. Des sous-sols d’église aux luttes féministes et 
+ syndicales\, ce documentaire sensible et politique revient sur l’impact 
+ durable de la JOC et son rôle déterminant dans les bouleversements de la
+  Révolution tranquille.
+URL;VALUE=URI:https://www.openstreetmap.org/node/4162415329
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-18
+SEQUENCE:0
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260404T190000
 DTEND;TZID=America/Toronto:20260404T210000
 SUMMARY:Désintérêt national : réflexions sombres sur les temps présen
@@ -607,9 +562,9 @@ DESCRIPTION:2026-04-04 19:00:00\n\n(coin de Lorimier/des Carrières)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260405T000100
 DTEND;TZID=America/Toronto:20260405T020100
 SUMMARY:Contre l'intérêt national
@@ -653,9 +608,9 @@ DESCRIPTION:2026-04-05 00:01:00\n\n5860 de Lorimier\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260405T100000
 DTEND;TZID=America/Toronto:20260405T120000
 SUMMARY:Désintérêt national : Sionisme - histoire d'une construction na
@@ -675,9 +630,9 @@ DESCRIPTION:2026-04-05 10:00:00\n\n(coin de Lorimier/des Carrières)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260405T113000
 DTEND;TZID=America/Toronto:20260405T133000
 SUMMARY:Sit-in mensuel de Mères au front
@@ -707,9 +662,9 @@ DESCRIPTION:2026-04-05 11:30:00\n\nCoin Sherbrooke/McGill College (metro S
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973148551
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260405T120000
 DTEND;TZID=America/Toronto:20260405T140000
 SUMMARY:SLAM/MATU - Cercle de locataires
@@ -740,9 +695,9 @@ DESCRIPTION:2026-04-05 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260405T130000
 DTEND;TZID=America/Toronto:20260405T150000
 SUMMARY:Désintérêt national : L’intérêt national\, internationalism
@@ -760,9 +715,9 @@ DESCRIPTION:2026-04-05 13:00:00\n\n(coin de Lorimier/des Carrières)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260405T160000
 DTEND;TZID=America/Toronto:20260405T180000
 SUMMARY:Désintérêt national : Fermeture - Gens du commun\, quel nous ?
@@ -785,9 +740,9 @@ DESCRIPTION:2026-04-05 16:00:00\n\n(coin de Lorimier/des Carrières)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/11116585165
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260405T173000
 DTEND;TZID=America/Toronto:20260405T193000
 SUMMARY:Club de lecture anticapitaliste
@@ -809,9 +764,9 @@ DESCRIPTION:2026-04-05 17:30:00\n\n6792 St-Laurent\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260406T140000
 DTEND;TZID=America/Toronto:20260406T160000
 SUMMARY:Atelier d'écriture et de prises de paroles avec l'Injecteur
@@ -825,9 +780,32 @@ DESCRIPTION:2026-04-06 14:00:00\n\n1555 René-Lévesque Est\n\nTu veux pre
  n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
+DTSTART;TZID=America/Toronto:20260406T140000
+DTEND;TZID=America/Toronto:20260406T160000
+SUMMARY:Projection : "Voir — Juger — Agir : L’histoire de la JOC au 
+ Québec "
+LOCATION:Salle Fernand-Seguin\, 335 Maisonneuve Est (métro Berri)
+DESCRIPTION:2026-04-06 14:00:00\n\nSalle Fernand-Seguin\, 335 Maisonneuve 
+ Est (métro Berri)\n\nhttps://www.openstreetmap.org/node/4162415329\n\nVoi
+ r — Juger — Agir : L’histoire de la JOC au Québec retrace l’histo
+ ire méconnue de la Jeunesse Ouvrière Catholique (JOC)\, un mouvement ouv
+ rier ancré dans les quartiers populaires du Québec depuis les années 19
+ 30. À travers des témoignages\, des archives inédites et les regards d
+ ’expert·e·s\, le film dévoile près d’un siècle d’engagement soc
+ ial porté par des jeunes travailleurs et travailleuses en quête de justi
+ ce et de solidarité. Des sous-sols d’église aux luttes féministes et 
+ syndicales\, ce documentaire sensible et politique revient sur l’impact 
+ durable de la JOC et son rôle déterminant dans les bouleversements de la
+  Révolution tranquille.
+URL;VALUE=URI:https://www.openstreetmap.org/node/4162415329
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-28
+SEQUENCE:0
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260406T190000
 DTEND;TZID=America/Toronto:20260406T210000
 SUMMARY:Last Generation: Introduction
@@ -839,9 +817,9 @@ DESCRIPTION:2026-04-06 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260407T180000
 DTEND;TZID=America/Toronto:20260407T200000
 SUMMARY:Lancement - Le courage et la joie
@@ -876,9 +854,9 @@ DESCRIPTION:2026-04-07 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260407T180000
 DTEND;TZID=America/Toronto:20260407T200000
 SUMMARY: Ateliers sur les hausses de loyer
@@ -898,9 +876,9 @@ DESCRIPTION:2026-04-07 18:00:00\n\n(métro Mont-Royal)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973426417
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260408T140000
 DTEND;TZID=America/Toronto:20260408T160000
 SUMMARY:Coulisses de la recherche qualitative : Renverser la focale - enqu
@@ -918,9 +896,9 @@ DESCRIPTION:2026-04-08 14:00:00\n\nPavillon Thérèse-Casgrain (métro Ber
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730180
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T170000
 DTEND;TZID=America/Toronto:20260409T190000
 SUMMARY:Rassemblement - Non aux pipelines\, ni ici\, ni ailleurs!
@@ -962,9 +940,9 @@ DESCRIPTION:2026-04-09 17:00:00\n\n(métro Place-d&#039\;Armes)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/way/21258128
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T173000
 DTEND;TZID=America/Toronto:20260409T193000
 SUMMARY:Atelier sur les hausses de loyer
@@ -980,9 +958,9 @@ DESCRIPTION:2026-04-09 17:30:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T173000
 DTEND;TZID=America/Toronto:20260409T193000
 SUMMARY:Ateliers d'information et de soutien pour le calcul de votre hauss
@@ -995,9 +973,9 @@ DESCRIPTION:2026-04-09 17:30:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T180000
 DTEND;TZID=America/Toronto:20260409T200000
 SUMMARY:Soirée de tricot et de crochet militants
@@ -1013,9 +991,9 @@ DESCRIPTION:2026-04-09 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T180000
 DTEND;TZID=America/Toronto:20260409T200000
 SUMMARY:Ciné-discussion: "Éviction" de mathilde capone
@@ -1044,9 +1022,9 @@ DESCRIPTION:2026-04-09 18:00:00\n\n4260 Ste-Catherine Est (métro Pie-IX)\
 URL;VALUE=URI:https://www.openstreetmap.org/node/2501999468
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T180000
 DTEND;TZID=America/Toronto:20260409T200000
 SUMMARY:Cercle de lecture : Karl Marx - Salaire\, prix\, profit
@@ -1074,9 +1052,9 @@ DESCRIPTION:2026-04-09 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T183000
 DTEND;TZID=America/Toronto:20260409T203000
 SUMMARY:Lancement de livre : "Le hijab\, leur obsession et nous" de Liza H
@@ -1107,9 +1085,9 @@ DESCRIPTION:2026-04-09 18:30:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260409T183000
 DTEND;TZID=America/Toronto:20260409T203000
 SUMMARY:Kanehsatake\, 270 ans de resistance
@@ -1121,9 +1099,9 @@ DESCRIPTION:2026-04-09 18:30:00\n\nPavillon Hubert-Aquin de l&#039\;UQAM\,
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260410T100000
 DTEND;TZID=America/Toronto:20260410T120000
 SUMMARY:Migrant Justice Day: Workshop on Surveillance and Migration
@@ -1133,9 +1111,9 @@ DESCRIPTION:2026-04-10 10:00:00\n\n1400 Maisonneuve W\, room LB-145 (métr
 URL;VALUE=URI:https://www.openstreetmap.org/way/22080572
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260410T110000
 DTEND;TZID=America/Toronto:20260410T130000
 SUMMARY:Conférence du syndicat du transport de montréal (CSN) sur la loi
@@ -1148,9 +1126,9 @@ DESCRIPTION:2026-04-10 11:00:00\n\nGrande salle du CÉGEP ... si le bâtim
 URL;VALUE=URI:https://www.openstreetmap.org/way/46868089
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260410T130000
 DTEND;TZID=America/Toronto:20260410T150000
 SUMMARY:Migrant Justice Day: Migrant justice struggle in the context of gl
@@ -1161,9 +1139,9 @@ DESCRIPTION:2026-04-10 13:00:00\n\n1400 Maisonneuve W\, room LB-145 (métr
 URL;VALUE=URI:https://www.openstreetmap.org/way/22080572
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260410T153000
 DTEND;TZID=America/Toronto:20260410T173000
 SUMMARY:Migrant Justice Day: Anti-caste mobilizing in canada - Organizing 
@@ -1174,9 +1152,9 @@ DESCRIPTION:2026-04-10 15:30:00\n\n1400 Maisonneuve W\, room LB-145 (métr
 URL;VALUE=URI:https://www.openstreetmap.org/way/22080572
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260410T183000
 DTEND;TZID=America/Toronto:20260410T203000
 SUMMARY:Migrant Justice Day: Migrant Justice Workshop
@@ -1192,9 +1170,9 @@ DESCRIPTION:2026-04-10 18:30:00\n\n2100 Guy suite 205 (métro Guy)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/103522209
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260411T090000
 DTEND;TZID=America/Toronto:20260411T110000
 SUMMARY:CinéBazar 5$
@@ -1208,9 +1186,9 @@ DESCRIPTION:2026-04-11 09:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973110111
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260411T120000
 DTEND;TZID=America/Toronto:20260411T140000
 SUMMARY:Market for Lebanon Fundraiser
@@ -1220,9 +1198,9 @@ DESCRIPTION:2026-04-11 12:00:00\n\n4306 St-Laurent (Métro Mont-Royal)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/node/1572066046
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260411T130000
 DTEND;TZID=America/Toronto:20260411T150000
 SUMMARY:Justice climatique : Négociations ouvertes\, la force par la part
@@ -1294,9 +1272,9 @@ DESCRIPTION:2026-04-11 13:00:00\n\nPavillon Hubert-Aquin\, local A-M050 (m
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260411T140000
 DTEND;TZID=America/Toronto:20260411T160000
 SUMMARY:Pratique de cercles restaurateurs
@@ -1340,9 +1318,47 @@ DESCRIPTION:2026-04-11 14:00:00\n\n251 des Pins Ouest (métro Place-des-Ar
 URL;VALUE=URI:https://www.openstreetmap.org/way/143939733
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-49
+SEQUENCE:0
+DTSTAMP:20260402T035550
+DTSTART;TZID=America/Toronto:20260411T150000
+DTEND;TZID=America/Toronto:20260411T170000
+SUMMARY:Cours: Apprendre à militer (10 séances)
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2026-04-11 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\nÀ L'ESPACE DES POSSIBLES (Petit
+ e-Patrie)\n6450 av. Christophe-Colomb\n**Entrée par le 1052 Beaubien**\n
+ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐝𝐮 𝐜𝐨𝐮𝐫𝐬
+ \nLe cours "Apprendre à militer" a pour objectif d’introduire les parti
+ cipant·es aux différents aspects théoriques et pratiques de l’action 
+ politique dans une perspective progressiste.\nPlus exactement\, le cours p
+ résente un à un les éléments importants pour élaborer un projet\, fai
+ re connaître sa cause\, mobiliser des personnes pour rejoindre une campag
+ ne\, produire du matériel de diffusion (tracts\, affiches\, etc.)\, organ
+ iser une manifestation\, mener des actions diverses\, établir un rapport 
+ de force et enfin… gagner sa lutte !\nChaque élément sera traité de m
+ anière concrète et le cours inclura de nombreux ateliers pratiques.\n
+ 𝐋𝐢𝐬𝐭𝐞 𝐝𝐞𝐬 𝐬𝐞́𝐚𝐧𝐜𝐞𝐬\n21 févr
+ ier : Introduction et attitude de base\n28 février : Enquête sociale et 
+ ligne de masse\n7 mars : Sortie d’enquête sociale\n14 mars : Agitation 
+ &amp\; propagande 1\n21 mars : Agitation &amp\; propagande 2\n28 mars : Or
+ ganiser des actions\n4 avril : Organisation et réunions\n11 avril : Mobil
+ isation et gestion de contacts\n18 avril : Bilans\, campagnes et stratégi
+ e\n25 avril : Travail pratique !\n𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨
+ 𝐧𝐬 𝐩𝐫𝐚𝐭𝐢𝐪𝐮𝐞𝐬\n• Le cours est offert gra
+ tuitement à toutes les personnes intéressées.\n• Il est préférable 
+ de s’inscrire à l’avance par courriel (adresse ci-dessous)\, mais vou
+ s pouvez aussi simplement vous présenter lors d’une séance. Un calendr
+ ier détaillé et plus d’informations seront donnés lors de la premièr
+ e séance le samedi 21 février 2026.\n• Pour toutes questions ou demand
+ es de renseignements\, n'hésitez pas à nous envoyer un courriel à :\nce
+ ntredeformationpolitique@gmail.com
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260411T150000
 DTEND;TZID=America/Toronto:20260411T170000
 SUMMARY:Cours: Apprendre à militer (10 séances)
@@ -1380,45 +1396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20260401T040341
-DTSTART;TZID=America/Toronto:20260411T150000
-DTEND;TZID=America/Toronto:20260411T170000
-SUMMARY:Cours: Apprendre à militer (10 séances)
-LOCATION:6450 avenue Christophe-Colomb
-DESCRIPTION:2026-04-11 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
- //www.openstreetmap.org/way/1080082859\n\nÀ L'ESPACE DES POSSIBLES (Petit
- e-Patrie)\n6450 av. Christophe-Colomb\n**Entrée par le 1052 Beaubien**\n
- 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐝𝐮 𝐜𝐨𝐮𝐫𝐬
- \nLe cours "Apprendre à militer" a pour objectif d’introduire les parti
- cipant·es aux différents aspects théoriques et pratiques de l’action 
- politique dans une perspective progressiste.\nPlus exactement\, le cours p
- résente un à un les éléments importants pour élaborer un projet\, fai
- re connaître sa cause\, mobiliser des personnes pour rejoindre une campag
- ne\, produire du matériel de diffusion (tracts\, affiches\, etc.)\, organ
- iser une manifestation\, mener des actions diverses\, établir un rapport 
- de force et enfin… gagner sa lutte !\nChaque élément sera traité de m
- anière concrète et le cours inclura de nombreux ateliers pratiques.\n
- 𝐋𝐢𝐬𝐭𝐞 𝐝𝐞𝐬 𝐬𝐞́𝐚𝐧𝐜𝐞𝐬\n21 févr
- ier : Introduction et attitude de base\n28 février : Enquête sociale et 
- ligne de masse\n7 mars : Sortie d’enquête sociale\n14 mars : Agitation 
- &amp\; propagande 1\n21 mars : Agitation &amp\; propagande 2\n28 mars : Or
- ganiser des actions\n4 avril : Organisation et réunions\n11 avril : Mobil
- isation et gestion de contacts\n18 avril : Bilans\, campagnes et stratégi
- e\n25 avril : Travail pratique !\n𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨
- 𝐧𝐬 𝐩𝐫𝐚𝐭𝐢𝐪𝐮𝐞𝐬\n• Le cours est offert gra
- tuitement à toutes les personnes intéressées.\n• Il est préférable 
- de s’inscrire à l’avance par courriel (adresse ci-dessous)\, mais vou
- s pouvez aussi simplement vous présenter lors d’une séance. Un calendr
- ier détaillé et plus d’informations seront donnés lors de la premièr
- e séance le samedi 21 février 2026.\n• Pour toutes questions ou demand
- es de renseignements\, n'hésitez pas à nous envoyer un courriel à :\nce
- ntredeformationpolitique@gmail.com
-URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-52
-SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260411T200000
 DTEND;TZID=America/Toronto:20260411T220000
 SUMMARY:Noise not Borders benefit show: 20$
@@ -1429,9 +1407,9 @@ DESCRIPTION:2026-04-11 20:00:00\n\n4873 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/1570292450
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260412T120000
 DTEND;TZID=America/Toronto:20260412T140000
 SUMMARY:SLAM/MATU - Cercle de locataires
@@ -1462,9 +1440,9 @@ DESCRIPTION:2026-04-12 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260412T130000
 DTEND;TZID=America/Toronto:20260412T150000
 SUMMARY:Lesbians and their cats: Création de zine collectif
@@ -1503,9 +1481,9 @@ DESCRIPTION:2026-04-12 13:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-55
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260412T200000
 DTEND;TZID=America/Toronto:20260412T220000
 SUMMARY:Queer Laughs
@@ -1517,9 +1495,9 @@ DESCRIPTION:2026-04-12 20:00:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-56
+UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260413T190000
 DTEND;TZID=America/Toronto:20260413T210000
 SUMMARY:Cinema Politica: "Fairy Creek"
@@ -1532,9 +1510,9 @@ DESCRIPTION:2026-04-13 19:00:00\n\nLocal H-110\, 1455 Maisonneuve W (metro
 URL;VALUE=URI:https://www.openstreetmap.org/node/4035248248
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-57
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260413T190000
 DTEND;TZID=America/Toronto:20260413T210000
 SUMMARY:Ciné-club de la Transition - Les perdants
@@ -1557,9 +1535,9 @@ DESCRIPTION:2026-04-13 19:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-58
+UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260414T140000
 DTEND;TZID=America/Toronto:20260414T160000
 SUMMARY:Journée d'action contre les surdoses
@@ -1588,9 +1566,9 @@ DESCRIPTION:2026-04-14 14:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/10811624891
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-59
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260416T130000
 DTEND;TZID=America/Toronto:20260416T150000
 SUMMARY:Action-Research Dialogue in Parc-Extension
@@ -1653,9 +1631,9 @@ DESCRIPTION:2026-04-16 13:00:00\n\n633 Beaumont (métro Parc)\n\nhttps://w
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-60
+UID:resmtl-59
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260416T133000
 DTEND;TZID=America/Toronto:20260416T153000
 SUMMARY:Atelier sur le logement social
@@ -1665,9 +1643,9 @@ DESCRIPTION:2026-04-16 13:30:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973389662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-61
+UID:resmtl-60
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260416T170000
 DTEND;TZID=America/Toronto:20260416T190000
 SUMMARY:Lancement du roman «La mèche courte» de Marilyse Hamelin
@@ -1703,9 +1681,9 @@ DESCRIPTION:2026-04-16 17:00:00\n\n3731 Ontario Est (métro Joliette)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/5111490781
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-62
+UID:resmtl-61
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260416T173000
 DTEND;TZID=America/Toronto:20260416T193000
 SUMMARY:Entre rêves et réalités : émotions et expériences de la migra
@@ -1835,9 +1813,9 @@ DESCRIPTION:2026-04-16 17:30:00\n\nPavillon Judith-Jasmin\, salle J-2805 (
 URL;VALUE=URI:https://www.openstreetmap.org/way/119612954
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-63
+UID:resmtl-62
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260416T180000
 DTEND;TZID=America/Toronto:20260416T200000
 SUMMARY:Lancement de livre - couchée bleue
@@ -1870,9 +1848,9 @@ DESCRIPTION:2026-04-16 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-64
+UID:resmtl-63
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260416T180000
 DTEND;TZID=America/Toronto:20260416T200000
 SUMMARY:Lancement de livre : The House Is (Not) a Prison - On the Queernes
@@ -1906,9 +1884,9 @@ DESCRIPTION:2026-04-16 18:00:00\n\n1920 Baile (métro Guy)\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/node/932462325
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-65
+UID:resmtl-64
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260416T180000
 DTEND;TZID=America/Toronto:20260416T200000
 SUMMARY:Cercle de lecture : Karl Marx - Salaire\, prix\, profit
@@ -1936,9 +1914,9 @@ DESCRIPTION:2026-04-16 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-66
+UID:resmtl-65
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260417T193000
 DTEND;TZID=America/Toronto:20260417T213000
 SUMMARY:Show bénéfice contre la violence conjugale 15$
@@ -1951,9 +1929,9 @@ DESCRIPTION:2026-04-17 19:30:00\n\n221 Beaubien Est (métro Beaubien)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/1536070983
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-67
+UID:resmtl-66
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260418T130000
 DTEND;TZID=America/Toronto:20260418T150000
 SUMMARY:Manif du jour de la Terre - Pas une coupe de plus
@@ -1979,9 +1957,9 @@ DESCRIPTION:2026-04-18 13:00:00\n\n(métro Place-des-Arts)\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/way/415626771
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-68
+UID:resmtl-67
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260418T130000
 DTEND;TZID=America/Toronto:20260418T150000
 SUMMARY:Show bénéfice pour le camp KM134
@@ -2011,9 +1989,9 @@ DESCRIPTION:2026-04-18 13:00:00\n\n(métro Place-des-Arts)\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/way/415626771
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-69
+UID:resmtl-68
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260418T130000
 DTEND;TZID=America/Toronto:20260418T150000
 SUMMARY:Kiosque de solidarité avec nos voisin.es non logé.es
@@ -2053,9 +2031,47 @@ DESCRIPTION:2026-04-18 13:00:00\n\nMétro Pie-Ix\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/relation/14023444
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-69
+SEQUENCE:0
+DTSTAMP:20260402T035550
+DTSTART;TZID=America/Toronto:20260418T150000
+DTEND;TZID=America/Toronto:20260418T170000
+SUMMARY:Cours: Apprendre à militer (10 séances)
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2026-04-18 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\nÀ L'ESPACE DES POSSIBLES (Petit
+ e-Patrie)\n6450 av. Christophe-Colomb\n**Entrée par le 1052 Beaubien**\n
+ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐝𝐮 𝐜𝐨𝐮𝐫𝐬
+ \nLe cours "Apprendre à militer" a pour objectif d’introduire les parti
+ cipant·es aux différents aspects théoriques et pratiques de l’action 
+ politique dans une perspective progressiste.\nPlus exactement\, le cours p
+ résente un à un les éléments importants pour élaborer un projet\, fai
+ re connaître sa cause\, mobiliser des personnes pour rejoindre une campag
+ ne\, produire du matériel de diffusion (tracts\, affiches\, etc.)\, organ
+ iser une manifestation\, mener des actions diverses\, établir un rapport 
+ de force et enfin… gagner sa lutte !\nChaque élément sera traité de m
+ anière concrète et le cours inclura de nombreux ateliers pratiques.\n
+ 𝐋𝐢𝐬𝐭𝐞 𝐝𝐞𝐬 𝐬𝐞́𝐚𝐧𝐜𝐞𝐬\n21 févr
+ ier : Introduction et attitude de base\n28 février : Enquête sociale et 
+ ligne de masse\n7 mars : Sortie d’enquête sociale\n14 mars : Agitation 
+ &amp\; propagande 1\n21 mars : Agitation &amp\; propagande 2\n28 mars : Or
+ ganiser des actions\n4 avril : Organisation et réunions\n11 avril : Mobil
+ isation et gestion de contacts\n18 avril : Bilans\, campagnes et stratégi
+ e\n25 avril : Travail pratique !\n𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨
+ 𝐧𝐬 𝐩𝐫𝐚𝐭𝐢𝐪𝐮𝐞𝐬\n• Le cours est offert gra
+ tuitement à toutes les personnes intéressées.\n• Il est préférable 
+ de s’inscrire à l’avance par courriel (adresse ci-dessous)\, mais vou
+ s pouvez aussi simplement vous présenter lors d’une séance. Un calendr
+ ier détaillé et plus d’informations seront donnés lors de la premièr
+ e séance le samedi 21 février 2026.\n• Pour toutes questions ou demand
+ es de renseignements\, n'hésitez pas à nous envoyer un courriel à :\nce
+ ntredeformationpolitique@gmail.com
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-70
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260418T150000
 DTEND;TZID=America/Toronto:20260418T170000
 SUMMARY:Cours: Apprendre à militer (10 séances)
@@ -2093,45 +2109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-71
 SEQUENCE:0
-DTSTAMP:20260401T040341
-DTSTART;TZID=America/Toronto:20260418T150000
-DTEND;TZID=America/Toronto:20260418T170000
-SUMMARY:Cours: Apprendre à militer (10 séances)
-LOCATION:6450 avenue Christophe-Colomb
-DESCRIPTION:2026-04-18 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
- //www.openstreetmap.org/way/1080082859\n\nÀ L'ESPACE DES POSSIBLES (Petit
- e-Patrie)\n6450 av. Christophe-Colomb\n**Entrée par le 1052 Beaubien**\n
- 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐝𝐮 𝐜𝐨𝐮𝐫𝐬
- \nLe cours "Apprendre à militer" a pour objectif d’introduire les parti
- cipant·es aux différents aspects théoriques et pratiques de l’action 
- politique dans une perspective progressiste.\nPlus exactement\, le cours p
- résente un à un les éléments importants pour élaborer un projet\, fai
- re connaître sa cause\, mobiliser des personnes pour rejoindre une campag
- ne\, produire du matériel de diffusion (tracts\, affiches\, etc.)\, organ
- iser une manifestation\, mener des actions diverses\, établir un rapport 
- de force et enfin… gagner sa lutte !\nChaque élément sera traité de m
- anière concrète et le cours inclura de nombreux ateliers pratiques.\n
- 𝐋𝐢𝐬𝐭𝐞 𝐝𝐞𝐬 𝐬𝐞́𝐚𝐧𝐜𝐞𝐬\n21 févr
- ier : Introduction et attitude de base\n28 février : Enquête sociale et 
- ligne de masse\n7 mars : Sortie d’enquête sociale\n14 mars : Agitation 
- &amp\; propagande 1\n21 mars : Agitation &amp\; propagande 2\n28 mars : Or
- ganiser des actions\n4 avril : Organisation et réunions\n11 avril : Mobil
- isation et gestion de contacts\n18 avril : Bilans\, campagnes et stratégi
- e\n25 avril : Travail pratique !\n𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨
- 𝐧𝐬 𝐩𝐫𝐚𝐭𝐢𝐪𝐮𝐞𝐬\n• Le cours est offert gra
- tuitement à toutes les personnes intéressées.\n• Il est préférable 
- de s’inscrire à l’avance par courriel (adresse ci-dessous)\, mais vou
- s pouvez aussi simplement vous présenter lors d’une séance. Un calendr
- ier détaillé et plus d’informations seront donnés lors de la premièr
- e séance le samedi 21 février 2026.\n• Pour toutes questions ou demand
- es de renseignements\, n'hésitez pas à nous envoyer un courriel à :\nce
- ntredeformationpolitique@gmail.com
-URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-72
-SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260418T193000
 DTEND;TZID=America/Toronto:20260418T213000
 SUMMARY:Benefit show 15$ for comunities of Masafer Yatta\, Palestine
@@ -2174,9 +2152,9 @@ DESCRIPTION:2026-04-18 19:30:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-73
+UID:resmtl-72
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260419T120000
 DTEND;TZID=America/Toronto:20260419T140000
 SUMMARY:SLAM/MATU - Cercle de locataires
@@ -2207,9 +2185,9 @@ DESCRIPTION:2026-04-19 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-74
+UID:resmtl-73
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260419T150000
 DTEND;TZID=America/Toronto:20260419T170000
 SUMMARY:Violet Hour Book Club: "Starry Night"
@@ -2245,9 +2223,9 @@ DESCRIPTION:2026-04-19 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-75
+UID:resmtl-74
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260419T173000
 DTEND;TZID=America/Toronto:20260419T193000
 SUMMARY:Club de lecture anticapitaliste
@@ -2269,9 +2247,9 @@ DESCRIPTION:2026-04-19 17:30:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-76
+UID:resmtl-75
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260420T190000
 DTEND;TZID=America/Toronto:20260420T210000
 SUMMARY:Last Generation: Introduction
@@ -2283,9 +2261,9 @@ DESCRIPTION:2026-04-20 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-77
+UID:resmtl-76
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260422T173000
 DTEND;TZID=America/Toronto:20260422T193000
 SUMMARY:Lancement & causerie - Les artisans de l'interculturel
@@ -2322,9 +2300,9 @@ DESCRIPTION:2026-04-22 17:30:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-78
+UID:resmtl-77
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260422T180000
 DTEND;TZID=America/Toronto:20260422T200000
 SUMMARY:Conférence du Jour de la Terre à Montréal - L'enjeu de la sant
@@ -2340,9 +2318,9 @@ DESCRIPTION:2026-04-22 18:00:00\n\n(en ligne)\n\nConférence de la médeci
  limat et par le Conseil central du Montréal métropolitain - CSN
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-79
+UID:resmtl-78
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260422T190000
 DTEND;TZID=America/Toronto:20260422T210000
 SUMMARY:UPop : Club de lecture de « Notre cerveau à tous les niveaux. Du
@@ -2373,9 +2351,9 @@ DESCRIPTION:2026-04-22 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-80
+UID:resmtl-79
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260423T180000
 DTEND;TZID=America/Toronto:20260423T200000
 SUMMARY:Soirée de tricot et de crochet militants
@@ -2391,9 +2369,9 @@ DESCRIPTION:2026-04-23 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-81
+UID:resmtl-80
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260423T180000
 DTEND;TZID=America/Toronto:20260423T200000
 SUMMARY:Atelier Linux 101
@@ -2418,9 +2396,9 @@ DESCRIPTION:2026-04-23 18:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-82
+UID:resmtl-81
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260423T180000
 DTEND;TZID=America/Toronto:20260423T200000
 SUMMARY:Cercle de lecture : Karl Marx - Salaire\, prix\, profit
@@ -2448,9 +2426,9 @@ DESCRIPTION:2026-04-23 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-83
+UID:resmtl-82
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260424T170000
 DTEND;TZID=America/Toronto:20260424T190000
 SUMMARY:Masse Critique Montréal
@@ -2497,9 +2475,9 @@ DESCRIPTION:2026-04-24 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-84
+UID:resmtl-83
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260425T120000
 DTEND;TZID=America/Toronto:20260425T140000
 SUMMARY:Vente de livres de gauche
@@ -2520,9 +2498,9 @@ DESCRIPTION:2026-04-25 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-85
+UID:resmtl-84
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260425T130000
 DTEND;TZID=America/Toronto:20260425T150000
 SUMMARY:25 ans depuis le sommet des amériques
@@ -2533,9 +2511,47 @@ DESCRIPTION:2026-04-25 13:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-85
+SEQUENCE:0
+DTSTAMP:20260402T035550
+DTSTART;TZID=America/Toronto:20260425T150000
+DTEND;TZID=America/Toronto:20260425T170000
+SUMMARY:Cours: Apprendre à militer (10 séances)
+LOCATION:6450 avenue Christophe-Colomb
+DESCRIPTION:2026-04-25 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
+ //www.openstreetmap.org/way/1080082859\n\nÀ L'ESPACE DES POSSIBLES (Petit
+ e-Patrie)\n6450 av. Christophe-Colomb\n**Entrée par le 1052 Beaubien**\n
+ 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐝𝐮 𝐜𝐨𝐮𝐫𝐬
+ \nLe cours "Apprendre à militer" a pour objectif d’introduire les parti
+ cipant·es aux différents aspects théoriques et pratiques de l’action 
+ politique dans une perspective progressiste.\nPlus exactement\, le cours p
+ résente un à un les éléments importants pour élaborer un projet\, fai
+ re connaître sa cause\, mobiliser des personnes pour rejoindre une campag
+ ne\, produire du matériel de diffusion (tracts\, affiches\, etc.)\, organ
+ iser une manifestation\, mener des actions diverses\, établir un rapport 
+ de force et enfin… gagner sa lutte !\nChaque élément sera traité de m
+ anière concrète et le cours inclura de nombreux ateliers pratiques.\n
+ 𝐋𝐢𝐬𝐭𝐞 𝐝𝐞𝐬 𝐬𝐞́𝐚𝐧𝐜𝐞𝐬\n21 févr
+ ier : Introduction et attitude de base\n28 février : Enquête sociale et 
+ ligne de masse\n7 mars : Sortie d’enquête sociale\n14 mars : Agitation 
+ &amp\; propagande 1\n21 mars : Agitation &amp\; propagande 2\n28 mars : Or
+ ganiser des actions\n4 avril : Organisation et réunions\n11 avril : Mobil
+ isation et gestion de contacts\n18 avril : Bilans\, campagnes et stratégi
+ e\n25 avril : Travail pratique !\n𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨
+ 𝐧𝐬 𝐩𝐫𝐚𝐭𝐢𝐪𝐮𝐞𝐬\n• Le cours est offert gra
+ tuitement à toutes les personnes intéressées.\n• Il est préférable 
+ de s’inscrire à l’avance par courriel (adresse ci-dessous)\, mais vou
+ s pouvez aussi simplement vous présenter lors d’une séance. Un calendr
+ ier détaillé et plus d’informations seront donnés lors de la premièr
+ e séance le samedi 21 février 2026.\n• Pour toutes questions ou demand
+ es de renseignements\, n'hésitez pas à nous envoyer un courriel à :\nce
+ ntredeformationpolitique@gmail.com
+URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-86
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260425T150000
 DTEND;TZID=America/Toronto:20260425T170000
 SUMMARY:Cours: Apprendre à militer (10 séances)
@@ -2573,45 +2589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-87
 SEQUENCE:0
-DTSTAMP:20260401T040341
-DTSTART;TZID=America/Toronto:20260425T150000
-DTEND;TZID=America/Toronto:20260425T170000
-SUMMARY:Cours: Apprendre à militer (10 séances)
-LOCATION:6450 avenue Christophe-Colomb
-DESCRIPTION:2026-04-25 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
- //www.openstreetmap.org/way/1080082859\n\nÀ L'ESPACE DES POSSIBLES (Petit
- e-Patrie)\n6450 av. Christophe-Colomb\n**Entrée par le 1052 Beaubien**\n
- 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐝𝐮 𝐜𝐨𝐮𝐫𝐬
- \nLe cours "Apprendre à militer" a pour objectif d’introduire les parti
- cipant·es aux différents aspects théoriques et pratiques de l’action 
- politique dans une perspective progressiste.\nPlus exactement\, le cours p
- résente un à un les éléments importants pour élaborer un projet\, fai
- re connaître sa cause\, mobiliser des personnes pour rejoindre une campag
- ne\, produire du matériel de diffusion (tracts\, affiches\, etc.)\, organ
- iser une manifestation\, mener des actions diverses\, établir un rapport 
- de force et enfin… gagner sa lutte !\nChaque élément sera traité de m
- anière concrète et le cours inclura de nombreux ateliers pratiques.\n
- 𝐋𝐢𝐬𝐭𝐞 𝐝𝐞𝐬 𝐬𝐞́𝐚𝐧𝐜𝐞𝐬\n21 févr
- ier : Introduction et attitude de base\n28 février : Enquête sociale et 
- ligne de masse\n7 mars : Sortie d’enquête sociale\n14 mars : Agitation 
- &amp\; propagande 1\n21 mars : Agitation &amp\; propagande 2\n28 mars : Or
- ganiser des actions\n4 avril : Organisation et réunions\n11 avril : Mobil
- isation et gestion de contacts\n18 avril : Bilans\, campagnes et stratégi
- e\n25 avril : Travail pratique !\n𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨
- 𝐧𝐬 𝐩𝐫𝐚𝐭𝐢𝐪𝐮𝐞𝐬\n• Le cours est offert gra
- tuitement à toutes les personnes intéressées.\n• Il est préférable 
- de s’inscrire à l’avance par courriel (adresse ci-dessous)\, mais vou
- s pouvez aussi simplement vous présenter lors d’une séance. Un calendr
- ier détaillé et plus d’informations seront donnés lors de la premièr
- e séance le samedi 21 février 2026.\n• Pour toutes questions ou demand
- es de renseignements\, n'hésitez pas à nous envoyer un courriel à :\nce
- ntredeformationpolitique@gmail.com
-URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-88
-SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260425T190000
 DTEND;TZID=America/Toronto:20260425T210000
 SUMMARY:La Mandragore fête ses 10 ans!
@@ -2654,9 +2632,9 @@ DESCRIPTION:2026-04-25 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-89
+UID:resmtl-88
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260425T200000
 DTEND;TZID=America/Toronto:20260425T220000
 SUMMARY:Show Punk 20$ : Bonginator + Ratpiss + Dumbass
@@ -2664,9 +2642,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-04-25 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-90
+UID:resmtl-89
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260426T120000
 DTEND;TZID=America/Toronto:20260426T140000
 SUMMARY:SLAM/MATU - Cercle de locataires
@@ -2697,9 +2675,9 @@ DESCRIPTION:2026-04-26 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-91
+UID:resmtl-90
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260427T150000
 DTEND;TZID=America/Toronto:20260427T170000
 SUMMARY:Sewing Workshop
@@ -2725,9 +2703,9 @@ DESCRIPTION:2026-04-27 15:00:00\n\n5380 boul. Saint-Laurent\n\nApril 2026\
  nu par @scraps.mtl\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-92
+UID:resmtl-91
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260427T180000
 DTEND;TZID=America/Toronto:20260427T200000
 SUMMARY:Atelier sur le logement social
@@ -2735,9 +2713,9 @@ LOCATION:(en ligne)
 DESCRIPTION:2026-04-27 18:00:00\n\n(en ligne)
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-93
+UID:resmtl-92
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260430T170000
 DTEND;TZID=America/Toronto:20260430T190000
 SUMMARY:Soirée festive Bellechasse !
@@ -2753,9 +2731,9 @@ DESCRIPTION:2026-04-30 17:00:00\n\n(métro Rosemont)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/8957058332
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-94
+UID:resmtl-93
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260430T180000
 DTEND;TZID=America/Toronto:20260430T200000
 SUMMARY:Cercle de lecture : Karl Marx - Salaire\, prix\, profit
@@ -2783,13 +2761,29 @@ DESCRIPTION:2026-04-30 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-95
+UID:resmtl-94
 SEQUENCE:0
-DTSTAMP:20260401T040341
+DTSTAMP:20260402T035550
 DTSTART;TZID=America/Toronto:20260501T000100
 DTEND;TZID=America/Toronto:20260501T020100
 SUMMARY:Journée internationale des travailleuses et des travailleurs
 LOCATION:(partout)
 DESCRIPTION:2026-05-01 00:01:00\n\n(partout)
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-95
+SEQUENCE:0
+DTSTAMP:20260402T035550
+DTSTART;TZID=America/Toronto:20260501T180000
+DTEND;TZID=America/Toronto:20260501T200000
+SUMMARY:Manif Anticapitaliste
+LOCATION:(métro Square-Victoria)
+DESCRIPTION:2026-05-01 18:00:00\n\n(métro Square-Victoria)\n\nhttps://www
+ .openstreetmap.org/way/104671932\n\nCe premier mai 2026\, la CLAC particip
+ e à l'organisation de la journée d'action et le manifestation du premier
+  mai!\nPour plus d'information\, voir https://premiermai.info\nVoir le jou
+ rnal pour le premier mai.\nQuelques petits collants ont été réalisés p
+ our l'occasion
+URL;VALUE=URI:https://www.openstreetmap.org/way/104671932
 END:VEVENT
 END:VCALENDAR
