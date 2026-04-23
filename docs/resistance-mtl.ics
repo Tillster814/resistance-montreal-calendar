@@ -8,148 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260422T040231
-DTSTART;TZID=America/Toronto:20260422T160000
-DTEND;TZID=America/Toronto:20260422T180000
-SUMMARY:Bridge-Bonaventure : Portes ouvertes
-LOCATION:(métro Charlevoix)
-DESCRIPTION:2026-04-22 16:00:00\n\n(métro Charlevoix)\n\nhttps://www.open
- streetmap.org/node/11973468721\n\nPortes ouvertes - Bridge-Bonaventure : l
- a transformation débute !\nVous vous demandez ce qui se passe du côté d
- u bassin Wellington\, du Triangle Nord et près du fleuve? Comment nous r
- éussirons à accueillir 20 000 nouveaux voisins\, nouvelles voisines à P
- ointe-Saint-Charles? Venez vous informer\, échanger avec nous et nous par
- tager votre avis lors de nos portes ouvertes!\n· Mercredi 22 avril\, 16h 
- à 20h\, au Centre Lorne (2390 de Ryde)\n· Dimanche 26 avril\, 13h30 à 1
- 6h30\, au Centre Lorne (2390 de Ryde)\nEntrée gratuite\, sans inscription
- \, accessible universellement.\nAu cœur des discussions :\nLogements · P
- rotection contre la spéculation · Densification et hauteurs · Emplois 
- · Nouvelle école secondaire · Développement des groupes communautaires
-  · Commerces · Accès au canal et au fleuve · Sécurité des rues · Pa
- rcs et espaces verts · Le Quartier des métiers d’art · Notre sociét
- é immobilière Point commun · Et bien plus !\n--------------------------
- ----------------------------------------------\nOpen House - Bridge-Bonave
- nture: The Transformation Begins!\nWondering what’s happening around Wel
- lington Basin\, the North Triangle\, and near the river? How we will manag
- e to welcome 20\,000 new neighbors in the Point? Come learn more\, chat wi
- th us\, and share your thoughts at our open house!\n· Wednesday\, April 2
- 2\, 4:00 PM to 8:00 PM\, at the Lorne Centre (2390 Ryde)\n· Sunday\, Apri
- l 26\, 1:30 PM to 4:30 PM\, at the Lorne Centre (2390 Ryde)\nFree admissio
- n\, no registration required\, universally accessible.\nAt the heart of ou
- r open house :\nHousing · Protection against speculation · Densification
-  and building heights · Jobs · High school · Community group developmen
- t · Businesses · Access to the canal and the river · Street safety · P
- arks and green spaces · The Quartier des métiers d'art · Our community 
- real estate\, Point commun · And much more!
-URL;VALUE=URI:https://www.openstreetmap.org/node/11973468721
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260422T040231
-DTSTART;TZID=America/Toronto:20260422T163000
-DTEND;TZID=America/Toronto:20260422T183000
-SUMMARY:Création de pancartes pour la manifestation de la journée des lo
- cataires
-LOCATION:2515 Rue Delisle (métro lionel-groulx)
-DESCRIPTION:2026-04-22 16:30:00\n\n2515 Rue Delisle (métro lionel-groulx)
- \n\nhttps://www.openstreetmap.org/way/347696464
-URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260422T040231
-DTSTART;TZID=America/Toronto:20260422T173000
-DTEND;TZID=America/Toronto:20260422T193000
-SUMMARY:Lancement & causerie - Les artisans de l'interculturel
-LOCATION:1289 Ontario Est (métro Beaudry)
-DESCRIPTION:2026-04-22 17:30:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
- tps://www.openstreetmap.org/way/115814240\n\nLes Presses de l’universit
- é de Montréal et la Livrerie vous invitent au lancement de Les artisans 
- de l’interculturel d’Ariane Le Moing\, suivi d’une causerie (panéli
- stes à confirmer).\n—\nÀ partir d’une enquête ethnographique\, l’
- autrice analyse ici les pratiques&nbsp\;et les représentations que les ac
- teurs des organismes communautaires&nbsp\;de Montréal se font de l’inte
- rculturel. En s’attachant à&nbsp\;comprendre comment ils interprètent\
- , adaptent ou mettent en œuvre&nbsp\;ces principes\, elle met en évidenc
- e la diversité des approches employées.&nbsp\;Certains privilégient le 
- dialogue et la coopération entre groupes culturels\,&nbsp\;d’autres s
- ’inscrivent dans des démarches plus revendicatives. Cette&nbsp\;enquêt
- e met à l’honneur la parole\, jusqu’alors peu entendue\, de ces acteu
- rs&nbsp\;communautaires qui aspirent avant tout à dynamiser les capacité
- s d’action&nbsp\;individuelles et collectives\, et à lutter contre l’
- exclusion sociale. Des études&nbsp\;de cas décrivent la réalité des mi
- lieux communautaires\, leurs initiatives\,&nbsp\;leurs contraintes et leur
- s marges de manœuvre.\nL’ouvrage propose ainsi une lecture claire et do
- cumentée des tensions et&nbsp\;collaborations entre politiques publiques\
- , cadres institutionnels et pratiques&nbsp\;de terrain. Sans céder au pla
- idoyer\, il rend compte du fonctionnement&nbsp\;effectif de l’intercultu
- rel dans la métropole montréalaise et constitue&nbsp\;une référence in
- estimable pour les milieux de la recherche\, les organismes&nbsp\;communau
- taires et les décideurs publics.\n—\nAriane Le Moing&nbsp\;est professe
- ure des universités en civilisation nord-américaine\,&nbsp\;membre du 
- laboratoire MIMMOC (Mémoires\, Identités\, Marginalités dans le&nbsp\;m
- onde occidental contemporain)\, directrice de l’Institut d’études aca
- diennes&nbsp\;et québécoises (IEAQ) et titulaire de la Chaire Senghor en
-  francophonie&nbsp\;nord-américaine de l’Université de Poitiers.
-URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20260422T040231
-DTSTART;TZID=America/Toronto:20260422T180000
-DTEND;TZID=America/Toronto:20260422T200000
-SUMMARY:Conférence du Jour de la Terre à Montréal - L'enjeu de la sant
- é
-LOCATION:(en ligne)
-DESCRIPTION:2026-04-22 18:00:00\n\n(en ligne)\n\nConférence de la médeci
- n Claudel Pétrin-Desrosiers\nSpécialiste des impacts des changements cli
- matiques dans une perspective de santé planétaire. Titre: Soigner dans u
- n monde malade La santé publique: un enjeu clé de la transition juste\n
- À la maison du développement durable de Montréal à 18h ou\nen Zoom: ht
- tps://csn-qc-ca.zoom.us/j/82168286499\nId de réunion: 821 6828 6499\nUn 
- évènement organisé conjointement par le Réseau intersyndical pour le c
- limat et par le Conseil central du Montréal métropolitain - CSN
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-4
-SEQUENCE:0
-DTSTAMP:20260422T040231
-DTSTART;TZID=America/Toronto:20260422T190000
-DTEND;TZID=America/Toronto:20260422T210000
-SUMMARY:UPop : Club de lecture de « Notre cerveau à tous les niveaux. Du
-  Big Bang à la conscience sociale »
-LOCATION:1900 Le Ber (métro Charlevoix)
-DESCRIPTION:2026-04-22 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
- s://www.openstreetmap.org/node/6074430797\n\n12e rencontre : Structures et
-  institutions sociales: des vieux mondes dystopiques aux utopies concrète
- s\nmercredi\, 19h\, Bar Les Sans-Taverne\, Bâtiment 7\nOù l’on constat
- era que l’émergence des fortes émotions prosociales qui caractérise n
- otre espèce fait en sorte que la cognition humaine est toujours culturell
- ement située. Et que des choses comme la classe sociale dans laquelle on 
- grandit peuvent influencer grandement nos façons de penser. On réalisera
-  ainsi que la richesse éloigne les riches de leur humanité et leur fait 
- promouvoir une croissance économique qui leur est favorable\, mais qui va
-  à l’encontre des lois de la physique. Car on ne peut pas croître à l
- ’infini dans un monde fini\, comme le montrent des données plus qu’al
- armantes sur la crise écologique et climatique. Il faut donc s’opposer 
- à cette logique mortifère dès maintenant tout en essayant de mieux comp
- rendre d’où on vient et ce qu’on est\, sinon rien ne va changer. Comm
- e se rendre compte du caractère toxique\, socialement\, de tout ce qui ac
- centue le « Nous » versus « Eux ». Ou que changer favorablement le con
- texte peut avoir une influence positive sur nos prédispositions biologiqu
- es. Voilà ce qui donne peut-être quelques raisons d’espérer : l’id
- ée que pour comprendre cette coévolution complexe entre biologie et cult
- ure\, il faut une approche transdisciplinaire à travers laquelle on peut 
- discerner une utopie sociale concrète : reconstruire des communs !
-URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-5
-SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260423T130000
 DTEND;TZID=America/Toronto:20260423T150000
 SUMMARY:Atelier de cuisine collective
@@ -169,9 +28,9 @@ DESCRIPTION:2026-04-23 13:00:00\n\n1052 Beaubien\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260423T160000
 DTEND;TZID=America/Toronto:20260423T180000
 SUMMARY:Vigil for Palestine
@@ -186,9 +45,9 @@ DESCRIPTION:2026-04-23 16:00:00\n\n(aux tourniquets)\n\nApril 23 @ 16 h 00
  iles. Join us in solidarity with the people of Palestine
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260423T180000
 DTEND;TZID=America/Toronto:20260423T200000
 SUMMARY:Soirée de tricot et de crochet militants
@@ -204,9 +63,9 @@ DESCRIPTION:2026-04-23 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260423T180000
 DTEND;TZID=America/Toronto:20260423T200000
 SUMMARY:Atelier Linux 101
@@ -231,9 +90,9 @@ DESCRIPTION:2026-04-23 18:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260423T180000
 DTEND;TZID=America/Toronto:20260423T200000
 SUMMARY:Cercle de lecture : Karl Marx - Salaire\, prix\, profit
@@ -261,9 +120,9 @@ DESCRIPTION:2026-04-23 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260424T130000
 DTEND;TZID=America/Toronto:20260424T150000
 SUMMARY:14e journée des locataires
@@ -354,9 +213,9 @@ DESCRIPTION:2026-04-24 13:00:00\n\n(métro Longueuil)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/node/2429709140
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260424T170000
 DTEND;TZID=America/Toronto:20260424T190000
 SUMMARY:Lancement | Jolène Ruest | Une porte\, histoire d'amour et de ré
@@ -395,9 +254,9 @@ DESCRIPTION:2026-04-24 17:00:00\n\n15 Ontario Est (métro St-Laurent)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/node/509379996
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260424T170000
 DTEND;TZID=America/Toronto:20260424T190000
 SUMMARY:Masse Critique Montréal
@@ -444,9 +303,9 @@ DESCRIPTION:2026-04-24 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T090000
 DTEND;TZID=America/Toronto:20260425T110000
 SUMMARY:Boisé Vimont : Corvée du printemps
@@ -470,9 +329,9 @@ DESCRIPTION:2026-04-25 09:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/233194177
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T093000
 DTEND;TZID=America/Toronto:20260425T113000
 SUMMARY:Montréal Pro-Choix - Manifestation contre campagne québec-"vie"
@@ -489,9 +348,9 @@ DESCRIPTION:2026-04-25 09:30:00\n\n(métro Sherbrooke)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973192630
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T120000
 DTEND;TZID=America/Toronto:20260425T140000
 SUMMARY:Vente de livres de gauche
@@ -512,9 +371,9 @@ DESCRIPTION:2026-04-25 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T130000
 DTEND;TZID=America/Toronto:20260425T150000
 SUMMARY:25 ans depuis le sommet des amériques
@@ -551,9 +410,9 @@ DESCRIPTION:2026-04-25 13:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T150000
 DTEND;TZID=America/Toronto:20260425T170000
 SUMMARY:Cours: Apprendre à militer (10 séances)
@@ -589,9 +448,9 @@ DESCRIPTION:2026-04-25 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T150000
 DTEND;TZID=America/Toronto:20260425T170000
 SUMMARY:Cours: Apprendre à militer (10 séances)
@@ -627,9 +486,9 @@ DESCRIPTION:2026-04-25 15:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T190000
 DTEND;TZID=America/Toronto:20260425T210000
 SUMMARY:La Mandragore fête ses 10 ans!
@@ -672,9 +531,9 @@ DESCRIPTION:2026-04-25 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260425T200000
 DTEND;TZID=America/Toronto:20260425T220000
 SUMMARY:Show Punk 20$ : Bonginator + Ratpiss + Dumbass
@@ -682,9 +541,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-04-25 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260426T100000
 DTEND;TZID=America/Toronto:20260426T120000
 SUMMARY:Opération Mitaines
@@ -706,9 +565,9 @@ DESCRIPTION:2026-04-26 10:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260426T120000
 DTEND;TZID=America/Toronto:20260426T140000
 SUMMARY:SLAM/MATU - Cercle de locataires
@@ -739,9 +598,9 @@ DESCRIPTION:2026-04-26 12:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260426T133000
 DTEND;TZID=America/Toronto:20260426T153000
 SUMMARY:Bridge-Bonaventure : Portes ouvertes
@@ -777,9 +636,9 @@ DESCRIPTION:2026-04-26 13:30:00\n\n(métro Charlevoix)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973468721
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260426T180000
 DTEND;TZID=America/Toronto:20260426T200000
 SUMMARY:Souper mensuel ORA x GRENIERS AGRICOLES 
@@ -805,9 +664,9 @@ DESCRIPTION:2026-04-26 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260427T150000
 DTEND;TZID=America/Toronto:20260427T170000
 SUMMARY:Sewing Workshop
@@ -833,9 +692,9 @@ DESCRIPTION:2026-04-27 15:00:00\n\n5380 boul. Saint-Laurent\n\nApril 2026\
  nu par @scraps.mtl\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260427T180000
 DTEND;TZID=America/Toronto:20260427T200000
 SUMMARY:Atelier sur le logement social
@@ -843,9 +702,9 @@ LOCATION:(en ligne)
 DESCRIPTION:2026-04-27 18:00:00\n\n(en ligne)
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260427T183000
 DTEND;TZID=America/Toronto:20260427T203000
 SUMMARY:Projection: "A Time to Rise" - Fundraising for Food Not Bombs NDG
@@ -871,9 +730,9 @@ DESCRIPTION:2026-04-27 18:30:00\n\n3465 Benny (NDG)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/11060931105
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260429T130000
 DTEND;TZID=America/Toronto:20260429T150000
 SUMMARY:Atelier de cuisine collective
@@ -893,9 +752,9 @@ DESCRIPTION:2026-04-29 13:00:00\n\n1052 Beaubien\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260430T130000
 DTEND;TZID=America/Toronto:20260430T150000
 SUMMARY:Atelier de cuisine collective
@@ -915,9 +774,9 @@ DESCRIPTION:2026-04-30 13:00:00\n\n1052 Beaubien\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260430T170000
 DTEND;TZID=America/Toronto:20260430T190000
 SUMMARY:Soirée festive Bellechasse !
@@ -933,9 +792,9 @@ DESCRIPTION:2026-04-30 17:00:00\n\n(métro Rosemont)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/node/8957058332
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260430T180000
 DTEND;TZID=America/Toronto:20260430T200000
 SUMMARY:Cercle de lecture : Karl Marx - Salaire\, prix\, profit
@@ -963,9 +822,9 @@ DESCRIPTION:2026-04-30 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260430T183000
 DTEND;TZID=America/Toronto:20260430T203000
 SUMMARY:All Cats Are Beautiful - Cheese & drinks Fundraiser
@@ -985,9 +844,9 @@ DESCRIPTION:2026-04-30 18:30:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260501T000100
 DTEND;TZID=America/Toronto:20260501T020100
 SUMMARY:Journée internationale des travailleuses et des travailleurs
@@ -995,9 +854,9 @@ LOCATION:(partout)
 DESCRIPTION:2026-05-01 00:01:00\n\n(partout)
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260501T160000
 DTEND;TZID=America/Toronto:20260501T180000
 SUMMARY:Fête solidaire des résistances populaires
@@ -1008,9 +867,9 @@ DESCRIPTION:2026-05-01 16:00:00\n\n(métro Square-Victoria)\n\nhttps://www
 URL;VALUE=URI:https://www.openstreetmap.org/way/104671932
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260501T180000
 DTEND;TZID=America/Toronto:20260501T200000
 SUMMARY:Manif Anticapitaliste
@@ -1024,9 +883,9 @@ DESCRIPTION:2026-05-01 18:00:00\n\n(métro Square-Victoria)\n\nhttps://www
 URL;VALUE=URI:https://www.openstreetmap.org/way/104671932
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260501T200000
 DTEND;TZID=America/Toronto:20260501T220000
 SUMMARY:Show Metal 15$ : Z-Cocoon + Spirit Unbound + Screaming Demons + Te
@@ -1035,9 +894,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-05-01 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260502T090000
 DTEND;TZID=America/Toronto:20260502T110000
 SUMMARY:Boisé Steinberg : Corvée de printemps
@@ -1065,9 +924,9 @@ DESCRIPTION:2026-05-02 09:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1054254024
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260502T130000
 DTEND;TZID=America/Toronto:20260502T150000
 SUMMARY:Manifestation des syndicats - Droits bafoués\, faut résister
@@ -1100,9 +959,9 @@ DESCRIPTION:2026-05-02 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260502T200000
 DTEND;TZID=America/Toronto:20260502T220000
 SUMMARY:Fundraising concert 15$ in solidarity with land defenders
@@ -1128,9 +987,9 @@ DESCRIPTION:2026-05-02 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260503T130000
 DTEND;TZID=America/Toronto:20260503T150000
 SUMMARY:Visite guidée du quartier : "Des luttes ouvrières aux luttes pou
@@ -1142,9 +1001,9 @@ DESCRIPTION:2026-05-03 13:00:00\n\n(métro Charlevoix)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/way/263144065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260503T140000
 DTEND;TZID=America/Toronto:20260503T160000
 SUMMARY:Rencontre d'organisation des pratiques de cercles restaurateurs
@@ -1168,9 +1027,9 @@ DESCRIPTION:2026-05-03 14:00:00\n\n251 des Pins Ouest (métro Place-des-Ar
 URL;VALUE=URI:https://www.openstreetmap.org/way/143939733
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260503T173000
 DTEND;TZID=America/Toronto:20260503T193000
 SUMMARY:Club de lecture anticapitaliste
@@ -1192,9 +1051,9 @@ DESCRIPTION:2026-05-03 17:30:00\n\n6792 St-Laurent\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-38
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260504T190000
 DTEND;TZID=America/Toronto:20260504T210000
 SUMMARY:Last Generation: Introduction
@@ -1206,9 +1065,9 @@ DESCRIPTION:2026-05-04 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260505T180000
 DTEND;TZID=America/Toronto:20260505T200000
 SUMMARY:Red Dress Day Memorial March / Journée de la robe rouge 
@@ -1236,9 +1095,9 @@ DESCRIPTION:2026-05-05 18:00:00\n\n(métro Atwater)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/1274068972
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260505T183000
 DTEND;TZID=America/Toronto:20260505T203000
 SUMMARY:Impérialisme et redivision du monde : Panel sur l'actualité géo
@@ -1264,9 +1123,9 @@ DESCRIPTION:2026-05-05 18:30:00\n\nSalle des boiseries\, local J-2805 (mé
 URL;VALUE=URI:https://www.openstreetmap.org/way/119612954
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260505T193000
 DTEND;TZID=America/Toronto:20260505T213000
 SUMMARY:Cabaret Drag Étudiant au profit des migrants.e.s LGBTQ
@@ -1282,9 +1141,9 @@ DESCRIPTION:2026-05-05 19:30:00\n\n3714 du Parc (métro Place-des-Arts)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/11729165947
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260507T150000
 DTEND;TZID=America/Toronto:20260507T170000
 SUMMARY:Manif-action OPDS
@@ -1296,9 +1155,9 @@ DESCRIPTION:2026-05-07 15:00:00\n\nMétro Préfontaine\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/way/160542810
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260507T160000
 DTEND;TZID=America/Toronto:20260507T180000
 SUMMARY:CASCQ - 4@7 contre la CCQ (commission de la construction du québe
@@ -1324,9 +1183,9 @@ DESCRIPTION:2026-05-07 16:00:00\n\n3529 Hochelaga (métro Joliette)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/5029781799
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260507T170000
 DTEND;TZID=America/Toronto:20260507T190000
 SUMMARY:Café citoyen - Austérité et luttes étudiantes
@@ -1340,9 +1199,9 @@ DESCRIPTION:2026-05-07 17:00:00\n\nCÉGEP du Vieux-Montréal (métro Berri
 URL;VALUE=URI:https://www.openstreetmap.org/node/12012540913
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260507T180000
 DTEND;TZID=America/Toronto:20260507T200000
 SUMMARY:Soirée de tricot et de crochet militants
@@ -1358,9 +1217,9 @@ DESCRIPTION:2026-05-07 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260508T200000
 DTEND;TZID=America/Toronto:20260508T220000
 SUMMARY:Show Metal 20$ : Tarbox + Soulthief + Fith + Cold Authority
@@ -1368,9 +1227,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-05-08 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-47
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260509T090000
 DTEND;TZID=America/Toronto:20260509T110000
 SUMMARY:Friche à défendre - Corvée de printemps
@@ -1396,9 +1255,9 @@ DESCRIPTION:2026-05-09 09:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1054253710
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260509T120000
 DTEND;TZID=America/Toronto:20260509T140000
 SUMMARY:Activité sociale et nettoyage du jardin / Backyard Social + Clean
@@ -1420,9 +1279,9 @@ DESCRIPTION:2026-05-09 12:00:00\n\n(métro Place-des-Arts)\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/node/12913451236
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260509T120000
 DTEND;TZID=America/Toronto:20260509T140000
 SUMMARY:Le salaire comme stratégie
@@ -1434,9 +1293,9 @@ DESCRIPTION:2026-05-09 12:00:00\n\nPavillon Athanase-David de l&#039\;UQAM
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-55
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260509T183000
 DTEND;TZID=America/Toronto:20260509T203000
 SUMMARY:Fête des mères 2026 : Brillons furieusement 
@@ -1471,9 +1330,9 @@ DESCRIPTION:2026-05-09 18:30:00\n\nVille de Québec\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/3099753477
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-56
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260511T180000
 DTEND;TZID=America/Toronto:20260511T200000
 SUMMARY:Causerie - La doctrine du consentement avec Clara Serra
@@ -1502,9 +1361,9 @@ DESCRIPTION:2026-05-11 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-57
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260512T120000
 DTEND;TZID=America/Toronto:20260512T140000
 SUMMARY:Spectre de rue : Blitz de nettoyage du printemps
@@ -1520,9 +1379,9 @@ DESCRIPTION:2026-05-12 12:00:00\n\n1280 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/2422279646
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-58
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260514T000100
 DTEND;TZID=America/Toronto:20260514T020100
 SUMMARY:Festival anarchiste Constellation
@@ -1568,9 +1427,9 @@ DESCRIPTION:2026-05-14 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-59
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260514T150000
 DTEND;TZID=America/Toronto:20260514T170000
 SUMMARY:Constellation: Tattoo & Piercing bénéfice pour 2033-2035 St-Laur
@@ -1585,9 +1444,9 @@ DESCRIPTION:2026-05-14 15:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-60
+UID:resmtl-55
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260514T170000
 DTEND;TZID=America/Toronto:20260514T190000
 SUMMARY:Constellation: Bike ride to sketchy beach (3rd annual!)
@@ -1625,9 +1484,9 @@ DESCRIPTION:2026-05-14 17:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-61
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260515T000100
 DTEND;TZID=America/Toronto:20260515T020100
 SUMMARY:Festival anarchiste Constellation
@@ -1673,9 +1532,9 @@ DESCRIPTION:2026-05-15 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-62
+UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260515T120000
 DTEND;TZID=America/Toronto:20260515T140000
 SUMMARY:Constellation: MATC presents Jour de MESH Day 2
@@ -1714,9 +1573,9 @@ DESCRIPTION:2026-05-15 12:00:00\n\n999 du Collège (métro Place-St-Henri)
 URL;VALUE=URI:https://www.openstreetmap.org/node/717702812
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-63
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260515T153000
 DTEND;TZID=America/Toronto:20260515T173000
 SUMMARY:Constellation: MATC presents MOVIE NIGHT!
@@ -1736,9 +1595,9 @@ DESCRIPTION:2026-05-15 15:30:00\n\n999 du Collège (métro Place-St-Henri)
 URL;VALUE=URI:https://www.openstreetmap.org/node/717702812
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-64
+UID:resmtl-59
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260515T180000
 DTEND;TZID=America/Toronto:20260515T200000
 SUMMARY:Lancement et causerie : "Tant qu'il y aura des prisons" de Gwenola
@@ -1752,9 +1611,9 @@ DESCRIPTION:2026-05-15 18:00:00\n\n262 Ste-Catherine Est (métro Berri)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/3748071091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-65
+UID:resmtl-60
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260515T180000
 DTEND;TZID=America/Toronto:20260515T200000
 SUMMARY:Quizzz incendiaire du communautaire
@@ -1768,9 +1627,9 @@ DESCRIPTION:2026-05-15 18:00:00\n\n3606 Ontario (métro Joliette)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/942874457
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-66
+UID:resmtl-61
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260515T180000
 DTEND;TZID=America/Toronto:20260515T200000
 SUMMARY:Manif de la Nakba de désinvestir4palestine
@@ -1797,9 +1656,9 @@ DESCRIPTION:2026-05-15 18:00:00\n\n(métro Atwater)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/1104856301
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-67
+UID:resmtl-62
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260516T000100
 DTEND;TZID=America/Toronto:20260516T020100
 SUMMARY:Salon du livre anarchiste Constellation
@@ -1845,9 +1704,9 @@ DESCRIPTION:2026-05-16 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-68
+UID:resmtl-63
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260516T140000
 DTEND;TZID=America/Toronto:20260516T160000
 SUMMARY:Nakba Protest of the Palestinian Youth Movement (PYM)
@@ -1867,9 +1726,9 @@ DESCRIPTION:2026-05-16 14:00:00\n\n1\, westmount square (metro atwater)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/1071553785
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-69
+UID:resmtl-64
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260516T190000
 DTEND;TZID=America/Toronto:20260516T210000
 SUMMARY:DARKROOM_2
@@ -1885,9 +1744,9 @@ DESCRIPTION:2026-05-16 19:00:00\n\n3667 Saint-Laurent\n\nFind the staircas
  e et du son.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-70
+UID:resmtl-65
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260516T200000
 DTEND;TZID=America/Toronto:20260516T220000
 SUMMARY:Rebecca Lane en concert en territoire non-cédé
@@ -1941,9 +1800,9 @@ DESCRIPTION:2026-05-16 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-71
+UID:resmtl-66
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260516T230000
 DTEND;TZID=America/Toronto:20260517T010000
 SUMMARY:The Official Unofficial Constellation Dance Party
@@ -1952,9 +1811,9 @@ DESCRIPTION:2026-05-16 23:00:00\n\nTBA\n\nThe 5th annual bookfair dance pa
  rty\nPresented by FPFP\nInfo TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-72
+UID:resmtl-67
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260517T000100
 DTEND;TZID=America/Toronto:20260517T020100
 SUMMARY:Anarchiste skill faire Constellation
@@ -2000,9 +1859,9 @@ DESCRIPTION:2026-05-17 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-73
+UID:resmtl-68
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260518T000100
 DTEND;TZID=America/Toronto:20260518T020100
 SUMMARY:Festival anarchiste Constellation
@@ -2048,9 +1907,9 @@ DESCRIPTION:2026-05-18 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-74
+UID:resmtl-69
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260518T130000
 DTEND;TZID=America/Toronto:20260518T150000
 SUMMARY:Montreal Anarchist Day of CRAP
@@ -2070,9 +1929,9 @@ DESCRIPTION:2026-05-18 13:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-75
+UID:resmtl-70
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260518T190000
 DTEND;TZID=America/Toronto:20260518T210000
 SUMMARY:Last Generation: Introduction
@@ -2084,9 +1943,9 @@ DESCRIPTION:2026-05-18 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-76
+UID:resmtl-71
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260519T000100
 DTEND;TZID=America/Toronto:20260519T020100
 SUMMARY:Festival anarchiste Constellation
@@ -2132,9 +1991,9 @@ DESCRIPTION:2026-05-19 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-77
+UID:resmtl-72
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260520T000100
 DTEND;TZID=America/Toronto:20260520T020100
 SUMMARY:Festival anarchiste Constellation
@@ -2180,9 +2039,9 @@ DESCRIPTION:2026-05-20 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-78
+UID:resmtl-73
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260521T130000
 DTEND;TZID=America/Toronto:20260521T150000
 SUMMARY:Atelier de cuisine collective
@@ -2202,9 +2061,9 @@ DESCRIPTION:2026-05-21 13:00:00\n\n1052 Beaubien\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-79
+UID:resmtl-74
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260521T180000
 DTEND;TZID=America/Toronto:20260521T200000
 SUMMARY:MAC'n'cheese 10-30$ : Soirée de financement pour le Mouvement Act
@@ -2227,9 +2086,9 @@ DESCRIPTION:2026-05-21 18:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/2295839157
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-80
+UID:resmtl-75
 SEQUENCE:0
-DTSTAMP:20260422T040231
+DTSTAMP:20260423T040348
 DTSTART;TZID=America/Toronto:20260521T180000
 DTEND;TZID=America/Toronto:20260521T200000
 SUMMARY:Soirée de tricot et de crochet militants
@@ -2243,5 +2102,282 @@ DESCRIPTION:2026-05-21 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
  aine\, des aiguilles et des crochets à donner sur place.\nOn vous offre d
  u thé et des petites collations aussi! 🍪🍵
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-76
+SEQUENCE:0
+DTSTAMP:20260423T040348
+DTSTART;TZID=America/Toronto:20260523T000100
+DTEND;TZID=America/Toronto:20260523T020100
+SUMMARY:Grève dans les strip-clubs et les salons de massage pour de meill
+ eures conditions de travail
+LOCATION:(partout)
+DESCRIPTION:2026-05-23 00:01:00\n\n(partout)\n\n&nbsp\;\nGrève du travail
+  du sexe - 23 mai - On contre-attaque!\nLe 23 mai 2026\, le Comité autono
+ me du travail du sexe (CATS) appelle à la grève dans les strip-clubs et 
+ les salons de massage pour de meilleures conditions de travail.\nDepuis no
+ tre première rencontre en 2019\, nous nous réunissons chaque mois pour d
+ iscuter de nos conditions de travail. Le CATS est un espace pour ventiler\
+ , s’organiser et résister collectivement contre la gestion abusive — 
+ licenciements injustes et arbitraires\, conditions de travail insalubres\,
+  harcèlement et discrimination de la part de la direction\, violence en m
+ ilieu de travail. Nous en avons assez ! Il est temps de passer à l’ac
+ tion !\nNotre chronologie&nbsp\;\nAu cours de l’hiver 2024\, les membr
+ es du CATS se sont réunis pour élaborer une stratégie visant à mobilis
+ er nos collègues dans nos espaces de travail. Pour la plupart d’entre n
+ ous\, cela signifiait les strip clubs ou les salons de massage. Nous avons
+  décidé de commencer par un zine\, que certains d’entre vous connaisse
+ nt peut-être\, intitulé Travailleuse.rs du sexe\, unissons-nous! Un mani
+ feste sur l’organisation en milieu de travail. Ce zine se voulait un gui
+ de pratique et accessible sur l’organisation en milieu de travail\, et c
+ e\, en tant que TDS\, et nous le considérions comme la première étape v
+ ers une discussion plus approfondie sur l’organisation. Nous avons lanc
+ é le zine au printemps suivant\, en 2025\, au cours duquel nous avons org
+ anisé une assemblée des TDS pour discuter des griefs sur nos milieux de 
+ travail.&nbsp\;\nMalgré le succès de l’événement\, nous avons reçu 
+ des critiques très valables selon lesquelles nous devrions offrir aux gen
+ s une prise pour mettre leur canaliser leur énergie\; il était clair que
+  les personnes présentes cherchaient un effort d’organisation dans lequ
+ el diriger leur colère et leur passion. Ce fût un moment passionnant pou
+ r nous\, car il semblait que les personnes souhaitaient transformer leur r
+ ésistance individuelle en un mouvement collectif. L’été et l’automn
+ e 2025 ont été consacrés à définir ce à quoi pourrait ressembler ce 
+ mouvement collectif. Nous savions qu’il y avait beaucoup de travail avan
+ t de pouvoir espérer que les clubs et les salons forment chacuns des synd
+ icats autonomes et votent à leur participation ou non à des actions\, bi
+ en que ce soit un modèle auquel nous aspirons. Nous voulions commencer pa
+ r 1. la création d’une communauté et 2. un appel à l’action.\nC’e
+ st ainsi que nous avons eu l’idée d’organiser des ateliers mensuels e
+ n vue d’appeler à la grève pendant la fin de semaine du Formule 1 2026
+  à Montréal (également connue sous le nom du Grand Prix de Montréal)\,
+  et ce\, en parallèle avec les activités habituelles du CATS\, comme nos
+  réunions mensuelles et le lancement annuel de notre magazine. L’hiver 
+ et le printemps 2026 seront riches en événements organisés par le CATS\
+ , axés sur la rencontre d’autres TDS intéressé.es par l’organisatio
+ n et sur les discussions stratégiques pour mettre en œuvre cette approch
+ e dans nos milieux de travail respectifs. Nous constatons déjà que nos c
+ ollègues sont inspiré.es et élaborent des stratégies au-delà de la F1
+ . La grève prévue n’est qu’un objectif parmi d’autres dans une lut
+ te beaucoup plus vaste et plus longue pour que les TDS soient reconnu.es c
+ omme des travailleuse.rs et bénéficient des droits&nbsp\;humains&nbsp\;f
+ ondamentaux et des droits du travail. Nous espérons que vous vous joindre
+ z à nous pour faire les premiers pas vers la revendication des droits que
+  nous méritons!\nNos revendications\nDans les strip-clubs:\nNous demandon
+ s l’abolition du service bar.\nLa première étape consiste à sortir de
+  l’illusion que nous sommes des travailleuse.rs autonomes. En réalité\
+ , nous avons un employeur\, et il a l’obligation légale de nous offrir 
+ des conditions de travail sécuritaires\, comme dans n’importe quel autr
+ e emploi.\nNous\, les travailleuse.rs du sexe\, voulons un statut de salar
+ ié.e et la protection qui en découle :\nMettre fin à la violence en m
+ ilieu de travail: nos employeurs doivent nous assurer un environnement de 
+ travail sécuritaire et prendre des mesures concrètes pour prévenir la v
+ iolence \;\nUn environnement de travail sain: nous voulons travailler da
+ ns des conditions sanitaires décentes \;\nMettre fin à la discriminati
+ on à l’embauche et à l’horaire: plus d’embauche ou de planificatio
+ n fondées sur la race\, l’identité de genre\, l’âge ou la taille 
+ \;\nAccès à l’assurance chômage et à la CNESST.\nNous joignons nos v
+ oix au mouvement international des travailleuse.rs du sexe et demandons la
+  décriminalisation complète du travail du sexe au Canada.\nPourquoi abol
+ ir le service de bar ?\nLe service bar est vu par plusieurs danseuse.rs 
+ comme un gage de liberté: on paie pour travailler et\, en échange\, on e
+ st maître de son horaire. C’est pourtant de moins en moins vrai — si 
+ ça l’a déjà été. Plusieurs bars exigent désormais que les nouvelle
+ s fassent un quart en&nbsp\; semaine&nbsp\; avant de pouvoir travailler la
+  fin de semaine. On ne choisit pas ses heures\; il faut souvent rester jus
+ qu’à la fermeture\, à 3 heures du matin. Un club à Montréal exige m
+ ême aux danseuse.rs de booker leur horaire plusieurs mois d’avance. Cal
+ ler malade est aussi difficile dans bien des bars. On est loin du travail 
+ autonome où on peut travailler quand bon nous semble.\nLe fait est qu’o
+ n est bel et bien pris.es dans un rapport de pouvoir employeur/employé.e\
+ , et que le modèle du service bar profite seulement aux boss. En effet\, 
+ ils ont tout avantage à faire rentrer un maximum de danseuse.rs par soir 
+ pour maximiser leur profit. Pour ce qui est de notre sécurité\, nos empl
+ oyeurs se sentent bien peu concernés et nous laissent gérer nous-mêmes.
+ \nHistoriquement\, nous n’avons pas toujours dû payer ces frais : ce 
+ n’est qu’à partir des années 2000 que les danseuses à Montréal ont
+  dû commencer à payer pour pouvoir travailler. Ce frais\, arbitraire dè
+ s sa création\, n’a cessé d’augmenter au fil du temps.\nAlors que le
+ s strip-clubs attirent de moins en moins de clients\, il est évident que 
+ nous maintenons ces établissements à flot avec notre propre argent\, tou
+ t en restant entièrement remplaçables aux yeux de la direction.\nIl s’
+ agit aussi une première étape vers le retour au salaire horaire que nos 
+ prédecesseur.es ont perdu. Le but est de sortir de l’illusion du travai
+ l autonome pour rendre l’employeur imputable. Pour aller chercher un sal
+ aire\, mais également ce qui vient avec: la sécurité au travail\, les n
+ ormes de salubrité\, les droits de base comme les arrêts maladie\, etc.&
+ nbsp\;\nQue signifient ces revendications ?\nEn tant que danseuse.rs\, nou
+ s sommes considéré.es comme des travailleuse.rs indépendant.es\, ce qui
+  signifie que\, sur papier\, nous sommes traité.es de la même manière q
+ u’un plombier indépendant que vous engageriez pour effectuer des répar
+ ations chez vous. Ce plombier\, également considéré comme un travailleu
+ r indépendant\, reçoit son revenu directement du client\, établit son p
+ ropre emploi du temps\, détermine la durée de ses journées de travail\,
+  fournit son propre matériel et peut travailler pour plusieurs clients à
+  la fois.\nVous commencez peut-être à comprendre en quoi le statut d’e
+ ntrepreneur indépendant d’un.e danseuse.rs ne correspond pas au travail
+  que l’on effectue. En tant que danseuse.rs\, nous sommes soumis.es à d
+ es exigences de notre direction. Si elle nous demande de travailler trois 
+ fois par semaine\, nous le faisons. Si elle nous demande de nous mettre en
+ tièrement nu.es sur scène\, nous le faisons. Si elle nous dit que nos ta
+ lons sont trop courts\, nous en achetons des plus hauts\, car sinon\, nous
+  perdrons notre emploi. Le plombier entrepreneur indépendant n’est resp
+ onsable que devant lui-même\, tandis que la danseuse.r entrepreneur.e ind
+ épendant.e est responsable devant la direction du club\, au détriment de
+  son emploi.\nPourquoi faire la grève ?\nUne grève\, c’est quand les
+  travailleuse.rs refusent de travailler afin de mettre de la pression sur 
+ leur employeur dans le cadre de négociations. C’est un outil de négoci
+ ation puissant: les travailleuse.rs décident collectivement de ne pas se 
+ présenter au travail jusqu’à ce que leurs revendications soient satisf
+ aisantes. Même si certaines organisations syndicales formelles voient la 
+ grève comme une action controversée\, c’est une stratégie efficace lo
+ rsque les travailleuse.rs sont bien préparé.es et agissent de manière a
+ utonome. Les grèves ont toujours été cruciales dans les processus de sy
+ ndicalisation des strip-clubs\, comme au Lusty Lady et Star Garden.\nEn re
+ tirant «le produit» ou le service que l’employeur vend\, on retire son
+  levier économique principal. Comme le disaient les danseuses du Lusty La
+ dy à San Francisco: «Ton patron est totalement impuissant si le ‘produ
+ it’ qu’il essaie de vendre est dehors avec une pancarte au lieu d’ê
+ tre à l’intérieur en train de danser.» Si les clients venaient vraime
+ nt au club pour un simple verre\, ils iraient dans un bar ordinaire.\nDans
+  le contexte d’une grève générale des travailleuse.rs du sexe\, nous 
+ nous inspirons de la grève des chauffeur.ses Uber aux États-Unis en 2018
+ \, à l’issue de laquelle iels ont finalement obtenu le statut de «trav
+ ailleuse.rs» au lieu de «prestataires indépendant.es». Après les effo
+ rts d’organisation de nombreuses personnes\, la Cour suprême a statué 
+ en février 2021 que les chauffeur.ses étaient des travailleur.ses et non
+  des entrepreneur.es indépendant.es\, et qu’iels recevraient un salaire
+  minimum et des avantages sociaux tels que les congés parentaux\, maladie
+ \, les congés payés et un régime de retraite. La grève des employé.es
+  Uber de 2018 a été le catalyseur de ce débat et\, après des années d
+ ’efforts continus de la part des chauffeur.ses\, celleux-ci ont finaleme
+ nt obtenu gain de cause.\nComme nous l’avons déjà dit\, une grève gé
+ nérale des travailleuse.rs du sexe n’est qu’une étape parmi d’autr
+ es pour obtenir des droits. Nous ne nous attendons pas à ce que cette gr
+ ève nous permette d’obtenir du jour au lendemain un salaire ou la décr
+ iminalisation du travail du sexe\, ce serait idéaliste. Cependant\, dans 
+ le contexte du service bar en particulier\, la grève est une stratégie e
+ fficace. Cette dernière est un moyen pour réellement faire pression sur 
+ la direction pour qu’elle supprime le services bar. Il suffit que vous e
+ t vos collègues refusiez de travailler jusqu’à ce que vous n’ayez pl
+ us à payer ces frais. Après le 23 mai\, vous et vos collègues pourriez 
+ décider de vous présenter au travail et de refuser de payer le service b
+ ar\, ou encore continuer à faire grève jusqu’à ce que votre direction
+  accepte de les abolir.\nPourquoi faire grève pendant le Grand Prix?\nNou
+ s pensons que le Grand Prix est le meilleur moment pour faire grève. Les 
+ clubs sont à leur plus fort achalandage: c’est la période la plus lucr
+ ative de l’année pour nos patrons. C’est donc le moment parfait pour 
+ frapper là où ça fait mal. Pendant cette période\, malgré les gains p
+ lus importants réalisés par la direction\, les danseuse.rs doivent suppo
+ rter une série de nouvelles règles\, une augmentation des frais de bar\,
+  des surréservations et\, de manière générale\, une détérioration de
+  leurs conditions de travail.&nbsp\;\nMême si certaines font de bons reve
+ nus pendant le Grand Prix\, nos patrons programment tellement de travaille
+ use.rs durant cette période que nos gains individuels diminuent. Cette su
+ rréservation se fait sans les mesures de sécurité supplémentaires néc
+ essaires pour protéger ces travailleuse.rs\, ce qui entraîne une augment
+ ation de la violence à leur égard pendant ces périodes chargées et cha
+ otiques. De plus\, les frais de bar sont augmentés de manière exorbitant
+ e pendant la F1 et de nouvelles règles arbitraires sont souvent appliqué
+ es de manière stricte\, avec des pénalités abusives. En 2025\, un club 
+ de Montréal a facturé 110 dollars par nuit pour les cinq nuits de la F1.
+  Avec une moyenne de 60 filles par nuit (une estimation basse)\, ce club a
+  gagné environ 33 000 dollars rien qu’avec les danseuses qui ont franch
+ i sa porte. Cela n’inclut pas les frais de retard et les pénalités que
+  ces danseuse.rs ont pu être contraint.es de payer. Le modèle du service
+  bar est une pratique abusive qui ne profite qu’aux patrons.\nLa F1 n’
+ est pas seulement un moment symboliquement important pour une grève des T
+ DS\, mais aussi un moment matériellement important. Nous devons perturber
+  ces pratiques de travail abusives\, à un moment où les directions des c
+ lubs les utilisent le plus et en tirent le plus profit. C’est à nous\, 
+ danseuse.rs\, de lutter collectivement contre ces abus de la direction et 
+ de nous battre pour les conditions de travail que nous méritons!&nbsp\;\n
+ C’est aussi le moment idéal pour attirer l’attention des médias. Cha
+ que année\, les féministes anti-travail du sexe se font particulièremen
+ t entendre pendant le Grand Prix pour promouvoir leur agenda abolo\; notre
+  grève sera l’occasion de proposer un contre-discours dans lequel les t
+ ravailleuse.rs du sexe ont une capacité d’action et du pouvoir pour né
+ gocier leurs conditions. Tout en reconnaissant les violences dans nos mili
+ eux de travail\, nous croyons que la solution passe par l’action collect
+ ive des travailleuse.rs\, et non par des interventions punitives de l’É
+ tat.\nLa grève concerne-t-elle uniquement les danseuse.rs ?\nNon! En fait
+ \, nous travaillons activement sur des revendications spécifiques pour le
+ s travailleuse.rs en salons de massage\, en plus de nos revendications act
+ uelles pour les strip clubs. De plus\, en tant que danseuse.rs\, nous couv
+ rons divers domaines de l’industrie du sexe\, qu’il s’agisse de trav
+ ail en ligne ou de services complets. Cela ne s’applique pas à toustes\
+ , mais certain.es d’entre nous ont d’autres emplois dans l’industrie
+ . Tout cela pour dire que notre objectif est que toustes les TDS s’organ
+ isent contre ceux qui tirent profit de nous. Qu’il s’agisse des TDS en
+  ligne contre leur plateforme ou des escortes contre la direction de leur 
+ agence\, nous rêvons d’un monde dans lequel toustes les TDS reprennent 
+ leurs droits en tant que travailleuse.rs!\nY aura-t-il des conséquences s
+ i je fais grève ?\nOui\, les risques existent. Mais ne pas agir seule e
+ st essentiel! En s’organisant ensemble dès le départ\, et en créant d
+ es liens de solidarité entre différents milieux de travail\, on met en p
+ lace des actions collectives pour se protéger des représailles patronale
+ s.\nLes clubs qui se sont syndiqués aux États-Unis\, le Lusty Lady et le
+  Star Garden\, ont vu certaines travailleuses plus militantes se faire con
+ gédier pour leur organisation. Mais c’est précisément cette injustice
+  qui a renforcé la solidarité et mené aux premières conventions collec
+ tives\, faisant avancer le mouvement. Cette solidarité a permis aux trava
+ illeuse.rs congédiées de retrouver leur emploi.\nEn résumé\, oui\, il 
+ peut y avoir des conséquences à faire grève\, mais s’il n’y en avai
+ t pas\, nous l’aurions fait depuis longtemps! S’opposer à nos employe
+ urs comporte des risques\, et parfois\, entraîne des conséquences. Cepen
+ dant\, c’est une raison supplémentaire pour riposter plus fort et plus 
+ durement collectivement. Nous ne devons pas céder face aux tactiques d’
+ intimidation et antisyndicales de notre direction! Après tout\, nous savo
+ ns toustes que sans les danseuse.rs\, il n’y aurait pas de strip clubs.\
+ nComment faire la grève ?\nTout d’abord\, vous devez réfléchir à q
+ ui sont vos ami.es et allié.es au sein du club\, à qui faites-vous confi
+ ance? Il se peut que ce ne soit que deux ou trois de vos collègues\, et c
+ ’est assez! Ensuite\, vous et vos allié.es devez élaborer une stratég
+ ie pour mobiliser vos collègues en vue de la grève\, ce qui signifie les
+  rallier à vos revendications et à la grève en elle-même. Ce processus
+  implique généralement d’instaurer une relation de confiance avec vos 
+ collègues et de vous ouvrir les un.es aux autres sur les problèmes que v
+ ous rencontrez sur votre milieu de travail. À terme\, vous finirez peut-
+ être par atteindre un stade où vous vous sentirez à l’aise pour abord
+ er la grève et les revendications qui y sont associées avec vos collègu
+ es.&nbsp\;\nAu final\, chaque club peut souhaiter participer à la grève 
+ de manière différente ou apporter sa touche personnelle aux revendicatio
+ ns que nous proposons. Le CATS peut fournir des espaces et des activités 
+ auxquels les TDS en grève et leurs allié.es peuvent participer le jour d
+ e la grève\, en plus de soutenir vos efforts de mobilisation avant et apr
+ ès la grève. Si vous et vos collègues ne vous sentez pas prêt.es à pr
+ ésenter vos revendications à vos patrons\, mais que vous souhaitez tout 
+ de même participer à la grève\, c’est aussi très bien! Nous encourag
+ eons vivement les gens à présenter leurs revendications à la direction 
+ le 23 mai\, mais nous comprenons également que le calendrier de mobilisat
+ ion variera d’un lieu de travail à l’autre.&nbsp\;\nComme mentionné 
+ précédemment\, nous avons choisi spécifiquement le moment de la F1 pour
+  rendre nos revendications publiques dans les médias\, mais nous réfléc
+ hissons également à d’autres stratégies pour nous assurer que nos rev
+ endications parviennent de manière anonyme à la direction du club et sus
+ citent un débat sur ces demandes. Si la F1 n’est pas le moment opportun
+  dans votre milieu de travail pour présenter ces revendications à votre 
+ boss en tant que collectif\, nous espérons qu’elle servira de catalyseu
+ r pour que davantage de vos collègues se joignent à vous et se sentent 
+ à l’aise pour toute action future qui pourrait faire avancer ces revend
+ ications.\nD’un autre côté\, c’est peut-être une bonne occasion pou
+ r mener à bout vos efforts de mobilisation dans votre club\, peut-être q
+ ue vous et vos collègues êtes déjà en train d’élaborer la meilleure
+  stratégie pour présenter vos revendications à la direction et/ou ce qu
+ e vous comptez faire après le 23 mai si ces revendications ne sont pas r
+ épondues. Peu importe où vous en êtes dans votre mobilisation\, nous vo
+ us souhaitons bonne chance dans cette lutte à nos côtés. Nous sommes vo
+ s collègues et vos amis\, et nous nous mobilisons activement sur nos prop
+ res milieux de travail dans le but d’obtenir des conditions de travail p
+ lus sûres pour toustes.&nbsp\;\nVenez aux rencontres du CATS pour obtenir
+  tous les outils de mobilisation (flyers\, affiches\, etc.) ou pour des co
+ nseils\, nous sommes là pour vous aider! Rejoignez-nous le 23 mai pour pe
+ rturber l’industrie du travail du sexe et appeler à la solidarité des 
+ TDS face aux abus patronaux. Ce travail a prouvé à chacun d’entre nous
+  que nous sommes incroyablement fort.es et capables\, et qu’en tant que 
+ collectif\, nous avons le potentiel d’être imbattables ! Travailleuse.r
+ s du sexe du monde entier\, unissez-vous!\nLe 23 mai\, ne te présente pas
+  au travail et encourage tes collègues à participer aux activités de gr
+ ève.\nPour obtenir du matériel de mobilisation\, écris-nous en message 
+ privé ou par courriel.
 END:VEVENT
 END:VCALENDAR
