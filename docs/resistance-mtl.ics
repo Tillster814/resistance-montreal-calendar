@@ -8,137 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260501T042428
-DTSTART;TZID=America/Toronto:20260501T160000
-DTEND;TZID=America/Toronto:20260501T180000
-SUMMARY:Fête solidaire des résistances populaires
-LOCATION:(métro Square-Victoria)
-DESCRIPTION:2026-05-01 16:00:00\n\n(métro Square-Victoria)\n\nhttps://www
- .openstreetmap.org/way/104671932\n\nLe FRACA vous invite à un rassembleme
- nt festif pour le 1er mai!\nPour répondre à l’appel à l’action\, le
-  FRACA organise un rassemblement festif\, inclusif et familial! Viens te r
- assembler avec nous dans une ambiance chaleureuse et solidaire!\nOuvert à
-  tout le monde\, familles\, ami·e·s\, voisin·e·s\, ce moment est l’o
- ccasion parfaite pour se retrouver\, jaser de grève sociale\, rire et cr
- éer des liens avant de prendre la rue ensemble!\nDate: 1er mai\, de 16h 
- à 18h\nLieu: Square Victoria\nActivités: nourriture\, kiosques\, station
-  de bricolage\, coin pour enfant\, et plus!\nStations de métro accessible
- s à proximité : Place d'Armes ou Bonaventure\nAdresse pour le transport 
- adapté : 601 avenue Viger ouest\nPour plus d'info sur la manif après le 
- rassemblement: https://www.facebook.com/events/1442131170695109\n---\nFRAC
- A invites you to a festive gathering on May 1!\nIn response to the call to
-  action\, we’re organizing a festive\, inclusive\, and family-friendly g
- athering! Come join us in a warm and supportive atmosphere!\nOpen to every
- one\, families\, friends\, neighbors\, this is the perfect opportunity to 
- get together\, chat about a social strike\, laugh\, and build connections 
- before taking to the streets together!\nDate: May 1\, from 4PM to 6PM\nLoc
- ation: Victoria Square\nActivities: food\, booths\, a craft station\, a ki
- ds’ corner\, and more!\nNearby accessible metro stations: Place d'Armes 
- or Bonaventure\nAddress for paratransit: 601 Viger Avenue West\nFor more i
- nfo about the demonstration happening right after this event : https://www
- .facebook.com/events/1442131170695109
-URL;VALUE=URI:https://www.openstreetmap.org/way/104671932
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260501T042428
-DTSTART;TZID=America/Toronto:20260501T163000
-DTEND;TZID=America/Toronto:20260501T183000
-SUMMARY:Rassemblement créatif pour la justice des travailleurs-e-s migran
- t·e·s
-LOCATION:(métro Parc)
-DESCRIPTION:2026-05-01 16:30:00\n\n(métro Parc)\n\nhttps://www.openstreet
- map.org/node/7810702129\n\nLes droits des migrant·e·s\, c’est des droi
- ts des travailleuses et travailleurs!\nRassemblement artistique et festif\
- nVendredi 1er mai 2026\n16 h 30\nMétro Parc\nJoignez-vous au Centre des t
- ravailleurs et travailleuses immigrants ce 1er mai 2026 pour un rassemblem
- ent créatif mettant en lumière les luttes pour la justice au travail des
-  personnes migrantes\, dans le cadre de la grève sociale du 1er mai.\nCe 
- 1er mai\, nous participons à des mobilisations massives partout au Québe
- c pour exiger la fin des attaques du gouvernement contre les travailleuses
-  et travailleurs\, les étudiant·e·s\, les locataires\, les organismes c
- ommunautaires\, les syndicats\, les personnes migrantes\, les groupes mino
- ritaires et plus encore.\nLa question des droits des personnes migrantes e
- st au cœur de cette lutte. Ce gouvernement\, comme plusieurs avant lui\, 
- tente de faire des migrant·e·s des boucs émissaires pour des problèmes
-  sociaux qui sont en réalité les conséquences directes de son propre ag
- enda néolibéral\, notamment la flambée des loyers\, le manque de places
-  en CPE et les longues listes d’attente dans le système de santé.\nCes
-  discours trompeurs doivent être rejetés sans équivoque afin de s’att
- aquer aux véritables causes de ces problèmes majeurs. Nous devons aussi 
- dénoncer les injustices et lutter pour un traitement juste et égal des t
- ravailleuses et travailleurs migrants\, qui sont essentiels à plusieurs s
- ecteurs clés de notre société\, mais qui subissent des abus disproporti
- onnés avec très peu d’accès à des recours\, à des compensations ou 
- à la justice.\nLes travailleuses et travailleurs migrants—souvent sans 
- représentation syndicale—se retrouvent dans les emplois les plus préca
- ires\, souvent embauchés par des agences de placement temporaire\, payés
-  sous le salaire minimum et exposés à des taux plus élevés d’acciden
- ts de travail\, notamment dans les entrepôts. Plusieurs font aussi face 
- à du harcèlement sexuel et à des abus\, particulièrement les femmes sa
- ns statut.\nEn ce 1er mai\, la lutte des travailleuses et travailleurs mig
- rants est une lutte pour la dignité de toutes et tous. C’est pourquoi l
- es travailleurs et travailleuses migrants revendiquent :\nStabilité et di
- gnité!\nUn statut permanent et un travail décent pour toutes et tous!\n-
- -----\nMigrant Rights Are Workers’ Rights!\nFestive Rally for Internatio
- nal Workers Day\nFriday\, May 1\, 2026\n4:30 PM\nMetro Parc\nJoin the Immi
- grant Workers Centre this May 1\, 2026\, for a creative gathering highligh
- ting the struggle for workplace justice for migrants\, as part of the grè
- ve sociale for May Day.\nThis May 1\, we are joining mass mobilizations ac
- ross the province to demand an end to the government’s attacks on worker
- s\, students\, tenants\, community organizations\, labour unions\, migrant
- s\, minority groups\, and more.\nThe issue of migrant rights is central to
-  this struggle. This government\, like many before it\, is attempting to s
- capegoat migrants for societal problems that are in fact the result of its
-  own neoliberal agenda\, including skyrocketing rent\, lack of space in CP
- Es\, and long wait times in the healthcare system.\nThese false narratives
-  must be firmly rejected in order to confront the real causes of these ser
- ious issues. We must also denounce injustices and fight for the fair and e
- qual treatment of migrant workers\, who are essential to many of our socie
- ty’s most important sectors\, yet face disproportionate levels of abuse 
- with little access to recourse\, compensation\, or justice.\nMigrant worke
- rs—often without union representation—are concentrated in the most pre
- carious jobs\, frequently employed through temporary placement agencies\, 
- paid below minimum wage\, and exposed to higher rates of workplace injurie
- s\, particularly in warehouses. Many also face sexual harassment and abuse
- \, especially undocumented women.\nThis May Day\, the struggle of migrant 
- workers is a struggle for the dignity of all workers. That is why migrant 
- workers demand:\nStability and dignity!\nPermanent status and decent work 
- for all!
-URL;VALUE=URI:https://www.openstreetmap.org/node/7810702129
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260501T042428
-DTSTART;TZID=America/Toronto:20260501T180000
-DTEND;TZID=America/Toronto:20260501T200000
-SUMMARY:Manif Anticapitaliste
-LOCATION:(métro Square-Victoria)
-DESCRIPTION:2026-05-01 18:00:00\n\n(métro Square-Victoria)\n\nhttps://www
- .openstreetmap.org/way/104671932\n\nCe premier mai 2026\, la CLAC particip
- e à l'organisation de la journée d'action et le manifestation du premier
-  mai!\nPour plus d'information\, voir https://premiermai.info\nVoir le jou
- rnal pour le premier mai.\nQuelques petits collants ont été réalisés p
- our l'occasion
-URL;VALUE=URI:https://www.openstreetmap.org/way/104671932
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20260501T042428
-DTSTART;TZID=America/Toronto:20260501T200000
-DTEND;TZID=America/Toronto:20260501T220000
-SUMMARY:Show Metal 15$ : Z-Cocoon + Spirit Unbound + Screaming Demons + Te
- lephant Graveyard
-LOCATION:Demande à un-e punk ! Ask a punk!
-DESCRIPTION:2026-05-01 20:00:00\n\nDemande à un-e punk ! Ask a punk!
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-4
-SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260502T090000
 DTEND;TZID=America/Toronto:20260502T110000
 SUMMARY:Boisé Steinberg : Corvée de printemps
@@ -166,9 +36,9 @@ DESCRIPTION:2026-05-02 09:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1054254024
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260502T120000
 DTEND;TZID=America/Toronto:20260502T140000
 SUMMARY:Corvée de printemps au B7
@@ -188,9 +58,9 @@ DESCRIPTION:2026-05-02 12:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260502T130000
 DTEND;TZID=America/Toronto:20260502T150000
 SUMMARY:Manifestation à vélo en solidarité avec la Palestine
@@ -210,9 +80,9 @@ DESCRIPTION:2026-05-02 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/39107748
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260502T130000
 DTEND;TZID=America/Toronto:20260502T150000
 SUMMARY:Manifestation des syndicats - Droits bafoués\, faut résister
@@ -245,9 +115,9 @@ DESCRIPTION:2026-05-02 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260502T200000
 DTEND;TZID=America/Toronto:20260502T220000
 SUMMARY:Fundraising concert 15$ in solidarity with land defenders
@@ -273,9 +143,9 @@ DESCRIPTION:2026-05-02 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260503T113000
 DTEND;TZID=America/Toronto:20260503T133000
 SUMMARY:Sit-in mensuel de Mères au front
@@ -303,9 +173,9 @@ DESCRIPTION:2026-05-03 11:30:00\n\nCoin McGill College / Sherbrooke\n\n(m
  1\nhttps://www.facebook.com/MAFMontreal/videos/1434201113650756/\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260503T130000
 DTEND;TZID=America/Toronto:20260503T150000
 SUMMARY:Visite guidée du quartier : "Des luttes ouvrières aux luttes pou
@@ -317,9 +187,9 @@ DESCRIPTION:2026-05-03 13:00:00\n\n(métro Charlevoix)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/way/263144065
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260503T140000
 DTEND;TZID=America/Toronto:20260503T160000
 SUMMARY:Rencontre d'organisation des pratiques de cercles restaurateurs
@@ -343,9 +213,9 @@ DESCRIPTION:2026-05-03 14:00:00\n\n251 des Pins Ouest (métro Place-des-Ar
 URL;VALUE=URI:https://www.openstreetmap.org/way/143939733
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260503T140000
 DTEND;TZID=America/Toronto:20260503T160000
 SUMMARY:Science for the People Issue Launch: "Political Economy of Science
@@ -385,9 +255,37 @@ DESCRIPTION:2026-05-03 14:00:00\n\n251 des Pins Ouest (métro Place-des-Ar
 URL;VALUE=URI:https://www.openstreetmap.org/way/143939733
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260503T140000
+DTEND;TZID=America/Toronto:20260503T160000
+SUMMARY:Manifestation : Défendons la flotille / Brisons le siège
+LOCATION:(métro Champ-de-Mars)
+DESCRIPTION:2026-05-03 14:00:00\n\n(métro Champ-de-Mars)\n\nhttps://www.o
+ penstreetmap.org/node/2007138991\n\nMONTRÉAL - Rejoignez-nous pour défen
+ dre la flottille Global Sumud @globalsumudflotilla et maintenir la pressio
+ n internationale pour la fin du siège illégal imposé à Gaza.\nDans la 
+ nuit du 29 au 30 avril\, l'entité sioniste a illégalement intercepté 22
+  bateaux de la flottille et enlevé 180 civils\, dont 2 Canadiennes. Un ac
+ te de piraterie\, commis en toute impunité. Nous dénonçons le silence e
+ t la complicité du Canada face à ces attaques violentes\, le siège ill
+ égal de Gaza et le génocide en cours en Palestine.\n🗓 Dimanche 3 mai\
+ n🕑 14h00\n📍 275 rue Notre-Dame\n-\nMONTREAL - Join us to defend the 
+ Global Sumud Flotilla @globalsumudflotilla and continue the global pressur
+ e to break the illegal siege on Gaza.\nOn the night of April 29-30\, the z
+ ionist entity illegally intercepted 22 boats of the flotilla and kidnapped
+  180 civilians\, among them 2 Canadians. An act of piracy\, with full impu
+ nity. We denounce Canada's silence and complicity with those violent attac
+ ks\, the illegal siege on Gaza\, and the ongoing genocide in Palestine.\n
+ 🗓 Sunday\, May 3rd\n🕑 2:00pm\n📍 275 Notre-Dame East\n#globalsumud
+ flotilla #breakthesiege #freepalestine
+URL;VALUE=URI:https://www.openstreetmap.org/node/2007138991
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-10
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260503T170000
 DTEND;TZID=America/Toronto:20260503T190000
 SUMMARY:Εργατική Πρωτομαγιά 2026 - Journée Internationa
@@ -477,9 +375,9 @@ DESCRIPTION:2026-05-03 17:00:00\n\n5359 Parc (métro Laurier)\n\nhttps://w
 URL;VALUE=URI:https://www.openstreetmap.org/way/234717660
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260503T173000
 DTEND;TZID=America/Toronto:20260503T193000
 SUMMARY:Club de lecture anticapitaliste
@@ -501,9 +399,39 @@ DESCRIPTION:2026-05-03 17:30:00\n\n6792 St-Laurent\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/way/1082416935
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260503T180000
+DTEND;TZID=America/Toronto:20260503T200000
+SUMMARY:Screening of Pride (2014)
+LOCATION:(métro de l&#039\;Égliste)
+DESCRIPTION:2026-05-03 18:00:00\n\n(métro de l&#039\;Égliste)\n\nhttps:/
+ /www.openstreetmap.org/node/11972799174\n\nSLAM-Verdun invites you to a Ma
+ y Day screening of Pride (2014)!\nSLAM-Verdun vous invite\, dans le cadre 
+ du 1er mai\, à un visionnement du film Pride (2014)!\nScreening &amp\; di
+ scussion\nProjection &amp\; discussion\nMay 3 mai 6pm / 18h\nSuspicious Fi
+ sh\n5161 Wellington\nMetro De l’eglise\nPride (2014) is a British dramed
+ y based on the incredible true story of how a small group of LGBTQ+ organi
+ zers in 1980s London came together to support striking Welsh miners during
+  one of the most bitter labour disputes in UK history. Facing hostility fr
+ om both the police and the press (and rejected by some trade unions for be
+ ing «&nbsp\;too controversial”) a group of queer organizers showed up a
+ nyway. The film follows the unlikely friendship that forms between two gro
+ ups taught to fear each other\, as they discover that solidarity isn’t a
+ bout shared identity\, but shared struggle and that liberation is collecti
+ ve. Funny\, fierce\, and deeply moving\, Pride asks what becomes possible 
+ when people put their bodies on the line for someone else’s fight\, with
+ out waiting for safety first.\nThe film will be shown in its original Engl
+ ish version with French subtitles.\nThe screening will be followed by a co
+ nversation on solidarity\, what it means and what is actually takes.\n5$ s
+ uggested donation\, money going to SLAM and Suspicious Fish
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972799174
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-13
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260504T190000
 DTEND;TZID=America/Toronto:20260504T210000
 SUMMARY:Last Generation: Introduction
@@ -515,9 +443,25 @@ DESCRIPTION:2026-05-04 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260505T160000
+DTEND;TZID=America/Toronto:20260505T180000
+SUMMARY:Vigil for Palestine
+LOCATION:(aux tourniquets)
+DESCRIPTION:2026-05-05 16:00:00\n\n(aux tourniquets)\n\nMay 5 @ 16 h 00 mi
+ n - 17 h 30 min\nMETRO ANGRIGNON 3300 boul. Trinitaires\, Montreal\, Quebe
+ c\, Canada\nJOIN US AT THE PAJU VIGILS Vigil and distribution PAJU Palesti
+ ne: &nbsp\; TUESDAY MAY 5 at&nbsp\;&nbsp\;METRO&nbsp\;ANGRIGNON TUESDAY&nb
+ sp\;MAY&nbsp\;5&nbsp\;&nbsp\;FROM 4 PM TO 5:30 &nbsp\;PM &nbsp\;inside the
+ &nbsp\;ANGRIGNON&nbsp\;METRO&nbsp\;station just outside of the turnstiles.
+  Join us in solidarity with the people of Palestine
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-15
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260505T170000
 DTEND;TZID=America/Toronto:20260505T190000
 SUMMARY:Black Internationalism: The Historical Role of Montreal
@@ -541,9 +485,68 @@ DESCRIPTION:2026-05-05 17:00:00\n\n3007 Delisle (métro lionel-groulx)\n\n
 URL;VALUE=URI:https://www.openstreetmap.org/way/349689944
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-16
+SEQUENCE:0
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260505T173000
+DTEND;TZID=America/Toronto:20260505T193000
+SUMMARY:Causerie - Dans les forêts anciennes
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-05-05 17:30:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nLes éditions Écosociété e
+ t la Livrerie vous invitent à une causerie avec Gabriel Grenier\, auteur 
+ de Forêts anciennes et&nbsp\;la réalisatrice du film Dans la forêt\, Pa
+ scale Ferland\, animée par Maude Desbois.\n—\nLes forêts ont beaucoup 
+ à&nbsp\;raconter à&nbsp\;qui s’arrête le temps d’une marche… Une 
+ invitation à&nbsp\;découvrir les forêts anciennes et à&nbsp\;faire l
+ ’expérience\, presque mystique\, du fond des&nbsp\;bois.\nLes forêts a
+ nciennes représentent aujourd’hui moins de 1&nbsp\;% des forêts du Qu
+ ébec\, mais leur importance est capitale. En plus de leur valeur scientif
+ ique et biologique\, elles sont l’un des rares endroits ayant été peu 
+ affectés par les activités humaines pour obéir aux impératifs du march
+ é. Imaginez&nbsp\;: les arbres qui s’y trouvent ont pris racine avant m
+ ême que la voiture à&nbsp\;combustion\, les antibiotiques et le télégr
+ aphe ne soient inventés&nbsp\;!&nbsp\;\nPlonger dans une forêt ancienne\
+ , c’est donc entrer en quelque sorte dans un lieu hors du temps. Les arb
+ res couverts de mousses et de lichens portent la marque des saisons dans l
+ eur tronc\, leurs branches\, leur cime. Le chant des oiseaux\, les florais
+ ons printa­nières\, les traces d’animaux&nbsp\;: tout y&nbsp\;est lég
+ ère­ment différent que dans les forêts plus jeunes. Mais quels sont le
+ s attributs d’une forêt ancienne&nbsp\;? À&nbsp\;quoi reconnaît-on un
+  vieil arbre&nbsp\;? Comment protéger ce précieux patrimoine collectif&n
+ bsp\;?\nAmoureux des arbres et partisan de la restau­ration écolo­gique
+ \, Gabriel Grenier propose ici de nombreuses pistes pour que les forêts a
+ nciennes regagnent du terrain. Ce livre\, agrémenté de photos\, de carte
+ s et d’itinéraires de randonnée dans le nord-est de l’Amérique\, s
+ ’adresse à&nbsp\;tous ceux et celles qui entendent les sirènes du fond
+  des bois et qui ont envie de renouer avec une nature sauvage et indompté
+ e. En nous faisant vibrer avec la profonde mémoire de l’univers\, ces c
+ athédrales de biodiversité ont le pouvoir de transformer le regard que n
+ ous portons sur nous-même et sur le monde naturel.&nbsp\;\n—\nGabriel G
+ renier arpente les forêts d’ici et d’ailleurs depuis plus de 20 ans. 
+ Il a&nbsp\;été technicien en foresterie et enseigne désormais en aména
+ gement de la forêt au Centre de formation professionnelle Le Granit\, à&
+ nbsp\;Lac-Mégantic. Il est aussi producteur forestier depuis 2015. Forêt
+ s anciennes est son premier livre.&nbsp\;\n&nbsp\;\nPascale Ferland est sc
+ énariste\, réalisatrice et productrice depuis plus de vingt ans. Après 
+ des études en arts visuels à l’UQAM\, où ses vidéos d’art sont pri
+ mées\, elle développe une œuvre documentaire personnelle\, ancrée dans
+  une pratique de terrain et nourrie par le désir de faire dialoguer forme
+  et idées. Elle signe en 2003 son premier documentaire\, L’Immortalité
+  en fin de compte\, suivi de L’Arbre aux branches coupées (2005) et Ada
+ gio pour un gars de bicycle (2008)\, qui lui valent le prix Victor-Martyn-
+ Lynch-Staunton du Conseil des arts du Canada. En 2012\, elle réalise et p
+ roduit son premier long métrage de fiction\, Ressac. En 2018\, Son docume
+ ntaire Pauline Julien\, intime et politique connaît un large rayonnement 
+ et remporte de nombreux prix. Son plus récent film\, Dans la forêt (2025
+ )\, prolonge cette démarche et s’inscrit au cœur des enjeux contempora
+ ins sur notre rapport à la nature et aux territoires.&nbsp\;\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260505T180000
 DTEND;TZID=America/Toronto:20260505T200000
 SUMMARY:Red Dress Day Memorial March / Journée de la robe rouge 
@@ -573,7 +576,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260505T183000
 DTEND;TZID=America/Toronto:20260505T203000
 SUMMARY:Impérialisme et redivision du monde : Panel sur l'actualité géo
@@ -601,7 +604,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260505T193000
 DTEND;TZID=America/Toronto:20260505T213000
 SUMMARY:Cabaret Drag Étudiant au profit des migrants.e.s LGBTQ
@@ -619,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260506T120000
 DTEND;TZID=America/Toronto:20260506T140000
 SUMMARY:Webinaire | Stoppons C-22 : une surveillance sans précédent
@@ -663,7 +666,38 @@ END:VEVENT
 BEGIN:VEVENT
 UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260507T133000
+DTEND;TZID=America/Toronto:20260507T153000
+SUMMARY:Assemblées publiques : Les HLM\, la solution à la crise du logem
+ ent cher!
+LOCATION:1212 Panet (métro Beaudry)
+DESCRIPTION:2026-05-07 13:30:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
+ www.openstreetmap.org/way/46866835\n\nLa Fédération des locataires d'hab
+ itations à loyer modique du Québec (FLHLMQ) sera sur la route pour promo
+ uvoir les HLM\, un modèle de logement social qui a largement démontré s
+ on efficacité. Le premier arrêt sera le 7 mai à Montréal\nEn pleine cr
+ ise du logement trop cher\, les assemblées publiques feront la promotion 
+ des HLM comme solution économique et sociale à la crise. Nous avons beso
+ in de nouveaux budgets pour de vrais logements sociaux !\nÀ la veille des
+  élections provinciales\, à l’automne 2026\, on constate que la crise 
+ du logement bat son plein et qu'il n’y a jamais eu autant de personnes e
+ n situation d’itinérance ou à risque de se retrouver à la rue. Les ge
+ ns doivent choisir entre manger ou payer leur loyer. Pourquoi réinventer 
+ la roue alors que nous savons que des logements sociaux dont le loyer est 
+ à 25 % du revenu répondent aux besoins des plus pauvres? Nous sommes à 
+ l’heure des choix !\nL'assemblée montréalaise se déroulera en mode pa
+ nel avec la présence de Louis Gaudreau\, chercheur\, qui partagera le fru
+ it de ses travaux sur le logement abordable versus le logement social. Ser
+ ont aussi présent.e.s des locataires de HLM et des demandeurs de HLM. Le 
+ panel sera suivi d’une discussion.\nNous vous invitons à participer en 
+ grand nombre aux assemblées.
+URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-22
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260507T150000
 DTEND;TZID=America/Toronto:20260507T170000
 SUMMARY:Manif-action OPDS
@@ -675,9 +709,25 @@ DESCRIPTION:2026-05-07 15:00:00\n\nMétro Préfontaine\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/way/160542810
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260507T160000
+DTEND;TZID=America/Toronto:20260507T180000
+SUMMARY:Vigil for Palestine
+LOCATION:(aux tourniquets)
+DESCRIPTION:2026-05-07 16:00:00\n\n(aux tourniquets)\n\nMay 7 @ 16 h 00 mi
+ n - 17 h 30 min\nMETRO ANGRIGNON 3300 boul. Trinitaires\, Montreal\, Quebe
+ c\, Canada\nVigil and distribution PAJU Palestine: &nbsp\; THURSDAY&nbsp\;
+ MAY&nbsp\;7 at&nbsp\;&nbsp\;METRO&nbsp\;ANGRIGNON THURSDAY&nbsp\;MAY&nbsp\
+ ;7&nbsp\;&nbsp\;FROM 4 PM TO 5:30 PM &nbsp\;inside the&nbsp\;ANGRIGNON&nbs
+ p\;METRO&nbsp\;station just outside of the turnstiles. Join us in solidari
+ ty with the people of Palestine
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-24
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260507T160000
 DTEND;TZID=America/Toronto:20260507T180000
 SUMMARY:CASCQ - 4@7 contre la CCQ (commission de la construction du québe
@@ -703,9 +753,9 @@ DESCRIPTION:2026-05-07 16:00:00\n\n3529 Hochelaga (métro Joliette)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/node/5029781799
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260507T170000
 DTEND;TZID=America/Toronto:20260507T190000
 SUMMARY:Café citoyen - Austérité et luttes étudiantes
@@ -719,9 +769,9 @@ DESCRIPTION:2026-05-07 17:00:00\n\nCÉGEP du Vieux-Montréal (métro Berri
 URL;VALUE=URI:https://www.openstreetmap.org/node/12012540913
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260507T170000
 DTEND;TZID=America/Toronto:20260507T190000
 SUMMARY:5à7 financer son projet grassroot
@@ -751,9 +801,39 @@ DESCRIPTION:2026-05-07 17:00:00\n\n1864 Préfontaine (métro Préfontaine)
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973307079
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260507T180000
+DTEND;TZID=America/Toronto:20260507T200000
+SUMMARY:Cercle de lecture : Rosa Luxembourg - Réforme ou Révolution ?
+LOCATION:1710 Rue Beaudry (métro Beaudry)
+DESCRIPTION:2026-05-07 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/181295868\n\nLe Centre Internationaliste R
+ yerson – Fondation aubin (CIRFA) vous invites à participer à son proch
+ ain cercle de lecture autour du livre Réforme ou révolution de Rosa Luxe
+ mbourg. Le livre est un classique du marxisme et un excellent ouvrage pour
+  découvrir la pensée de Rosa Luxembourg.\nLien vers notre site : https:/
+ /centreinternationalisterfa.org/reforme-ou.../\nRésumé du livre : En 189
+ 7\, la controverse du révisionnisme éclate dans le mouvement marxiste. 
+ Édouard Bernstein\, ancien secrétaire d’Engels\, veut donner une nouve
+ lle interprétation du marxisme qui abandonne la révolution au profit de 
+ la réforme sociale. Face à cette monstrueuse déformation du marxisme\, 
+ une jeune marxiste encore peu connue\, Rosa Luxembourg\, va relever le dé
+ fi de réfuter les thèses révisionnistes pour défendre la révolution\,
+  le marxisme orthodoxe et l’effondrement du capitalisme.\nChaque semaine
+  nous nous réunirons pour discuter une partie du livre. Les séances se d
+ érouleront du 7 mai au 11 juin 2026 et se tiendront tous les jeudis de 18
+ h à 20h au 1710 Beaudry salle 2.10.\nL’événement est gratuit et ouver
+ t à tous.\nLe texte est disponible gratuitement en ligne (https://www.mar
+ xists.org/.../luxembur/works/1898/index.html).\nNous espérons vous voir p
+ articiper en grand nombre.
+URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-28
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260507T180000
 DTEND;TZID=America/Toronto:20260507T200000
 SUMMARY:Soirée de tricot et de crochet militants
@@ -769,9 +849,9 @@ DESCRIPTION:2026-05-07 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260507T183000
 DTEND;TZID=America/Toronto:20260507T203000
 SUMMARY:CLSC vs GMF - un virage raté pour la première ligne ?
@@ -801,9 +881,9 @@ DESCRIPTION:2026-05-07 18:30:00\n\n65 Ste-Catherine Ouest (métro St-Laure
 URL;VALUE=URI:https://www.openstreetmap.org/way/340739753
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260508T200000
 DTEND;TZID=America/Toronto:20260508T220000
 SUMMARY:Show Bénéfice pour le Carnaval anarchiste
@@ -813,9 +893,9 @@ DESCRIPTION:2026-05-08 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260508T200000
 DTEND;TZID=America/Toronto:20260508T220000
 SUMMARY:Show Metal 20$ : Tarbox + Soulthief + Fith + Cold Authority
@@ -823,9 +903,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-05-08 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260509T090000
 DTEND;TZID=America/Toronto:20260509T110000
 SUMMARY:Friche à défendre - Corvée de printemps
@@ -851,9 +931,9 @@ DESCRIPTION:2026-05-09 09:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1054253710
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260509T100000
 DTEND;TZID=America/Toronto:20260509T120000
 SUMMARY:Opération Populaire de Ménagement des jeunes
@@ -880,9 +960,9 @@ DESCRIPTION:2026-05-09 10:00:00\n\n(métro Viau)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1317575081
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260509T100000
 DTEND;TZID=America/Toronto:20260509T120000
 SUMMARY:Colloque Penser en Rupture 2026: Fascisme et antifascisme dans le 
@@ -900,9 +980,9 @@ DESCRIPTION:2026-05-09 10:00:00\n\n(métro Berri)\n\nhttps://www.openstree
 URL;VALUE=URI:https://www.openstreetmap.org/node/12012540913
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260509T120000
 DTEND;TZID=America/Toronto:20260509T140000
 SUMMARY:Activité sociale et nettoyage du jardin / Backyard Social + Clean
@@ -924,9 +1004,9 @@ DESCRIPTION:2026-05-09 12:00:00\n\n(métro Place-des-Arts)\n\nhttps://www.
 URL;VALUE=URI:https://www.openstreetmap.org/node/12913451236
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260509T120000
 DTEND;TZID=America/Toronto:20260509T140000
 SUMMARY:Le salaire comme stratégie
@@ -938,9 +1018,67 @@ DESCRIPTION:2026-05-09 12:00:00\n\nPavillon Athanase-David de l&#039\;UQAM
 URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260509T170000
+DTEND;TZID=America/Toronto:20260509T190000
+SUMMARY:Vie de quartier - Un quartier concerné - ressources\, médiation 
+ et formation
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-05-09 17:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nLa Livrerie\,&nbsp\; en colla
+ boration avec la CDC Centre-Sud et l’organisme communautaire Spectre de 
+ rue\, organisent une série d'activités citoyennes afin d’échanger ave
+ c les résident·e·s du quartier sur les réalités de l’itinérance et
+  les enjeux qui y sont liés.\nEnsemble\, nous avons co-construit une sér
+ ie d'ateliers participatifs qui s’adressent aux citoyen·ne·s du quarti
+ er Centre-Sud. Ces ateliers visent à mieux comprendre la situation actuel
+ le\, renforcer notre pouvoir d’agir collectif et faire connaître les in
+ itiatives concrètes déjà en place.\n&nbsp\;\n4e rencontre en 2 volets:&
+ nbsp\; Un quartier concerné - ressources\, médiation et formation\nPrés
+ entation du nouveau Guide du Centre-Sud (CDC) et formation sur les interac
+ tions avec les usagers et les personnes en situation de vulnérabilité (S
+ pectre de rue)\n1er volet: La CDC Centre-Sud offrira une courte présentat
+ ion du tout nouveau Guide du Centre-Sud qui vous offre des repères pour h
+ abiter  le quartier\, ensemble!\nIl s'agit d'un guide à garder sous la 
+ main\, pensé pour les personnes qui habitent\, travaillent ou fréquenten
+ t le quartier.\nOn y trouve des repères pour comprendre l’évolution du
+  quartier\, faire face à différentes situations dans l’espace public\,
+  s’impliquer et connaître les ressources communautaires du Centre-Sud.\
+ n2e volet: Formation donnée par Spectre de rue sur les interactions avec 
+ les usagers et les personnes en situation de marginalité\; cette formatio
+ n vise à démystifier les réalités vécues par ces personnes et à outi
+ ller les participant.es afin de mieux interagir avec celles-ci. À l'anima
+ tion: Émilie Roberge\n&nbsp\;\n5e rencontre en 2 volets: Notre pouvoir d'
+ agir collectif - ressources\, médiation et formation sur les surdoses&nbs
+ p\;\nPrésentation du nouveau Guide du Centre-Sud (CDC) et formation sur l
+ es surdoses et l'administration de la naloxone (Spectre de Rue)\n1er volet
+ : La CDC Centre-Sud offrira une courte présentation du tout nouveau Guide
+  du Centre-Sud qui vous offre des repères pour habiter  le quartier\, e
+ nsemble!\nIl s'agit d'un guide à garder sous la main\, pensé pour les pe
+ rsonnes qui habitent\, travaillent ou fréquentent le quartier.\nOn y trou
+ ve des repères pour comprendre l’évolution du quartier\, faire face à
+  différentes situations dans l’espace public\, s’impliquer et connaî
+ tre les ressources communautaires du Centre-Sud.\n2e volet: Formation donn
+ ée par Spectre de rue pour reconnaître les surdoses et intervenir de man
+ ière adéquate et sécuritaire\; cette présentation inclut l'administrat
+ ion de la naloxone. À l'animation: Émilie Roberge et Marjolaine Michel&n
+ bsp\;\n&nbsp\;\n6e rencontre: Volet enfant - informer et sensibiliser les 
+ jeunes au quotidien des personnes marginalisées\nDans la ville\, les tout
+ ·es petit·es sont amené·es à côtoyer différentes populations\, nota
+ mment des personnes marginalisées. Par le biais d’un album de littérat
+ ure jeunesse qui relate la rencontre d’un enfant et d’un homme sans ch
+ aussettes\, le jeune public sera sensibilisé à l’impact des actions mo
+ destes qui favorisent l’inclusion. Nous les invitons à développer des 
+ attitudes inclusives : empathie\, bienveillance et respect envers ces pers
+ onnes.\nÀ l’animation : Ariane Brisson de l'organisme L'Anonyme
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-38
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260509T183000
 DTEND;TZID=America/Toronto:20260509T203000
 SUMMARY:Fête des mères 2026 : Brillons furieusement 
@@ -975,9 +1113,9 @@ DESCRIPTION:2026-05-09 18:30:00\n\nVille de Québec\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/node/3099753477
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260511T180000
 DTEND;TZID=America/Toronto:20260511T200000
 SUMMARY:Causerie - La doctrine du consentement avec Clara Serra
@@ -1006,9 +1144,9 @@ DESCRIPTION:2026-05-11 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260512T120000
 DTEND;TZID=America/Toronto:20260512T140000
 SUMMARY:Spectre de rue : Blitz de nettoyage du printemps
@@ -1024,9 +1162,25 @@ DESCRIPTION:2026-05-12 12:00:00\n\n1280 Ontario Est (métro Beaudry)\n\nht
 URL;VALUE=URI:https://www.openstreetmap.org/node/2422279646
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260513T170000
+DTEND;TZID=America/Toronto:20260513T190000
+SUMMARY:5 à 7 d’Accueil - Réseau COOP
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-05-13 17:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nCe mercredi 13 mai\, nous pre
+ nons un moment pour féliciter nos futures coopératives et accueillir les
+  nouveaux membres de Réseau COOP. Venez échanger avec ces coopérants re
+ mplis d’enthousiasme pour leur projet et avides d’expérience et de bi
+ enveillance de la communauté COOP et du réseau de l’économie sociale.
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-42
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260513T183000
 DTEND;TZID=America/Toronto:20260513T203000
 SUMMARY:Conférence sur les attaques législatives contre les syndicats
@@ -1042,9 +1196,9 @@ DESCRIPTION:2026-05-13 18:30:00\n\n1601 de Lorimier (métro Papineau)\n\nh
 URL;VALUE=URI:https://www.openstreetmap.org/way/345245850
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-43
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260514T000100
 DTEND;TZID=America/Toronto:20260514T020100
 SUMMARY:Festival anarchiste Constellation
@@ -1090,9 +1244,9 @@ DESCRIPTION:2026-05-14 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260514T150000
 DTEND;TZID=America/Toronto:20260514T170000
 SUMMARY:Constellation: Tattoo & Piercing bénéfice pour 2033-2035 St-Laur
@@ -1107,9 +1261,9 @@ DESCRIPTION:2026-05-14 15:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-45
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260514T170000
 DTEND;TZID=America/Toronto:20260514T190000
 SUMMARY:Constellation: Bike ride to sketchy beach (3rd annual!)
@@ -1147,9 +1301,39 @@ DESCRIPTION:2026-05-14 17:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-41
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260514T180000
+DTEND;TZID=America/Toronto:20260514T200000
+SUMMARY:Cercle de lecture : Rosa Luxembourg - Réforme ou Révolution ?
+LOCATION:1710 Rue Beaudry (métro Beaudry)
+DESCRIPTION:2026-05-14 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/181295868\n\nLe Centre Internationaliste R
+ yerson – Fondation aubin (CIRFA) vous invites à participer à son proch
+ ain cercle de lecture autour du livre Réforme ou révolution de Rosa Luxe
+ mbourg. Le livre est un classique du marxisme et un excellent ouvrage pour
+  découvrir la pensée de Rosa Luxembourg.\nLien vers notre site : https:/
+ /centreinternationalisterfa.org/reforme-ou.../\nRésumé du livre : En 189
+ 7\, la controverse du révisionnisme éclate dans le mouvement marxiste. 
+ Édouard Bernstein\, ancien secrétaire d’Engels\, veut donner une nouve
+ lle interprétation du marxisme qui abandonne la révolution au profit de 
+ la réforme sociale. Face à cette monstrueuse déformation du marxisme\, 
+ une jeune marxiste encore peu connue\, Rosa Luxembourg\, va relever le dé
+ fi de réfuter les thèses révisionnistes pour défendre la révolution\,
+  le marxisme orthodoxe et l’effondrement du capitalisme.\nChaque semaine
+  nous nous réunirons pour discuter une partie du livre. Les séances se d
+ érouleront du 7 mai au 11 juin 2026 et se tiendront tous les jeudis de 18
+ h à 20h au 1710 Beaudry salle 2.10.\nL’événement est gratuit et ouver
+ t à tous.\nLe texte est disponible gratuitement en ligne (https://www.mar
+ xists.org/.../luxembur/works/1898/index.html).\nNous espérons vous voir p
+ articiper en grand nombre.
+URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-47
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260515T000100
 DTEND;TZID=America/Toronto:20260515T020100
 SUMMARY:Festival anarchiste Constellation
@@ -1195,9 +1379,9 @@ DESCRIPTION:2026-05-15 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-42
+UID:resmtl-48
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260515T120000
 DTEND;TZID=America/Toronto:20260515T140000
 SUMMARY:Constellation: MATC presents Jour de MESH Day 2
@@ -1236,9 +1420,9 @@ DESCRIPTION:2026-05-15 12:00:00\n\n999 du Collège (métro Place-St-Henri)
 URL;VALUE=URI:https://www.openstreetmap.org/node/717702812
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-43
+UID:resmtl-49
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260515T153000
 DTEND;TZID=America/Toronto:20260515T173000
 SUMMARY:Constellation: MATC presents MOVIE NIGHT!
@@ -1258,9 +1442,9 @@ DESCRIPTION:2026-05-15 15:30:00\n\n999 du Collège (métro Place-St-Henri)
 URL;VALUE=URI:https://www.openstreetmap.org/node/717702812
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-44
+UID:resmtl-50
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260515T180000
 DTEND;TZID=America/Toronto:20260515T200000
 SUMMARY:Lancement et causerie : "Tant qu'il y aura des prisons" de Gwenola
@@ -1274,9 +1458,9 @@ DESCRIPTION:2026-05-15 18:00:00\n\n262 Ste-Catherine Est (métro Berri)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/3748071091
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-45
+UID:resmtl-51
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260515T180000
 DTEND;TZID=America/Toronto:20260515T200000
 SUMMARY:Quizzz incendiaire du communautaire
@@ -1290,9 +1474,9 @@ DESCRIPTION:2026-05-15 18:00:00\n\n3606 Ontario (métro Joliette)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/942874457
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-46
+UID:resmtl-52
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260515T180000
 DTEND;TZID=America/Toronto:20260515T200000
 SUMMARY:Manif de la Nakba de désinvestir4palestine
@@ -1319,9 +1503,9 @@ DESCRIPTION:2026-05-15 18:00:00\n\n(métro Atwater)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/1104856301
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-47
+UID:resmtl-53
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260516T000100
 DTEND;TZID=America/Toronto:20260516T020100
 SUMMARY:Salon du livre anarchiste Constellation
@@ -1367,9 +1551,35 @@ DESCRIPTION:2026-05-16 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-48
+UID:resmtl-54
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260516T100000
+DTEND;TZID=America/Toronto:20260516T120000
+SUMMARY:Formation de base en organisation syndicale d'Alliance Ouvrière
+LOCATION:local A-1760\, 400 Rue Sainte-Catherine E (métro Berri)
+DESCRIPTION:2026-05-16 10:00:00\n\nlocal A-1760\, 400 Rue Sainte-Catherine
+  E (métro Berri)\n\nhttps://www.openstreetmap.org/way/370730179\n\nÀ not
+ er que la formation dure deux jours. SVP vous inscrire pour confirmer votr
+ e participation à toute la formation\, et nous avertir si vous devez annu
+ ler votre inscription. Merci! Vive le pouvoir ouvrier!&nbsp\;\n&nbsp\;\n
+ 📆 L'horaire: 10-17h samedi et dimanche (16 et 17 mai)\n📍Au local A-1
+ 760 à l'UQAM\,&nbsp\;400 Rue Sainte-Catherine E\, Montréal\, QC H2L 2C5\
+ n🍽️ Café et dîner fournis\n✏️ Matériel à apporter : Bloc-note
+ s + stylo\n&nbsp\;\n&nbsp\;L'objectif de la formation est de guider les pa
+ rticipant-es à travers les étapes de l'organisation syndicale de leur mi
+ lieu de travail.&nbsp\;\n&nbsp\;\nCette fin de semaine sera une édition s
+ péciale pour les milieux déjà syndiqués. C'est l'occasion parfaite pou
+ r tous ceux et celles qui souhaitent apprendre à redynamiser ou à démoc
+ ratiser leur syndicat!\n&nbsp\;\n***Note:&nbsp\;\nLa formation sera en fra
+ nçais. Des formations en anglais sont à venir bientôt.\nThe training wi
+ ll be in French. Trainings in English coming soon.
+URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-55
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260516T130000
 DTEND;TZID=America/Toronto:20260516T150000
 SUMMARY:Violet Hour Book Club : "The History of a Difficult Child"
@@ -1411,9 +1621,9 @@ DESCRIPTION:2026-05-16 13:00:00\n\n6450 avenue Christophe-Colomb\n\nhttps:
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-49
+UID:resmtl-56
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260516T140000
 DTEND;TZID=America/Toronto:20260516T160000
 SUMMARY:Nakba Protest of the Palestinian Youth Movement (PYM)
@@ -1433,9 +1643,9 @@ DESCRIPTION:2026-05-16 14:00:00\n\n1\, westmount square (metro atwater)\n\
 URL;VALUE=URI:https://www.openstreetmap.org/node/1071553785
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-50
+UID:resmtl-57
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260516T190000
 DTEND;TZID=America/Toronto:20260516T210000
 SUMMARY:DARKROOM_2
@@ -1451,9 +1661,9 @@ DESCRIPTION:2026-05-16 19:00:00\n\n3667 Saint-Laurent\n\nFind the staircas
  e et du son.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-51
+UID:resmtl-58
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260516T200000
 DTEND;TZID=America/Toronto:20260516T220000
 SUMMARY:Rebecca Lane en concert en territoire non-cédé
@@ -1507,9 +1717,9 @@ DESCRIPTION:2026-05-16 20:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-52
+UID:resmtl-59
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260516T230000
 DTEND;TZID=America/Toronto:20260517T010000
 SUMMARY:The Official Unofficial Constellation Dance Party
@@ -1518,9 +1728,9 @@ DESCRIPTION:2026-05-16 23:00:00\n\nTBA\n\nThe 5th annual bookfair dance pa
  rty\nPresented by FPFP\nInfo TBA
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-53
+UID:resmtl-60
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260517T000100
 DTEND;TZID=America/Toronto:20260517T020100
 SUMMARY:Anarchiste skill faire Constellation
@@ -1566,9 +1776,35 @@ DESCRIPTION:2026-05-17 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-54
+UID:resmtl-61
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260517T100000
+DTEND;TZID=America/Toronto:20260517T120000
+SUMMARY:Formation de base en organisation syndicale d'Alliance Ouvrière
+LOCATION:local A-1760\, 400 Rue Sainte-Catherine E (métro Berri)
+DESCRIPTION:2026-05-17 10:00:00\n\nlocal A-1760\, 400 Rue Sainte-Catherine
+  E (métro Berri)\n\nhttps://www.openstreetmap.org/way/370730179\n\nÀ not
+ er que la formation dure deux jours. SVP vous inscrire pour confirmer votr
+ e participation à toute la formation\, et nous avertir si vous devez annu
+ ler votre inscription. Merci! Vive le pouvoir ouvrier!&nbsp\;\n&nbsp\;\n
+ 📆 L'horaire: 10-17h samedi et dimanche (16 et 17 mai)\n📍Au local A-1
+ 760 à l'UQAM\,&nbsp\;400 Rue Sainte-Catherine E\, Montréal\, QC H2L 2C5\
+ n🍽️ Café et dîner fournis\n✏️ Matériel à apporter : Bloc-note
+ s + stylo\n&nbsp\;\n&nbsp\;L'objectif de la formation est de guider les pa
+ rticipant-es à travers les étapes de l'organisation syndicale de leur mi
+ lieu de travail.&nbsp\;\n&nbsp\;\nCette fin de semaine sera une édition s
+ péciale pour les milieux déjà syndiqués. C'est l'occasion parfaite pou
+ r tous ceux et celles qui souhaitent apprendre à redynamiser ou à démoc
+ ratiser leur syndicat!\n&nbsp\;\n***Note:&nbsp\;\nLa formation sera en fra
+ nçais. Des formations en anglais sont à venir bientôt.\nThe training wi
+ ll be in French. Trainings in English coming soon.
+URL;VALUE=URI:https://www.openstreetmap.org/way/370730179
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-62
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260517T110000
 DTEND;TZID=America/Toronto:20260517T130000
 SUMMARY:Constellation : Repérer les sources : anarchisme et recherche his
@@ -1593,9 +1829,9 @@ DESCRIPTION:2026-05-17 11:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-55
+UID:resmtl-63
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260518T000100
 DTEND;TZID=America/Toronto:20260518T020100
 SUMMARY:Festival anarchiste Constellation
@@ -1641,9 +1877,9 @@ DESCRIPTION:2026-05-18 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-56
+UID:resmtl-64
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260518T130000
 DTEND;TZID=America/Toronto:20260518T150000
 SUMMARY:Montreal Anarchist Day of CRAP
@@ -1663,9 +1899,25 @@ DESCRIPTION:2026-05-18 13:00:00\n\n2515 Rue Delisle (métro lionel-groulx)
 URL;VALUE=URI:https://www.openstreetmap.org/way/347696464
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-57
+UID:resmtl-65
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260518T130000
+DTEND;TZID=America/Toronto:20260518T150000
+SUMMARY:Rassemblement contre le PL20 (coopératives de logement)
+LOCATION:(métro McGill)
+DESCRIPTION:2026-05-18 13:00:00\n\n(métro McGill)\n\nhttps://www.openstre
+ etmap.org/node/12486815678\n\nNous sommes coop appelle l'ensemble des coop
+ ératives du Québec à se rassembler devant les bureaux du Ministère des
+  Affaires municipales et de l'Habitation\, pour démontrer leur opposition
+  au PL20.\nCe sera une occasion pour recueillir des témoignages sur nos v
+ ies en coopérative.\nEnsemble nous sommes coop!
+URL;VALUE=URI:https://www.openstreetmap.org/node/12486815678
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-66
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260518T190000
 DTEND;TZID=America/Toronto:20260518T210000
 SUMMARY:Last Generation: Introduction
@@ -1677,9 +1929,9 @@ DESCRIPTION:2026-05-18 19:00:00\n\n5031 St-Denis (métro Laurier)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972883637
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-58
+UID:resmtl-67
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260519T000100
 DTEND;TZID=America/Toronto:20260519T020100
 SUMMARY:Festival anarchiste Constellation
@@ -1725,9 +1977,9 @@ DESCRIPTION:2026-05-19 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-59
+UID:resmtl-68
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260519T180000
 DTEND;TZID=America/Toronto:20260519T200000
 SUMMARY:Vers une approche pratique du consentement dans nos milieux milita
@@ -1738,9 +1990,9 @@ DESCRIPTION:2026-05-19 18:00:00\n\n251 des Pins Ouest (métro Place-des-Ar
 URL;VALUE=URI:https://www.openstreetmap.org/way/143939733
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-60
+UID:resmtl-69
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260520T000100
 DTEND;TZID=America/Toronto:20260520T020100
 SUMMARY:Festival anarchiste Constellation
@@ -1786,9 +2038,9 @@ DESCRIPTION:2026-05-20 00:01:00\n\n(à déterminer)\n\nNous vous invitons
  llation.2026).
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-61
+UID:resmtl-70
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260520T090000
 DTEND;TZID=America/Toronto:20260520T110000
 SUMMARY:Journée hybride de formation du Réseau intersyndical pour le cli
@@ -1811,9 +2063,29 @@ DESCRIPTION:2026-05-20 09:00:00\n\n1212 Panet (métro Beaudry)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/way/46866835
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-62
+UID:resmtl-71
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260520T180000
+DTEND;TZID=America/Toronto:20260520T200000
+SUMMARY:Café populaire Bellechasse : L'évolution du quartier et de sa po
+ pulation !
+LOCATION:(métro Jean-Talon)
+DESCRIPTION:2026-05-20 18:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
+ streetmap.org/node/2295839157\n\nQuand : Mercredi 20 mai 2026\, 18h00 à 2
+ 0h00\nOù : 6839 rue Drolet\, salle du rez-de-chaussée\nDans ce café pop
+ ulaire mensuel\, la présentation portera sur l'histoire\, la diversité c
+ ulturelle et les initiatives écologiques de la Petite-Patrie\, suivie d'
+ échanges sur notre rapport à notre quartier et nos mémoires collectives
+ .\nTout ça sera présenté par L'Autre Montréal\, un organisme communaut
+ aire autonome qui fait découvrir les quartiers et ses réalités tout en 
+ mettant de l’avant des luttes citoyennes!
+URL;VALUE=URI:https://www.openstreetmap.org/node/2295839157
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-72
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260521T130000
 DTEND;TZID=America/Toronto:20260521T150000
 SUMMARY:Atelier de cuisine collective
@@ -1833,9 +2105,9 @@ DESCRIPTION:2026-05-21 13:00:00\n\n1052 Beaubien\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/way/1080082859
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-63
+UID:resmtl-73
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260521T180000
 DTEND;TZID=America/Toronto:20260521T200000
 SUMMARY:MAC'n'cheese 10-30$ : Soirée de financement pour le Mouvement Act
@@ -1858,9 +2130,39 @@ DESCRIPTION:2026-05-21 18:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/2295839157
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-64
+UID:resmtl-74
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260521T180000
+DTEND;TZID=America/Toronto:20260521T200000
+SUMMARY:Cercle de lecture : Rosa Luxembourg - Réforme ou Révolution ?
+LOCATION:1710 Rue Beaudry (métro Beaudry)
+DESCRIPTION:2026-05-21 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/181295868\n\nLe Centre Internationaliste R
+ yerson – Fondation aubin (CIRFA) vous invites à participer à son proch
+ ain cercle de lecture autour du livre Réforme ou révolution de Rosa Luxe
+ mbourg. Le livre est un classique du marxisme et un excellent ouvrage pour
+  découvrir la pensée de Rosa Luxembourg.\nLien vers notre site : https:/
+ /centreinternationalisterfa.org/reforme-ou.../\nRésumé du livre : En 189
+ 7\, la controverse du révisionnisme éclate dans le mouvement marxiste. 
+ Édouard Bernstein\, ancien secrétaire d’Engels\, veut donner une nouve
+ lle interprétation du marxisme qui abandonne la révolution au profit de 
+ la réforme sociale. Face à cette monstrueuse déformation du marxisme\, 
+ une jeune marxiste encore peu connue\, Rosa Luxembourg\, va relever le dé
+ fi de réfuter les thèses révisionnistes pour défendre la révolution\,
+  le marxisme orthodoxe et l’effondrement du capitalisme.\nChaque semaine
+  nous nous réunirons pour discuter une partie du livre. Les séances se d
+ érouleront du 7 mai au 11 juin 2026 et se tiendront tous les jeudis de 18
+ h à 20h au 1710 Beaudry salle 2.10.\nL’événement est gratuit et ouver
+ t à tous.\nLe texte est disponible gratuitement en ligne (https://www.mar
+ xists.org/.../luxembur/works/1898/index.html).\nNous espérons vous voir p
+ articiper en grand nombre.
+URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-75
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260521T180000
 DTEND;TZID=America/Toronto:20260521T200000
 SUMMARY:Soirée de tricot et de crochet militants
@@ -1876,9 +2178,9 @@ DESCRIPTION:2026-05-21 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-65
+UID:resmtl-76
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260522T200000
 DTEND;TZID=America/Toronto:20260522T220000
 SUMMARY:Show Punk 15$ : Midnight Crawl + Pomegranate + Mischa Gods
@@ -1886,9 +2188,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-05-22 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-66
+UID:resmtl-77
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260523T000100
 DTEND;TZID=America/Toronto:20260523T020100
 SUMMARY:Grève dans les strip-clubs et les salons de massage pour de meill
@@ -2163,9 +2465,27 @@ DESCRIPTION:2026-05-23 00:01:00\n\n(partout)\n\n&nbsp\;\nGrève du travail
  privé ou par courriel.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-67
+UID:resmtl-78
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260523T120000
+DTEND;TZID=America/Toronto:20260523T140000
+SUMMARY:Sex Workers Strike - Poster Making
+LOCATION:2035 St-Laurent\, 3e étage (métro St-Laurent)
+DESCRIPTION:2026-05-23 12:00:00\n\n2035 St-Laurent\, 3e étage (métro St-
+ Laurent)\n\nhttps://www.openstreetmap.org/node/2505201225\n\nℙ𝕠𝕤
+ 𝕥𝕖𝕣 𝕞𝕒𝕜𝕚𝕟𝕘\nDIRA - 2035 Saint-Laurent\, 3rd flo
+ or\nMay 23rd - 12 pm\nYou’re invited to a glittery poster making session
+ . All the material and a lunch will be provided. S*x workers and allies ar
+ e welcomed!\nVous êtes invité·e·s à un atelier de création d'affiche
+ s scintillantes. Tout le matériel et le dîner seront fournis. Les TDS et
+  leurs allié·e·s sont les bienvenu·e·s !
+URL;VALUE=URI:https://www.openstreetmap.org/node/2505201225
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-79
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260523T120000
 DTEND;TZID=America/Toronto:20260523T140000
 SUMMARY:Manif pour un québec sans pauvreté
@@ -2199,9 +2519,62 @@ DESCRIPTION:2026-05-23 12:00:00\n\nlieu exact à déterminer\n\nAGORA NATI
   et personnes mobilisées\nDétails du programme à venir
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-68
+UID:resmtl-80
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260523T140000
+DTEND;TZID=America/Toronto:20260523T160000
+SUMMARY:Marche guidée : Autour du secteur Bellechasse avec L'Autre Montr
+ éal
+LOCATION:(métro Rosemont)
+DESCRIPTION:2026-05-23 14:00:00\n\n(métro Rosemont)\n\nLe samedi 23 mai\,
+  aura lieu une marche guidée autour du secteur Bellechasse ! Nous partiro
+ ns du métro Rosemont à 14h00 pour explorer les revendications ainsi que 
+ l’historique du secteur et les changements à venir.\nSur inscription\, 
+ nombre de participant·e·s limité !\nCliquez ici pour vous inscrire : ht
+ tps://forms.gle/VVdqgrbS7ttTzJsz9\net/ou (438) 865-4448 et/ou bellechasse@
+ clpp.info\nQuand : Samedi 23 mai\, 14h00 à 16h00\nOù : Devant le métro 
+ Rosemont\, 420 Boulevard Rosemont
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-81
+SEQUENCE:0
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260523T143000
+DTEND;TZID=America/Toronto:20260523T163000
+SUMMARY:Masse critique des enfants
+LOCATION:coin Bellechasse/Lanaudière
+DESCRIPTION:2026-05-23 14:30:00\n\ncoin Bellechasse/Lanaudière\n\nhttps:/
+ /www.openstreetmap.org/node/11153254012\n\nEnfants de Montréal\, l'heure 
+ est venue de rouler! Voici un événement rien que pour vous: on célèbre
+  ensemble les enfants à vélo dans une ambiance familiale mani-festive.\n
+ Que ce soit pour aller à l'école\, au parc\, chez des ami·es ou rouler 
+ avec ses parents\, un·e enfant a le droit à une rue sécuritaire. Notre 
+ but en organisant cette balade mani-festive\, c'est de montrer que nos plu
+ s jeunes ont également un espace et une voix dans la ville qu'on rêve!\n
+ Ça te parle? Alors rejoins-nous le samedi 23 mai pour une balade familial
+ e mani-festive\, à l'esprit de nos très populaires Masses critiques.\nO
+ Ù: Parc Père-Marquette\, coin Bellechasse/Lanaudière\nQUAND: samedi 23 
+ mai à 14h30\nCOMMENT: à vélo\, tandem\, trottinette\, skateboard\, vél
+ o-cargo ou soucoupe volante!\nPOURQUOI: parce que la ville appartient auss
+ i aux enfants!\nLa ride fera environ 3\,5 kilomètres. Nous roulerons à u
+ n rythme lent sur la rue qui sera sécurisée pour l'occasion. Des bénév
+ oles seront présents pour encadrer la balade. Nous ferons un court arrêt
+  au parc Laurier (Mentana/Laurier) pour que plus de monde puisse nous rejo
+ indre. La ride finira au jardin du Petit monde à bicyclette\, dans le par
+ c Lafontaine.\nAu départ\, il y aura un service d'ajustements express pou
+ r serrer le boulon\, gonfler le pneu ou réajuster la selle.\nÀ l'arrivé
+ e\, des activités vous attendent: la deuxième édition des Locolympiques
+  aura lieu avec un parcours d'obstacles pour remorques\, ainsi que des act
+ ivités théâtrales (à confirmer).\nOn a hâte de t'y voir!\nMerci à Ph
+ ilippe Mathieu (@phil.math) pour les superbes visuels!\nCet événement n'
+ existerait pas sans l'aide de nos ami·es de LocoMotion  on vous aime!
+URL;VALUE=URI:https://www.openstreetmap.org/node/11153254012
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-82
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260523T150000
 DTEND;TZID=America/Toronto:20260523T170000
 SUMMARY:Dick's book club
@@ -2231,9 +2604,68 @@ DESCRIPTION:2026-05-23 15:00:00\n\n633 avenue Beaumont\n\nhttps://www.open
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-69
+UID:resmtl-83
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260523T150000
+DTEND;TZID=America/Toronto:20260523T170000
+SUMMARY:Sex Work Strike - Protest - Manifestation
+LOCATION:(métro St-Laurent)
+DESCRIPTION:2026-05-23 15:00:00\n\n(métro St-Laurent)\n\nhttps://www.open
+ streetmap.org/way/80209238\n\n𝐒*𝐱 𝐰𝐨𝐫𝐤𝐞𝐫𝐬 𝐬
+ 𝐭𝐫𝐢𝐤𝐞 𝐛𝐚𝐜𝐤 - 𝐏𝐫𝐨𝐭𝐞𝐬𝐭\n𝕊
+ *𝕩 𝕨𝕠𝕣𝕜 𝕤𝕥𝕣𝕚𝕜𝕖 𝟚𝟘𝟚𝟞\nS*x work
+ ers have had enough of their bad working conditions. We are workers and we
+  deserve labour rights! We’ll be marching for the recognition of our wor
+ ker status!\n✮✮Place de la Paix✮✮\n✮✮May 23rd at 3 pm✮✮\nM
+ edia will be present and photos will be taken. You’re welcome to mask yo
+ urself if you don’t want to be recognized.\nS*x workers and allies are w
+ elcomed!\nS*x workers will be striking during that day for:\n→The abolit
+ ion of the bar fee in strip-clubs\n→A worker statut including:\n✹Viole
+ nce prevention policies in the workplace\n✹Safe and sanitary workplaces\
+ n✹Access to unemployment insurance and CNESST\n✹End of hiring and sche
+ duling discrimination\n→The decriminalization of s*x work!\nJoin us for 
+ all the strike activities\n☛ https://www.facebook.com/share/1ZwhDM8Rcg/\
+ n𝗟𝗲𝘀 𝗧𝗗𝗦 𝗰𝗼𝗻𝘁𝗿𝗲-𝗮𝘁𝘁𝗮𝗾
+ 𝘂𝗲𝗻𝘁\n𝔾𝕣è𝕧𝕖 𝕕𝕦 𝕥𝕣𝕒𝕧𝕒𝕚𝕝
+  𝕕𝕦 𝕤𝕖𝕩𝕖 𝟚𝟘𝟚𝟞\nLes TDS en ont assez de leurs
+  mauvaises conditions de travail. Nous sommes des travailleuses et nous m
+ éritons des droits du travail ! Nous manifesterons pour la reconnaissance
+  de notre statut de travailleurs !\n✮✮Place de la Paix✮✮\n✮✮Le
+  23 mai à 15 h✮✮\nLes médias seront présents et des photos seront p
+ rises. N’hésitez pas à vous masquer si vous ne souhaitez pas être rec
+ onnu-es.\nLes TDS ainsi que leurs allié-es sont les bienvenu-es !\nLes TD
+ S feront grève ce jour-là pour :\n→L’abolition du service bar dans l
+ es strip-clubs\n→Un statut de travailleur comprenant :\n✹Des politique
+ s de prévention de la violence au travail\n✹Des lieux de travail sécur
+ itaires et salubres\n✹L’accès à l’assurance-emploi et à la CNESST
+ \n✹La fin de la discrimination à l’embauche et dans les horaires\n→
+ La décriminalisation du travail du sexe !\nRejoignez-nous pour toutes les
+  activités de grève\n☛ https://www.facebook.com/share/1ZwhDM8Rcg/
+URL;VALUE=URI:https://www.openstreetmap.org/way/80209238
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-84
+SEQUENCE:0
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260523T173000
+DTEND;TZID=America/Toronto:20260523T193000
+SUMMARY:Sex Workers Strike - Flyering
+LOCATION:2035 St-Laurent\, 2e étage (métro St-Laurent)
+DESCRIPTION:2026-05-23 17:30:00\n\n2035 St-Laurent\, 2e étage (métro St-
+ Laurent)\n\nhttps://www.openstreetmap.org/way/243082943\n\n𝕗𝕝𝕪
+ 𝕖𝕣𝕚𝕟𝕘\nRDV à Les révoltées\, 2035 Saint-Laurent\, 2e ét
+ age\n23 mai à 17h30\nNous distribuerons des tracts devant les lieux de tr
+ avail afin de faire connaître nos revendications aux clients\, aux employ
+ és et aux passants. Vous pourrez distribuer des tracts dans des lieux de 
+ travail où vous ne travaillez pas\, tandis que d’autres s’occuperont 
+ de votre lieu de travail ! Un repas sera servi avant notre départ.
+URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-85
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260526T120000
 DTEND;TZID=America/Toronto:20260526T140000
 SUMMARY:Permanent People's Tribunal
@@ -2266,9 +2698,106 @@ DESCRIPTION:2026-05-26 12:00:00\n\nTo be determined\n\nThe Permanent Peopl
  he official website at our-truths.com\n&nbsp\;
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-70
+UID:resmtl-86
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260526T180000
+DTEND;TZID=America/Toronto:20260526T200000
+SUMMARY:Vie de quartier - Notre pouvoir d'agir collectif - ressources\, m
+ édiation et formation sur les surdoses
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-05-26 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nLa Livrerie\,&nbsp\; en colla
+ boration avec la CDC Centre-Sud et l’organisme communautaire Spectre de 
+ rue\, organisent une série d'activités citoyennes afin d’échanger ave
+ c les résident·e·s du quartier sur les réalités de l’itinérance et
+  les enjeux qui y sont liés.\nEnsemble\, nous avons co-construit une sér
+ ie d'ateliers participatifs qui s’adressent aux citoyen·ne·s du quarti
+ er Centre-Sud. Ces ateliers visent à mieux comprendre la situation actuel
+ le\, renforcer notre pouvoir d’agir collectif et faire connaître les in
+ itiatives concrètes déjà en place.\n&nbsp\;\n4e rencontre en 2 volets:&
+ nbsp\; Un quartier concerné - ressources\, médiation et formation\nPrés
+ entation du nouveau Guide du Centre-Sud (CDC) et formation sur les interac
+ tions avec les usagers et les personnes en situation de vulnérabilité (S
+ pectre de rue)\n1er volet: La CDC Centre-Sud offrira une courte présentat
+ ion du tout nouveau Guide du Centre-Sud qui vous offre des repères pour h
+ abiter  le quartier\, ensemble!\nIl s'agit d'un guide à garder sous la 
+ main\, pensé pour les personnes qui habitent\, travaillent ou fréquenten
+ t le quartier.\nOn y trouve des repères pour comprendre l’évolution du
+  quartier\, faire face à différentes situations dans l’espace public\,
+  s’impliquer et connaître les ressources communautaires du Centre-Sud.\
+ n2e volet: Formation donnée par Spectre de rue sur les interactions avec 
+ les usagers et les personnes en situation de marginalité\; cette formatio
+ n vise à démystifier les réalités vécues par ces personnes et à outi
+ ller les participant.es afin de mieux interagir avec celles-ci. À l'anima
+ tion: Émilie Roberge\n&nbsp\;\n5e rencontre en 2 volets: Notre pouvoir d'
+ agir collectif - ressources\, médiation et formation sur les surdoses&nbs
+ p\;\nPrésentation du nouveau Guide du Centre-Sud (CDC) et formation sur l
+ es surdoses et l'administration de la naloxone (Spectre de Rue)\n1er volet
+ : La CDC Centre-Sud offrira une courte présentation du tout nouveau Guide
+  du Centre-Sud qui vous offre des repères pour habiter  le quartier\, e
+ nsemble!\nIl s'agit d'un guide à garder sous la main\, pensé pour les pe
+ rsonnes qui habitent\, travaillent ou fréquentent le quartier.\nOn y trou
+ ve des repères pour comprendre l’évolution du quartier\, faire face à
+  différentes situations dans l’espace public\, s’impliquer et connaî
+ tre les ressources communautaires du Centre-Sud.\n2e volet: Formation donn
+ ée par Spectre de rue pour reconnaître les surdoses et intervenir de man
+ ière adéquate et sécuritaire\; cette présentation inclut l'administrat
+ ion de la naloxone. À l'animation: Émilie Roberge et Marjolaine Michel&n
+ bsp\;\n&nbsp\;\n6e rencontre: Volet enfant - informer et sensibiliser les 
+ jeunes au quotidien des personnes marginalisées\nDans la ville\, les tout
+ ·es petit·es sont amené·es à côtoyer différentes populations\, nota
+ mment des personnes marginalisées. Par le biais d’un album de littérat
+ ure jeunesse qui relate la rencontre d’un enfant et d’un homme sans ch
+ aussettes\, le jeune public sera sensibilisé à l’impact des actions mo
+ destes qui favorisent l’inclusion. Nous les invitons à développer des 
+ attitudes inclusives : empathie\, bienveillance et respect envers ces pers
+ onnes.\nÀ l’animation : Ariane Brisson de l'organisme L'Anonyme\n&nbsp\
+ ;
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-87
+SEQUENCE:0
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260526T180000
+DTEND;TZID=America/Toronto:20260526T200000
+SUMMARY:Book launch: "YOU x ME" with author Ayla Vejdani and francesca ekw
+ uyasi
+LOCATION:1426 Beaudry (métro Beaudry)
+DESCRIPTION:2026-05-26 18:00:00\n\n1426 Beaudry (métro Beaudry)\n\nhttps:
+ //www.openstreetmap.org/node/4852683788\n\nMontréal\, come through!\nJoin
+  us at L’Euguélionne on May 26 at 6pm for an evening of conversation\, 
+ connection and community celebrating the launch of: 🌹 YOU x ME 🌹.\nY
+ OU x ME author Ayla Vejdani will be in conversation with award-winning wri
+ ter\, francesca ekwuyasi to talk about all things queer romance.\nThe even
+ ing will include: a reading\, conversation\, Q&amp\;A and book signing\, a
+ long with special sweet treats from Cocoa Locale.\nRSVP link in bio:\nMay 
+ 26\, 2026\, 6 PM\nL’Euguélionne @librairieleuguelionne\nyouxmebook.com\
+ nAbout the Author:\nAyla Vejdani (she/her) is a storyteller\, holder of sp
+ ace and curator of experience. Raised and educated all over the world\, sh
+ e has a master’s in human rights\, is an inclusive leadership consultant
+  @mindshiftleadership and the co-host of The SHIFT podcast. She speaks fou
+ r languages and laughs in all. Ayla is a queer Iranian-Canadian from Tkaro
+ nto/Toronto living in Tiohtia:ke/Montréal\, raising her two young childre
+ n. She is an insatiably creative\, romantic realist who believes in magic.
+  Her forthcoming novel YOU x ME is a series of queer\, BIPOC love stories.
+  These modern entanglements are the kind of romances that make us lose sle
+ ep\, love letters to the friendships we can’t live without\, and a celeb
+ ration of our endless journeys of self-discovery. @ayla.author\nAbout the 
+ Moderator:\nfrancesca ekwuyasi is the author of Butter Honey Pig Bread and
+  co-author of Curious Sounds: A Dialogue in Three Movements. She won the D
+ ayne Ogilvie Prize for Emerging LGBTQIA2S+ writers\, and has been short an
+ d Longlisted for the Lambda Literary Award\, the Governor General Award\, 
+ the Amazon First Novel Prize\, the Giller Prize\, and the Dublin Internati
+ onal Literary Award and others. She lives between Montreal and Halifax. @f
+ .ekwuyasi
+URL;VALUE=URI:https://www.openstreetmap.org/node/4852683788
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-88
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260527T190000
 DTEND;TZID=America/Toronto:20260527T210000
 SUMMARY:UPop : Club de lecture de « Notre cerveau à tous les niveaux. Du
@@ -2294,9 +2823,9 @@ DESCRIPTION:2026-05-27 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-71
+UID:resmtl-89
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260528T170000
 DTEND;TZID=America/Toronto:20260528T190000
 SUMMARY:Justice migrante x Justice climatique - une convergence nécessair
@@ -2353,9 +2882,39 @@ DESCRIPTION:2026-05-28 17:00:00\n\nSalle J.A. De Sève\, J.W. McConnell Bu
 URL;VALUE=URI:https://www.openstreetmap.org/node/11972945781
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-72
+UID:resmtl-90
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260528T180000
+DTEND;TZID=America/Toronto:20260528T200000
+SUMMARY:Cercle de lecture : Rosa Luxembourg - Réforme ou Révolution ?
+LOCATION:1710 Rue Beaudry (métro Beaudry)
+DESCRIPTION:2026-05-28 18:00:00\n\n1710 Rue Beaudry (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/181295868\n\nLe Centre Internationaliste R
+ yerson – Fondation aubin (CIRFA) vous invites à participer à son proch
+ ain cercle de lecture autour du livre Réforme ou révolution de Rosa Luxe
+ mbourg. Le livre est un classique du marxisme et un excellent ouvrage pour
+  découvrir la pensée de Rosa Luxembourg.\nLien vers notre site : https:/
+ /centreinternationalisterfa.org/reforme-ou.../\nRésumé du livre : En 189
+ 7\, la controverse du révisionnisme éclate dans le mouvement marxiste. 
+ Édouard Bernstein\, ancien secrétaire d’Engels\, veut donner une nouve
+ lle interprétation du marxisme qui abandonne la révolution au profit de 
+ la réforme sociale. Face à cette monstrueuse déformation du marxisme\, 
+ une jeune marxiste encore peu connue\, Rosa Luxembourg\, va relever le dé
+ fi de réfuter les thèses révisionnistes pour défendre la révolution\,
+  le marxisme orthodoxe et l’effondrement du capitalisme.\nChaque semaine
+  nous nous réunirons pour discuter une partie du livre. Les séances se d
+ érouleront du 7 mai au 11 juin 2026 et se tiendront tous les jeudis de 18
+ h à 20h au 1710 Beaudry salle 2.10.\nL’événement est gratuit et ouver
+ t à tous.\nLe texte est disponible gratuitement en ligne (https://www.mar
+ xists.org/.../luxembur/works/1898/index.html).\nNous espérons vous voir p
+ articiper en grand nombre.
+URL;VALUE=URI:https://www.openstreetmap.org/way/181295868
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-91
+SEQUENCE:0
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260529T090000
 DTEND;TZID=America/Toronto:20260529T110000
 SUMMARY:Justice migrante x Justice climatique - une convergence nécessair
@@ -2409,9 +2968,9 @@ DESCRIPTION:2026-05-29 09:00:00\n\n(Métro Parc)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/1560685331
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-73
+UID:resmtl-92
 SEQUENCE:0
-DTSTAMP:20260501T042428
+DTSTAMP:20260502T040640
 DTSTART;TZID=America/Toronto:20260529T170000
 DTEND;TZID=America/Toronto:20260529T190000
 SUMMARY:Masse critique de mai
@@ -2456,5 +3015,111 @@ DESCRIPTION:2026-05-29 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
  ssecritiqueamtl )\,\nInstagram ( instagram.com/masse_critique_montreal )\n
  or email us at masse_critique_montreal@protonmail.com
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-93
+SEQUENCE:0
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260530T103000
+DTEND;TZID=America/Toronto:20260530T123000
+SUMMARY:Vie de quartier - Volet enfant - informer et sensibiliser les jeun
+ es au quotidien des personnes marginalisées
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-05-30 10:30:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nLa Livrerie\,&nbsp\; en colla
+ boration avec la CDC Centre-Sud et l’organisme communautaire Spectre de 
+ rue\, organisent une série d'activités citoyennes afin d’échanger ave
+ c les résident·e·s du quartier sur les réalités de l’itinérance et
+  les enjeux qui y sont liés.\nEnsemble\, nous avons co-construit une sér
+ ie d'ateliers participatifs qui s’adressent aux citoyen·ne·s du quarti
+ er Centre-Sud. Ces ateliers visent à mieux comprendre la situation actuel
+ le\, renforcer notre pouvoir d’agir collectif et faire connaître les in
+ itiatives concrètes déjà en place.\n&nbsp\;\n4e rencontre en 2 volets:&
+ nbsp\; Un quartier concerné - ressources\, médiation et formation\nPrés
+ entation du nouveau Guide du Centre-Sud (CDC) et formation sur les interac
+ tions avec les usagers et les personnes en situation de vulnérabilité (S
+ pectre de rue)\n1er volet: La CDC Centre-Sud offrira une courte présentat
+ ion du tout nouveau Guide du Centre-Sud qui vous offre des repères pour h
+ abiter  le quartier\, ensemble!\nIl s'agit d'un guide à garder sous la 
+ main\, pensé pour les personnes qui habitent\, travaillent ou fréquenten
+ t le quartier.\nOn y trouve des repères pour comprendre l’évolution du
+  quartier\, faire face à différentes situations dans l’espace public\,
+  s’impliquer et connaître les ressources communautaires du Centre-Sud.\
+ n2e volet: Formation donnée par Spectre de rue sur les interactions avec 
+ les usagers et les personnes en situation de marginalité\; cette formatio
+ n vise à démystifier les réalités vécues par ces personnes et à outi
+ ller les participant.es afin de mieux interagir avec celles-ci. À l'anima
+ tion: Émilie Roberge\n&nbsp\;\n5e rencontre en 2 volets: Notre pouvoir d'
+ agir collectif - ressources\, médiation et formation sur les surdoses&nbs
+ p\;\nPrésentation du nouveau Guide du Centre-Sud (CDC) et formation sur l
+ es surdoses et l'administration de la naloxone (Spectre de Rue)\n1er volet
+ : La CDC Centre-Sud offrira une courte présentation du tout nouveau Guide
+  du Centre-Sud qui vous offre des repères pour habiter  le quartier\, e
+ nsemble!\nIl s'agit d'un guide à garder sous la main\, pensé pour les pe
+ rsonnes qui habitent\, travaillent ou fréquentent le quartier.\nOn y trou
+ ve des repères pour comprendre l’évolution du quartier\, faire face à
+  différentes situations dans l’espace public\, s’impliquer et connaî
+ tre les ressources communautaires du Centre-Sud.\n2e volet: Formation donn
+ ée par Spectre de rue pour reconnaître les surdoses et intervenir de man
+ ière adéquate et sécuritaire\; cette présentation inclut l'administrat
+ ion de la naloxone. À l'animation: Émilie Roberge et Marjolaine Michel&n
+ bsp\;\n&nbsp\;\n6e rencontre: Volet enfant - informer et sensibiliser les 
+ jeunes au quotidien des personnes marginalisées\nDans la ville\, les tout
+ ·es petit·es sont amené·es à côtoyer différentes populations\, nota
+ mment des personnes marginalisées. Par le biais d’un album de littérat
+ ure jeunesse qui relate la rencontre d’un enfant et d’un homme sans ch
+ aussettes\, le jeune public sera sensibilisé à l’impact des actions mo
+ destes qui favorisent l’inclusion. Nous les invitons à développer des 
+ attitudes inclusives : empathie\, bienveillance et respect envers ces pers
+ onnes.\nÀ l’animation : Ariane Brisson de l'organisme L'Anonyme
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-94
+SEQUENCE:0
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260530T170000
+DTEND;TZID=America/Toronto:20260530T190000
+SUMMARY:Lancement - grands coeurs smattes
+LOCATION:1289 Ontario Est (métro Beaudry)
+DESCRIPTION:2026-05-30 17:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
+ tps://www.openstreetmap.org/way/115814240\n\nGrands cœurs smattes est un 
+ échange qui s’amorce comme on ouvre notre boîte courriel en arrivant a
+ u travail\, mais qui d’un claquement de doigts nous dépose dans l’un 
+ de ces lieux sécurisants et exaltants que créent les amitiés. Conteurs 
+ naturels\, Michel-Olivier Gasse et Rosalie Roy-Boucher glissent dans une f
+ oisonnante conversation écrite qui durera six mois\,\nfondement solide d
+ ’un engagement qui débordera des pages.\nDans une forme de littérature
+ -réalité où l’on se dévoile et s’attache\, Rose et Gasse nous ouvr
+ ent les portes de leurs bibliothèques de personnages passionnants. Ensemb
+ le\, ils mettent en lumière les possibilités insoupçonnées de la genti
+ llesse et de l’altérité. Les histoires qu’ils se racontent\, à mi-c
+ hemin entre le récit de soi et la fiction\, font éclore un espace de con
+ fiance où le désir de sincérité devient un moteur de création.\nLes l
+ ecteurs et les lectrices sont invité·es à y voir un matériau brut\, un
+ e relation qui se déploie.\n—\nRosalie Roy-Boucher a publié son premie
+ r roman\, Alice marche sur Fabrice\, en 2018 aux Éditions de Ta Mère\, 
+ également paru en 2023 chez Bouclard Éditions en France. Active dans le 
+ milieu littéraire en tant qu’éditrice\, rédactrice et autrice\, elle 
+ multiplie les collaborations tant dans des collectifs\, des revues que dan
+ s des publications pour enfants. Elle habite Rouyn-Noranda.\nMichel-Olivie
+ r Gasse est musicien\, auteur et chroniqueur littéraire à Ici Première.
+  Il a parcouru le Québec dans tous les sens en tenant la basse aux côté
+ s de Vincent Vallières et au sein de Saratoga. Son dernier livre\, Histoi
+ res analogues\, fait suite à De Rose à Rosa et Du cœur à l’établi. 
+ Il habite Val-d’Or.
+URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-95
+SEQUENCE:0
+DTSTAMP:20260502T040640
+DTSTART;TZID=America/Toronto:20260531T180000
+DTEND;TZID=America/Toronto:20260531T200000
+SUMMARY:Souper ORA x SocialistUnity
+LOCATION:1800 Letourneux (métro Pie-IX)
+DESCRIPTION:2026-05-31 18:00:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
+ s://www.openstreetmap.org/way/363150208
+URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 END:VCALENDAR
