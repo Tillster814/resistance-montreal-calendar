@@ -8,130 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260619T043306
-DTSTART;TZID=America/Toronto:20260619T120000
-DTEND;TZID=America/Toronto:20260619T140000
-SUMMARY:L'impérialisme guerrier : refuser d'y consentir
-LOCATION:(en ligne)
-DESCRIPTION:2026-06-19 12:00:00\n\n(en ligne)\n\nDepuis les premiers jours
-  de 2026\, de nombreux actes de guerre commis par les États-Unis et Isra
- ël ébranlent l’ordre mondial et font tomber les derniers gardes-fous c
- ontre la loi du plus fort. De l’enlèvement du président vénézuélien
-  Nicolás Maduro aux sanctions imposées à Cuba en passant par les attaqu
- es contre l'Iran\, la position de la majorité des pays occidentaux\, y co
- mpris le Canada\, a été marquée par une forme de consentement tacite ou
-  explicite\, voire un alignement avec les objectifs de ces agressions.\nQu
- els motifs géopolitiques profonds sont à l’œuvre derrière cette nouv
- elle phase de l'impérialisme étasunien?\nQuelles logiques politiques\, c
- ulturelles\, idéologiques contribuent à fabriquer le consentement explic
- ite ou tacite à cette violence décomplexée\, en particulier dans les É
- tats qui s'en rendent complices?\nQuelles sont les forces qui œuvrent act
- ivement à la défaite de l’impérialisme? Comment parler des États qui
-  résistent? Et quelles voies peut emprunter une résistance véritablemen
- t internationaliste face à la disproportion du pouvoir déployé?\nDans c
- e webinaire qui s'inscrit dans le prolongement de notre événement intitu
- lé «Gaza: de la faillite globale au devoir d'humanité»\, nous tenteron
- s de répondre à ces questions avec :\nBenjamin Bürbaumer\, économiste 
- et maître de conférences à Sciences Po Bordeaux\, spécialiste de la mo
- ndialisation et de l'économie politique internationale. Il est l'auteur d
- e Chine/États-Unis. Le capitalisme contre la mondialisation (La Découver
- te\, 2025)\;\nStathis Kouvélakis\, chercheur indépendant en philosophie 
- et militant notamment au sein de la France insoumise. Il a enseigné au Ki
- ng's College de Londres de 2002 à 2020. Il est également membre de la r
- édaction de la revue Contretemps\;\nFrançoise Vergès\, politologue et a
- utrice féministe décoloniale. Elle a entre autres publié Une théorie f
- éministe de la violence. Pour une politique antiraciste de la protection 
- (La Fabrique\, 2020) et Un féminisme décolonial (La Fabrique\, 2019)\;\n
- Inscription gratuite mais obligatoire\nPour s'inscrire: https://bit.ly/Web
- inaireImpérialisme
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260619T043306
-DTSTART;TZID=America/Toronto:20260619T180000
-DTEND;TZID=America/Toronto:20260619T200000
-SUMMARY:Soirée littéraire queer & kink — Festival Jouissif
-LOCATION:1289 Ontario Est (métro Beaudry)
-DESCRIPTION:2026-06-19 18:00:00\n\n1289 Ontario Est (métro Beaudry)\n\nht
- tps://www.openstreetmap.org/way/115814240
-URL;VALUE=URI:https://www.openstreetmap.org/way/115814240
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260619T043306
-DTSTART;TZID=America/Toronto:20260619T180000
-DTEND;TZID=America/Toronto:20260619T200000
-SUMMARY:[mixité choisie] Céramique féministe
-LOCATION:1900 Le Ber (métro Charlevoix)
-DESCRIPTION:2026-06-19 18:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
- s://www.openstreetmap.org/node/6074430797\n\nC’est avec enthousiasme que
-  nous vous proposons un atelier de création féministe avec une invitée 
- spéciale. Caro Monast est un·e humoriste féministe engagé·e qui a acc
- epté de venir passer un moment en notre compagnie. Dans une ambiance déc
- ontractée et bienveillante\, vous pourrez prendre un moment détente pour
-  jouer avec l’argile et éveiller vos sens par sa douceur. Autour d’un
- e tisane\, on vous offrira des inspirations féministes pour nourrir votre
-  esprit créatif\, et vous aurez l’espace de partager vos idées autour 
- des thématiques abordées. Le tout se veut léger et informel ! Pendant l
- e cours\, vous aurez le temps de fabriquer une vulve en argile que vous po
- urrez ensuite décorer à votre guise avec les engobes de couleur disponib
- les à l’atelier. Votre vulve en céramique sera ensuite finalisée par 
- notre technicienne: finition\, cuisson\, émaillage et seconde cuisson. Le
- s pièces seront prêtes environ 1 mois après le cours. Au Bâtiment 7\, 
- nous avons pour mission d’offrir un milieu inclusif. L’atelier de cér
- amique s’efforce d’offrir un espace bienveillant et sécuritaire pour 
- les personnes de la communauté 2ELGBTQI+ ainsi que pour toutes les person
- nes marginalisées. Toutes ces personnes magnifiques sont les bienvenues d
- ans tous nos cours. Cet atelier est en mixité choisie sans hommes cisgenr
- es.
-URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20260619T043306
-DTSTART;TZID=America/Toronto:20260619T180000
-DTEND;TZID=America/Toronto:20260619T200000
-SUMMARY:Jaye to Jaye Kahan - une pièce de théâtre basée sur les expér
- iences liées au statut d'immigration et au logement précaires
-LOCATION:(métro Parc)
-DESCRIPTION:2026-06-19 18:00:00\n\n(métro Parc)\n\nhttps://www.openstreet
- map.org/node/1560685331\n\nBientôt sur scène !\nUne puissante production
-  théâtrale en pendjabi et en hindi qui donne vie aux expériences des pe
- rsonnes immigrantes et des travailleuses et travailleurs migrants au Canad
- a.\nÀ travers des récits d’espoir\, de sacrifice et de détermination\
- , la pièce explore les défis de l’immigration\, la hausse du coût du 
- logement\, la précarité résidentielle\, les blessures au travail ainsi 
- que la lutte continue pour les droits et la dignité.\nPrésentée par le 
- Comité d’action de Parc-Extension\, le Centre des travailleurs et trava
- illeuses immigrants\, le WC Centre for Performing Arts et Rouage.\nJoignez
- -vous à nous pour une expérience théâtrale inspirante qui célèbre la
-  résilience et les contributions des communautés immigrantes à travers 
- le Canada.
-URL;VALUE=URI:https://www.openstreetmap.org/node/1560685331
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-4
-SEQUENCE:0
-DTSTAMP:20260619T043306
-DTSTART;TZID=America/Toronto:20260619T180000
-DTEND;TZID=America/Toronto:20260619T200000
-SUMMARY:Soirée d'information sur le site Bellechasse
-LOCATION:(métro Jean-Talon)
-DESCRIPTION:2026-06-19 18:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
- streetmap.org/way/221928873\n\nVous avez entendu parlé du projet Bellecha
- sse dans La Petite-Patrie et vous souhaitez en apprendre plus sur cette d
- émarche 100% sociale et communautaire?\nQuand : Vendredi 19 juin\, 18h00 
- à 20h00\nOù : 425 Beaubien Est\, au sous-sol de la paroisse St-Édouard\
- nPour toutes questions : bellechasse@clpp.info ou au (438) 865-4448
-URL;VALUE=URI:https://www.openstreetmap.org/way/221928873
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-5
-SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260620T120000
 DTEND;TZID=America/Toronto:20260620T140000
 SUMMARY:Foire des livres de gauche
@@ -156,9 +33,9 @@ DESCRIPTION:2026-06-20 12:00:00\n\n(métro de Castelnau)\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034463586
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260620T130000
 DTEND;TZID=America/Toronto:20260620T150000
 SUMMARY:Kiosque de solidarité avec nos voisins non-logé-es
@@ -190,9 +67,9 @@ DESCRIPTION:2026-06-20 13:00:00\n\n(métro Pie-IX)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/relation/14023444
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260620T130000
 DTEND;TZID=America/Toronto:20260620T150000
 SUMMARY:Bâtiment 7 x les sans-tav - 8e anniversaire
@@ -216,9 +93,44 @@ DESCRIPTION:2026-06-20 13:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260620T140000
+DTEND;TZID=America/Toronto:20260620T160000
+SUMMARY:Vigil for Palestine
+LOCATION:(en face du métro)
+DESCRIPTION:2026-06-20 14:00:00\n\n(en face du métro)\n\nJune 20 @ 14 h 0
+ 0 min - 16 h 00 min\nMÉTRO MONT-ROYAL 470 Mont-Royal Ave E\, Montréal\, 
+ Québec\, Canada\nVigil and Distribution PAJU SATURDAY June 20&nbsp\;AVENU
+ E MONT-ROYAL: SATURDAY &nbsp\;June 20&nbsp\;&nbsp\;from 2 PM to 4 PM &nbsp
+ \;on&nbsp\;MONT-ROYAL Avenue&nbsp\;pedestrianized&nbsp\;in front of the ME
+ TRO MONT-ROYAL Come and join us in rejecting Israeli genocide and the Amer
+ ican support for this genocide.
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-4
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260620T140000
+DTEND;TZID=America/Toronto:20260620T160000
+SUMMARY:Discussion/projection/bouffe contre l'usine General Dynamics
+LOCATION:33\, rue du Marché
+DESCRIPTION:2026-06-20 14:00:00\n\n33\, rue du Marché\n\nhttps://www.open
+ streetmap.org/node/4343186157\n\n🌽 Rejoignez-nous le SAMEDI 20 JUIN dè
+ s 14h devant la librairie Côté gauche à Valleyfield pour un après-midi
+  d'activités\, de bouffe et de discussions\, dans le cadre de la campagne
+  pour arrêter l'agrandissement de l'usine General Dynamics.\n🎥 À 16h 
+ un documentaire à propos de l'opposition au complexe militaro-industriel 
+ sera projeté.\nAu plaisir de vous rencontrer!\n📅 samedi 20 juin\n🕑 
+ dès 14h\n📍 librairie Côté gauche (33\, rue du Marché\, Salaberry-de
+ -Valleyfield)\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/4343186157
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-5
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260620T150000
 DTEND;TZID=America/Toronto:20260620T170000
 SUMMARY:Journée de solidarité trans-nationale
@@ -260,9 +172,137 @@ DESCRIPTION:2026-06-20 15:00:00\n\n(métro Place-d&#039\;Armes)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034339377
 END:VEVENT
 BEGIN:VEVENT
+UID:resmtl-6
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260620T163000
+DTEND;TZID=America/Toronto:20260620T183000
+SUMMARY:De Fredy à Fady : quand l'histoire se répète
+LOCATION:(Montréal-Nord)
+DESCRIPTION:2026-06-20 16:30:00\n\n(Montréal-Nord)\n\nhttps://www.openstr
+ eetmap.org/node/11973464679\n\nBientôt 20 ans après la mort de Fredy Vil
+ lanueva au parc Henri-Bourassa\, Montréal-Nord fait face aux mêmes viole
+ nces policières.\nHoodstock et Black Inc. Podcast vous invitent à partic
+ iper au panel de discussion « De Fredy à Fady : quand l'histoire se rép
+ ète » . Une discussion ancrée dans la réalité de Montréal-Nord\, sur
+  les violences systémiques\, la justice et la mémoire collective.\nUne s
+ oirée pour se souvenir\, comprendre et agir.\nProgrammation\n- Ouverture 
+ des portes à 16h30\n- Début de l'événement à 17h\n𝐈𝐧𝐬𝐜
+ 𝐫𝐢𝐩𝐭𝐢𝐨𝐧 𝐫𝐞𝐪𝐮𝐢𝐬𝐞 𝐩𝐨𝐮𝐫
+  𝐥'é𝐯é𝐧𝐞𝐦𝐞𝐧𝐭 𝐯𝐢𝐚 𝐥𝐞 𝐥𝐢𝐞
+ 𝐧 𝐬𝐮𝐫 𝐙𝐞𝐟𝐟𝐲.\nPanel 1:\n- Will Prosper (réalis
+ ateur\, militant et membre co-fondateur de Hoodstock)\n- Dalila Awada (mil
+ itante\, chroniqueuse et conférencière)\nPanel 2:\n- Dardia Joseph (assi
+ stante directrice de la Clinique Juridique de Saint-Michel)\n- Me Fernando
+  Belton (directeur général de la Clinique Juridique de Saint-Michel)\nPa
+ villon du parc Henri-Bourassa · 6100 rue Pascal\, Montréal-Nord\, QC H1G
+  1T1
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973464679
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-7
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260621T140000
+DTEND;TZID=America/Toronto:20260621T160000
+SUMMARY:Rassemblement en soutien aux prisonniers politiques en Iran
+LOCATION:(métro McGill)
+DESCRIPTION:2026-06-21 14:00:00\n\n(métro McGill)\n\nhttps://www.openstre
+ etmap.org/way/88609497
+URL;VALUE=URI:https://www.openstreetmap.org/way/88609497
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-8
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260621T140000
+DTEND;TZID=America/Toronto:20260621T160000
+SUMMARY:Atelier de chant arabe résistant autour des chansons de Cheikh Im
+ am
+LOCATION:(métro Laurier)
+DESCRIPTION:2026-06-21 14:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
+ eetmap.org/node/11972846281\n\nLe Club Cheikh Imam Montréal vous invite 
+ à une nouvel atelier de chant arabe résistant autour des chansons de Che
+ ikh Imam\, le 21 juin 2026 à 14h chez Kawalees.\nCette édition sera cons
+ acrée à la Palestine et organisée en solidarité avec Ahmed Douma\, po
+ ète et militant égyptien actuellement emprisonné.\nNous aurons l'occasi
+ on de découvrir et de chanter des chansons moins connues de Cheikh Imam d
+ édiées à la Palestine\, ainsi que de partager quelques poèmes d’Ahme
+ d Douma. Alors qu’il est toujours détenu en Égypte\, la décision en a
+ ppel de son procès doit être rendue le 25 juin. Il a récemment été co
+ ndamné à une peine de prison à la suite de la publication d’un articl
+ e.\nÀ travers les chants\, la poésie et les échanges\, nous souhaitons 
+ faire vivre les voix de celles et ceux qui résistent à l'injustice\, à 
+ l'occupation et à la répression.\nCet espace est ouvert à toutes et tou
+ s\, sans prérequis musical ni compétence vocale\, et sans limite d’âg
+ e. Que vous chantiez juste ou faux\, que vous soyez amateur·rice\, passio
+ nné·e\, habitué·e des luttes ou simplement curieux·se\, l’essentiel
+  est l’envie de partager\, de chanter ensemble et de faire vivre une tra
+ dition musicale qui n’appartient à personne\, mais qui traverse toutes 
+ les résistances.\nLes paroles seront distribuées en arabe\, français et
+  anglais\, afin que chacun·e puisse participer à son rythme.\nSi vous ma
+ îtrisez un instrument de musique\, votre présence sera un précieux atou
+ t pour accompagner le chant. Il n’est pas nécessaire de connaître les 
+ chansons à l’avance : jouer aux côtés des musicien·nes présent·es 
+ fait pleinement partie de l’expérience et constitue en soi un moment d
+ ’apprentissage\, d’écoute et de transmission collective.\nIl suffit d
+ e venir avec votre bonne humeur\, votre curiosité\, et votre intérêt po
+ ur les chansons engagées de Cheikh Imam.\n-----------\nClub Cheikh Imam |
+  نادي الشيخ إمام – Montréal\nLe Club Cheikh Imam – Montr
+ éal est un espace dédié à toutes celles et ceux qui souhaitent découv
+ rir\, célébrer et faire vivre l’héritage musical et politique de Chei
+ kh Imam (1918-1995)\, figure majeure de la chanson contestataire arabe.\nN
+ otre mission\n• Créer un espace populaire\, intergénérationnel et acc
+ essible pour découvrir\, chanter et transmettre les chansons de Cheikh Im
+ am\, ainsi que d’autres répertoires arabes engagés.\n• Faire connaî
+ tre au grand public l’histoire\, la portée politique et la richesse art
+ istique du duo Imam–Negm\, et leur influence durable sur les mouvements 
+ sociaux dans le monde arabe.\n• Organiser des moments d’échange avec 
+ des invité·e·s\, pour raconter les histoires derrière les chansons\, l
+ es luttes\, et les ponts qu’elles ont créés entre nos combats\, d’hi
+ er et d’aujourd’hui.\n• Constituer une communauté vivante\, où la 
+ musique devient un outil de mémoire\, de transmission\, et de solidarité
+  politique.\nPourquoi Cheikh Imam ?\nCheikh Imam\, compositeur et chanteur
+  égyptien populaire (1918-1995)\, a profondément marqué la culture poli
+ tique arabe. En collaboration avec le poète Ahmad Fouad Negm (1929-2013)\
+ , il a créé un répertoire unique de chansons engagées : des hymnes de 
+ lutte\, de tendresse et d’ironie\, qui ont accompagné plusieurs génér
+ ations de militant·e·s à travers le monde arabe.\nDes ruelles du Caire 
+ aux années 1960\, jusqu’aux révolutions de 2011\, de l’avenue Habib 
+ Bourguiba à Tunis à la place Tahrir au Caire\, les chansons d’Imam son
+ t devenues une bande sonore des mobilisations populaires.\nElles continuen
+ t d’inspirer\, de rassembler et d’apprendre à dire « non »\, avec h
+ umour\, lucidité\, et un courage indissociable du peuple qui les porte.
+URL;VALUE=URI:https://www.openstreetmap.org/node/11972846281
+END:VEVENT
+BEGIN:VEVENT
 UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260621T150000
+DTEND;TZID=America/Toronto:20260621T170000
+SUMMARY:Projection : Le chant des forêts
+LOCATION:(métro Jean-Talon)
+DESCRIPTION:2026-06-21 15:00:00\n\n(métro Jean-Talon)\n\nhttps://www.open
+ streetmap.org/node/6441386091\n\nVincent Munier | 2025 | France | 93 min |
+  français\nCette projection spéciale\, présentée dans le cadre du cycl
+ e « D’espoir et d’indignation »\, sera suivie d’une discussion ave
+ c Pierre Drapeau (biologiste spécialiste des forêts boréales) et Anaïs
+  Barbeau-Lavalette (cinéaste\, romancière).\n→ cinemapublic.ca/films/l
+ e-chant-des-forets/\nAprès La Panthère des neiges\, Vincent Munier nous 
+ invite au coeur des forêts des Vosges. C’est ici qu’il a tout appris 
+ grâce à son père Michel\, naturaliste\, ayant passé sa vie à l’affu
+ t dans les bois. Il est l’heure pour eux de transmettre ce savoir à Sim
+ on\, le fils de Vincent. Trois regards\, trois générations\, une même f
+ ascination pour la vie sauvage. Nous découvrirons avec eux cerfs\, oiseau
+ x rares\, renards et lynx… et parfois\, le battement d’ailes d’un an
+ imal légendaire : le Grand Tétras.
+URL;VALUE=URI:https://www.openstreetmap.org/node/6441386091
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-10
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260621T150000
 DTEND;TZID=America/Toronto:20260621T170000
 SUMMARY:Journée des peuples autochtones
@@ -278,9 +318,9 @@ DESCRIPTION:2026-06-21 15:00:00\n\n(métro Atwater)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/1274068972
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260621T173000
 DTEND;TZID=America/Toronto:20260621T193000
 SUMMARY:Son et Solidarité: Sounds for Palestine Marché d'art et d'action
@@ -315,9 +355,29 @@ DESCRIPTION:2026-06-21 17:30:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260622T180000
+DTEND;TZID=America/Toronto:20260622T200000
+SUMMARY:Venez dire au spvm tout le mal que vous pensez d'eux
+LOCATION:(métro Champ-de-Mars)
+DESCRIPTION:2026-06-22 18:00:00\n\n(métro Champ-de-Mars)\n\nhttps://www.o
+ penstreetmap.org/node/12034145458\n\nLUNDI 22 JUIN — 18:00 — HÔTEL DE
+  VILLE (275\, rue Notre-Dame Est)\nLundi soir\, venez vous exprimez face a
+ u SPVM. La présentation de leur rapport annuel commencera à 18h et durer
+ a autour de 45 minutes. Le micro sera ensuite ouvert aux commentaires du p
+ ublic.\nVous pourrez vous addresser directement à Fady Dagher\, à ses li
+ eutenants\, et à la Commission de sécurité publique qui est censé cont
+ rôler le SPVM\, mais qui passe sont temps à couvrir ses crimes.\nPour pr
+ endre la parole\, vous pouvez vous inscrire en personne avant d’entrer d
+ ans la salle.
+URL;VALUE=URI:https://www.openstreetmap.org/node/12034145458
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-13
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260622T200000
 DTEND;TZID=America/Toronto:20260622T220000
 SUMMARY:The Social Production of Science reading group - the Biotechnology
@@ -344,9 +404,99 @@ DESCRIPTION:2026-06-22 20:00:00\n\n(online)\n\nIn this month's module of t
  r what it means to reclaim science as a tool for social transformation.
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260623T180000
+DTEND;TZID=America/Toronto:20260623T200000
+SUMMARY:BQAMe : soirée film et discussion
+LOCATION:5101 St-Laurent (métro Laurier)
+DESCRIPTION:2026-06-23 18:00:00\n\n5101 St-Laurent (métro Laurier)\n\nhtt
+ ps://www.openstreetmap.org/node/5891252786\n\nNotre soirée film et discus
+ sion\, c'est dans moins de deux semaines ! Avez-vous déjà eu l'occasion 
+ de vous inscrire ? C’est gratos!! Inscrivez-vous vite dans notre bio!\n
+ 🗓️ Date: 23 juin\n⏰ Heure: 18h à 20h\n📍 Lieu: @siboire_saint_la
+ urent\n💰 Gratuit\n🗓️ Au programme : trois superbes films qui méla
+ nge notre passion pour le vélo\, le changement climatique et la protectio
+ n des territoires.\n🍿 Cracked Earth par @shiftcyclingculture\n🍿 Chas
+ ing Wild: Journey Into the Sacred Headwaters\n🍿 Blocage! Réalisé par 
+ Franklin López" @amplifierfilmsmtl qui retrace cinq années de résistanc
+ e sur le territoire Nehirowisiw\, au cœur de Nitaskinan.\n🎁Pour termin
+ er la soirée\, nos partenaires et collaborateurs offriront des cadeaux lo
+ rs de notre tombola.\nVenez tenter votre chance et gagner de nombreux item
+ s!\n***\nOi oi\nWe are 2 weeks out from our film night. Did you get a chan
+ ce to register? IT’S FREE. Go to our bio now.\n🗓️ Date: June 23\n
+ ⏰ Time: 6-8pm\n📍 Location: @siboire_saint_laurent\n💰 Free Entrance
+ \nFor our night\, we have 3 great films that mix biking with climate chang
+ e and land protection\n🍿 Cracked Earth by Shift Cycling Culture\n🍿 C
+ hasing Wild: Journey Into the Sacred Headwaters\n🍿 Blocage by Franklin 
+ Lopez tracing five years of resistance on Nehirowisiw territory.\n🎁 To 
+ top off the night\, we have the great chance to have various partners and 
+ collaborators who will be providing gifts throughout our raffle !!\nCome a
+ nd discover a whole slew of prices.\n#montreal #québec #tombola #bikepack
+ ing #vélo #film #forêt #protection
+URL;VALUE=URI:https://www.openstreetmap.org/node/5891252786
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-15
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260624T160000
+DTEND;TZID=America/Toronto:20260624T180000
+SUMMARY:Rassemblement festif | Festive gathering À QUI ÉTHEL
+LOCATION:(métro de l&#039\;Église)
+DESCRIPTION:2026-06-24 16:00:00\n\n(métro de l&#039\;Église)\n\nhttps://
+ www.openstreetmap.org/node/11045627828\n\nLe comité À QUI ÉTHEL vous in
+ vite à un rassemblement festif pour revendiquer du LOGEMENT SOCIAL au sta
+ tionnement Éthel !\nCet événement se veut le lancement d'une campagne p
+ our mobiliser le quartier autour de ce parking qui tombe en ruine.\nAu pro
+ gramme : musique\, bouffe\, création de bannières\, prises de parole et 
+ autres surprises ! Restez à l'affût pour plus de détails...\n***RENDEZ-
+ VOUS LE 24 JUIN PROCHAIN DÈS 16H DEVANT L'ENTRÉE DU STATIONNEMENT ÉTHEL
+  SUR LA RUE WELLINGTON***\nÀ QUI ÉTHEL ?\nLe stationnement Éthel\, situ
+ é derrière le métro De L'Église en plein cœur de Verdun\, est présen
+ tement occupé à moins de 40% et nécessite des travaux majeurs\, voire u
+ ne reconstruction.\nAlors que la crise du logement frappe de plein fouet M
+ ontréal / Tiohtià:ke / Mooniyang et que la crise climatique est de plus 
+ en plus visible partout dans le monde\, nous demandons à la Ville de Mont
+ réal d’agir pour permettre la concrétisation d'un projet de LOGEMENT S
+ OCIAL AU STATIONNEMENT ÉTHEL plutôt que d’injecter des millions de dol
+ lars dans le maintien actuel de ce stationnement qui tombe littéralement 
+ en ruine.\nNOUS EXIGEONS\n- QUE LES DIRIGEANT·ES DE LA VILLE DE MONTRÉAL
+  CÈDENT CE TERRAIN POUR QU'IL PUISSE Y ÊTRE CONSTRUIT UN VRAI PROJET DE 
+ LOGEMENT SOCIAL RÉPONDANT AUX BESOINS DU QUARTIER.\n- QUE LES DIRIGEANT·
+ ES DE LA VILLE DE MONTRÉAL ET DE L'ARRONDISSEMENT DE VERDUN-IDS METTENT T
+ OUS LES MOYENS NÉCESSAIRES POUR PERMETTRE LA CONSTRUCTION DE LOGEMENTS SO
+ CIAUX SUR LE TERRAIN DU STATIONNEMENT\, ET NON SEULEMENT DE LOGEMENTS "ABO
+ RDABLES".\nPour en savoir plus sur cette mobilisation et nos revendication
+ s et pour signer notre pétition :\nhttps://c.org/DvKJm297gp\n---\nComité
+  ÉTHEL invites you to a festive gathering to demand SOCIAL HOUSING at the
+  Éthel parking lot !\nThis event marks the launch of a campaign to mobili
+ ze the neighborhood around this parking lot\, which is falling into disrep
+ air.\nOn the agenda : music\, food\, banner-making\, speeches\, and other 
+ surprises! Stay tuned for more details...\n***MEET ON JUNE 24TH AT 4 PM IN
+  FRONT OF THE ENTRANCE TO THE ÉTHEL PARKING LOT ON WELLINGTON STREET***\n
+ WHO OWNS ÉTHEL?\nThe Éthel parking garage\, located behind the De L'Égl
+ ise metro station in the heart of Verdun\, is currently operating at less 
+ than 40% capacity and requires major repairs\, if not complete reconstruct
+ ion.\nAs the housing crisis hits Montréal / Tiohtià:ke / Mooniyang and t
+ he climate crisis is becoming increasingly visible around the world\, we a
+ re calling on the City of Montreal to take action to make way for a SOCIAL
+  HOUSING PROJECT AT THE ÉTHEL PARKING LOT rather than pouring millions of
+  dollars into maintaining this parking lot\, which is literally falling ap
+ art.\nWE DEMAND\n- THAT THE LEADERS OF THE CITY OF MONTRÉAL TRANSFER THIS
+  LAND SO THAT A GENUINE SOCIAL HOUSING PROJECT MEETING THE NEEDS OF THE NE
+ IGHBORHOOD CAN BE BUILT THERE.\n- THAT THE LEADERS OF THE CITY OF MONTRÉA
+ L AND THE VERDUN-IDS BOROUGH DEPLOY ALL NECESSARY MEANS TO ENABLE THE CONS
+ TRUCTION OF SOCIAL HOUSING ON THE PARKING LOT SITE\, AND NOT JUST “AFFOR
+ DABLE” HOUSING.\nTo learn more about this campaign and our demands\, and
+  to sign our petition :\nhttps://c.org/DvKJm297gp
+URL;VALUE=URI:https://www.openstreetmap.org/node/11045627828
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-16
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260625T190000
 DTEND;TZID=America/Toronto:20260625T210000
 SUMMARY:Milieu Therapy Trans artist showcase X Turbo Haüs
@@ -358,9 +508,9 @@ DESCRIPTION:2026-06-25 19:00:00\n\n2040 St-Denis (métro Berri)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11004970512
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260625T210000
 DTEND;TZID=America/Toronto:20260625T230000
 SUMMARY:Cinéma sous les étoiles : Steal this story please
@@ -382,9 +532,9 @@ DESCRIPTION:2026-06-25 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260626T170000
 DTEND;TZID=America/Toronto:20260626T190000
 SUMMARY:Masse critique de juin
@@ -431,9 +581,9 @@ DESCRIPTION:2026-06-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260626T170000
 DTEND;TZID=America/Toronto:20260626T190000
 SUMMARY:La grève politique: un cercle de lecture bimensuel estival
@@ -462,9 +612,9 @@ DESCRIPTION:2026-06-26 17:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260626T190000
 DTEND;TZID=America/Toronto:20260626T210000
 SUMMARY:Projection "Sudan\, Remember Us" 10$-20$ fundraiser
@@ -477,9 +627,9 @@ DESCRIPTION:2026-06-26 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260627T100000
 DTEND;TZID=America/Toronto:20260627T120000
 SUMMARY:Ottawa Anarchist Bookfair
@@ -489,9 +639,54 @@ DESCRIPTION:2026-06-27 10:00:00\n\nGlebe Community Centre\, 175 Third Aven
 URL;VALUE=URI:https://www.openstreetmap.org/way/68661015
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260627T110000
+DTEND;TZID=America/Toronto:20260627T130000
+SUMMARY:Life of Kashmiri Political Prisoners\, Gender and the Carceral Sta
+ te
+LOCATION:(online)
+DESCRIPTION:2026-06-27 11:00:00\n\n(online)\n\nLife of Kashmiri Political 
+ Prisoners\, Gender and the Carceral State\nJune 27\, 2026 11AM EDT\nOnline
+ . Register at https://us02web.zoom.us/.../reg.../WN_VnSTAxJ4TyG0bH5T8-UtLw
+ \n(short URL: tinyurl.com/Kashmirseries)\nThis panel analyses the carceral
+  regime imposed in Kashmir by reflecting on political imprisonment\, law\,
+  and resistance. Focusing on the recent life sentence of Asiya Andrabi\, f
+ ounder of Dukhtaran-e-Millat\, the panelists will examine how dissent is t
+ ransformed almost naturally into terrorism and criminality by deploying na
+ rrow security frames and legislation. Asiya Andrabi’s case will be analy
+ sed within broader patterns of detention of Kashmiris through preventive d
+ etention\, enforced disappearances\, and rampant use of Public Safety Act 
+ (PSA) and Unlawful Activities (Prevention) Act (UAPA)\, as well as limits 
+ on advocacy. The panel will illustrate how incarceration reshapes family l
+ ife\, lived experience\, political memory\, gender justice\, affective wor
+ lds\, and public discourse in Kashmir in the hope of opening conversations
+  on the human\, legal\, and political costs and consequences of imprisonme
+ nt.\nPanelists\nAhmed Bin Qasim\, Asiya Andrabi's son &amp\; writer\nAther
+  Zia\, Professor &amp\; Author\nMirza Saaib Bég\, Lawyer\nModerator: Such
+ itra Vijayan\, Barrister &amp\; Author\nCo-hosted by:\nJust Peace Advocate
+ s\, South Asian Diaspora Action Collective (SADAC)\, South Asia Solidarity
+  Group\, Kashmir Law and Justice Project (KLJP)\, Kashmir Scholars Consult
+ ative Advocacy Network (KSCAN)\n&nbsp\;\nPart of a Panel Series: Kashmiri 
+ Political Prisoners and the Carceral State\nThis panel series aims to exam
+ ine political imprisonment in the context of the expanding carceral state 
+ in Kashmir. The goal is to create a much-needed public educational resourc
+ e - an archive of expertise and testimony on political imprisonment. Discu
+ ssions will focus on incarceration\, surveillance\, and 'counter-terror' l
+ egislation and how political life\, civil society\, advocacy\, journalism\
+ , memory\, and the everyday experience are being reshaped in Kashmir. The 
+ series will center the broader questions of criminalization of dissent\, a
+ ffective worlds\, gender\, legality\, public discourse\, and resistance. T
+ entative panel titles are below and dates TBA.\nPanel 2: Human Rights Acti
+ vism and the Surveillance State\nPanel 3: Journalism\, Knowledge\, and Cri
+ minalization: The Case of Irfan Mehraj\nPanel 4: Political Leadership\, an
+ d Carceral Sovereignty
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-23
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260627T193000
 DTEND;TZID=America/Toronto:20260627T213000
 SUMMARY:No one is free until we are all free: Movie night under the stars
@@ -509,9 +704,9 @@ DESCRIPTION:2026-06-27 19:30:00\n\n633 Beaumont (métro Acadie)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260628T133000
 DTEND;TZID=America/Toronto:20260628T153000
 SUMMARY:Marche Dyke March
@@ -521,9 +716,9 @@ DESCRIPTION:2026-06-28 13:30:00\n\n(devant le Robin des bois)\n\nhttps://w
 URL;VALUE=URI:https://www.openstreetmap.org/node/11877728761
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260628T183000
 DTEND;TZID=America/Toronto:20260628T203000
 SUMMARY:Film : Retour vers nos futurs
@@ -541,9 +736,9 @@ DESCRIPTION:2026-06-28 18:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260629T210000
 DTEND;TZID=America/Toronto:20260629T230000
 SUMMARY:Cinéma sous les étoiles : L'appel du Nord
@@ -567,9 +762,9 @@ DESCRIPTION:2026-06-29 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260630T210000
 DTEND;TZID=America/Toronto:20260630T230000
 SUMMARY:Cinéma sous les étoiles : S'ils touchent à l'un d'entre nous
@@ -589,9 +784,9 @@ DESCRIPTION:2026-06-30 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260701T110000
 DTEND;TZID=America/Toronto:20260701T130000
 SUMMARY:Manif-action contre le logement cher
@@ -668,9 +863,9 @@ DESCRIPTION:2026-07-01 11:00:00\n\n(métro l&#039\;Assomption)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/node/7052992085
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260701T180000
 DTEND;TZID=America/Toronto:20260701T200000
 SUMMARY:Trans Oil Wrestling
@@ -691,9 +886,9 @@ DESCRIPTION:2026-07-01 18:00:00\n\n(métro Berri)\n\nhttps://www.openstree
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034322502
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260701T210000
 DTEND;TZID=America/Toronto:20260701T230000
 SUMMARY:Cinéma sous les étoiles : Occupations
@@ -710,9 +905,9 @@ DESCRIPTION:2026-07-01 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260702T210000
 DTEND;TZID=America/Toronto:20260702T230000
 SUMMARY:Cinéma sous les étoiles : Les blues du bleuet
@@ -728,9 +923,103 @@ DESCRIPTION:2026-07-02 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260703T173000
+DTEND;TZID=America/Toronto:20260703T193000
+SUMMARY:Atelier sur la justice alimentaire : La comida como ritual de cuid
+ ado y justica social
+LOCATION:623 Beaumont (métro Acadie)
+DESCRIPTION:2026-07-03 17:30:00\n\n623 Beaumont (métro Acadie)\n\nhttps:/
+ /www.openstreetmap.org/node/11973292959\n\nLA NOURRITURE COMME RITUEL DE S
+ OIN ET DE JUSTICE SOCIALE\nJoignez-vous à notre prochain atelier-discussi
+ on interculturel où nous explorerons\, autour d’un repas gratuit\, les 
+ rituels alimentaires qui favorisent le bien-être à travers le collage et
+  des pratiques d’agriculture familiale et d’agroécologie développée
+ s au Guatemala.\nL'objectif de cette soirée créative et participative es
+ t de valoriser les savoirs et les luttes des communautés (paysannes\, aut
+ ochtones\, migrantes) qui défendent une alimentation enracinée dans la c
+ ulture\, la mémoire et la justice socio-environnementale.\nLA COMIDA COMO
+  RITUAL DE CUIDADO Y JUSTICIA SOCIAL\nAcompáñanos en este taller-discusi
+ ón intercultural donde exploraremos\, en torno a una comida gratuita\, lo
+ s rituales de alimentación que fortalecen el bienestar\, a través de una
+  actividad de collage\, y las experiencias de agroecología familiar desar
+ rolladas en Guatemala.\nEl objetivo de este taller creativo y participativ
+ o es valorar los saberes y las luchas de las comunidades (campesinas\, ind
+ ígenas\, migrantes) que defienden una alimentación arraigada en la cultu
+ ra\, la memoria y la justicia socioambiental.\n&nbsp\;\nPROGRAMMATION / PR
+ OGRAMA DEL TALLER\n17h30 : Arrivée / Registro a las 17:30\n18h00 : Début
+  de l’événement / Inicio del evento y palabras de bienvenida\n18h15 : 
+ Rencontre virtuelle avec le CCDA / Encuentro con el Comité Campesino del 
+ Altiplano de Guatemala\n18h45 : Discussion et activité de collage sur les
+  rituels alimentaires avec l’anthropologue mexicaine Keitlyn Alcántara 
+ / Discussion y collage sobre los rituales alimentarios con la antropóloga
+  mexicana Keitlyn Alcantara\n19h15 : Échanges autour d’un repas partag
+ é / Charla intercultural durante una cena compartida\n20h-20h30 : Clôtur
+ e de l’événement / Fin del taller\n&nbsp\;\nPERSONNES INVITÉES ET CO-
+ ORGANISATRICES / ORGANIZADORES Y INVITADES\nLe Comité pour les droits hum
+ ains en Amérique latine (CDHAL) est une organisation de solidarité inter
+ nationale basée à Montréal/Tiohtiake\, Canada\, existant depuis 50 ans.
+  Annabelle-Lydia Bricault-Boucher (Chargée de projets) et Angiee Liliana 
+ Rocha Parra (Adjointe) assureront l’animation de l’événement en tant
+  que représentantes de l'Équipe en Éducation à la citoyenneté mondial
+ e du CDHAL : https://www.cdhal.org/a-propos/equipe/.\nSolidarité Laurenti
+ des Amérique centrale (SLAM) est un organisme de solidarité internationa
+ le\, basé à Saint-Jérôme\, qui œuvre depuis plus de 30 ans dans la r
+ égion des Laurentides au Québec : https://slamlaurentides.org/.\nEl Comi
+ té Campesino del Altiplano (CCDA) es una organización indígena y campes
+ ina fundada el 2 de marzo de 1982 en Guatemala. Su objetivo es la promoci
+ ón del desarrollo humano integral de la población del área rural con eq
+ uidad de género a través de acciones sociales\, culturales\, económicas
+  y políticas : https://ccdagt.com/.\nKeitlyn Alcántara es antropóloga e
+ n el Departamento de Antropología de la Universidad de Indiana\, Blooming
+ ton\, Estados Unidos. Ella estudia cómo el alimento puede servir como her
+ ramienta de empoderamiento tanto en contextos arqueológicos como hoy en d
+ ía. En particular\, está interesada en cómo las plantas se vuelven maes
+ tros para reconectarnos con nuestros conocimientos ancestrales. Como Mexic
+ ana viviendo en Estados Unidos\, también le interesan las formas en que l
+ a comida se vincula con la memoria\, la identidad\, y la patria.\nEn este 
+ taller\, exploraremos cómo la alimentación puede ser vista como un ritua
+ l diario. Partiremos de la pregunta ¿Qué mundos quisiéramos crear a tra
+ vés de nuestra alimentación? Pueden ser mundos distantes\, en otro país
+ \, o en otro momento que ya no existe. Como producto final\, trabajaremos 
+ juntas y juntos\, haciendo collage para crear un recetario que representa 
+ esta visión de construcción de mundos a partir de nuestras cocinas.\nExp
+ loring the stories told by our food : https://www.keitlynalcantara.com/\nI
+ nstagram : @sazon_dondesea @healinggarden_iub\nFacebook : Keitlyn Alcansom
+ ething\nUn grand merci à l'organisation @Brique par brique de nous prête
+ r leur local\, le Centre international Masoom Balouch\, situé dans le qua
+ rtier Parc-Extension de Montréal !\n&nbsp\;\n****************************
+ **************************\nPLUS DE DÉTAILS SUR NOTRE PROJET\nDepuis le p
+ rintemps 2025\, le CDHAL travaille sur un projet d’envergure intitulé 
+ « Construire le pouvoir populaire : Dialogues Québec-Amérique latine su
+ r les futurs émancipateurs ». La première phase de ce projet consistera
+  à tenir 4 ateliers participatifs et gratuits\, abordant des thématiques
+  choisies par nos membres et partenaires (justice alimentaire\, paix\, mig
+ ration\, féminisme) liées aux systèmes d'oppression et aux alternatives
+  innovatrices des mouvements sociaux latinoaméricains et québécois. À 
+ travers ce projet\, nous offrirons un espace de réflexion critique sur no
+ tre présent pour imaginer un futur plus juste grâce à l’innovation co
+ llective\, en stimulant des alliances entre des acteurices de changement.\
+ nTu te demandes si cet atelier est fait pour toi? Notre public cible est l
+ a société civile québécoise et issue de la diaspora latino-américaine
+ \, toute personne ayant vécu une expérience migratoire\, les jeunes qui 
+ souhaitent en apprendre davantage sur les thématiques abordées\, ainsi q
+ ue toute personne impliquée dans les milieux féministes\, antiracistes\,
+  écologistes et universitaires souhaitant participer à la réflexion col
+ lective avec d’autres allié·es!\nCe projet est possible grâce au sout
+ ien de nos partenaires financiers : la Fondation Béati\, la Congrégation
+  Notre-Dame\, la Fondation Solstice\, le ministère des Relations internat
+ ionales et de la Francophonie\, la Caisse d’économie populaire Desjardi
+ ns\, le Service aux Collectivités et des associations étudiantes de l’
+ Université du Québec à Montréal (AFESH\, AFEA et AFESPED).
+URL;VALUE=URI:https://www.openstreetmap.org/node/11973292959
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-33
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260703T180000
 DTEND;TZID=America/Toronto:20260703T200000
 SUMMARY:DULF Benefit gig + BBQ + Raffle
@@ -757,9 +1046,9 @@ DESCRIPTION:2026-07-03 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260704T120000
 DTEND;TZID=America/Toronto:20260704T140000
 SUMMARY:Punx Picnic - Hochelaga vs Mile End Kickball
@@ -779,9 +1068,9 @@ DESCRIPTION:2026-07-04 12:00:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/88541242
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260704T130000
 DTEND;TZID=America/Toronto:20260704T150000
 SUMMARY:Manif en vélo pour la Palestine
@@ -793,9 +1082,9 @@ DESCRIPTION:2026-07-04 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260704T150000
 DTEND;TZID=America/Toronto:20260704T170000
 SUMMARY:Fattal parking lot party 10$ : The Ruffianz / Guhn Twei / Ripcordz
@@ -810,9 +1099,41 @@ DESCRIPTION:2026-07-04 15:00:00\n\nAsk a punk pour savoir où c&#039\;est
  à ne pas manquer
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260705T113000
+DTEND;TZID=America/Toronto:20260705T133000
+SUMMARY:Sit-in mensuel des mères au front
+LOCATION:coin Sherbrooke/McGill College (métro McGill)
+DESCRIPTION:2026-07-05 11:30:00\n\ncoin Sherbrooke/McGill College (métro 
+ McGill)\n\nhttps://www.openstreetmap.org/node/12034321915\n\nLe 3 avril 20
+ 22\, les Mères au Front se réunissaient pour la première fois devant le
+  bureau du Premier Ministre du Québec\, à Montréal\, pour lui rappeler\
+ , ainsi qu’au gouvernement fédéral\, que nous devons écouter la scien
+ ce et répondre avec urgence.\nChaque dimanche pendant un an\, puis chaque
+  premier dimanche du mois depuis avril 2023\, nous nous regroupons toujour
+ s devant son bureau\, persévérantes\, décidées\, aimantes et en colèr
+ e.\nPourquoi ?\nParce que la CAQ a été réélue et la politique environn
+ ementale de ce gouvernement n'a encore rien montré de convaincant.\nAlors
+  nous veillerons. Toujours. Encore\nPour l'avenir de nos enfants !\nNous v
+ oulons une réduction des émissions de 65% d'ici à 2030\, en lien avec l
+ es recommandations du GIEC. Nous demandons à ce que toutes les décisions
+  politiques soient désormais passées au crible de leur impact environnem
+ ental.\nNous voulons être entendues\, alors nous serons là\, chaque sema
+ ine. Rejoignez-nous!\nPOUR PORTER LE MESSAGE :\n-Portez fièrement le coeu
+ r équarri vert de MAF\n-Venez avec vos enfants\, parents\, conjoint.e.s !
+ \n-Amenez de la craie pour laisser vos messages au sol. Toutes pancartes\,
+  messages et banderoles relayant nos revendications sont les bienvenus!\nV
+ isionnez les magnifiques vidéos d'anniversaires :\nhttps://www.facebook.c
+ om/MAFMontreal/videos/395662006640031\nhttps://www.facebook.com/MAFMontrea
+ l/videos/1434201113650756/\n&nbsp\;
+URL;VALUE=URI:https://www.openstreetmap.org/node/12034321915
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-38
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260706T210000
 DTEND;TZID=America/Toronto:20260706T230000
 SUMMARY:Cinéma sous les étoiles : The Sandbox
@@ -831,9 +1152,9 @@ DESCRIPTION:2026-07-06 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-39
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260707T200000
 DTEND;TZID=America/Toronto:20260707T220000
 SUMMARY:Show Punk 10$ : Danger Box + les Sarcastiques + Area-9
@@ -841,9 +1162,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-07-07 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-40
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260707T210000
 DTEND;TZID=America/Toronto:20260707T230000
 SUMMARY:Cinéma sous les étoiles : Wider than the sky
@@ -857,9 +1178,9 @@ DESCRIPTION:2026-07-07 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-41
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260708T210000
 DTEND;TZID=America/Toronto:20260708T230000
 SUMMARY:Cinéma sous les étoiles : Mais où va-t-on\, coyote ?
@@ -876,9 +1197,31 @@ DESCRIPTION:2026-07-08 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-42
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260709T191500
+DTEND;TZID=America/Toronto:20260709T211500
+SUMMARY:Cinéma sous les étoiles : Voir\, juger\, agir\, l'histoire de la
+  JOC
+LOCATION:(métro Iberville)
+DESCRIPTION:2026-07-09 19:15:00\n\n(métro Iberville)\n\nhttps://www.opens
+ treetmap.org/way/47345798\n\nVoir - Juger - Agir : L'histoire de la JOC au
+  Québec retrace l’histoire méconnue de la Jeunesse Ouvrière Catholiqu
+ e (JOC)\, un mouvement ouvrier ancré dans les quartiers populaires du Qu
+ ébec depuis les années 1930. À travers des témoignages\, des archives 
+ inédites et les regards d’expert·es\, le film dévoile près d’un si
+ ècle d’engagement social porté par des jeunes travailleurs et travaill
+ euses en quête de justice et de solidarité. Des sous-sols d’église au
+ x luttes féministes et syndicales\, ce documentaire sensible et politique
+  revient sur l’impact durable de la JOC et son rôle déterminant dans l
+ es bouleversements de la Révolution tranquille.
+URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-43
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260710T170000
 DTEND;TZID=America/Toronto:20260710T190000
 SUMMARY:La grève politique: un cercle de lecture bimensuel estival
@@ -907,9 +1250,34 @@ DESCRIPTION:2026-07-10 17:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-44
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260710T210000
+DTEND;TZID=America/Toronto:20260710T230000
+SUMMARY:Cinéma sous les étoiles : Rougemania
+LOCATION:Dorval
+DESCRIPTION:2026-07-10 21:00:00\n\nDorval\n\nhttps://www.openstreetmap.org
+ /way/47222773\n\nAvec humour et intelligence\, le long métrage documentai
+ re Rougemania explore l’influence considérable\, mais inavouée\, des A
+ utochtones sur la culture et l’identité occidentales.\n«Mais pourquoi 
+ nous aiment-ils tant?!»\, s’interroge le coréalisateur canadien d’or
+ igine crie\, Neil Diamond\, alors qu’il entreprend un voyage passionnant
+  pour tenter de déchiffrer le mystère de cette fascination mondiale pour
+  les représentations stéréotypées des premiers peuples\, omniprésente
+ s dans la culture populaire.\nPour quelles raisons les populations autocht
+ ones font-elles\, depuis si longtemps\, l’objet d’une vénération\, d
+ ’une vision romantique et d’une volonté d’appropriation qui persist
+ ent jusqu’à ce jour? Rougemania dévoile l’incroyable vérité qui se
+  cache derrière cet imaginaire\, un secret si bien enfoui sous les ruines
+  de l’histoire que même la majorité des personnes concernées l’igno
+ re.
+URL;VALUE=URI:https://www.openstreetmap.org/way/47222773
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-45
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260711T170000
 DTEND;TZID=America/Toronto:20260711T190000
 SUMMARY:Low Ball your landlord Fest Vol I 20$ : Community BBQ & Show
@@ -933,9 +1301,127 @@ DESCRIPTION:2026-07-11 17:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-46
 SEQUENCE:0
-DTSTAMP:20260619T043306
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260713T210000
+DTEND;TZID=America/Toronto:20260713T230000
+SUMMARY:Cinéma sous les étoiles : La bouchère de Trois-Pistoles
+LOCATION:(métro de Castelnau)
+DESCRIPTION:2026-07-13 21:00:00\n\n(métro de Castelnau)\n\nhttps://www.op
+ enstreetmap.org/way/708122322\n\nDans un Québec où même les boucheries 
+ artisanales misent sur la viande industrielle\, Renée LeBlanc-Paulin fait
+  un choix radical : travailler uniquement avec des carcasses locales enti
+ ères\, qu’elle et son équipe débitent chaque semaine dans sa boucheri
+ e de Trois-Pistoles. Autour d’elle\, un réseau de femmes engagées — 
+ cheffe\, éleveuse\, gestionnaire d’abattoir\, cuisinière institutionne
+ lle — l’aide à faire vivre un circuit aussi fragile que nécessaire.
+URL;VALUE=URI:https://www.openstreetmap.org/way/708122322
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-47
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260713T210000
+DTEND;TZID=America/Toronto:20260713T230000
+SUMMARY:Cinéma sous les étoiles : Soulèvements
+LOCATION:(métro Papineau)
+DESCRIPTION:2026-07-13 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
+ reetmap.org/way/165260353\n\nUn portrait choral à 16 voix\, de 16 traject
+ oires singulières\, réflexif et intime\, d’un mouvement de résistance
+  intergénérationnel porté par une jeunesse qui vit et qui lutte contre 
+ l’accaparement des terres et de l’eau\, les ravages industriels\, la m
+ ontée des totalitarismes et qui fait face à la répression politique. Un
+ e plongée au cœur des Soulèvements de la Terre révélant la compositio
+ n inédite des forces multiples déployées un peu partout dans le pays qu
+ i expérimentent d’autres modes de vie\, tissent de nouveaux liens avec 
+ le vivant\, bouleversant ainsi les découpages établis du politique et du
+  sensible en nous ouvrant au champ de tous les possibles.
+URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-48
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260714T210000
+DTEND;TZID=America/Toronto:20260714T230000
+SUMMARY:Cinéma sous les étoiles : Dans la forêt
+LOCATION:(près de 1ère avenue/Masson)
+DESCRIPTION:2026-07-14 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
+ ://www.openstreetmap.org/way/189009114\n\nDans la forêt est un essai docu
+ mentaire qui explore les liens profonds entre les humains\, les animaux et
+  la forêt. À travers des fragments de vie qui se croisent\, se réponden
+ t ou se contredisent\, le film esquisse peu à peu le portrait d’un mond
+ e riche et complexe\, parfois trouble\, où cohabitent les volontés de pr
+ otéger et d’exploiter. Naviguant entre réalisme\, engagement politique
+  et onirisme\, il dévoile un espace forestier qui\, face aux bouleverseme
+ nts climatiques et à la sixième extinction de masse\, murmure — à qui
+  sait l’écouter — l’urgence de protéger le fragile équilibre entr
+ e l’humanité\, la faune et la flore.
+URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-49
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260715T210000
+DTEND;TZID=America/Toronto:20260715T230000
+SUMMARY:Cinéma sous les étoiles : De la guerre froide à la guerre verte
+LOCATION:(métro Laurier)
+DESCRIPTION:2026-07-15 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
+ eetmap.org/way/65067662\n\nS'intéressant à l'assassinat de plus de 1500 
+ écologistes et défenseurs de la terre depuis 2012 en Amérique latine\, 
+ De la guerre froide à la guerre verte cherche les racines de cette violen
+ ce dans l'opération Condor\, cette «multinationale de la répression»\,
+  qui a procédé à l'élimination physique de dizaines de milliers de «s
+ ubversifs» tout au long des années 1970. Ce plan s'est aussi traduit par
+  l'impunité et l'accaparement des terres\, jetant les bases de l’actuel
+ le république du soya\, berceau de l'agrobusiness mondial.\nUn voyage int
+ ime qui élabore une généalogie du désastre écologique\, en présentan
+ t une contextualisation historique et politique inédite.
+URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-50
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260716T210000
+DTEND;TZID=America/Toronto:20260716T230000
+SUMMARY:Cinéma sous les étoiles : Forêt rouge
+LOCATION:(métro Iberville)
+DESCRIPTION:2026-07-16 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
+ treetmap.org/way/47345798\n\nAu fil des saisons et des bouleversements que
+  la Z.A.D. de Notre-Dame-des-Landes traverse depuis l’abandon du projet 
+ d’aéroport\, la forêt se transforme en territoire de lutte\, champ de 
+ bataille\, refuge pour le futur. Laboratoire de vie\, c’est une terre de
+  métamorphoses où les idéaux des habitant.e.s se confrontent à la rép
+ ression de l’État. La réalisatrice\, en immersion avec celles et ceux 
+ qui continuent d’habiter et d’occuper la forêt\, livre une vision po
+ étique de ce foyer de contestation sociale et culturelle qui ouvre l’ho
+ rizon de nouveaux fronts.
+URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-51
+SEQUENCE:0
+DTSTAMP:20260620T043019
+DTSTART;TZID=America/Toronto:20260717T210000
+DTEND;TZID=America/Toronto:20260717T230000
+SUMMARY:Cinéma sous les étoiles : Mikuba
+LOCATION:(métro Berri)
+DESCRIPTION:2026-07-17 21:00:00\n\n(métro Berri)\n\nhttps://www.openstree
+ tmap.org/way/164859203\n\nMikuba nous transporte dans les veines de cobalt
+  de Kolwezi\, l’épicentre de la course mondiale des énergies vertes\, 
+ où les mineurs artisanaux gardent farouchement leur héritage ancestral. 
+ À travers le parcours de Mama Leance et sa rencontre avec Master Elder Ka
+ ngalele\, le film dévoile les dimensions humaines et spirituelles d’un 
+ territoire piégé entre l'exploitation et la résilience.
+URL;VALUE=URI:https://www.openstreetmap.org/way/164859203
+END:VEVENT
+BEGIN:VEVENT
+UID:resmtl-52
+SEQUENCE:0
+DTSTAMP:20260620T043019
 DTSTART;TZID=America/Toronto:20260718T130000
 DTEND;TZID=America/Toronto:20260718T150000
 SUMMARY:Kiosque de solidarité avec nos voisins non-logé-es
