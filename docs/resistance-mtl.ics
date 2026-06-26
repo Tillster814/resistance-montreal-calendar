@@ -8,58 +8,7 @@ X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
 UID:resmtl-0
 SEQUENCE:0
-DTSTAMP:20260625T042616
-DTSTART;TZID=America/Toronto:20260625T170000
-DTEND;TZID=America/Toronto:20260625T190000
-SUMMARY:Manifestation contre les idéologies incel
-LOCATION:(métro Côte-des-Neiges)
-DESCRIPTION:2026-06-25 17:00:00\n\n(métro Côte-des-Neiges)\n\nhttps://ww
- w.openstreetmap.org/way/243867921\n\nPAS UNE DE PLUS\n25 JUIN - 17H - PLAC
- E DU 6-DÉC-1989 (métro Côte-des-Neiges)
-URL;VALUE=URI:https://www.openstreetmap.org/way/243867921
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-1
-SEQUENCE:0
-DTSTAMP:20260625T042616
-DTSTART;TZID=America/Toronto:20260625T190000
-DTEND;TZID=America/Toronto:20260625T210000
-SUMMARY:Milieu Therapy Trans artist showcase X Turbo Haüs
-LOCATION:2040 St-Denis (métro Berri)
-DESCRIPTION:2026-06-25 19:00:00\n\n2040 St-Denis (métro Berri)\n\nhttps:/
- /www.openstreetmap.org/node/11004970512\n\nTrans artist showcase\, one nig
- ht\; five acts\, June 25th\, 7pm\, milieu therapy x turbo haus\, see you t
- here xoxo
-URL;VALUE=URI:https://www.openstreetmap.org/node/11004970512
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-2
-SEQUENCE:0
-DTSTAMP:20260625T042616
-DTSTART;TZID=America/Toronto:20260625T210000
-DTEND;TZID=America/Toronto:20260625T230000
-SUMMARY:Cinéma sous les étoiles : Steal this story please
-LOCATION:(métro Laurier)
-DESCRIPTION:2026-06-25 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
- eetmap.org/way/65067662\n\nFace à la réduction des salles de rédaction\
- , à la monopolisation des médias et à l'instrumentalisation des réseau
- x sociaux\, Steal This Story\, Please! offre un contrepoint intime sur l'i
- mportance des médias indépendants pour une démocratie viable. En toile 
- de fond des événements les plus marquants de notre époque — de la gue
- rre à Gaza jusqu'à la catastrophe climatique mondiale —\, le film suit
-  l'intrépide journaliste indépendante Amy Goodman pendant 30 ans.\nAlors
-  qu'elle devient une figure de proue des médias indépendants amplifiant 
- les voix exclues du courant dominant\, elle affronte les forces qui tenten
- t de la réduire au silence. Amy et son équipe de Democracy Now! ont cré
- é une émission d'information citoyenne prouvant que\, dans un paysage m
- édiatique axé sur le profit\, l'information indépendante pourrait bien 
- être la clé du salut.
-URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
-END:VEVENT
-BEGIN:VEVENT
-UID:resmtl-3
-SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260626T170000
 DTEND;TZID=America/Toronto:20260626T190000
 SUMMARY:Masse critique de juin
@@ -106,9 +55,9 @@ DESCRIPTION:2026-06-26 17:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-4
+UID:resmtl-1
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260626T170000
 DTEND;TZID=America/Toronto:20260626T190000
 SUMMARY:La grève politique: un cercle de lecture bimensuel estival
@@ -137,9 +86,9 @@ DESCRIPTION:2026-06-26 17:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-5
+UID:resmtl-2
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260626T190000
 DTEND;TZID=America/Toronto:20260626T210000
 SUMMARY:Projection "Sudan\, Remember Us" 10$-20$ fundraiser
@@ -152,9 +101,9 @@ DESCRIPTION:2026-06-26 19:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-6
+UID:resmtl-3
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260627T100000
 DTEND;TZID=America/Toronto:20260627T120000
 SUMMARY:Ottawa Anarchist Bookfair
@@ -164,9 +113,9 @@ DESCRIPTION:2026-06-27 10:00:00\n\nGlebe Community Centre\, 175 Third Aven
 URL;VALUE=URI:https://www.openstreetmap.org/way/68661015
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-7
+UID:resmtl-4
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260627T110000
 DTEND;TZID=America/Toronto:20260627T130000
 SUMMARY:Life of Kashmiri Political Prisoners\, Gender and the Carceral Sta
@@ -209,9 +158,9 @@ DESCRIPTION:2026-06-27 11:00:00\n\n(online)\n\nLife of Kashmiri Political
  d Carceral Sovereignty
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-8
+UID:resmtl-5
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260627T193000
 DTEND;TZID=America/Toronto:20260627T213000
 SUMMARY:No one is free until we are all free: Movie night under the stars
@@ -229,9 +178,9 @@ DESCRIPTION:2026-06-27 19:30:00\n\n633 Beaumont (métro Acadie)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973025945
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-9
+UID:resmtl-6
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260628T133000
 DTEND;TZID=America/Toronto:20260628T153000
 SUMMARY:Marche Dyke March
@@ -241,9 +190,9 @@ DESCRIPTION:2026-06-28 13:30:00\n\n(devant le Robin des bois)\n\nhttps://w
 URL;VALUE=URI:https://www.openstreetmap.org/node/11877728761
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-10
+UID:resmtl-7
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260628T183000
 DTEND;TZID=America/Toronto:20260628T203000
 SUMMARY:Film : Retour vers nos futurs
@@ -261,9 +210,9 @@ DESCRIPTION:2026-06-28 18:30:00\n\n1800 Letourneux (métro Pie-IX)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/way/363150208
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-11
+UID:resmtl-8
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260629T210000
 DTEND;TZID=America/Toronto:20260629T230000
 SUMMARY:Cinéma sous les étoiles : L'appel du Nord
@@ -287,9 +236,9 @@ DESCRIPTION:2026-06-29 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-12
+UID:resmtl-9
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260630T210000
 DTEND;TZID=America/Toronto:20260630T230000
 SUMMARY:Cinéma sous les étoiles : S'ils touchent à l'un d'entre nous
@@ -309,9 +258,9 @@ DESCRIPTION:2026-06-30 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-13
+UID:resmtl-10
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260701T110000
 DTEND;TZID=America/Toronto:20260701T130000
 SUMMARY:Manif-action contre le logement cher
@@ -388,9 +337,9 @@ DESCRIPTION:2026-07-01 11:00:00\n\n(métro l&#039\;Assomption)\n\nhttps://
 URL;VALUE=URI:https://www.openstreetmap.org/node/7052992085
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-14
+UID:resmtl-11
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260701T180000
 DTEND;TZID=America/Toronto:20260701T200000
 SUMMARY:Trans Oil Wrestling
@@ -411,9 +360,9 @@ DESCRIPTION:2026-07-01 18:00:00\n\n(métro Berri)\n\nhttps://www.openstree
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034322502
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-15
+UID:resmtl-12
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260701T210000
 DTEND;TZID=America/Toronto:20260701T230000
 SUMMARY:Cinéma sous les étoiles : Occupations
@@ -430,9 +379,9 @@ DESCRIPTION:2026-07-01 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-16
+UID:resmtl-13
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260702T210000
 DTEND;TZID=America/Toronto:20260702T230000
 SUMMARY:Cinéma sous les étoiles : Les blues du bleuet
@@ -448,9 +397,9 @@ DESCRIPTION:2026-07-02 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-17
+UID:resmtl-14
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260703T173000
 DTEND;TZID=America/Toronto:20260703T193000
 SUMMARY:Atelier sur la justice alimentaire : La comida como ritual de cuid
@@ -542,9 +491,9 @@ DESCRIPTION:2026-07-03 17:30:00\n\n623 Beaumont (métro Acadie)\n\nhttps:/
 URL;VALUE=URI:https://www.openstreetmap.org/node/11973292959
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-18
+UID:resmtl-15
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260703T180000
 DTEND;TZID=America/Toronto:20260703T200000
 SUMMARY:DULF Benefit gig + BBQ + Raffle
@@ -571,9 +520,9 @@ DESCRIPTION:2026-07-03 18:00:00\n\n4848 St-Laurent (métro Laurier)\n\nhtt
 URL;VALUE=URI:https://www.openstreetmap.org/way/352197557
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-19
+UID:resmtl-16
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260704T120000
 DTEND;TZID=America/Toronto:20260704T140000
 SUMMARY:Punx Picnic - Hochelaga vs Mile End Kickball
@@ -593,9 +542,9 @@ DESCRIPTION:2026-07-04 12:00:00\n\n(métro Joliette)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/88541242
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-20
+UID:resmtl-17
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260704T130000
 DTEND;TZID=America/Toronto:20260704T150000
 SUMMARY:Manif en vélo pour la Palestine
@@ -607,9 +556,9 @@ DESCRIPTION:2026-07-04 13:00:00\n\nCoin du Parc/Rachel (métro Mont-Royal)
 URL;VALUE=URI:https://www.openstreetmap.org/way/143352036
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-21
+UID:resmtl-18
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260704T133000
 DTEND;TZID=America/Toronto:20260704T153000
 SUMMARY:Manif contre les états-unis et "america 250"
@@ -627,9 +576,9 @@ DESCRIPTION:2026-07-04 13:30:00\n\n(métro Peel)\n\nhttps://www.openstreet
 URL;VALUE=URI:https://www.openstreetmap.org/node/11606543670
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-22
+UID:resmtl-19
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260704T150000
 DTEND;TZID=America/Toronto:20260704T170000
 SUMMARY:Fattal parking lot party 10$ : The Ruffianz / Guhn Twei / Ripcordz
@@ -644,9 +593,9 @@ DESCRIPTION:2026-07-04 15:00:00\n\nAsk a punk pour savoir où c&#039\;est
  à ne pas manquer
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-23
+UID:resmtl-20
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260704T160000
 DTEND;TZID=America/Toronto:20260704T180000
 SUMMARY:Vente de garage anti-4-juillet
@@ -676,9 +625,9 @@ DESCRIPTION:2026-07-04 16:00:00\n\n2035 St-Laurent\, 2e étage (métro St-
 URL;VALUE=URI:https://www.openstreetmap.org/way/243082943
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-24
+UID:resmtl-21
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260705T113000
 DTEND;TZID=America/Toronto:20260705T133000
 SUMMARY:Sit-in mensuel des mères au front
@@ -708,9 +657,9 @@ DESCRIPTION:2026-07-05 11:30:00\n\ncoin Sherbrooke/McGill College (métro
 URL;VALUE=URI:https://www.openstreetmap.org/node/12034321915
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-25
+UID:resmtl-22
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260706T210000
 DTEND;TZID=America/Toronto:20260706T230000
 SUMMARY:Cinéma sous les étoiles : The Sandbox
@@ -729,9 +678,9 @@ DESCRIPTION:2026-07-06 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-26
+UID:resmtl-23
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260707T200000
 DTEND;TZID=America/Toronto:20260707T220000
 SUMMARY:Show Punk 10$ : Danger Box + les Sarcastiques + Area-9
@@ -739,9 +688,9 @@ LOCATION:Demande à un-e punk ! Ask a punk!
 DESCRIPTION:2026-07-07 20:00:00\n\nDemande à un-e punk ! Ask a punk!
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-27
+UID:resmtl-24
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260707T210000
 DTEND;TZID=America/Toronto:20260707T230000
 SUMMARY:Cinéma sous les étoiles : Wider than the sky
@@ -755,9 +704,9 @@ DESCRIPTION:2026-07-07 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-28
+UID:resmtl-25
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260708T210000
 DTEND;TZID=America/Toronto:20260708T230000
 SUMMARY:Cinéma sous les étoiles : Mais où va-t-on\, coyote ?
@@ -774,9 +723,9 @@ DESCRIPTION:2026-07-08 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-29
+UID:resmtl-26
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260709T191500
 DTEND;TZID=America/Toronto:20260709T211500
 SUMMARY:Cinéma sous les étoiles : Voir\, juger\, agir\, l'histoire de la
@@ -796,9 +745,9 @@ DESCRIPTION:2026-07-09 19:15:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-30
+UID:resmtl-27
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260710T170000
 DTEND;TZID=America/Toronto:20260710T190000
 SUMMARY:La grève politique: un cercle de lecture bimensuel estival
@@ -827,9 +776,9 @@ DESCRIPTION:2026-07-10 17:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-31
+UID:resmtl-28
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260710T210000
 DTEND;TZID=America/Toronto:20260710T230000
 SUMMARY:Cinéma sous les étoiles : Rougemania
@@ -852,9 +801,9 @@ DESCRIPTION:2026-07-10 21:00:00\n\nDorval\n\nhttps://www.openstreetmap.org
 URL;VALUE=URI:https://www.openstreetmap.org/way/47222773
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-32
+UID:resmtl-29
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260711T170000
 DTEND;TZID=America/Toronto:20260711T190000
 SUMMARY:Low Ball your landlord Fest Vol I 20$ : Community BBQ & Show
@@ -878,9 +827,9 @@ DESCRIPTION:2026-07-11 17:00:00\n\n1900 Le Ber (métro Charlevoix)\n\nhttp
 URL;VALUE=URI:https://www.openstreetmap.org/node/6074430797
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-33
+UID:resmtl-30
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260713T210000
 DTEND;TZID=America/Toronto:20260713T230000
 SUMMARY:Cinéma sous les étoiles : La bouchère de Trois-Pistoles
@@ -896,9 +845,9 @@ DESCRIPTION:2026-07-13 21:00:00\n\n(métro de Castelnau)\n\nhttps://www.op
 URL;VALUE=URI:https://www.openstreetmap.org/way/708122322
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-34
+UID:resmtl-31
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260713T210000
 DTEND;TZID=America/Toronto:20260713T230000
 SUMMARY:Cinéma sous les étoiles : Soulèvements
@@ -917,9 +866,9 @@ DESCRIPTION:2026-07-13 21:00:00\n\n(métro Papineau)\n\nhttps://www.openst
 URL;VALUE=URI:https://www.openstreetmap.org/way/165260353
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-35
+UID:resmtl-32
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260714T210000
 DTEND;TZID=America/Toronto:20260714T230000
 SUMMARY:Cinéma sous les étoiles : Dans la forêt
@@ -938,9 +887,9 @@ DESCRIPTION:2026-07-14 21:00:00\n\n(près de 1ère avenue/Masson)\n\nhttps
 URL;VALUE=URI:https://www.openstreetmap.org/way/189009114
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-36
+UID:resmtl-33
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260715T210000
 DTEND;TZID=America/Toronto:20260715T230000
 SUMMARY:Cinéma sous les étoiles : De la guerre froide à la guerre verte
@@ -959,9 +908,9 @@ DESCRIPTION:2026-07-15 21:00:00\n\n(métro Laurier)\n\nhttps://www.openstr
 URL;VALUE=URI:https://www.openstreetmap.org/way/65067662
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-37
+UID:resmtl-34
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260716T210000
 DTEND;TZID=America/Toronto:20260716T230000
 SUMMARY:Cinéma sous les étoiles : Forêt rouge
@@ -979,9 +928,9 @@ DESCRIPTION:2026-07-16 21:00:00\n\n(métro Iberville)\n\nhttps://www.opens
 URL;VALUE=URI:https://www.openstreetmap.org/way/47345798
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-38
+UID:resmtl-35
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260717T210000
 DTEND;TZID=America/Toronto:20260717T230000
 SUMMARY:Cinéma sous les étoiles : Mikuba
@@ -996,9 +945,9 @@ DESCRIPTION:2026-07-17 21:00:00\n\n(métro Berri)\n\nhttps://www.openstree
 URL;VALUE=URI:https://www.openstreetmap.org/way/164859203
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-39
+UID:resmtl-36
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260718T130000
 DTEND;TZID=America/Toronto:20260718T150000
 SUMMARY:Kiosque de solidarité avec nos voisins non-logé-es
@@ -1030,9 +979,9 @@ DESCRIPTION:2026-07-18 13:00:00\n\n(métro Pie-IX)\n\nhttps://www.openstre
 URL;VALUE=URI:https://www.openstreetmap.org/relation/14023444
 END:VEVENT
 BEGIN:VEVENT
-UID:resmtl-40
+UID:resmtl-37
 SEQUENCE:0
-DTSTAMP:20260625T042616
+DTSTAMP:20260626T042943
 DTSTART;TZID=America/Toronto:20260724T170000
 DTEND;TZID=America/Toronto:20260724T190000
 SUMMARY:La grève politique: un cercle de lecture bimensuel estival
