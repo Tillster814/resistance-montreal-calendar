@@ -25,59 +25,125 @@ async function fetchCalendar(url, attempts = 3) {
   }
 }
 
+function fixTimezone(ics) {
+  return ics.replace(
+    "X-WR-TIMEZONE:Europe/Paris",
+    "X-WR-TIMEZONE:America/Toronto",
+  );
+}
+
+function addOneHour(dateTime) {
+  const isUTC = dateTime.endsWith("Z");
+
+  let value = dateTime.replace("Z", "");
+
+  let year = Number(value.substring(0, 4));
+  let month = Number(value.substring(4, 6));
+  let day = Number(value.substring(6, 8));
+  let hour = Number(value.substring(9, 11));
+  const minute = value.substring(11, 13);
+  const second = value.substring(13, 15);
+
+  hour += 1;
+
+  if (hour === 24) {
+    hour = 0;
+
+    const date = new Date(Date.UTC(year, month - 1, day));
+
+    date.setUTCDate(date.getUTCDate() + 1);
+
+    year = date.getUTCFullYear();
+    month = date.getUTCMonth() + 1;
+    day = date.getUTCDate();
+  }
+
+  return (
+    `${year}${String(month).padStart(2, "0")}${String(day).padStart(2, "0")}` +
+    `T${String(hour).padStart(2, "0")}${minute}${second}` +
+    (isUTC ? "Z" : "")
+  );
+}
+
 function fixEndDates(ics) {
   const lines = ics.split("\n");
 
-  let startDate = null;
-  let startTime = null;
+  let startValue = null;
 
-  return lines.map((line) => {
-    if (line.startsWith("DTSTART")) {
-      const match = line.match(/(\d{8})T(\d{6})/);
+  return lines
+    .map((line) => {
+      if (line.startsWith("DTSTART")) {
+        startValue = line.split(":")[1];
+        return line;
+      }
 
-      if (match) {
-        startDate = match[1];
-        startTime = match[2];
+      if (line.startsWith("DTEND") && startValue) {
+        const endValue = line.split(":")[1];
+
+        if (!endValue) return line;
+
+        const startHasTime = startValue.includes("T");
+
+        //
+        // Fake 2100 Christmas fallback
+        //
+        if (endValue.startsWith("21001225")) {
+          // All day event
+          if (!startHasTime) {
+            console.log(
+              `Fixing all-day fake end: ${endValue} -> ${startValue}`,
+            );
+
+            return `DTEND;VALUE=DATE:${startValue}`;
+          }
+
+          // Timed event, keep the original end time
+          const fixedEnd =
+            startValue.substring(0, 8) + "T" + endValue.substring(9);
+
+          console.log(`Fixing fake end: ${endValue} -> ${fixedEnd}`);
+
+          return `DTEND:${fixedEnd}`;
+        }
+
+        //
+        // Same start and end
+        //
+        if (startValue === endValue) {
+          // Timed event: assume one hour
+          if (startHasTime) {
+            const fixedEnd = addOneHour(startValue);
+
+            console.log(`Fixing zero-length event: ${endValue} -> ${fixedEnd}`);
+
+            return `DTEND:${fixedEnd}`;
+          }
+
+          // All-day event
+          console.log(`Fixing same-day all-day event: ${endValue}`);
+
+          return `DTEND;VALUE=DATE:${startValue}`;
+        }
       }
 
       return line;
-    }
-
-    if (line.startsWith("DTEND") && startDate) {
-      const match = line.match(/(\d{8})T(\d{6})/);
-
-      if (match) {
-        const endDate = match[1];
-        const endTime = match[2];
-
-        const start = new Date(
-          `${startDate.slice(0, 4)}-${startDate.slice(4, 6)}-${startDate.slice(6, 8)}`,
-        );
-
-        const end = new Date(
-          `${endDate.slice(0, 4)}-${endDate.slice(4, 6)}-${endDate.slice(6, 8)}`,
-        );
-
-        const diffYears = Math.abs(end - start) / (1000 * 60 * 60 * 24 * 365);
-
-        if (diffYears > 1) {
-          console.log(`Fixed bad date: ${endDate} -> ${startDate}`);
-
-          return line.replace(/\d{8}T\d{6}/, `${startDate}T${endTime}`);
-        }
-      }
-    }
-
-    return line;
-  });
+    })
+    .join("\n");
 }
 
 async function main() {
   const data = await fetchCalendar(feedUrl);
 
-  const fixedCalendar = fixEndDates(data);
+  // Save original source
+  writeFileSync("docs/resistance-mtl-untouched.ics", data);
 
-  writeFileSync("docs/resistance-mtl.ics", fixedCalendar.join("\n"));
+  console.log("📁 Saved untouched ICS file");
+
+  let fixedCalendar = data;
+
+  fixedCalendar = fixEndDates(fixedCalendar);
+
+  writeFileSync("docs/resistance-mtl.ics", fixedCalendar);
 
   console.log("✅ Calendar generated");
 }
