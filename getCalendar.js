@@ -3,6 +3,28 @@ import { writeFileSync } from "fs";
 
 const feedUrl = "https://www.resistancemontreal.org/spip.php?page=agenda-ical";
 
+async function fetchCalendar(url, attempts = 3) {
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      const response = await axios.get(url, {
+        timeout: 30000,
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (compatible; Resistance-MTL-Calendar-Bot/1.0)",
+        },
+      });
+
+      return response.data;
+    } catch (err) {
+      console.log(`Attempt ${i}/${attempts} failed`);
+
+      if (i === attempts) throw err;
+
+      await new Promise((resolve) => setTimeout(resolve, 5000));
+    }
+  }
+}
+
 function fixEndDates(ics) {
   const lines = ics.split("\n");
 
@@ -51,7 +73,7 @@ function fixEndDates(ics) {
 }
 
 async function main() {
-  const { data } = await axios.get(feedUrl);
+  const data = await fetchCalendar(feedUrl);
 
   const fixedCalendar = fixEndDates(data);
 

@@ -18,6 +18,10 @@ jobs:
 
       - run: npm install
 
+      - name: Test calendar URL
+        run: |
+          curl -Iv "https://www.resistancemontreal.org/spip.php?page=agenda-ical"
+
       - run: npm run generate
 
       - name: Commit changes
