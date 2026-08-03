@@ -25,13 +25,6 @@ async function fetchCalendar(url, attempts = 3) {
   }
 }
 
-function fixTimezone(ics) {
-  return ics.replace(
-    "X-WR-TIMEZONE:Europe/Paris",
-    "X-WR-TIMEZONE:America/Toronto",
-  );
-}
-
 function addOneHour(dateTime) {
   const isUTC = dateTime.endsWith("Z");
 
@@ -41,6 +34,7 @@ function addOneHour(dateTime) {
   let month = Number(value.substring(4, 6));
   let day = Number(value.substring(6, 8));
   let hour = Number(value.substring(9, 11));
+
   const minute = value.substring(11, 13);
   const second = value.substring(13, 15);
 
@@ -65,43 +59,66 @@ function addOneHour(dateTime) {
   );
 }
 
+function isMoreThanOneYearApart(startValue, endValue) {
+  const startDate = startValue.substring(0, 8);
+  const endDate = endValue.substring(0, 8);
+
+  const start = new Date(
+    Number(startDate.substring(0, 4)),
+    Number(startDate.substring(4, 6)) - 1,
+    Number(startDate.substring(6, 8)),
+  );
+
+  const end = new Date(
+    Number(endDate.substring(0, 4)),
+    Number(endDate.substring(4, 6)) - 1,
+    Number(endDate.substring(6, 8)),
+  );
+
+  const oneYearLater = new Date(start);
+  oneYearLater.setFullYear(oneYearLater.getFullYear() + 1);
+
+  return end > oneYearLater;
+}
+
 function fixEndDates(ics) {
-  const lines = ics.split("\n");
+  const lines = ics.split(/\r?\n/);
 
   let startValue = null;
 
   return lines
     .map((line) => {
       if (line.startsWith("DTSTART")) {
-        startValue = line.split(":")[1];
+        startValue = line.split(":")[1]?.trim();
         return line;
       }
 
       if (line.startsWith("DTEND") && startValue) {
-        const endValue = line.split(":")[1];
+        const colonIndex = line.indexOf(":");
+
+        if (colonIndex === -1) return line;
+
+        const endValue = line.substring(colonIndex + 1).trim();
 
         if (!endValue) return line;
 
         const startHasTime = startValue.includes("T");
 
         //
-        // Fake 2100 Christmas fallback
+        // Suspiciously long events (>1 year)
         //
-        if (endValue.startsWith("21001225")) {
-          // All day event
+        if (isMoreThanOneYearApart(startValue, endValue)) {
+          // All-day event
           if (!startHasTime) {
-            console.log(
-              `Fixing all-day fake end: ${endValue} -> ${startValue}`,
-            );
+            console.log(`Fixing long all-day event: ${line}`);
 
             return `DTEND;VALUE=DATE:${startValue}`;
           }
 
-          // Timed event, keep the original end time
-          const fixedEnd =
-            startValue.substring(0, 8) + "T" + endValue.substring(9);
+          // Timed event: preserve end time and timezone
+          const fixedEnd = startValue.substring(0, 8) + endValue.substring(8);
 
-          console.log(`Fixing fake end: ${endValue} -> ${fixedEnd}`);
+          console.log(`Fixing long event: ${line} -> DTEND:${fixedEnd}`);
 
           return `DTEND:${fixedEnd}`;
         }
@@ -134,14 +151,12 @@ function fixEndDates(ics) {
 async function main() {
   const data = await fetchCalendar(feedUrl);
 
-  // Save original source
+  // Save untouched original ICS
   writeFileSync("docs/resistance-mtl-untouched.ics", data);
 
   console.log("📁 Saved untouched ICS file");
 
-  let fixedCalendar = data;
-
-  fixedCalendar = fixEndDates(fixedCalendar);
+  const fixedCalendar = fixEndDates(data);
 
   writeFileSync("docs/resistance-mtl.ics", fixedCalendar);
 
