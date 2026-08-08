@@ -10,21 +10,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
-SUMMARY:La grève politique : un cercle de lecture bimensuel estival
-UID:evenement8840 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260807T210000Z
-DTEND:20260807T220000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Bâtiment 7, 1900 Le Ber (métro Charlevoix) 
-DESCRIPTION:Le Centre de formation politique vous invite durant la saison chaude à venir discuter d'un sujet brûlant : la grève politique.Nous vous proposons 7 séances de discussion sur des textes d'abord historiques\, puis sur des articles de la plus récente édition des Nouveaux cahiers du socialisme qui porte sur la grève politique et la grève sociale.Le premier texte à l'étude sera La grève est un combat ! de A. Losovski\, dispnible en ligne ici : https://tderbent.org/articles/Losovski.pdf Nous lirons les pages 183 à 268 (les deux premières sections)Voici la liste des textes avec un lien vers une version en ligne (lorsque disponible) : 15 mai : A. Losovsky\, La grève est un combat (1/2\, les deux premières sections) - https://tderbent.org/articles/Losovski.pdf 29 mai : A. Losovsky\, La grève est un combat (2/2\, les trois dernières sections) - https://tderbent.org/articles/Losovski.pdf 12 juin : P. Nikiforov\, La grève - https://www.marxists.org/.../nikoforov/works/00/table.htm 26 juin : N. Guèvremont\, Ouvrons nos contrats - Rendu disponible sous peu 10 juillet : Nouveaux cahiers du socialisme #35 2 articles sur des grèves historiques 24 juillet : Nouveaux cahiers du socialisme #35 2 articles sur la grève sociale et les grèves étudiantes 7 août : Nouveaux cahiers du socialisme #35 2 articles sur les perspectives actuelles de grève politique
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8840
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Festival des savoirs partagés et des solidarités
 UID:evenement8894 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -753,6 +738,36 @@ LOCATION:Black Flag Combat Club, 1963 Ontario E
 DESCRIPTION:RadMedic Weather-Related Illnesses Workshop07/18\, 4-6pm\, Black Flag Combat Club (1963 rue Ontario E) RadMedic is a network of street and protest medics that host weekly first aid workshops and trainings relevant to the environments we medic in. This means that we are acutely aware that care is politicized ; withheld from those who are not deemed worthy by the state\, and provided on the condition that one obeys and maintains the status quo. Our main goal is to share first aid knowledge (outside of expensive certification programs !) so that we can all feel confident in responding to injuries or emergencies around us. In our trainings\, expect a learning component and a practice component (usually in the form of scenario simulations) that meet everyone where they're at — from experienced medic to absolute beginner. This workshop deals with temperature extremes\, focusing on things that can happen when it's too hot\, too cold\, or too wet including their symptoms\, prevention\, and treatment. Common cold related injuries include hypothermia and frostbite\, while heat related injuries include heat cramps\, heat exhaustion\, heatstroke\, sunburns\, dehydration\, and trench foot. As part of the workshop\, we'll practice various scenarios to identify the different levels of injury risks.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8942
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RadMedic Animals and Insects Workshop
+UID:evenement8943 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART:20260725T210000Z
+DTEND:20260725T210000Z
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260710T232103Z 
+LOCATION:Black Flag Combat Club, 1963 Ontario E 
+DESCRIPTION:RadMedic Animals and Insects Workshop07/25\, 4-6pm\, Black Flag Combat Club (1963 rue Ontario E) RadMedic is a network of street and protest medics that host weekly first aid workshops and trainings relevant to the environments we medic in. This means that we are acutely aware that care is politicized ; withheld from those who are not deemed worthy by the state\, and provided on the condition that one obeys and maintains the status quo. Our main goal is to share first aid knowledge (outside of expensive certification programs !) so that we can all feel confident in responding to injuries or emergencies around us. In our trainings\, expect a learning component and a practice component (usually in the form of scenario simulations) that meet everyone where they're at — from experienced medic to absolute beginner. The Animals and Insects Workshop focuses on common insects and animal risks found in Montreal. For the insect portion\, we'll be going over common insects found in the city\, their various levels of injuries and additional concerns\, and ways to identify and treat them. For the animal portion\, we'll review how to treat animal based injuries\, focusing on bites and scratches from mammals\, differences between domesticated and wild animals\, and when to go to a hospital. 
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8943
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La grève politique : un cercle de lecture bimensuel estival
+UID:evenement8840 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART:20260807T210000Z
+DTEND:20260807T220000Z
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Bâtiment 7, 1900 Le Ber (métro Charlevoix) 
+DESCRIPTION:Le Centre de formation politique vous invite durant la saison chaude à venir discuter d'un sujet brûlant : la grève politique.Nous vous proposons 7 séances de discussion sur des textes d'abord historiques\, puis sur des articles de la plus récente édition des Nouveaux cahiers du socialisme qui porte sur la grève politique et la grève sociale.Le premier texte à l'étude sera La grève est un combat ! de A. Losovski\, dispnible en ligne ici : https://tderbent.org/articles/Losovski.pdf Nous lirons les pages 183 à 268 (les deux premières sections)Voici la liste des textes avec un lien vers une version en ligne (lorsque disponible) : 15 mai : A. Losovsky\, La grève est un combat (1/2\, les deux premières sections) - https://tderbent.org/articles/Losovski.pdf 29 mai : A. Losovsky\, La grève est un combat (2/2\, les trois dernières sections) - https://tderbent.org/articles/Losovski.pdf 12 juin : P. Nikiforov\, La grève - https://www.marxists.org/.../nikoforov/works/00/table.htm 26 juin : N. Guèvremont\, Ouvrons nos contrats - Rendu disponible sous peu 10 juillet : Nouveaux cahiers du socialisme #35 2 articles sur des grèves historiques 24 juillet : Nouveaux cahiers du socialisme #35 2 articles sur la grève sociale et les grèves étudiantes 7 août : Nouveaux cahiers du socialisme #35 2 articles sur les perspectives actuelles de grève politique
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8840
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1487,21 +1502,6 @@ LOCATION:Parc des Faubourgs, (métro Papineau)
 DESCRIPTION:Dans un extrait d'une entrevue réalisée en 1968\, Roosevelt (Rosie) Douglas dénonce et condamne le racisme et la violence liés à l'inégalité raciale au Canada\, l'exploitation des Caraïbes et l'histoire de l'esclavage. Le ton de L'appel du Nord (True North) est donné par ce militant des droits des Noirs et leader de la manifestation étudiante de l'hiver 1969 à l'Université Sir George Williams de Montréal\, qui contestait la manière dont l'administration avait traité une plainte pour racisme. Les témoignages des participants à cet acte de résistance et d'affirmation\, illustrés par un montage judicieux d'images d'archives\, ancrent cet événement décisif dans sa réalité sociopolitique. À travers leurs dénonciations de la violence\, ces témoignages révèlent la richesse culturelle de cette communauté diversifiée et retracent la montée d'un mouvement de protestation à l'échelle du continent à la fin des années 1960. Habilement raconté\, ce travail remarquablement monté est un puissant acte de mémoire.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8883
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Introduction to Last Generation 
-UID:evenement8944 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260629T230000Z
-DTEND:20260630T000000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:5290 Côte-des-Neiges, (métro Côte-des-Neiges) 
-DESCRIPTION: Introduction to Last Generation Canada Monday\, June 29\, 2026\, 7:00 pm - 9:00 pm EDT Open talk about climate action\, followed by a presentation about non violent theory and the Last Generation campaign. – Discussion ouverte sur l'action climatique\, suivie d'une présentation sur la théorie de la non-violence et la campagne Dernière Génération. 5290 Chemin de la Côte-des-Neiges Montréal H3T 1Y2 
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8944
 
 STATUS:CONFIRMED
 END:VEVENT
