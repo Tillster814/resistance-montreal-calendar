@@ -11,21 +11,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 BEGIN:VEVENT
 SUMMARY:Festival des savoirs partagés et des solidarités
-UID:evenement8894 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260808T190000Z
-DTEND:20260808T200000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Parc Edmond-Hamelin, (métro Joliette) 
-DESCRIPTION:Rejoignez-nous le 8 et le 9 août 2026 de 15h à 19h pour la 19e édition du Festival des Savoirs Partagés ! Les activités\, boissons et surtout la bonne humeur seront au rendez-vous. À travers ce temps convivial et festif\, le Festival des Savoirs Partagés est une occasion unique de permettre la transmission de savoirs et de cultures\, et de provoquer la rencontre et l’échange entre des personnes que la vie quotidienne sépare. N'hésitez pas à nous contacter pour toutes idées d'ateliers !
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8894
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festival des savoirs partagés et des solidarités
 UID:evenement8895 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
 DTSTART:20260809T190000Z
@@ -622,6 +607,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SFTP pique-nique
+UID:evenement9075 @ http://www.resistancemontreal.org
+DTSTAMP:20260808T150701Z
+DTSTART:20260906T150000Z
+DTEND:20260906T170500Z
+CREATED:20260808T150701Z
+LAST-MODIFIED:20260808T150701Z 
+LOCATION:Parc Jeanne-Mance, Près de la rue Duluth (métro Mont-Royal) 
+DESCRIPTION:u te demandes comment la science pourrait être mise aux service des gens ordinaires plutôt que de la classe capitaliste\, des génocides et de l’écocide ? Viens nous voir à notre pique-nique meet-up pour en savoir plus ! • Séance d’orientation et d’intégration : qui sommes-nous et quels sont nos projets ? • Comment pouvez-vous vous impliquer ? • Groupes d’étude à venir • Magazines et ouvrages scientifiques radicaux • Collations et breuvages ! Curious to know more about how science could be made to serve the people instead of a genocidal\, ecocidal\, capitalist class ? Come to our picnic meet-up to learn more ! • Orientation and onboarding : who are we and what are our projects ? How can you get involved ? • Upcoming study groups • Magazines and radical science literature • Snacks and drinks !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9075
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cabaret folk - 35e édition - 20$
 UID:evenement9040 @ http://www.resistancemontreal.org
 DTSTAMP:20260719T151121Z
@@ -753,6 +753,21 @@ LOCATION:Black Flag Combat Club, 1963 Ontario E
 DESCRIPTION:RadMedic Animals and Insects Workshop07/25\, 4-6pm\, Black Flag Combat Club (1963 rue Ontario E) RadMedic is a network of street and protest medics that host weekly first aid workshops and trainings relevant to the environments we medic in. This means that we are acutely aware that care is politicized ; withheld from those who are not deemed worthy by the state\, and provided on the condition that one obeys and maintains the status quo. Our main goal is to share first aid knowledge (outside of expensive certification programs !) so that we can all feel confident in responding to injuries or emergencies around us. In our trainings\, expect a learning component and a practice component (usually in the form of scenario simulations) that meet everyone where they're at — from experienced medic to absolute beginner. The Animals and Insects Workshop focuses on common insects and animal risks found in Montreal. For the insect portion\, we'll be going over common insects found in the city\, their various levels of injuries and additional concerns\, and ways to identify and treat them. For the animal portion\, we'll review how to treat animal based injuries\, focusing on bites and scratches from mammals\, differences between domesticated and wild animals\, and when to go to a hospital. 
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8943
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival des savoirs partagés et des solidarités
+UID:evenement8894 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART:20260808T190000Z
+DTEND:20260808T200000Z
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Parc Edmond-Hamelin, (métro Joliette) 
+DESCRIPTION:Rejoignez-nous le 8 et le 9 août 2026 de 15h à 19h pour la 19e édition du Festival des Savoirs Partagés ! Les activités\, boissons et surtout la bonne humeur seront au rendez-vous. À travers ce temps convivial et festif\, le Festival des Savoirs Partagés est une occasion unique de permettre la transmission de savoirs et de cultures\, et de provoquer la rencontre et l’échange entre des personnes que la vie quotidienne sépare. N'hésitez pas à nous contacter pour toutes idées d'ateliers !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8894
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1487,21 +1502,6 @@ LOCATION:Parc du Pélican, (près de 1ère avenue/Masson)
 DESCRIPTION:Militant communiste à Révolution Permanente et syndicaliste CGT à la boulangerie industrielle Neuhauser en Moselle\, Christian Porta est un militant combatif\, apprécié de tous ses collègues. Lorsque celui-ci est victime d'un licenciement illégal en raison de son engagement politique\, ses camarades réagissent et une lutte s'organise immédiatement pour tenter d'obtenir sa réintégration. Au fil de ce combat\, on voit la solidarité se tisser pour défendre ce camarade victime d'une injustice\, et les ouvriers s'organiser pour résister à la répression antisyndicale. Le film est une ode émouvante à la classe ouvrière et au syndicalisme. C'est le récit d'une lutte des classes rendue victorieuse par le pouvoir de la solidarité ouvrière.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8884
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinéma sous les étoiles : L'appel du Nord
-UID:evenement8883 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260630T010000Z
-DTEND:20260630T020000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Parc des Faubourgs, (métro Papineau) 
-DESCRIPTION:Dans un extrait d'une entrevue réalisée en 1968\, Roosevelt (Rosie) Douglas dénonce et condamne le racisme et la violence liés à l'inégalité raciale au Canada\, l'exploitation des Caraïbes et l'histoire de l'esclavage. Le ton de L'appel du Nord (True North) est donné par ce militant des droits des Noirs et leader de la manifestation étudiante de l'hiver 1969 à l'Université Sir George Williams de Montréal\, qui contestait la manière dont l'administration avait traité une plainte pour racisme. Les témoignages des participants à cet acte de résistance et d'affirmation\, illustrés par un montage judicieux d'images d'archives\, ancrent cet événement décisif dans sa réalité sociopolitique. À travers leurs dénonciations de la violence\, ces témoignages révèlent la richesse culturelle de cette communauté diversifiée et retracent la montée d'un mouvement de protestation à l'échelle du continent à la fin des années 1960. Habilement raconté\, ce travail remarquablement monté est un puissant acte de mémoire.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8883
 
 STATUS:CONFIRMED
 END:VEVENT
