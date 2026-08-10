@@ -10,36 +10,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
-SUMMARY:Festival des savoirs partagés et des solidarités
-UID:evenement8895 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260809T190000Z
-DTEND:20260809T200000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Parc Edmond-Hamelin, (métro Joliette) 
-DESCRIPTION:Rejoignez-nous le 8 et le 9 août 2026 de 15h à 19h pour la 19e édition du Festival des Savoirs Partagés ! Les activités\, boissons et surtout la bonne humeur seront au rendez-vous. À travers ce temps convivial et festif\, le Festival des Savoirs Partagés est une occasion unique de permettre la transmission de savoirs et de cultures\, et de provoquer la rencontre et l’échange entre des personnes que la vie quotidienne sépare. N'hésitez pas à nous contacter pour toutes idées d'ateliers !
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8895
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cercle de lecture anticolonialiste
-UID:evenement8949 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260809T213000Z
-DTEND:20260809T223000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Espace des possibles, 6450 avenue Christophe-Colomb 
-DESCRIPTION:Notre club de lecture solidaire s’inscrit dans la transition socio-écologique en favorisant l’éveil des consciences\, le dialogue critique et la solidarité.Lecture en cours : Palestine : Un féminisme de libération de Nadia Elia. ATTENTION ! : Les rencontres sont en alternance à la Librairie N'était-ce-pas l'été et à l'Espace des Possibles Petite-Patrie\, voici les prochaines dates et lieuxMay 17 dans la Cafétéria de La Balise au 6450 Christophe-Colomb May 31 N’était-ce pas l’été June 14 Espace des possibles June 28 N’était-ce pas l’été July 12 Espace des possibles July 26 N’était-ce pas l’été August 9 Espace des possibles August 23 N’était-ce pas l’été
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8949
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:On zine ensemble avec Lisanosaure !
 UID:evenement8918 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -534,6 +504,66 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lancement de zine : Politiquement pétasse
+UID:evenement9076 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T144545Z
+DTSTART:20260812T213000Z
+DTEND:20260812T164400Z
+CREATED:20260809T144545Z
+LAST-MODIFIED:20260809T144545Z 
+LOCATION:Librairie féministe L’Euguélionne, 1426 Beaudry (métro Beaudry) 
+DESCRIPTION:Qu’est-ce qu’un été politiquement pétasse ? Qu’est-ce que cela signifie d’être animé•e par la pétasserie ? En ce 12 août dès 17h30\, venez en grand nombre pour vous procurer le zine de l’heure et\, par le fait même\, découvrez les politiques derrière l’été sl*tty de votre librairie féministe préférée ! Beck\, co-fondatrice du balados Woke or whateva\, ainsi que libraire et co-gestionnaire adorée à l’Euguélionne\, vous invite au lancement de son zine « Pour un été politiquement pétasse » afin de répondre à ces questions ! Ce zine se veut une exploration du plaisir à être vue\, du désir taboo d’être admiré tout en questionnant la lentille sur laquelle ses désirs existent ! Il souligne aussi l’importance de la joie et de la communauté comme outil politique\, outil nécessaire pour la résistance ! Un lancement à ne pas manquer ! Il y aura en exclusivité une première lecture des textes du zine par l’auteure\, suivie par une causerie autour de ses derniers. Le tout couronné par un moment festif pour bien célébrer ce dernier sl*tty wednesday de l’été 🌞
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9076
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 à 7 du 12 août\, j'achète un livre queer québécois ! Causerie autour de livres qui dérangent
+UID:evenement9077 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T144914Z
+DTSTART:20260812T210000Z
+DTEND:20260812T164600Z
+CREATED:20260809T144914Z
+LAST-MODIFIED:20260809T144914Z 
+LOCATION:Librairie n'était-ce pas l'été, 6792 St-Laurent (métro de Castelnau) 
+DESCRIPTION:Dans le cadre de la journée du 12 août\, j'achète un livre queer québécois !\, la librairie n'était-ce pas l'été se fera le théâtre d'une formidable causerie : Animée par Jeannot Clair (Les Argonautes. Nouvelle traduction\, Maggie Nelson\, Triptyque) Avec Valérie Bah (Souterrain\, Remue-Ménage) Francis Desruisseaux (Matière trouée\, Triptyque) Liza Hammar (Le Hijab\, leur obsession et nous\, Rue Dorion) Alex McCann (Saint-Nicolas-des-Marins\, Alto) Azucena Pelland (L’été en travers de la gorge\, Poètes de brousse) Alex Viens (Je veux toujours mourir en été\, Poètes de brousse)
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9077
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating Independance\, Remembering Partition : Screening of Ajay Bhardwaj’s PUNJAB TRILOGY in the presence of the filmmaker
+UID:evenement9078 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T145527Z
+DTSTART:20260823T160000Z
+DTEND:20260823T165200Z
+CREATED:20260809T145527Z
+LAST-MODIFIED:20260809T145527Z 
+LOCATION:SAWCC, South Asian Women's Community Center\, 1035 Rachel est\, 3rd floor (métro Mont-Royal) 
+DESCRIPTION:CELEBRATING INDEPENDENCE\, REMEMBERING PARTITION Screening of Ajay Bhardwaj’s PUNJAB TRILOGY in the presence of the filmmaker Sunday 23rd August\, 12 noon to 6 pm At SAWCC (South Asian Women’s Community Centre) 1035 Rachel est 3rd floor (metro Mont Royal) With Food and Snacks ! “Close to a million people lost their lives and several million lost their homelands forever when India and Pakistan were partitioned. In the midst of the horror that Hindus\, Muslims\, and Sikhs inflicted on each other there were also redeeming stories of the love that bound these communities together—stories we cling to\, so we may retain our faith in the human spirit. 'Milange Babey Ratan De Mele Te' is one such story. It is the story of how love survived a holocaust.” — Arundhati Roy There will be short breaks between the screening of each film of the trilogy for conversation and refreshments and a discussion with the filmmaker at the end. Program : ======= ★ 12:30pm - Kitte Mil Ve Mahi (Where the Twain Shall Meet) 70'/2005 A film which explores the bond between Dalits and Sufism\, which is both healing and emancipatory. ★ 2pm - Rabba Hun Kee Kariye (Thus Departed Our Neighbours) 65'/2007 The film engages for the first time with feelings of guilt and remorse about the genocidal violence in Punjab's countryside. ★ 3:30pm - Milange Babey Ratan De Mele Te (Let's Meet at Baba Ratan's Fair) 95'/2012 A film excavating local cultural continuities and a most imaginative transgression of religious identities in post-partition Punjab. ★ 5pm - Q&A with the filmmaker\, Ajay Bhardwaj Discussant : Prof. Pasha M. Khan All are welcome ! Organized by CERAS (South Asia Centre\, a forum) Supported by SADAC (South Asia Diaspora Action Collective) @sadacmtl & Rang Collective @rangcollective
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9078
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know your Rights and Risks : Migrants Edition
+UID:evenement9079 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T150144Z
+DTSTART:20260819T223000Z
+DTEND:20260819T165800Z
+CREATED:20260809T150144Z
+LAST-MODIFIED:20260809T150144Z 
+LOCATION:CTI/IWC, Centre des travailleur-euses immigrant-es / Immigrant Workers Centre\, 4755 Van Horne\, bureau 110 (métro Plamondon) 
+DESCRIPTION:Curious to know about protesting in Canada and what it might mean for your immigration status ? Join us Wednesday August 19th at 6:30pm for a know your rights and risks training for migrants who protest\, open to all ! Free dinner will be provided at the training 🍽️ The training will be held at the Immigrant Workers Centre (4755 Av. Van Horne Bur 110 Montréal\, QC H3W 1H8)\, next to Plamondon station. Invite your friends and community members who find this training relevant\, or who wish to strengthen their solidarity✨All are welcome !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9079
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présence autochtone
 UID:evenement8995 @ http://www.resistancemontreal.org
 DTSTAMP:20260711T114529Z
@@ -607,6 +637,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trans Collective Library : Opening and Donation Drive
+UID:evenement9080 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T150754Z
+DTSTART:20260817T190000Z
+DTEND:20260817T170300Z
+CREATED:20260809T150754Z
+LAST-MODIFIED:20260809T150754Z 
+LOCATION:Galerie l'articule, 6282 St-Hubert (métro Beaubien) 
+DESCRIPTION:We are thrilled to announce our reading room and collective library\, running Monday\, August 17th – Sunday\, August 30 at articule. We are setting up a reading room and collective library in articule’s space to showcase trans literature\, essays\, art\, zines\, and other printed materials. All are invited to donate or lend printed materials that address trans lives\, desires\, fantasies\, politics\, advocacy\, erotics\, and other facets of trans experience. Dick’s entire collection will also be available for browsing\, including our non-circulating (more rare and precious) titles. See below for more details. ✨ Opening ✨ Monday\, August 17\, 3:00-7:00 Come by during our opening event to lend or donate books\, zines\, printed essays\, and other print materials to the collective library for the duration of the reading room. We are looking for : Materials written/created by trans\, non-binary\, or Two Spirit people Materials written/created by gender non-conforming authors who self-identify in other ways Materials that relate to trans issues and experiences more broadly Materials that we don’t already carry in our collection (see our catalogue) Or just come by to say hi and/or learn about how to get involved with the library ! 📚 Librarian hours 📚 Mondays\, Wednesdays\, Fridays\, Sundays\, 12-6pm Visit us during our librarian hours to drop off additional donations or loans to the reading room\, peruse the collective library\, hang & read some books or zines\, and chat about the library. 🎈 Closing Event 🎈 Sunday\, Aug. 30 (closing event\, time TBA) Join us for a reading and fundraiser for Metonymy Press to close the reading room and celebrate the re-launch of our lending services. More info coming soon ! 💖 Access Info 💖 articule (6282 Rue St-Hubert) is wheelchair-accessible and has one gender neutral washroom K/N95 masks provided at all times K/N95 masks required for opening and closing events A HEPA filter air purifier will be in the space Fragrance-free. Please refrain from wearing any perfume or scented items.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9080
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SFTP pique-nique
 UID:evenement9075 @ http://www.resistancemontreal.org
 DTSTAMP:20260808T150701Z
@@ -637,6 +682,36 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Journée internationale de sensibilisation aux surdoses 2026
+UID:evenement9081 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T151323Z
+DTSTART:20260831T190000Z
+DTEND:20260831T171000Z
+CREATED:20260809T151323Z
+LAST-MODIFIED:20260809T151323Z 
+LOCATION:Square Émilie-Gamelin, (métro Berri) 
+DESCRIPTION:La Journée internationale de sensibilisation aux surdoses 2026 de Montréal aura lieu le lundi 31 août à la Place Émilie-Gamelin de 16h à 18h. C’est un moment pour se rappeler nos morts\, mais aussi pour connaître et réseauter avec des organismes en réduction des méfaits. Il y aura un micro ouvert pour les personnes qui auront envie de prendre parole. Un calendrier des activités du mois est disponible sur le site web de l’AQPSUD à https://aqpsud.org/jiss2026/. Montreal’s 2026 International Overdose Awareness Day will take place on Monday\, August 31\, at Place Émilie-Gamelin from 4:00 p.m. to 6:00 p.m. It is a time to remember those we’ve lost\, but also to learn about and network with harm reduction organizations. There will be an open mic for anyone who would like to speak. A calendar of this month’s activities is available on the AQPSUD website at https://aqpsud.org/jiss2026/.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9081
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinéma sous les étoiles : "Voir – Juger – Agir : L'histoire de la JOC au Québec"
+UID:evenement9082 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T151657Z
+DTSTART:20260829T001500Z
+DTEND:20260829T171500Z
+CREATED:20260809T151657Z
+LAST-MODIFIED:20260809T151657Z 
+LOCATION:Église Saint-Paul-de-la-Croix, 10215 Georges-Baril (métro Sauvé) 
+DESCRIPTION:Voir - Juger - Agir : L'histoire de la JOC au Québec retrace l’histoire méconnue de la Jeunesse Ouvrière Catholique (JOC)\, un mouvement ouvrier ancré dans les quartiers populaires du Québec depuis les années 1930. À travers des témoignages\, des archives inédites et les regards d’expert·es\, le film dévoile près d’un siècle d’engagement social porté par des jeunes travailleurs et travailleuses en quête de justice et de solidarité. Des sous-sols d’église aux luttes féministes et syndicales\, ce documentaire sensible et politique revient sur l’impact durable de la JOC et son rôle déterminant dans les bouleversements de la Révolution tranquille.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9082
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Causerie | Une brève histoire de la transmisogynie
 UID:evenement9041 @ http://www.resistancemontreal.org
 DTSTAMP:20260719T151723Z
@@ -652,107 +727,62 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Journée par et pour l'ACA (Action Communautaire Autonome) : Portons la flamme du communautaire 
-UID:evenement9042 @ http://www.resistancemontreal.org
-DTSTAMP:20260719T153047Z
-DTSTART:20260723T170000Z
-DTEND:20260723T172900Z
-CREATED:20260719T153047Z
-LAST-MODIFIED:20260719T153047Z 
+SUMMARY:Cinéma sous les étoiles : "Soirée diffusion de courts métrages"
+UID:evenement9083 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T151922Z
+DTSTART:20260903T210000Z
+DTEND:20260903T171700Z
+CREATED:20260809T151922Z
+LAST-MODIFIED:20260809T151922Z 
+LOCATION:Cinémathèque québécoise, 335 de Maisonneuve Est (métro Berri) 
+DESCRIPTION:Découvrez les courts métrages primés de notre compétition 2026\, lors d'une soirée de projection festive\, suivie d'un apéritif convivial propice au réseautage.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9083
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plan de communication 101
+UID:evenement9084 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T152530Z
+DTSTART:20261001T130000Z
+DTEND:20261001T172400Z
+CREATED:20260809T152530Z
+LAST-MODIFIED:20260809T152530Z 
 LOCATION:Centre St-Pierre, 1212 Panet (métro Beaudry) 
-DESCRIPTION:📅 23 septembre · 13h à 18h30 📍 Centre St-Pierre\, Montréal 🍽️ Repas offert sur place Travailleur·euse·s\, bénévoles\, militant·e·s du communautaire\, cette journée est la nôtre ! Dans un contexte électoral marqué par des crises multiples et la montée de la droite identitaire\, nous nous retrouvons pour une journée d'éducation populaire et de réflexion collective ✊. À travers une programmation diverse\, nous explorerons ensemble les revendications et les valeurs de l'action communautaire autonome pour une plus grande justice sociale. Ensemble\, nous préparerons à envoyer un message clair au prochain gouvernement : la flamme de l'ACA n'a jamais été aussi forte ! 💪 🍽️ À 17h\, un repas est offert pour se retrouver avant de prendre la rue pour le grand rassemblement dans le cadre des débats des chef·fe·s. Nous rejoindrons ensuite la marche funèbre du Mouvement jeunes et santé mentale pour exprimer notre indignation contre la destruction du filet social. 🖤 Nous participerons aussi au rassemblement populaire avec les groupes de la société civile. 🗓️ Les inscriptions sont ouvertes jusqu'au 16 septembre via le formulaire ci-dessous ! https://docs.google.com/.../1f8easSIngCGQOWkjRhReo.../edit Vous souhaitez obtenir des informations sur l'accessibilité de l'événement\, ou du soutien pour votre inscription ? Contactez-nous au 514-972-8590. La flamme\, on la porte ensemble. 🔥
+DESCRIPTION:Le plan de communication est un outil indispensable pour tout organisme\, que ce soit pour structurer ses communications ou pour promouvoir un projet en particulier. Cet atelier de vous permet de mieux comprendre l’importance et l’utilité du plan de communication pour une organisation et de vous familiariser avec les différentes étapes à respecter pour le réaliser. À qui s’adresse cette formation : Elle s’adresse à toute personne en charge de réaliser un plan de communication dans son organisme\, chargée de communication ou simplement ayant des tâches en communication souhaitant structurer sa méthode de travail et se donner de nouveaux objectifs. À la fin de cette formation\, vous serez en mesure de : Prendre du recul sur vos propres communications en utilisant des outils d’autodiagnostic Reconnaître un plan de communication et comprendre comment l’utiliser Élaborer un plan de communication en le structurant en étapes Choisir vos outils de communication en fonction du public cible\, des objectifs\, du message et des ressources disponibles Thèmes abordés dans la formation Un plan de communication : c’est quoi ? À quoi ça sert ? Bilan de santé de vos communications Pourquoi communiquer Les difficultés rencontrées et les bons coups Public cible\, élaboration du message et choix des canaux de communication Établir une stratégie et développer son plan de communication À quoi s’attendre Formation d’initiation\, les concepts de base du plan de communication sont abordés 50 % pratique\, 50 % théorie Une participation active est attendue des participant·es\, des mises en situation en sous-groupes sont prévues en après-midi pour constituer un plan de communication Afin de faciliter l’atteinte des objectifs de la formation\, diverses stratégies et outils d’apprentissage seront utilisés\, notamment pour faire émerger l’intelligence collective\, toujours dans une perspective d’éducation populaire autonome : exercices pratiques et mises en situation\, exposés dynamiques sur les différents éléments fondamentaux\, échanges et discussions autour des activités et concepts explorés
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9042
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9084
 
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vigil for Palestine
-UID:evenement9043 @ http://www.resistancemontreal.org
-DTSTAMP:20260719T154333Z
-DTSTART:20260719T160000Z
-DTEND:20260719T174200Z
-CREATED:20260719T154333Z
-LAST-MODIFIED:20260719T154333Z 
-LOCATION:Métro de L'Église, À l'extérieur\, sur la rue Wellington 
-DESCRIPTION:July 19 @ 12 h 00 min - 14 h 00 min MÉTRO de l’Église 250\, av. Galt\, Montreal\, Quebec\, Canada IN SOLIDARITY WITH PALESTINE Vigil and Distribution PAJU SUNDAY July 19 on Wellington St. closed to cars SUNDAY JULY 19 from NOON to 2 PM on WELLINGTON ST. pedestrianized in front of the METRO De l'ÉGLISE Come and join us in rejecting Israeli genocide and the American support for this genocide.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9043
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manif à vélo pour la Palestine
-UID:evenement8889 @ http://www.resistancemontreal.org
+SUMMARY:Cercle de lecture anticolonialiste
+UID:evenement8949 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
-DTSTART:20260801T170000Z
-DTEND:20260801T180000Z
+DTSTART:20260809T213000Z
+DTEND:20260809T223000Z
 CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T234612Z 
-LOCATION:Statue de George-Étienne-Cartier, Coin du Parc/Rachel (métro Mont-Royal) 
-DESCRIPTION: ? MANIF À VÉLO — Statue du Mont-Royal ? BIKE PROTEST — MONT ROYAL STATUE ????
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Espace des possibles, 6450 avenue Christophe-Colomb 
+DESCRIPTION:Notre club de lecture solidaire s’inscrit dans la transition socio-écologique en favorisant l’éveil des consciences\, le dialogue critique et la solidarité.Lecture en cours : Palestine : Un féminisme de libération de Nadia Elia. ATTENTION ! : Les rencontres sont en alternance à la Librairie N'était-ce-pas l'été et à l'Espace des Possibles Petite-Patrie\, voici les prochaines dates et lieuxMay 17 dans la Cafétéria de La Balise au 6450 Christophe-Colomb May 31 N’était-ce pas l’été June 14 Espace des possibles June 28 N’était-ce pas l’été July 12 Espace des possibles July 26 N’était-ce pas l’été August 9 Espace des possibles August 23 N’était-ce pas l’été
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8889
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8949
 
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projection : Ma cité évincée
-UID:evenement9045 @ http://www.resistancemontreal.org
-DTSTAMP:20260719T160325Z
-DTSTART:20260723T220000Z
-DTEND:20260723T180100Z
-CREATED:20260719T160325Z
-LAST-MODIFIED:20260719T160325Z 
-LOCATION:Salle Legros, 5350 Lafond 
-DESCRIPTION:Film sur la spéculation immobilière à Montréal
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9045
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RadMedic Naloxone Workshop
-UID:evenement8941 @ http://www.resistancemontreal.org
+SUMMARY:Festival des savoirs partagés et des solidarités
+UID:evenement8895 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
-DTSTART:20260711T210000Z
-DTEND:20260711T210000Z
+DTSTART:20260809T190000Z
+DTEND:20260809T200000Z
 CREATED:20000101T050000Z
-LAST-MODIFIED:20260710T232004Z 
-LOCATION:Black Flag Combat Club, 1963 Ontario E 
-DESCRIPTION:RadMedic is a network of street and protest medics that host weekly first aid workshops and trainings relevant to the environments we medic in. This means that we are acutely aware that care is politicized ; withheld from those who are not deemed worthy by the state\, and provided on the condition that one obeys and maintains the status quo. Our main goal is to share first aid knowledge (outside of expensive certification programs !) so that we can all feel confident in responding to injuries or emergencies around us. In our trainings\, expect a learning component and a practice component (usually in the form of scenario simulations) that meet everyone where they're at — from experienced medic to absolute beginner. Back by popular demand for a third time (!!)\, our Naloxone training goes beyond how to administer the life-saving medication. Over the course of these trainings\, many people have shared a sentiment of not knowing what to do when they see someone who may need help but fear that they will disturb\, upset\, or scare the person if they approach them. This workshop is built with exactly that feeling in mind. It'll include : So. Many. Practice. Scenarios. Group discussion about tricks to approaching people at first Information about what overdoses can look like Demonstration of nasal and intramuscular administration Time to practice administration using expired Naloxone Please feel free to bring any expired Naloxone you have and we'll replace it with a new kit for you. 
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Parc Edmond-Hamelin, (métro Joliette) 
+DESCRIPTION:Rejoignez-nous le 8 et le 9 août 2026 de 15h à 19h pour la 19e édition du Festival des Savoirs Partagés ! Les activités\, boissons et surtout la bonne humeur seront au rendez-vous. À travers ce temps convivial et festif\, le Festival des Savoirs Partagés est une occasion unique de permettre la transmission de savoirs et de cultures\, et de provoquer la rencontre et l’échange entre des personnes que la vie quotidienne sépare. N'hésitez pas à nous contacter pour toutes idées d'ateliers !
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8941
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RadMedic Weather-Related Illnesses Workshop
-UID:evenement8942 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260718T210000Z
-DTEND:20260718T210000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260710T232037Z 
-LOCATION:Black Flag Combat Club, 1963 Ontario E 
-DESCRIPTION:RadMedic Weather-Related Illnesses Workshop07/18\, 4-6pm\, Black Flag Combat Club (1963 rue Ontario E) RadMedic is a network of street and protest medics that host weekly first aid workshops and trainings relevant to the environments we medic in. This means that we are acutely aware that care is politicized ; withheld from those who are not deemed worthy by the state\, and provided on the condition that one obeys and maintains the status quo. Our main goal is to share first aid knowledge (outside of expensive certification programs !) so that we can all feel confident in responding to injuries or emergencies around us. In our trainings\, expect a learning component and a practice component (usually in the form of scenario simulations) that meet everyone where they're at — from experienced medic to absolute beginner. This workshop deals with temperature extremes\, focusing on things that can happen when it's too hot\, too cold\, or too wet including their symptoms\, prevention\, and treatment. Common cold related injuries include hypothermia and frostbite\, while heat related injuries include heat cramps\, heat exhaustion\, heatstroke\, sunburns\, dehydration\, and trench foot. As part of the workshop\, we'll practice various scenarios to identify the different levels of injury risks.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8942
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RadMedic Animals and Insects Workshop
-UID:evenement8943 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260725T210000Z
-DTEND:20260725T210000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260710T232103Z 
-LOCATION:Black Flag Combat Club, 1963 Ontario E 
-DESCRIPTION:RadMedic Animals and Insects Workshop07/25\, 4-6pm\, Black Flag Combat Club (1963 rue Ontario E) RadMedic is a network of street and protest medics that host weekly first aid workshops and trainings relevant to the environments we medic in. This means that we are acutely aware that care is politicized ; withheld from those who are not deemed worthy by the state\, and provided on the condition that one obeys and maintains the status quo. Our main goal is to share first aid knowledge (outside of expensive certification programs !) so that we can all feel confident in responding to injuries or emergencies around us. In our trainings\, expect a learning component and a practice component (usually in the form of scenario simulations) that meet everyone where they're at — from experienced medic to absolute beginner. The Animals and Insects Workshop focuses on common insects and animal risks found in Montreal. For the insect portion\, we'll be going over common insects found in the city\, their various levels of injuries and additional concerns\, and ways to identify and treat them. For the animal portion\, we'll review how to treat animal based injuries\, focusing on bites and scratches from mammals\, differences between domesticated and wild animals\, and when to go to a hospital. 
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8943
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8895
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1472,36 +1502,6 @@ LOCATION:Parc Laurier, (métro Laurier)
 DESCRIPTION:Occupations est un documentaire révolutionnaire qui retrace l’occupation organisée à l'université Columbia\, à New York\, en solidarité avec Gaza et la mobilisation étudiante nationale qu'elle a déclenchée. À travers des images exclusives et des entretiens intimes\, Occupations offre un regard sans précédent sur l'un des mouvements étudiants les plus importants de l'histoire moderne. Le film illustre la passion\, la résistance et les défis auxquels ont été confronté·es les étudiant·es qui ont tout risqué pour réclamer justice.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8904
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trans Oil Wrestling
-UID:evenement8859 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260701T220000Z
-DTEND:20260701T230000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:1685 Sanguinet, (métro Berri) 
-DESCRIPTION:When : July 1st 2026\, 18:00 Where : 1685 rue Sanguinet\, Montréal Price : Free for all trans people but if you bring a cis friend tell them it's 5$ and pocket the money (or give it to us as a donation) Accessibility : Seating at the front will be reserved\, but this will probably be on the ground. Noise level : loud. Please tell us if there is anything we can do to accomodate you. Calling to Wrestlers and Oil Fairies ! apply at woofwoofgrrrl@proton.me What to send : – Your wrestler name – Your pronouns – (for wrestlers) What kind of wrestling you wanna do (more salacious or more vicious) – If you have any particular needs/accomodation (idk if I can find you a costume but you could always ask) – Honestly I'm kinda hesitant on a photo ? it feels weird to ask for a photo of strangers so don't worry abt that https://woof-woof-grrrl.neocities.org/
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8859
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinéma sous les étoiles : S'ils touchent à l'un d'entre nous
-UID:evenement8884 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260701T010000Z
-DTEND:20260701T020000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Parc du Pélican, (près de 1ère avenue/Masson) 
-DESCRIPTION:Militant communiste à Révolution Permanente et syndicaliste CGT à la boulangerie industrielle Neuhauser en Moselle\, Christian Porta est un militant combatif\, apprécié de tous ses collègues. Lorsque celui-ci est victime d'un licenciement illégal en raison de son engagement politique\, ses camarades réagissent et une lutte s'organise immédiatement pour tenter d'obtenir sa réintégration. Au fil de ce combat\, on voit la solidarité se tisser pour défendre ce camarade victime d'une injustice\, et les ouvriers s'organiser pour résister à la répression antisyndicale. Le film est une ode émouvante à la classe ouvrière et au syndicalisme. C'est le récit d'une lutte des classes rendue victorieuse par le pouvoir de la solidarité ouvrière.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8884
 
 STATUS:CONFIRMED
 END:VEVENT
