@@ -519,6 +519,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Faire la nation\, défaire des corps : lecture critique des lois 21\, 94\, 9
+UID:evenement9115 @ http://www.resistancemontreal.org
+DTSTAMP:20260815T141404Z
+DTSTART:20260820T220000Z
+DTEND:20260820T161200Z
+CREATED:20260815T141404Z
+LAST-MODIFIED:20260815T141404Z 
+LOCATION:Centre St-Pierre, 1212 Panet (métro Beaudry) 
+DESCRIPTION:Rencontre-échange avec la Dre Zeinab Diab Faire la nation\, défaire des corps : lecture critique des lois 21\, 94\, 9 Jeudi 20 août à 18h30\, le collectif de lutte contre l'islamophobie reçoit la Dre Zeinab Diab pour une rencontre-échange. Situés dans une démarche anti-oppressive\, ses travaux de recherche sont une contribution importante centrée sur le vécu et la résistance des musulmanes visées par les lois islamophobes au Québec\, tout en élaborant une réflexion approfondie sur la pratique religieuse\, la laïcité\, la colonialité et le féminisme. L'événement est gratuit\, mais les places sont limitées\, l'inscription est donc fortement recommandée\, Nourriture et breuvages seront offerts. Lieu : Centre Saint-Pierre\, 1212 Panet\, Salle 203\, métro Beaudry. Accessible aux personnes à mobilité réduite. Bio:Dre Zeinab Diab est originaire du Liban-Sud et Québécoise d’adoption. Elle est chercheuse en sciences des religions\, autrice et conférencière. Ses travaux portent sur la laïcité québécoise\, l'islamophobie genrée et les études critiques musulmanes.Lauréate du Prix du 125e de l’Université de Montréal pour sa thèse de doctorat sur le sujet de la laïcité au Québec\, ses travaux ont été cités à l'Assemblée nationale du Québec et contribuent aux débats publics sur les droits fondamentaux\, la liberté de religion et l’islamophobie.Chercheuse engagée\, elle développe une réflexion située au croisement de la recherche\, de l'expérience vécue et de l'engagement citoyen. Elle est l'autrice de « Au nom de la laïcité : islamophobie genrée et mort sociale »\, à paraître à l'automne 2026 aux Éditions du Remue-ménage.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9115
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lancement de zine : Politiquement pétasse
 UID:evenement9076 @ http://www.resistancemontreal.org
 DTSTAMP:20260809T144545Z
@@ -739,21 +754,6 @@ LOCATION:Square Émilie-Gamelin, (métro Berri)
 DESCRIPTION:La Journée internationale de sensibilisation aux surdoses 2026 de Montréal aura lieu le lundi 31 août à la Place Émilie-Gamelin de 16h à 18h. C’est un moment pour se rappeler nos morts\, mais aussi pour connaître et réseauter avec des organismes en réduction des méfaits. Il y aura un micro ouvert pour les personnes qui auront envie de prendre parole. Un calendrier des activités du mois est disponible sur le site web de l’AQPSUD à https://aqpsud.org/jiss2026/. Montreal’s 2026 International Overdose Awareness Day will take place on Monday\, August 31\, at Place Émilie-Gamelin from 4:00 p.m. to 6:00 p.m. It is a time to remember those we’ve lost\, but also to learn about and network with harm reduction organizations. There will be an open mic for anyone who would like to speak. A calendar of this month’s activities is available on the AQPSUD website at https://aqpsud.org/jiss2026/.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9081
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinéma sous les étoiles : "Voir – Juger – Agir : L'histoire de la JOC au Québec"
-UID:evenement9082 @ http://www.resistancemontreal.org
-DTSTAMP:20260809T151657Z
-DTSTART:20260829T001500Z
-DTEND:20260829T171500Z
-CREATED:20260809T151657Z
-LAST-MODIFIED:20260809T151657Z 
-LOCATION:Église Saint-Paul-de-la-Croix, 10215 Georges-Baril (métro Sauvé) 
-DESCRIPTION:Voir - Juger - Agir : L'histoire de la JOC au Québec retrace l’histoire méconnue de la Jeunesse Ouvrière Catholique (JOC)\, un mouvement ouvrier ancré dans les quartiers populaires du Québec depuis les années 1930. À travers des témoignages\, des archives inédites et les regards d’expert·es\, le film dévoile près d’un siècle d’engagement social porté par des jeunes travailleurs et travailleuses en quête de justice et de solidarité. Des sous-sols d’église aux luttes féministes et syndicales\, ce documentaire sensible et politique revient sur l’impact durable de la JOC et son rôle déterminant dans les bouleversements de la Révolution tranquille.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9082
 
 STATUS:CONFIRMED
 END:VEVENT
