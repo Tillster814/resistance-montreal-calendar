@@ -10,21 +10,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
-SUMMARY:Cercle d'élans - Micro-ouvert sur les rêves et engagements
-UID:evenement8901 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260819T213000Z
-DTEND:20260819T223000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Espace des possibles, 6450 avenue Christophe-Colomb 
-DESCRIPTION: Rejoignez-nous le 19 août de 17h30 à 19h30 à l'Espace des possibles\, pour ce 6ème micro-ouvert sur les rêves et engagements pluriels. Cercle d'élans - Micro-ouvert sur les rêves et engagements Le 19 août\, de 17h30 à 20h30\, rejoignez-nous pour ce 6ème micro-ouvert\, cette fois-ci accueilli par un lieu inspirant : L'Espace des possibles\, à Montréal. L'événement est gratuit\, mais l'inscription est requise pour faciliter l'organisation et respecter la capacité d'accueil. Une contribution volontaire est toutefois la bienvenue si vous souhaitez soutenir l'initiative. Vous souhaitez prendre le micro pour partager votre élan ? L'inscription pour la prise de micro sera possible à partir de 17h30\, le jour J (dans la limite des places disponibles). Nous ouvrirons à nouveau le micro pour écouter les élans et les engagements de citoyens\, artistes\, organismes\, entreprises sociales\, travailleurs autonomes\, militants... de tous âges et horizons. Un rendez-vous pour raviver ce qui palpite en nous\, pour nous rassembler\, pour être ensemble. Pour nous écouter et nous reconnaître dans nos engagements pluriels. Un espace de soin et de rêve pour élargir nos solidarités\, se reconnecter à nos mouvements intérieurs et collectifs. Et puiser du courage dans la présence des autres pour laisser germer les graines d’une société en commun. Il n'y a pas de format imposé : la parole\, bien sûr\, mais aussi la poésie\, le rire\, le slam\, la musique\, le mouvement\, l'impro\,une micro-activité collective ou toute autre forme qui vous ressemble. Ce qui compte\, c'est l'authenticité du propos et le respect de chacun(e) tout au long des partages. Que vous ayez l'envie d'écouter ou de partager\, vous êtes les bienvenus parmi nous. Des petites grignotines seront servies et vous êtes libres également d'apporter un petit quelque chose à partager. Cet évènement fait partie des initiatives en lien avec le Chantier collectif pour des solidarités élargies. 
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8901
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kiosque de solidarité avec nos voisins non-logé-es
 UID:evenement8826 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -623,21 +608,6 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disorientation
-UID:evenement9108 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T031113Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260830
-CREATED:20260815T031113Z
-LAST-MODIFIED:20260815T031113Z 
-LOCATION:Montréal
-DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Festival "Defund La Police" 2026
 UID:evenement9039 @ http://www.resistancemontreal.org
 DTSTAMP:20260719T150239Z
@@ -649,6 +619,21 @@ LOCATION:Cité-des-Hospitalières, 251 des Pins Ouest (métro Place-des-Arts)
 DESCRIPTION:FESTIVAL DEFUND LA POLICE — CITÉ DES HOSPITALIÈRES — 12.09.2026 — 10AM TO 7PM 🍎🌳 (English in the comments) La 5ème édition du Festival Defund la Police aura lieu le samedi 12 septembre 2026\, à la Cité-des-Hospitalières (251 avenue des Pins Ouest) ! Le festival se déroulera aux premier et deuxième étages de la Cité-des-Hospitalières : 1️⃣ Au premier étage\, il y aura des panels\, des ateliers\, des stands\, des activités\, un petit marché et une garderie pour les plus jeunes. 2️⃣ Le deuxième étage sera un espace calme pour celles et ceux qui souhaitent se détendre. Il y aura quelques activités\, ainsi que des salles silencieuses avec des canapés. Le port du masque sera obligatoire au deuxième étage. *️⃣ Dans les semaines à venir nous partagerons plus de détails concernant l’accessibilité ! On espère rendre ce festival accessible à tous et à toutes. Ⓜ️ Nous aurons aussi quelques titres de transport à distribuer. Le Festival Defund La Police est un évènement gratuit qui vise à mettre de l’avant le travail des groupes et organisateur•ices communautaires qui luttent contre le système d’injustice pénale et offrent des alternatives transformatrices. Le festival est un évènement accueillant pour les familles : c’est un beau moment pour réfléchir ensemble et créer des liens. Le programme sera bientôt annoncé !🌟 L’édition 2026 du festival est présentée par @espace_ecotone qui nous accueillent gracieusement à la CdH 🔥
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9039
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disorientation
+UID:evenement9108 @ http://www.resistancemontreal.org
+DTSTAMP:20260815T031113Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260830
+CREATED:20260815T031113Z
+LAST-MODIFIED:20260815T031113Z 
+LOCATION:Montréal
+DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -754,6 +739,36 @@ LOCATION:Square Émilie-Gamelin, (métro Berri)
 DESCRIPTION:La Journée internationale de sensibilisation aux surdoses 2026 de Montréal aura lieu le lundi 31 août à la Place Émilie-Gamelin de 16h à 18h. C’est un moment pour se rappeler nos morts\, mais aussi pour connaître et réseauter avec des organismes en réduction des méfaits. Il y aura un micro ouvert pour les personnes qui auront envie de prendre parole. Un calendrier des activités du mois est disponible sur le site web de l’AQPSUD à https://aqpsud.org/jiss2026/. Montreal’s 2026 International Overdose Awareness Day will take place on Monday\, August 31\, at Place Émilie-Gamelin from 4:00 p.m. to 6:00 p.m. It is a time to remember those we’ve lost\, but also to learn about and network with harm reduction organizations. There will be an open mic for anyone who would like to speak. A calendar of this month’s activities is available on the AQPSUD website at https://aqpsud.org/jiss2026/.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9081
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinéma sous les étoiles : "Voir – Juger – Agir : L'histoire de la JOC au Québec"
+UID:evenement9082 @ http://www.resistancemontreal.org
+DTSTAMP:20260809T151657Z
+DTSTART:20260829T001500Z
+DTEND:20260829T171500Z
+CREATED:20260809T151657Z
+LAST-MODIFIED:20260809T151657Z 
+LOCATION:Église Saint-Paul-de-la-Croix, 10215 Georges-Baril (métro Sauvé) 
+DESCRIPTION:Voir - Juger - Agir : L'histoire de la JOC au Québec retrace l’histoire méconnue de la Jeunesse Ouvrière Catholique (JOC)\, un mouvement ouvrier ancré dans les quartiers populaires du Québec depuis les années 1930. À travers des témoignages\, des archives inédites et les regards d’expert·es\, le film dévoile près d’un siècle d’engagement social porté par des jeunes travailleurs et travailleuses en quête de justice et de solidarité. Des sous-sols d’église aux luttes féministes et syndicales\, ce documentaire sensible et politique revient sur l’impact durable de la JOC et son rôle déterminant dans les bouleversements de la Révolution tranquille.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9082
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cercle d'élans - Micro-ouvert sur les rêves et engagements
+UID:evenement8901 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART:20260819T213000Z
+DTEND:20260819T223000Z
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Espace des possibles, 6450 avenue Christophe-Colomb 
+DESCRIPTION: Rejoignez-nous le 19 août de 17h30 à 19h30 à l'Espace des possibles\, pour ce 6ème micro-ouvert sur les rêves et engagements pluriels. Cercle d'élans - Micro-ouvert sur les rêves et engagements Le 19 août\, de 17h30 à 20h30\, rejoignez-nous pour ce 6ème micro-ouvert\, cette fois-ci accueilli par un lieu inspirant : L'Espace des possibles\, à Montréal. L'événement est gratuit\, mais l'inscription est requise pour faciliter l'organisation et respecter la capacité d'accueil. Une contribution volontaire est toutefois la bienvenue si vous souhaitez soutenir l'initiative. Vous souhaitez prendre le micro pour partager votre élan ? L'inscription pour la prise de micro sera possible à partir de 17h30\, le jour J (dans la limite des places disponibles). Nous ouvrirons à nouveau le micro pour écouter les élans et les engagements de citoyens\, artistes\, organismes\, entreprises sociales\, travailleurs autonomes\, militants... de tous âges et horizons. Un rendez-vous pour raviver ce qui palpite en nous\, pour nous rassembler\, pour être ensemble. Pour nous écouter et nous reconnaître dans nos engagements pluriels. Un espace de soin et de rêve pour élargir nos solidarités\, se reconnecter à nos mouvements intérieurs et collectifs. Et puiser du courage dans la présence des autres pour laisser germer les graines d’une société en commun. Il n'y a pas de format imposé : la parole\, bien sûr\, mais aussi la poésie\, le rire\, le slam\, la musique\, le mouvement\, l'impro\,une micro-activité collective ou toute autre forme qui vous ressemble. Ce qui compte\, c'est l'authenticité du propos et le respect de chacun(e) tout au long des partages. Que vous ayez l'envie d'écouter ou de partager\, vous êtes les bienvenus parmi nous. Des petites grignotines seront servies et vous êtes libres également d'apporter un petit quelque chose à partager. Cet évènement fait partie des initiatives en lien avec le Chantier collectif pour des solidarités élargies. 
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8901
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1488,21 +1503,6 @@ LOCATION:Parc Molson , (métro Iberville)
 DESCRIPTION:L’été au Lac-Saint-Jean\, les champs se teintent de bleu. Les cueilleurs et les cueilleuses de tout acabit s’empressent de ramasser les bleuets avant le premier gel d’automne. Dans un ballet de gestes répétés\, les langues se délient. Les blues du bleuet célèbre un territoire et les personnes qui s’y relient à travers les générations et les cultures. Ensemble\, elles apprennent à se réinventer\, comme les bleuets naissent des forêts brûlées.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8905
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nawrockis\, launch our 4th new Polish/Ukrainian inspired fun experimental album\, Kapusta
-UID:evenement8947 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260702T230000Z
-DTEND:20260703T000000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Bar Coop BMP, 3714 du Parc (métro Place-des-Arts) 
-DESCRIPTION:Sis Vivian and I\, The Nawrockis\, launch our 4th new Polish/Ukrainian inspired fun experimental album\, Kapusta\, Thurs July 2nd\, BMP\, 3714 ave du Parc\, with a free live early show\, 7pm ! //////////////// Sis Vivian et moi\, The Nawrockis\, lançons notre 4ième nouvel album expérimental d'inspiration polonaise/ukrainienne\, Kapusta\, le jeudi 2 juillet\, BMP\, 3714 ave du Parc\, avec un spectacle gratuit et tôt\, 19h ! https://www.facebook.com/events/2486691121751442 #kapusta #thenawrockis #polish #ukrainian #montreal #experimental #Nawrocki
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8947
 
 STATUS:CONFIRMED
 END:VEVENT
