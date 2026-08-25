@@ -10,21 +10,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
-SUMMARY:Kiosque de solidarité avec nos voisins non-logé-es
-UID:evenement8826 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260822T170000Z
-DTEND:20260822T180000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Parc Morgan, (métro Pie-IX) 
-DESCRIPTION:(eng follows) Entrave a décidé de poursuivre le kiosque de solidarité mensuel au parc morgan cet été ! Nous visons à ce que ça prenne un ton plus festif et interactif. On vous invite donc ce samedi 23 mai à 15h au Open-Mic (sans mic) Indiscipliné ! Aussi\, il va y avoir du matériel d'art pour faire des fresques collectives sur place ! Si t'as des idées de projets (artistiques\, politiques) que t'aimerais voir naître\, ou que t'aimerais aider dans l'organisation\, entres en contact avec nous en dm ou par courriel ! Que tu sois logé.e ou non\, viens rencontrer et discuter avec tes voisin.es. Viens chercher ou donner du matériel nécessaire à la (sur)vie (matériel de camping\, (sous)vêtements\, produits d'hygiène\, matériel de réduction des risques). Il y aura aussi de la nourriture sur place ! On s'y voit ! ‐--------- Entrave has decided to continue the monthly solidarity booth at Morgan Park this summer ! We’re aiming to make it more festive and interactive. For example\, we're inviting you on Saturday May 23 at 3p.m. to the Indiscipliné Open-Mic (without a mic) ! There will also be art supplies available to create collaborative art on-site. If you have ideas for projects (artistic\, political) that you’d like to see come to life\, or would like to help out in the organization\, get in touch with us by dm or email ! Whether you have a place to stay or not\, come meet and chat with your neighbors. Come pick up or donate supplies needed for survival (camping gear\, clothes and underwear\, hygiene products\, harm reduction supplies). Food will also be available on site ! See you there !
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8826
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lancement de livre - Matière trouée
 UID:evenement8950 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -474,6 +459,36 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Garage Sale Fundraiser
+UID:evenement9121 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T134741Z
+DTSTART:20260822T140000Z
+DTEND:20260822T154500Z
+CREATED:20260822T134741Z
+LAST-MODIFIED:20260822T134741Z 
+LOCATION:4735 ch. de la Côte-Ste-Catherine, (métro Côte-Ste-Catherine) 
+DESCRIPTION:Come join us along with @anakbayanmtl and @ichrp.quebec for our garage sale to fundraise to support our programs and also delegates attending the upcoming iCHRP conference in Toronto in September. 10 am - 4 pm Outside of Project Genesis (4735 Chem. de la Côte-Sainte-Catherine) Nearest metro Cote st. Catherine See you there !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9121
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education & Revolution : Course
+UID:evenement9122 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T135029Z
+DTSTART:20260919T170000Z
+DTEND:20260919T154800Z
+CREATED:20260822T135029Z
+LAST-MODIFIED:20260822T135029Z 
+LOCATION:CSU Lounge, 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest)\, metro Guy-Concordia 
+DESCRIPTION:Education & Revolution is a free six-week course for educators presented by Remaking Education as Care\, Emancipation\, Struggle\, and Solidarity (RECESS)\, with support from the Pan African Student Union\, Socialist Unity\, Migrante Quebec\, and Anakbayan Montreal.The goal of the course is to compare the role of education in revolutionary resistance movements to its role in state projects established following the victory of such movements. The course will begin by studying ongoing struggles and progress toward nation-states established through popular liberation fronts. The topics of study will be the Landless Workers' Movement in Brazil\, the Zapatistas Army of National Liberation in Chiapas\, the People's Democratic Revolution in the Philippines\, Somalia and the Socialist Constitution\, Eritrea\, and the Democratic People's Republic of Korea\, in that order. The course is designed for student teachers\, working teachers\, community educators\, and organizers. However\, anyone interested in the course content is welcome to participate. Though this is the second part the Education & Revolution curriculum\, participants need not have attended the first part of the course to understand the material or register. Weekly two-and-a-half-hour lessons will take place on Saturday afternoons. Each lesson will consist of a roughly one-and-a-half-hour lecture followed by group discussion activities. Registration is optional. The dates of each lesson are : September 19\, September 26\, October 3\, and October 17\, October 24\, and October 31 from 1:00 pm to 3:30 pm. The course will be given in English at the CSU Lounge on the 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest). Accessibility : The building has an elevator accessible from street level. There is a prayer room nearby the CSU lounge.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9122
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trans Oil Wrestling
 UID:evenement9036 @ http://www.resistancemontreal.org
 DTSTAMP:20260718T135055Z
@@ -485,6 +500,21 @@ LOCATION:Boisé Steinberg, (métro Viau)
 DESCRIPTION:[This event was delayed from July 1st] It's salacious\, it vicious\, sit back and watch the show or make out in the corner. Tearing up our bodies is free and that's why it's great. When : August 8th\, 18:00 Where : Boisé Steinberg\, Montréal Price : Free for all trans people but if you bring a cis friend tell them it's 5$ and pocket the money (or give it to us as a donation) Accessibility : Seating at the front will be reserved. Noise level : loud\, but we'll keep it manageable. Location : outside on rough ground. Please tell us if there is anything we can do to accommodate you.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9036
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RadFrosh Show 15$
+UID:evenement9128 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T135419Z
+DTSTART:20260830T003000Z
+DTEND:20260830T155200Z
+CREATED:20260822T135419Z
+LAST-MODIFIED:20260822T135419Z 
+LOCATION:Kawalees, 5175A Avenue du Parc (métro Laurier) 
+DESCRIPTION:August 29th at Kawalees 🎸🤸💖 For our community event\, Rad Frosh will be welcoming Vitamin Pink\, Bloodfarts\, and The Vauxhalls for one big night of awesome music\, friendship\, and good times ‼️ This show is open to froshies and the general public. Discounted tickets for froshies can be purchased with your general frosh ticket. Can’t wait to see you there… Thank you to our co-presenter CKUT 90.3 FM General tickets Doors 8:30pm\, show at 9pm Kawalees (5175A Avenue du Parc)
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9128
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -519,6 +549,36 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Protégeons le Parc Jarry. Allons dire à Soraya qu'un stade dans un parc c'est NON
+UID:evenement9129 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T143333Z
+DTSTART:20260824T220000Z
+DTEND:20260824T163200Z
+CREATED:20260822T143333Z
+LAST-MODIFIED:20260822T143333Z 
+LOCATION:hôtel de ville de montréal, (métro champ-de-mars) 
+DESCRIPTION:@tout le monde Rendez-vous le 24 août à 18:00 devant l’Hotel de ville de Montréal. 275\, rue Notre-Dame Est Montréal Allons \,nombreuses et nombreux \, dire à Madame Ville ce que pensons de cette injure à notre intelligence ! Un stade\, dans le Parc Jarry\, à Parc Extension. En 2026 c'est NON….. Cette administration est du mauvais côté de l histoire ! Ce manque de vision est pathétique. Il est urgent que nous\, Montréalaises et \, reprenions le contrôle de NOTRE VILLE.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9129
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marche contre les féminicides
+UID:evenement9130 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T144217Z
+DTSTART:20260822T130000Z
+DTEND:20260822T163800Z
+CREATED:20260822T144217Z
+LAST-MODIFIED:20260822T144320Z 
+LOCATION:Parvis Papineau du Parc Frédéric-Bach, (quartier St-Michel) 
+DESCRIPTION:Au cours des derniers jours\, deux femmes du quartier Saint-Michel ont perdu la vie dans des circonstances tragiques qui\, selon les informations rendues publiques\, seraient liées à la violence conjugale. – Le premier drame a coûté la vie à Leakkhena Seng\, 44 ans\, le samedi 15 août. – Deux jours plus tard\, Kerline Jean\, 41 ans\, a également été tuée dans son logement de Saint-Michel\, dans un contexte de violence conjugale\, confirmé par le Service de police de la Ville de Montréal. Des enfants se trouvaient dans le logement au moment du drame. La Maison d’Haïti lance un appel à la mobilisation. Elle convie la population micheloise et le grand public à participer à marche et une vigie à la mémoire et en solidarité avec les récentes victimes Date : Samedi 22 août 2026 Heure : 9h Lieu : Parvis Papineau – Parc Frédéric-Back Déroulement – 9h Départ de la marche au Parvis Papineau du parc Frédéric-Back. – La marche aura lieu dans le sentier du parc – 10h Retour au Parvis Papineau pour un rassemblement – Prises de parole\, lecture de textes\, témoignages\, etc. Nous vous invitons à partager cette affiche dans vos réseaux et à être des nôtres.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9130
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lancement de zine : Politiquement pétasse
 UID:evenement9076 @ http://www.resistancemontreal.org
 DTSTAMP:20260809T144545Z
@@ -534,6 +594,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Demand that Montreal cut all links to Israel
+UID:evenement9131 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T144742Z
+DTSTART:20260824T153000Z
+DTEND:20260824T164600Z
+CREATED:20260822T144742Z
+LAST-MODIFIED:20260822T144742Z 
+LOCATION:conseil municipal de montréal, 155 notre-dame-est (métro champ-de-mars) 
+DESCRIPTION:Demand that Montreal cut all links to Israel : Monday 24 Aug at 11:30 : City Hall August 24 @ 11 h 30 min - 13 h 00 min Conseil Municipal de Montréal 155\, Rue Notre-Dame Est\, Montréal\, Québec\, Canada DEMAND THAT THE MONTREAL MUNICIPAL COUNCIL ACCEPT THE MOTION TO CUT ALL LINKS BETWEEN THE CITY OF MONTREAL AND ISRAEL JOIN THE DEMONSTRATION IN FRONT OF THE MONTREAL CITY HALL MONDAY AUGUST 24 FROM 11:30 TO 1 PM. BELOW IS THE PROJET MONTREAL MOTION IN FRENCH Motion pour démontrer la solidarité de la Ville de […]
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9131
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:5 à 7 du 12 août\, j'achète un livre queer québécois ! Causerie autour de livres qui dérangent
 UID:evenement9077 @ http://www.resistancemontreal.org
 DTSTAMP:20260809T144914Z
@@ -545,6 +620,36 @@ LOCATION:Librairie n'était-ce pas l'été, 6792 St-Laurent (métro de Castelnau
 DESCRIPTION:Dans le cadre de la journée du 12 août\, j'achète un livre queer québécois !\, la librairie n'était-ce pas l'été se fera le théâtre d'une formidable causerie : Animée par Jeannot Clair (Les Argonautes. Nouvelle traduction\, Maggie Nelson\, Triptyque) Avec Valérie Bah (Souterrain\, Remue-Ménage) Francis Desruisseaux (Matière trouée\, Triptyque) Liza Hammar (Le Hijab\, leur obsession et nous\, Rue Dorion) Alex McCann (Saint-Nicolas-des-Marins\, Alto) Azucena Pelland (L’été en travers de la gorge\, Poètes de brousse) Alex Viens (Je veux toujours mourir en été\, Poètes de brousse)
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9077
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigil for Palestine
+UID:evenement9132 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T144930Z
+DTSTART:20260825T200000Z
+DTEND:20260825T164800Z
+CREATED:20260822T144930Z
+LAST-MODIFIED:20260822T144930Z 
+LOCATION:Coin Bourbonnière/Pierre-de-Coubertin, (métro pie-ix) 
+DESCRIPTION:August 25 @ 16 h 00 min - 17 h 30 min Cegep Maisonneuve 3800 Sherbrooke St E\, Montreal\, Quebec\, Canada PAJU VIGIL AND DISTRIBUTION TUESDAY AUGUST 25 AU CEGEP MAISONNEUVE TUESDAY AUGUST 25 from 4:00 pm to 5:30 pm in front of the cegep Maisonneuve corner of Pierre-de-Coubertin avenue and Bourbonnière avenue (MÉTRO PIE-IX). If it rains we will be in the metro Pie IX
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9132
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vigil for Palestine
+UID:evenement9133 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T145038Z
+DTSTART:20260827T200000Z
+DTEND:20260827T164900Z
+CREATED:20260822T145038Z
+LAST-MODIFIED:20260822T145038Z 
+LOCATION:CÉGEP du Vieux-Montréal, 255 Ontario Est (métro Berri) 
+DESCRIPTION:August 27 @ 16 h 00 min - 17 h 30 min Cegep Vieux-Montréal 255 Ontario Est\, Montreal\, Quebec\, Canada PAJU VIGIL AND DISTRIBUTION THURSDAY AUGUST 27 CEGEP VIEUX-MONTRÉAL THURSDAY August 27\, from 4:00 pm to 5:30 pm in front of the cegep Vieux-Montréal corner of Ontario et Sanguinet (MÉTRO BERRI-UQAM). If it rains we will be in the metro BERRI-UQAM
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9133
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -579,6 +684,20 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marche exploratoire afin de trouver les bâtiments vacants pouvant servir pour du logement social
+UID:evenement9134 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T150031Z
+DTSTART:20260916T170000Z
+DTEND:20260916T165900Z
+CREATED:20260822T150031Z
+LAST-MODIFIED:20260822T150031Z 
+LOCATION:Contactez le POPIR
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9134
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présence autochtone
 UID:evenement8995 @ http://www.resistancemontreal.org
 DTSTAMP:20260711T114529Z
@@ -608,21 +727,6 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Festival "Defund La Police" 2026
-UID:evenement9039 @ http://www.resistancemontreal.org
-DTSTAMP:20260719T150239Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260912
-CREATED:20260719T150239Z
-LAST-MODIFIED:20260815T010647Z 
-LOCATION:Cité-des-Hospitalières, 251 des Pins Ouest (métro Place-des-Arts) 
-DESCRIPTION:FESTIVAL DEFUND LA POLICE — CITÉ DES HOSPITALIÈRES — 12.09.2026 — 10AM TO 7PM 🍎🌳 (English in the comments) La 5ème édition du Festival Defund la Police aura lieu le samedi 12 septembre 2026\, à la Cité-des-Hospitalières (251 avenue des Pins Ouest) ! Le festival se déroulera aux premier et deuxième étages de la Cité-des-Hospitalières : 1️⃣ Au premier étage\, il y aura des panels\, des ateliers\, des stands\, des activités\, un petit marché et une garderie pour les plus jeunes. 2️⃣ Le deuxième étage sera un espace calme pour celles et ceux qui souhaitent se détendre. Il y aura quelques activités\, ainsi que des salles silencieuses avec des canapés. Le port du masque sera obligatoire au deuxième étage. *️⃣ Dans les semaines à venir nous partagerons plus de détails concernant l’accessibilité ! On espère rendre ce festival accessible à tous et à toutes. Ⓜ️ Nous aurons aussi quelques titres de transport à distribuer. Le Festival Defund La Police est un évènement gratuit qui vise à mettre de l’avant le travail des groupes et organisateur•ices communautaires qui luttent contre le système d’injustice pénale et offrent des alternatives transformatrices. Le festival est un évènement accueillant pour les familles : c’est un beau moment pour réfléchir ensemble et créer des liens. Le programme sera bientôt annoncé !🌟 L’édition 2026 du festival est présentée par @espace_ecotone qui nous accueillent gracieusement à la CdH 🔥
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9039
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disorientation
 UID:evenement9108 @ http://www.resistancemontreal.org
 DTSTAMP:20260815T031113Z
@@ -638,122 +742,32 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Pride ! /// Fierté Indomptable !
-UID:evenement9021 @ http://www.resistancemontreal.org
-DTSTAMP:20260718T125140Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-CREATED:20260718T125140Z
-LAST-MODIFIED:20260718T125410Z 
-LOCATION:Partout
-DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
+SUMMARY:Festival "Defund La Police" 2026
+UID:evenement9039 @ http://www.resistancemontreal.org
+DTSTAMP:20260719T150239Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260912
+CREATED:20260719T150239Z
+LAST-MODIFIED:20260815T010647Z 
+LOCATION:Cité-des-Hospitalières, 251 des Pins Ouest (métro Place-des-Arts) 
+DESCRIPTION:FESTIVAL DEFUND LA POLICE — CITÉ DES HOSPITALIÈRES — 12.09.2026 — 10AM TO 7PM 🍎🌳 (English in the comments) La 5ème édition du Festival Defund la Police aura lieu le samedi 12 septembre 2026\, à la Cité-des-Hospitalières (251 avenue des Pins Ouest) ! Le festival se déroulera aux premier et deuxième étages de la Cité-des-Hospitalières : 1️⃣ Au premier étage\, il y aura des panels\, des ateliers\, des stands\, des activités\, un petit marché et une garderie pour les plus jeunes. 2️⃣ Le deuxième étage sera un espace calme pour celles et ceux qui souhaitent se détendre. Il y aura quelques activités\, ainsi que des salles silencieuses avec des canapés. Le port du masque sera obligatoire au deuxième étage. *️⃣ Dans les semaines à venir nous partagerons plus de détails concernant l’accessibilité ! On espère rendre ce festival accessible à tous et à toutes. Ⓜ️ Nous aurons aussi quelques titres de transport à distribuer. Le Festival Defund La Police est un évènement gratuit qui vise à mettre de l’avant le travail des groupes et organisateur•ices communautaires qui luttent contre le système d’injustice pénale et offrent des alternatives transformatrices. Le festival est un évènement accueillant pour les familles : c’est un beau moment pour réfléchir ensemble et créer des liens. Le programme sera bientôt annoncé !🌟 L’édition 2026 du festival est présentée par @espace_ecotone qui nous accueillent gracieusement à la CdH 🔥
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9021
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9039
 
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Élections piège à cons - pour gagner grèvons
-UID:evenement9069 @ http://www.resistancemontreal.org
-DTSTAMP:20260801T015121Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261003
-CREATED:20260801T015121Z
-LAST-MODIFIED:20260815T005500Z 
-LOCATION:Statue de Félix Leclerc du Parc Lafontaine, (métro Mont-Royal) 
-DESCRIPTION:Élection piège à cons\, pour gagner grèvons. En octobre\, nous voilà face à une bien belle situation : trois partis qui se foutent de nous\, une blague de gauche et zéro avenue où on se fait pas arnaquer. En effet\, la Coalition Avenir Québec (CAQ) a déjà largement démontré son mépris pour la jeunesse et le peuple. Le Parti Québecois (PQ)\, pour sa part\, demeure focalisé sur des fantaisies nationalistes racistes\, tandis que le Parti Libéral reste fidèle à lui-même : toujours les mêmes menteurs aux service des riches. De son côté\, Québec Solidaire sera chanceux s’il réussit à conserver ne serait-ce qu’un seul siège à l’Assemblée nationale. La réalité est claire : peu importe les résultats des élections\, l’austérité reste au menu. Aucun parti n’agira contre la précarité que les personnes étudiantes vivent. Du moins\, aucun ne le fera de gaieté de cœur\, car lorsque que le système électoral échoue à adresser nos besoins\, la solution est simple : il faut prendre action par nous-même afin de leur forcer la main. Il faut la grève. Aujourd’hui\, c’est dur de vivre. L’épicerie coûte de plus en plus cher\, les loyers explosent et les fins de mois angoissent. Beaucoup sautent des repas\, travaillent tout en étudiant à temps plein ou demeurent dans des logements insalubres\, faute de pouvoir se permettre mieux. D’autres restent prisonnier.ère.s de situations familiales malsaines simplement parce qu’iels n’ont pas les moyens de partir. C’est alors que pendant que nous cherchons comment payer notre prochain loyer ou notre prochaine facture d’épicerie\, les politicien.e.s agitent les discours identitaires racistes pour détourner notre colère vers les personnes immigrantes. Fidèles aux intérêts des grandes entreprises qui financent et influencent leur pouvoir\, ces mêmes politiciens qui nous chantent leurs discours cet automne\, préfèreront toujours protéger les profits du privé plutôt que répondre à la crise. On se fout de nous. Parce que leurs intérêts sont fondamentalement opposés à ceux de la majorité de la population\, ils se choisiront toujours avant de gouverner pour celleux qu’ils prétendent représenter. On le voit bien lorsque des travailleureuses utilisent symboliquement la guillotine pour exprimer leur colère : toute la classe politique se serre les coudes pour dénoncer une prétendue violence. Pourtant\, la véritable violence est ailleurs. Elle réside dans leur refus de protéger le filet social\, de s’attaquer à la crise du logement ou de freiner l’explosion du coût de la vie. Il est facile pour eux d’ignorer cette violence\, ce ne sont pas des gens qui savent c’est quoi être anxieux à la fin du mois\, ni être pris avec un boss qui t’engueule pour le plaisir\, ou simplement de faire son épicerie en suivant les spéciaux. Pour la plupart propriétaires de plusieurs résidences et proches des intérêts économiques dominants\, ils défendent un système qui les avantage et où le profit passe avant le droit fondamental de se loger\, de se nourrir et de vivre dignement. Ce n’est plus le moment d’attendre des « solutions » des politiciens qui démontrent\, jour après jour\, qu’ils se foutent de nous. Il faut la grève. Dans les 40 dernières années\, tous les partis au pouvoir ont attaqué le système d’enseignement post-secondaire. Résultats : des bâtiments qui s’écroulent\, un manque d’espace pour répondre à la demande\, des programmes qui n’offrent presque plus de choix de cours\, un effacement des services aux personnes étudiantes à besoins particuliers\, une augmentation des frais de scolarité et un affaiblissement majeur de l’Aide financière aux études (AFE). On a plus de plaisir à étudier. La CAQ\, les libéraux et les péquistes ont tous joué de manière enthousiaste leur rôle dans la destruction de l’enseignement libre\, accessible\, abordable et de qualité. Cette destruction n’a pas été ralentie par les innombrables élections\, mais elle l’a été par des mobilisations étudiantes historiques\, qui ont su faire peur aux puissants. Maintenant qu’étudier est devenu un choix inaccessible pour tant de personnes\, et une réalité marquée par la précarité pour tant d’autres\, nous devons réclamer des gains qui permettent des conditions d’études dignes de ce nom. Il faut la grève. À cet effet\, la Coalition de résistance pour l’unité étudiante syndicale (CRUES) revendique une réforme de l’AFE ainsi qu’un réinvestissement en éducation post-secondaire. La réforme est nécessaire afin que les personnes étudiantes puissent réellement se consacrer à leurs études sans devoir choisir entre réussir leurs cours et payer leur loyer. Le système actuel ne tient pas compte de la réalité : le coût de la vie augmente\, mais les montants accordés demeurent insuffisants et les règles entourant le revenu protégé pénalisent même celleux qui tentent de travailler pour subvenir à leurs besoins. Être aux études ne devrait pas signifier survivre en se privant de l’essentiel\, c’est aussi avoir les moyens de vivre dignement. Mais une aide financière adéquate ne suffit pas à elle seule. Il faut aussi un réinvestissement massif en éducation pour mettre fin à la dégradation de nos institutions. L’éducation ne peut pas être traitée comme une dépense à réduire\, alors qu’elle constitue un bien collectif essentiel. La CRUES ne demande pas des privilèges\, elle réclame les conditions minimales pour que chaque personne puisse étudier et vivre dignement. Et pour gagner\, il faut la grève. En effet\, votez n’a jamais été suffisant pour défendre les intérêts étudiants\, et en ce moment c’en est presque inutile. Notre gouvernement est tiré de tous les côtés par des forces qui se battent pour faire passer leurs intérêts en premier. Que ce soit l’OTAN qui pousse pour une économie de guerre se construisant sur notre exploitation\, les lobbys des grandes industries qui veulent maximiser leur profits à tout prix\, ou encore la CORPIQ qui défend le droit de ton propriétaire de ne pas réparer tes tuyaux qui fuitent\, tout le monde veut sa part du gâteau. Face à cela\, il est à nous de défendre nos intérêts et de forcer le gouvernement à arrêter de nous ignorer. En tant que personnes étudiantes\, nous n’avons pas de leviers géopolitique\, ni des millions de dollars à investir dans le lobbying. Mais nous avons un outil extrêmement puissant : la grève. La société repose sur le travail\, et en tant que futur travailleur.euse.s\, nous avons la capacité de suspendre nos études afin de menacer le gouvernement de ne pas avoir de graduation pour une session\, ce qui endommagerait de manière considérable la productivité économique du soi-disant québec\, et ça\, le gouvernement aime pas ça. C’est par cette pression collective que nous pouvons créer un véritable rapport de force et arracher des gains\, comme le mouvement étudiant nous l’a déjà prouvé par le passé. Le chemin vers de meilleures conditions d’études\, vers un monde où l’on peut étudier sans être précaire\, est clair : il passe par notre capacité à nous organiser et à faire la grève. Les urnes peuvent changer un gouvernement\, mais elles ne remplaceront jamais l’organisation collective. Le 3 octobre\, retrouvons-nous dans la rue lors des manifestations à Tiothià:ke (Montréal) et à Kebec (Québec). Ne tombez pas dans leur piège\, pour gagner\, il faut la grève. ENDOSSER LES MANIFESTATIONS ICI : https://forms.gle/p5WCtKtcZ5CatKhx8
+SUMMARY:Kiosque de solidarité avec nos voisins non-logé-es
+UID:evenement8826 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART:20260822T170000Z
+DTEND:20260822T180000Z
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Parc Morgan, (métro Pie-IX) 
+DESCRIPTION:(eng follows) Entrave a décidé de poursuivre le kiosque de solidarité mensuel au parc morgan cet été ! Nous visons à ce que ça prenne un ton plus festif et interactif. On vous invite donc ce samedi 23 mai à 15h au Open-Mic (sans mic) Indiscipliné ! Aussi\, il va y avoir du matériel d'art pour faire des fresques collectives sur place ! Si t'as des idées de projets (artistiques\, politiques) que t'aimerais voir naître\, ou que t'aimerais aider dans l'organisation\, entres en contact avec nous en dm ou par courriel ! Que tu sois logé.e ou non\, viens rencontrer et discuter avec tes voisin.es. Viens chercher ou donner du matériel nécessaire à la (sur)vie (matériel de camping\, (sous)vêtements\, produits d'hygiène\, matériel de réduction des risques). Il y aura aussi de la nourriture sur place ! On s'y voit ! ‐--------- Entrave has decided to continue the monthly solidarity booth at Morgan Park this summer ! We’re aiming to make it more festive and interactive. For example\, we're inviting you on Saturday May 23 at 3p.m. to the Indiscipliné Open-Mic (without a mic) ! There will also be art supplies available to create collaborative art on-site. If you have ideas for projects (artistic\, political) that you’d like to see come to life\, or would like to help out in the organization\, get in touch with us by dm or email ! Whether you have a place to stay or not\, come meet and chat with your neighbors. Come pick up or donate supplies needed for survival (camping gear\, clothes and underwear\, hygiene products\, harm reduction supplies). Food will also be available on site ! See you there !
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9069
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Libère ton stationnement !
-UID:evenement9104 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T024729Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260921
-CREATED:20260815T024729Z
-LAST-MODIFIED:20260815T024729Z 
-LOCATION:Partout
-DESCRIPTION:Joignez-vous au mouvement dans les stationnements des cégeps et des universités du Québec La semaine du 21 septembre 2026\, organisez des actions positives inspirées de l’événement international PARK(ing) Day ! LibERE TON STATIONNEMENT ! LibERE TON STATIONNEMENT !Aménagés pour garer les voitures pendant que nous travaillons ou étudions\, les stationnements sont des lieux d’immobilité par excellence. Généralement asphaltés\, les stationnements sont aussi d’importants îlots de chaleur qui nuisent à la santé. Le temps d’une journée\, transformez votre stationnement local en un espace vivant et célébrez une autre manière de se déplacer au travail ou aux études ! Libérez des cases de stationnement et faites-en un lieu de rassemblement convivial ou d’éducation populaire. Organisez cette journée d’activités en collaboration avec votre institution\, votre comité environnement\, votre association étudiante ou votre syndicat\, et profitez-en pour réfléchir collectivement\, par exemple\, à l’aménagement urbain autour de l’automobile et au sous-financement du transport collectif qui contribuent au maintien de la dépendance à l’automobile. LibERE TON STATIONNEMENT !Cette journée d’action est mise de l’avant par le groupe de travail en mobilisation enseignante du projet Transformations en cours. Elle fait partie du plan d’action élaboré lors des États généraux de l’enseignement pour la transition écologique et sociale de janvier 2026. Transformations en cours À propos du PARK(ing) Day Le PARK(ing) Day est un événement international ayant vu le jour à San Francisco en 2005. Son objectif est de mobiliser la population dans le but de transformer temporairement des places de stationnement en espaces personnalisés\, engagés et conviviaux. Il se tient le 3e vendredi du mois de septembre. Pendant cette journée\, des espaces bétonnés deviennent ainsi des lieux d’initiatives citoyennes\, créatives et écologiques. À l’occasion d’une parenthèse ludique\, informative et participative\, le public est donc invité à réfléchir au partage de l’espace urbain. Ce dernier est alors conçu comme un lieu d’implication citoyenne et d’échanges sur des enjeux contemporains\, notamment environnementaux. L’activité met aussi l’accent sur la revitalisation des centres-villes\, la place de la voiture et le lien social au cœur de la cité. Références Carte des îlots de chaleur urbains au Québec de l’INSPQ Guide de mise en œuvre d’un stationnement écoresponsable enjeux environnementaux et moyens concrets pour verdir les stationnements Guide d’organisation (en français) pour l’organisation d’un PARK(ing) Day local réussi. Pour informations : contactez Nova Doyon\, co-coordonnatrice du projet. Carte des vulnérabilités aux vagues de chaleur de l’Université Laval
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9104
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trans Collective Library : Opening and Donation Drive
-UID:evenement9080 @ http://www.resistancemontreal.org
-DTSTAMP:20260809T150754Z
-DTSTART:20260817T190000Z
-DTEND:20260817T170300Z
-CREATED:20260809T150754Z
-LAST-MODIFIED:20260809T150754Z 
-LOCATION:Galerie l'articule, 6282 St-Hubert (métro Beaubien) 
-DESCRIPTION:We are thrilled to announce our reading room and collective library\, running Monday\, August 17th – Sunday\, August 30 at articule. We are setting up a reading room and collective library in articule’s space to showcase trans literature\, essays\, art\, zines\, and other printed materials. All are invited to donate or lend printed materials that address trans lives\, desires\, fantasies\, politics\, advocacy\, erotics\, and other facets of trans experience. Dick’s entire collection will also be available for browsing\, including our non-circulating (more rare and precious) titles. See below for more details. ✨ Opening ✨ Monday\, August 17\, 3:00-7:00 Come by during our opening event to lend or donate books\, zines\, printed essays\, and other print materials to the collective library for the duration of the reading room. We are looking for : Materials written/created by trans\, non-binary\, or Two Spirit people Materials written/created by gender non-conforming authors who self-identify in other ways Materials that relate to trans issues and experiences more broadly Materials that we don’t already carry in our collection (see our catalogue) Or just come by to say hi and/or learn about how to get involved with the library ! 📚 Librarian hours 📚 Mondays\, Wednesdays\, Fridays\, Sundays\, 12-6pm Visit us during our librarian hours to drop off additional donations or loans to the reading room\, peruse the collective library\, hang & read some books or zines\, and chat about the library. 🎈 Closing Event 🎈 Sunday\, Aug. 30 (closing event\, time TBA) Join us for a reading and fundraiser for Metonymy Press to close the reading room and celebrate the re-launch of our lending services. More info coming soon ! 💖 Access Info 💖 articule (6282 Rue St-Hubert) is wheelchair-accessible and has one gender neutral washroom K/N95 masks provided at all times K/N95 masks required for opening and closing events A HEPA filter air purifier will be in the space Fragrance-free. Please refrain from wearing any perfume or scented items.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9080
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFTP pique-nique
-UID:evenement9075 @ http://www.resistancemontreal.org
-DTSTAMP:20260808T150701Z
-DTSTART:20260906T150000Z
-DTEND:20260906T170500Z
-CREATED:20260808T150701Z
-LAST-MODIFIED:20260808T150701Z 
-LOCATION:Parc Jeanne-Mance, Près de la rue Duluth (métro Mont-Royal) 
-DESCRIPTION:u te demandes comment la science pourrait être mise aux service des gens ordinaires plutôt que de la classe capitaliste\, des génocides et de l’écocide ? Viens nous voir à notre pique-nique meet-up pour en savoir plus ! • Séance d’orientation et d’intégration : qui sommes-nous et quels sont nos projets ? • Comment pouvez-vous vous impliquer ? • Groupes d’étude à venir • Magazines et ouvrages scientifiques radicaux • Collations et breuvages ! Curious to know more about how science could be made to serve the people instead of a genocidal\, ecocidal\, capitalist class ? Come to our picnic meet-up to learn more ! • Orientation and onboarding : who are we and what are our projects ? How can you get involved ? • Upcoming study groups • Magazines and radical science literature • Snacks and drinks !
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9075
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cabaret folk - 35e édition - 20$
-UID:evenement9040 @ http://www.resistancemontreal.org
-DTSTAMP:20260719T151121Z
-DTSTART:20260724T230000Z
-DTEND:20260724T171000Z
-CREATED:20260719T151121Z
-LAST-MODIFIED:20260719T151121Z 
-LOCATION:Coop La Livrerie, 1289 Ontario Est (métro Beaudry) 
-DESCRIPTION:Quatre personnes à prendre au vol\, Quatre solitudes en farandole. Le Cabaret Folk\, c'est un événement musical qui rassemble les artistes de la scène folk montréalaise depuis 2006. C'est un peu un rendez-vous incontournable pour les amateurs·rices de musique folk et de poésie. De nombreux·euses artistes de la scène québécoise comme Kelo Cardinal\, Katie Moore\, Bolduc Tout Croche\, Olivier Bélisle\, Li’l Andy\, Keith Kouna\, Après l’asphalte\, Jacques Bertrand jr\, Emilie Clepper\, Eve Cournoyer\, Yves Desrosier\, Catherine Leduc\, René Lussier\, Emilie Proulx\, Harris Newman\, Maxime Catellier y ont participé. Cabaret Folk\, c'est aussi une occasion de découvrir de nouveaux talents et de profiter d'une atmosphère conviviale. On y retrouve toujours un heureux mélange d’artistes établi·es\, émergent·es et en début de carrière. Les événements ont lieu dans des lieux comme L'Espace Public - Brasseurs de quartier\, les sans-taverne\, le Verre Bouteille\, le Quai des Brumes et le Cheval Blanc à Montréal. — Natalie-Ann Roy Artiste multidisciplinaire reconnue pour son œuvre littéraire\, Natalie-Ann Roy présente ici sa toute première performance musicale en direct. Autrice féministe et engagée\, elle met son art au service du changement social et de l’empowerment des femmes. Également directrice artistique\, designer graphique\, illustratrice et commissaire\, elle explore sans cesse de nouveaux territoires créatifs. Marcan Habituellement reconnu pour son travail derrière la caméra\, le réalisateur et directeur photo Marcan monte sur scène pour livrer sa première prestation musicale. Marc-André Lefebvre (Marcan) a enrichi son parcours nomade par l'activisme écologique avant de se tourner vers le cinéma. Krista Muir De la pop électronique de son alter ego Lederhosen Lucil aux complaintes intimes de son ukulélé baryton\, Krista Muir façonne un univers musical multidisciplinaire et captivant. Active depuis plus de vingt ans\, la montréalaise a parcouru le globe avec ses projets concepts. Artiste totale\, elle allie musique\, création de costumes et composition pour le cinéma. Travelling Headcase Désormais basé à Montréal\, l’artiste folk Travelling Headcase propose une musique acoustique brute\, authentique et intimiste. Originaire de Rouyn-Noranda\, il bâtit depuis 2007 une discographie engagée (Capitalist Mania\, Iron Law of Wages). Seul avec sa guitare\, ses compositions épurées explorent les luttes sociales. Un nouvel album est attendu pour décembre 2026. Contribution volontaire : 20$
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9040
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journée internationale de sensibilisation aux surdoses 2026
-UID:evenement9081 @ http://www.resistancemontreal.org
-DTSTAMP:20260809T151323Z
-DTSTART:20260831T190000Z
-DTEND:20260831T171000Z
-CREATED:20260809T151323Z
-LAST-MODIFIED:20260809T151323Z 
-LOCATION:Square Émilie-Gamelin, (métro Berri) 
-DESCRIPTION:La Journée internationale de sensibilisation aux surdoses 2026 de Montréal aura lieu le lundi 31 août à la Place Émilie-Gamelin de 16h à 18h. C’est un moment pour se rappeler nos morts\, mais aussi pour connaître et réseauter avec des organismes en réduction des méfaits. Il y aura un micro ouvert pour les personnes qui auront envie de prendre parole. Un calendrier des activités du mois est disponible sur le site web de l’AQPSUD à https://aqpsud.org/jiss2026/. Montreal’s 2026 International Overdose Awareness Day will take place on Monday\, August 31\, at Place Émilie-Gamelin from 4:00 p.m. to 6:00 p.m. It is a time to remember those we’ve lost\, but also to learn about and network with harm reduction organizations. There will be an open mic for anyone who would like to speak. A calendar of this month’s activities is available on the AQPSUD website at https://aqpsud.org/jiss2026/.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9081
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinéma sous les étoiles : "Voir – Juger – Agir : L'histoire de la JOC au Québec"
-UID:evenement9082 @ http://www.resistancemontreal.org
-DTSTAMP:20260809T151657Z
-DTSTART:20260829T001500Z
-DTEND:20260829T171500Z
-CREATED:20260809T151657Z
-LAST-MODIFIED:20260809T151657Z 
-LOCATION:Église Saint-Paul-de-la-Croix, 10215 Georges-Baril (métro Sauvé) 
-DESCRIPTION:Voir - Juger - Agir : L'histoire de la JOC au Québec retrace l’histoire méconnue de la Jeunesse Ouvrière Catholique (JOC)\, un mouvement ouvrier ancré dans les quartiers populaires du Québec depuis les années 1930. À travers des témoignages\, des archives inédites et les regards d’expert·es\, le film dévoile près d’un siècle d’engagement social porté par des jeunes travailleurs et travailleuses en quête de justice et de solidarité. Des sous-sols d’église aux luttes féministes et syndicales\, ce documentaire sensible et politique revient sur l’impact durable de la JOC et son rôle déterminant dans les bouleversements de la Révolution tranquille.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9082
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8826
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1492,17 +1506,47 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cinéma sous les étoiles : Les blues du bleuet
-UID:evenement8905 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260703T010000Z
-DTEND:20260703T020000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Parc Molson , (métro Iberville) 
-DESCRIPTION:L’été au Lac-Saint-Jean\, les champs se teintent de bleu. Les cueilleurs et les cueilleuses de tout acabit s’empressent de ramasser les bleuets avant le premier gel d’automne. Dans un ballet de gestes répétés\, les langues se délient. Les blues du bleuet célèbre un territoire et les personnes qui s’y relient à travers les générations et les cultures. Ensemble\, elles apprennent à se réinventer\, comme les bleuets naissent des forêts brûlées.
+SUMMARY:Education & Revolution : Course
+UID:evenement9127 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T135029Z
+DTSTART:20261031T170000Z
+DTEND:20261031T154800Z
+CREATED:20260822T135029Z
+LAST-MODIFIED:20260822T135029Z 
+LOCATION:CSU Lounge, 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest)\, metro Guy-Concordia 
+DESCRIPTION:Education & Revolution is a free six-week course for educators presented by Remaking Education as Care\, Emancipation\, Struggle\, and Solidarity (RECESS)\, with support from the Pan African Student Union\, Socialist Unity\, Migrante Quebec\, and Anakbayan Montreal.The goal of the course is to compare the role of education in revolutionary resistance movements to its role in state projects established following the victory of such movements. The course will begin by studying ongoing struggles and progress toward nation-states established through popular liberation fronts. The topics of study will be the Landless Workers' Movement in Brazil\, the Zapatistas Army of National Liberation in Chiapas\, the People's Democratic Revolution in the Philippines\, Somalia and the Socialist Constitution\, Eritrea\, and the Democratic People's Republic of Korea\, in that order. The course is designed for student teachers\, working teachers\, community educators\, and organizers. However\, anyone interested in the course content is welcome to participate. Though this is the second part the Education & Revolution curriculum\, participants need not have attended the first part of the course to understand the material or register. Weekly two-and-a-half-hour lessons will take place on Saturday afternoons. Each lesson will consist of a roughly one-and-a-half-hour lecture followed by group discussion activities. Registration is optional. The dates of each lesson are : September 19\, September 26\, October 3\, and October 17\, October 24\, and October 31 from 1:00 pm to 3:30 pm. The course will be given in English at the CSU Lounge on the 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest). Accessibility : The building has an elevator accessible from street level. There is a prayer room nearby the CSU lounge.
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8905
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9127
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education & Revolution : Course
+UID:evenement9126 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T135029Z
+DTSTART:20261024T170000Z
+DTEND:20261024T154800Z
+CREATED:20260822T135029Z
+LAST-MODIFIED:20260822T135029Z 
+LOCATION:CSU Lounge, 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest)\, metro Guy-Concordia 
+DESCRIPTION:Education & Revolution is a free six-week course for educators presented by Remaking Education as Care\, Emancipation\, Struggle\, and Solidarity (RECESS)\, with support from the Pan African Student Union\, Socialist Unity\, Migrante Quebec\, and Anakbayan Montreal.The goal of the course is to compare the role of education in revolutionary resistance movements to its role in state projects established following the victory of such movements. The course will begin by studying ongoing struggles and progress toward nation-states established through popular liberation fronts. The topics of study will be the Landless Workers' Movement in Brazil\, the Zapatistas Army of National Liberation in Chiapas\, the People's Democratic Revolution in the Philippines\, Somalia and the Socialist Constitution\, Eritrea\, and the Democratic People's Republic of Korea\, in that order. The course is designed for student teachers\, working teachers\, community educators\, and organizers. However\, anyone interested in the course content is welcome to participate. Though this is the second part the Education & Revolution curriculum\, participants need not have attended the first part of the course to understand the material or register. Weekly two-and-a-half-hour lessons will take place on Saturday afternoons. Each lesson will consist of a roughly one-and-a-half-hour lecture followed by group discussion activities. Registration is optional. The dates of each lesson are : September 19\, September 26\, October 3\, and October 17\, October 24\, and October 31 from 1:00 pm to 3:30 pm. The course will be given in English at the CSU Lounge on the 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest). Accessibility : The building has an elevator accessible from street level. There is a prayer room nearby the CSU lounge.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9126
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education & Revolution : Course
+UID:evenement9125 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T135029Z
+DTSTART:20261017T170000Z
+DTEND:20261017T154800Z
+CREATED:20260822T135029Z
+LAST-MODIFIED:20260822T135029Z 
+LOCATION:CSU Lounge, 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest)\, metro Guy-Concordia 
+DESCRIPTION:Education & Revolution is a free six-week course for educators presented by Remaking Education as Care\, Emancipation\, Struggle\, and Solidarity (RECESS)\, with support from the Pan African Student Union\, Socialist Unity\, Migrante Quebec\, and Anakbayan Montreal.The goal of the course is to compare the role of education in revolutionary resistance movements to its role in state projects established following the victory of such movements. The course will begin by studying ongoing struggles and progress toward nation-states established through popular liberation fronts. The topics of study will be the Landless Workers' Movement in Brazil\, the Zapatistas Army of National Liberation in Chiapas\, the People's Democratic Revolution in the Philippines\, Somalia and the Socialist Constitution\, Eritrea\, and the Democratic People's Republic of Korea\, in that order. The course is designed for student teachers\, working teachers\, community educators\, and organizers. However\, anyone interested in the course content is welcome to participate. Though this is the second part the Education & Revolution curriculum\, participants need not have attended the first part of the course to understand the material or register. Weekly two-and-a-half-hour lessons will take place on Saturday afternoons. Each lesson will consist of a roughly one-and-a-half-hour lecture followed by group discussion activities. Registration is optional. The dates of each lesson are : September 19\, September 26\, October 3\, and October 17\, October 24\, and October 31 from 1:00 pm to 3:30 pm. The course will be given in English at the CSU Lounge on the 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest). Accessibility : The building has an elevator accessible from street level. There is a prayer room nearby the CSU lounge.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9125
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1548,6 +1592,21 @@ LOCATION:Partout
 DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9035
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education & Revolution : Course
+UID:evenement9124 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T135029Z
+DTSTART:20261003T170000Z
+DTEND:20261003T154800Z
+CREATED:20260822T135029Z
+LAST-MODIFIED:20260822T135029Z 
+LOCATION:CSU Lounge, 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest)\, metro Guy-Concordia 
+DESCRIPTION:Education & Revolution is a free six-week course for educators presented by Remaking Education as Care\, Emancipation\, Struggle\, and Solidarity (RECESS)\, with support from the Pan African Student Union\, Socialist Unity\, Migrante Quebec\, and Anakbayan Montreal.The goal of the course is to compare the role of education in revolutionary resistance movements to its role in state projects established following the victory of such movements. The course will begin by studying ongoing struggles and progress toward nation-states established through popular liberation fronts. The topics of study will be the Landless Workers' Movement in Brazil\, the Zapatistas Army of National Liberation in Chiapas\, the People's Democratic Revolution in the Philippines\, Somalia and the Socialist Constitution\, Eritrea\, and the Democratic People's Republic of Korea\, in that order. The course is designed for student teachers\, working teachers\, community educators\, and organizers. However\, anyone interested in the course content is welcome to participate. Though this is the second part the Education & Revolution curriculum\, participants need not have attended the first part of the course to understand the material or register. Weekly two-and-a-half-hour lessons will take place on Saturday afternoons. Each lesson will consist of a roughly one-and-a-half-hour lecture followed by group discussion activities. Registration is optional. The dates of each lesson are : September 19\, September 26\, October 3\, and October 17\, October 24\, and October 31 from 1:00 pm to 3:30 pm. The course will be given in English at the CSU Lounge on the 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest). Accessibility : The building has an elevator accessible from street level. There is a prayer room nearby the CSU lounge.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9124
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1710,6 +1769,21 @@ LOCATION:Partout
 DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9028
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education & Revolution : Course
+UID:evenement9123 @ http://www.resistancemontreal.org
+DTSTAMP:20260822T135029Z
+DTSTART:20260926T170000Z
+DTEND:20260926T154800Z
+CREATED:20260822T135029Z
+LAST-MODIFIED:20260822T135029Z 
+LOCATION:CSU Lounge, 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest)\, metro Guy-Concordia 
+DESCRIPTION:Education & Revolution is a free six-week course for educators presented by Remaking Education as Care\, Emancipation\, Struggle\, and Solidarity (RECESS)\, with support from the Pan African Student Union\, Socialist Unity\, Migrante Quebec\, and Anakbayan Montreal.The goal of the course is to compare the role of education in revolutionary resistance movements to its role in state projects established following the victory of such movements. The course will begin by studying ongoing struggles and progress toward nation-states established through popular liberation fronts. The topics of study will be the Landless Workers' Movement in Brazil\, the Zapatistas Army of National Liberation in Chiapas\, the People's Democratic Revolution in the Philippines\, Somalia and the Socialist Constitution\, Eritrea\, and the Democratic People's Republic of Korea\, in that order. The course is designed for student teachers\, working teachers\, community educators\, and organizers. However\, anyone interested in the course content is welcome to participate. Though this is the second part the Education & Revolution curriculum\, participants need not have attended the first part of the course to understand the material or register. Weekly two-and-a-half-hour lessons will take place on Saturday afternoons. Each lesson will consist of a roughly one-and-a-half-hour lecture followed by group discussion activities. Registration is optional. The dates of each lesson are : September 19\, September 26\, October 3\, and October 17\, October 24\, and October 31 from 1:00 pm to 3:30 pm. The course will be given in English at the CSU Lounge on the 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest). Accessibility : The building has an elevator accessible from street level. There is a prayer room nearby the CSU lounge.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9123
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -2169,81 +2243,6 @@ LOCATION:Comité d’action des citoyennes et citoyens de Verdun (CACV), 3972 de
 DESCRIPTION:Le Centre de formation politique et Offensive populaire vous invitent à la série de formations "Lutter dans les quartiers" qui s'intéresse a l'organisation et la mobilisation des classes populaires dans leur milieu de vie. La séance sur la politique municipale se concentrera sur notre attitude vis-à-vis des élus et bureaucrates de la ville. Faut-il adopter une approche douce et collaboratrice ? Confrontante ? Nous parlerons aussi des conseils d’arrondissement et de leur rôle dans notre travail de mobilisation.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9100
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lutter dans les quartiers - Le combat pour les droits des sans-abris
-UID:evenement9099 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T023136Z
-DTSTART:20260904T220000Z
-DTEND:20260904T043000Z
-CREATED:20260815T023136Z
-LAST-MODIFIED:20260815T023136Z 
-LOCATION:Comité d’action des citoyennes et citoyens de Verdun (CACV), 3972 de Verdun (métro de l'Église) 
-DESCRIPTION:Le Centre de formation politique et Offensive populaire vous invitent à la série de formations "Lutter dans les quartiers" qui s'intéresse a l'organisation et la mobilisation des classes populaires dans leur milieu de vie. Lors de cette séance\, nous discuterons de comment travailler avec les mal-logés qui résident dans des campements ou des refuges. On y abordera entre autres la question du rôle difficile que doit prendre les militant.e.s qui veulent organiser ces gens depuis une position externe.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9099
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lutter dans les quartiers - L'organisation de locataires
-UID:evenement9098 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T023028Z
-DTSTART:20260828T220000Z
-DTEND:20260828T042900Z
-CREATED:20260815T023028Z
-LAST-MODIFIED:20260815T023028Z 
-LOCATION:Comité d’action des citoyennes et citoyens de Verdun (CACV), 3972 de Verdun (métro de l'Église) 
-DESCRIPTION:Le Centre de formation politique et Offensive populaire vous invitent à la série de formations "Lutter dans les quartiers" qui s'intéresse a l'organisation et la mobilisation des classes populaires dans leur milieu de vie. Cette séance s’intéresse au travail d’organisation dans le domaine du logement. On y parlera de certains aspects techniques comme le porte-à-porte\, mais aussi d’enjeux stratégiques et tactiques. On abordera la question du « creux » qui attend beaucoup d’organisations de locataires quand leurs luttes contre les hausses de loyer se terminent.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9098
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lutter dans les quartiers - L'analyse d'un quartier
-UID:evenement9097 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T022928Z
-DTSTART:20260821T220000Z
-DTEND:20260821T042600Z
-CREATED:20260815T022928Z
-LAST-MODIFIED:20260815T022928Z 
-LOCATION:Comité d’action des citoyennes et citoyens de Verdun (CACV), 3972 de Verdun (métro de l’Église) 
-DESCRIPTION:Le Centre de formation politique et Offensive populaire vous invitent à la série de formations "Lutter dans les quartiers" qui s'intéresse a l'organisation et la mobilisation des classes populaires dans leur milieu de vie. La première séance s’intéresse à l’enquête et l’analyse de classe dans les quartiers de Montréal. Nous discuterons de comment identifier les enjeux principaux d’un quartier et approfondir notre compréhension de dynamiques communautaires.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9097
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Show bénéfice/film screening/projection de film\, pour Cuba
-UID:evenement8986 @ http://www.resistancemontreal.org
-DTSTAMP:20260711T023455Z
-DTSTART:20260726T200000Z
-DTEND:20260726T042100Z
-CREATED:20260711T023455Z
-LAST-MODIFIED:20260711T023455Z 
-LOCATION:Café La Ligne Verte, 2431 Ontario Est (métro Frontenac) 
-DESCRIPTION:Bandes / Grupos : PSYCHIC ARMOUR PUBLIC RELATIONS Tribute to BURNING KITCHEN with mystery guests ! Projection du film avant le spectacle / Pre-show film screening : GLITTER FROM DUST (40 mins)- Un documentaire sur les membres de la communauté d'El Mejunje / A documentary about members of the El Mejunje community 26 Julio / 26 juillet / July 26 Film à 16h\, concerts à 17h / Film at 4/bands 5-7 CAFÉ LA LIGNE VERTE 2531 rue Ontario E (métro Frontenac ) Suggested donation / don suggéré : Film 10$ / Show 15$ / evento completo 20$ PWYC/NOTAFLOF – (English follows) Depuis plus de 60 ans\, les États-Unis imposent des sanctions économiques à Cuba\, avoués vouloir dégrader la qualité de vie du peuple cubain\, en guise de punition collective pour le système économique socialiste du pays. Sous l'administration Trump\, ces sanctions ont été considérablement renforcées. Les intentions du régime Trump sont claires : provoquer un effondrement national afin de rouvrir Cuba au développement mené par les États-Unis et à la domination capitaliste étrangère. Parmi les conséquences directes et intentionnelles de ces nouvelles sanctions figurent l'effondrement du réseau énergétique\, des infrastructures médicales et des transports nationaux. À Cuba\, la pénurie alimentaire\, causée par la flambée des prix\, la défaillance des systèmes de réfrigération et la diminution des stocks\, constitue un problème particulièrement urgent. Cette situation touche tout particulièrement les populations les plus vulnérables : les très jeunes enfants\, les personnes âgées et les personnes nécessitant des soins médicaux. Ce spectacle bénéfice vise à collecter des fonds pour « El Mejunje »\, un espace queer/punk/alternatif situé à Santa Clara\, à Cuba. El Mejunje organise des repas publics pour lutter contre la faim dans sa communauté. L'intégralité des fonds récoltés lors de cet événement leur sera reversée. Une page « GoFundMe » sera créée pour les personnes souhaitant contribuer mais ne pouvant pas assister à l'événement. Plus d'informations ici : Cuba : nos derniers articles et actualités - L'Humanité : lire\, agir Les sanctions américaines contre Cuba mettent des vies en danger et doivent être levées | OHCHR For over 60 years\, the United States has imposed economic sanctions against Cuba with the stated intention of degrading the quality of life of the Cuban people\, as collective punishment for Cuba’s socialist economic system. Under the Trump administration\, these sanctions have been dramatically intensified. The intentions of the Trump regime are clear-to manufacture a national collapse of Cuban society in order to open Cuba back up to US-led development and foreign capitalist domination. The direct results of these new sanctions are the collapse of the energy grid\, of medical infrastructure\, and of national transportation. One particularly urgent issue in Cuba is food scarcity\, caused by skyrocketing prices\, inconsistent refrigeration\, and dwindling food supplies. This especially affects the most vulnerable population ; the very young\, the very old\, the sick. This benefit is raising money for El Mejunje\, a queer/punk/alternative space in Santa Clara\, Cuba. El Mejunje is organizing public meals to try to alleviate hunger in their community. All money collected from this show will be sent to them. There will be a gofundme for people who would like to contribute\, but can’t attend the event. Sunday\, Jul 26\, 04:00 PM-07:00 PM in 15 days café de la ligne verte 2531 Rue Ontario E\, Montréal\, QC H2K 1W5
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8986
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinéma sous les étoiles : Plastic People : The Hidden Crisis of Microplastics
-UID:evenement8979 @ http://www.resistancemontreal.org
-DTSTAMP:20260704T022216Z
-DTSTART:20260806T003000Z
-DTEND:20260806T042000Z
-CREATED:20260704T022216Z
-LAST-MODIFIED:20260704T022216Z 
-LOCATION:Parc Westmount, (métro Vendôme) 
-DESCRIPTION:Devenons-nous des êtres de plastique ? Ce documentaire enquête sur notre dépendance au plastique et la menace croissante que représentent les microplastiques pour la santé humaine. Pratiquement chaque fragment de plastique produit finit réduit en « microplastiques ». Ziya Tong rencontre des scientifiques de renom et se prête\, pour la première fois devant la caméra\, à des expériences menées dans sa maison\, sur ses aliments et sur son propre corps.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8979
 
 STATUS:CONFIRMED
 END:VEVENT
