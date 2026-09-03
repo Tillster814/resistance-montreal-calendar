@@ -174,6 +174,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vigile commémorative pour Nooran Rezayi
+UID:evenement9183 @ http://www.resistancemontreal.org
+DTSTAMP:20260902T115055Z
+DTSTART:20260921T220000Z
+DTEND:20260921T134700Z
+CREATED:20260902T115055Z
+LAST-MODIFIED:20260902T115055Z 
+LOCATION:Poste de police de Longueuil, 7151 blvd Cousineau 
+DESCRIPTION:Un an déjà\, mais jamais oublié.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9183
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comité Adama - 10 ans de combats - Des marges au centre
 UID:evenement8983 @ http://www.resistancemontreal.org
 DTSTAMP:20260709T115219Z
@@ -738,21 +753,6 @@ LOCATION:Partout
 DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9021
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disorientation
-UID:evenement9108 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T031113Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260830
-CREATED:20260815T031113Z
-LAST-MODIFIED:20260815T031113Z 
-LOCATION:Montréal
-DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
 
 STATUS:CONFIRMED
 END:VEVENT
