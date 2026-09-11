@@ -10,21 +10,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
-SUMMARY:Grande conférence : La marchandisation et la financiarisation du logement social
-UID:evenement8959 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260910T180000Z
-DTEND:20260910T190000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Coeur des Sciences de l'UQAM, (métro Place-des-Arts) 
-DESCRIPTION:Le logement social se retrouve de plus en plus soumis la logique du marché privé. Fonds d'investissement\, optimisation financière\, approche portefeuille : l'habitat devient un actif et le droit au logement une variable toujours plus optionnelle.Joignez-vous à nous pour une conférence avec Louis Gaudreau et Béatrice Mercier\, qui analyseront ces dynamiques et leurs effets sur les locataires\, en pleine crise du logement cher. L'animation est assurée par le CRACH.Quand ? 10 septembre 2026\, 14 h Où ? Agora du cœur des sciences de l'UQAM\, (CO-R500)La rencontre sera suivie d'un 5 à 7.Bienvenue à toutes et tous !Les places sont limitées. Inscrivez-vous dès maintenant en complétant le formulaire suivant : https://forms.gle/gjHHW9JB3FyzKZibA !! 
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8959
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hamilton Anarchist Bookfair
 UID:evenement8873 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -727,6 +712,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Disorientation
+UID:evenement9108 @ http://www.resistancemontreal.org
+DTSTAMP:20260815T031113Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260830
+CREATED:20260815T031113Z
+LAST-MODIFIED:20260815T031113Z 
+LOCATION:Montréal
+DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wild Pride ! /// Fierté Indomptable !
 UID:evenement9021 @ http://www.resistancemontreal.org
 DTSTAMP:20260718T125140Z
@@ -742,17 +742,32 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disorientation
-UID:evenement9108 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T031113Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260830
-CREATED:20260815T031113Z
-LAST-MODIFIED:20260815T031113Z 
-LOCATION:Montréal
-DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
+SUMMARY:A Varning from Montreal
+UID:evenement9206 @ http://www.resistancemontreal.org
+DTSTAMP:20260908T020718Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+CREATED:20260908T020718Z
+LAST-MODIFIED:20260908T020718Z 
+LOCATION:Pirhana Bar, 680 Ste-Catherine Ouest (métro McGill ou Bonaventure) 
+DESCRIPTION:Annual DIY Punk Festival
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9206
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grande conférence : La marchandisation et la financiarisation du logement social
+UID:evenement8959 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART:20260910T180000Z
+DTEND:20260910T190000Z
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Coeur des Sciences de l'UQAM, (métro Place-des-Arts) 
+DESCRIPTION:Le logement social se retrouve de plus en plus soumis la logique du marché privé. Fonds d'investissement\, optimisation financière\, approche portefeuille : l'habitat devient un actif et le droit au logement une variable toujours plus optionnelle.Joignez-vous à nous pour une conférence avec Louis Gaudreau et Béatrice Mercier\, qui analyseront ces dynamiques et leurs effets sur les locataires\, en pleine crise du logement cher. L'animation est assurée par le CRACH.Quand ? 10 septembre 2026\, 14 h Où ? Agora du cœur des sciences de l'UQAM\, (CO-R500)La rencontre sera suivie d'un 5 à 7.Bienvenue à toutes et tous !Les places sont limitées. Inscrivez-vous dès maintenant en complétant le formulaire suivant : https://forms.gle/gjHHW9JB3FyzKZibA !! 
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8959
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1487,21 +1502,6 @@ LOCATION:Statue de George-Étienne-Cartier, Coin du Parc/Rachel (métro Mont-Roy
 DESCRIPTION: ? MANIF À VÉLO — Statue du Mont-Royal ? BIKE PROTEST — MONT ROYAL STATUE ????
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8888
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Punx Picnic - Hochelaga vs Mile End Kickball
-UID:evenement8898 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260704T160000Z
-DTEND:20260704T170000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Parc Lalancette, (métro Joliette) 
-DESCRIPTION:MONTREAL PUNKS PICNIC 2026 Do you like getting drunk in a park ? Does the thought of ingesting veggie dogs and hot PBR while attempting hand to eye coordination fill you with glee ? Come one\, come all\, to Parc Lalancette on July 4 to engage in a time honored tradition passed down from our late friend Steve. The afternoon of debauchery will include\, for those brave enough to engage\, a kickball match where we will pit two rivaling neighborhoods against each other : HOCHELAGA vs MILE END Feast : 1pm Games : 3pm Veggie dawgs for sale. All proceeds to DULF. Followed by an evening of merriment at Foufs with a selection of local minstrels. https://montreal.askapunk.net/event/benefit-gig-for-varning-xviii-vol-ii Get off yer ass ! Up the Punx Tabarnak !
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8898
 
 STATUS:CONFIRMED
 END:VEVENT
