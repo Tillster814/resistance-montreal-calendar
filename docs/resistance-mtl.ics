@@ -697,21 +697,6 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Festival "Defund La Police" 2026
-UID:evenement9039 @ http://www.resistancemontreal.org
-DTSTAMP:20260719T150239Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260912
-CREATED:20260719T150239Z
-LAST-MODIFIED:20260815T010647Z 
-LOCATION:Cité-des-Hospitalières, 251 des Pins Ouest (métro Place-des-Arts) 
-DESCRIPTION:FESTIVAL DEFUND LA POLICE — CITÉ DES HOSPITALIÈRES — 12.09.2026 — 10AM TO 7PM 🍎🌳 (English in the comments) La 5ème édition du Festival Defund la Police aura lieu le samedi 12 septembre 2026\, à la Cité-des-Hospitalières (251 avenue des Pins Ouest) ! Le festival se déroulera aux premier et deuxième étages de la Cité-des-Hospitalières : 1️⃣ Au premier étage\, il y aura des panels\, des ateliers\, des stands\, des activités\, un petit marché et une garderie pour les plus jeunes. 2️⃣ Le deuxième étage sera un espace calme pour celles et ceux qui souhaitent se détendre. Il y aura quelques activités\, ainsi que des salles silencieuses avec des canapés. Le port du masque sera obligatoire au deuxième étage. *️⃣ Dans les semaines à venir nous partagerons plus de détails concernant l’accessibilité ! On espère rendre ce festival accessible à tous et à toutes. Ⓜ️ Nous aurons aussi quelques titres de transport à distribuer. Le Festival Defund La Police est un évènement gratuit qui vise à mettre de l’avant le travail des groupes et organisateur•ices communautaires qui luttent contre le système d’injustice pénale et offrent des alternatives transformatrices. Le festival est un évènement accueillant pour les familles : c’est un beau moment pour réfléchir ensemble et créer des liens. Le programme sera bientôt annoncé !🌟 L’édition 2026 du festival est présentée par @espace_ecotone qui nous accueillent gracieusement à la CdH 🔥
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9039
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disorientation
 UID:evenement9108 @ http://www.resistancemontreal.org
 DTSTAMP:20260815T031113Z
@@ -753,6 +738,21 @@ LOCATION:Pirhana Bar, 680 Ste-Catherine Ouest (métro McGill ou Bonaventure)
 DESCRIPTION:Annual DIY Punk Festival
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9206
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Élections piège à cons - pour gagner grèvons
+UID:evenement9069 @ http://www.resistancemontreal.org
+DTSTAMP:20260801T015121Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+CREATED:20260801T015121Z
+LAST-MODIFIED:20260815T005500Z 
+LOCATION:Statue de Félix Leclerc du Parc Lafontaine, (métro Mont-Royal) 
+DESCRIPTION:Élection piège à cons\, pour gagner grèvons. En octobre\, nous voilà face à une bien belle situation : trois partis qui se foutent de nous\, une blague de gauche et zéro avenue où on se fait pas arnaquer. En effet\, la Coalition Avenir Québec (CAQ) a déjà largement démontré son mépris pour la jeunesse et le peuple. Le Parti Québecois (PQ)\, pour sa part\, demeure focalisé sur des fantaisies nationalistes racistes\, tandis que le Parti Libéral reste fidèle à lui-même : toujours les mêmes menteurs aux service des riches. De son côté\, Québec Solidaire sera chanceux s’il réussit à conserver ne serait-ce qu’un seul siège à l’Assemblée nationale. La réalité est claire : peu importe les résultats des élections\, l’austérité reste au menu. Aucun parti n’agira contre la précarité que les personnes étudiantes vivent. Du moins\, aucun ne le fera de gaieté de cœur\, car lorsque que le système électoral échoue à adresser nos besoins\, la solution est simple : il faut prendre action par nous-même afin de leur forcer la main. Il faut la grève. Aujourd’hui\, c’est dur de vivre. L’épicerie coûte de plus en plus cher\, les loyers explosent et les fins de mois angoissent. Beaucoup sautent des repas\, travaillent tout en étudiant à temps plein ou demeurent dans des logements insalubres\, faute de pouvoir se permettre mieux. D’autres restent prisonnier.ère.s de situations familiales malsaines simplement parce qu’iels n’ont pas les moyens de partir. C’est alors que pendant que nous cherchons comment payer notre prochain loyer ou notre prochaine facture d’épicerie\, les politicien.e.s agitent les discours identitaires racistes pour détourner notre colère vers les personnes immigrantes. Fidèles aux intérêts des grandes entreprises qui financent et influencent leur pouvoir\, ces mêmes politiciens qui nous chantent leurs discours cet automne\, préfèreront toujours protéger les profits du privé plutôt que répondre à la crise. On se fout de nous. Parce que leurs intérêts sont fondamentalement opposés à ceux de la majorité de la population\, ils se choisiront toujours avant de gouverner pour celleux qu’ils prétendent représenter. On le voit bien lorsque des travailleureuses utilisent symboliquement la guillotine pour exprimer leur colère : toute la classe politique se serre les coudes pour dénoncer une prétendue violence. Pourtant\, la véritable violence est ailleurs. Elle réside dans leur refus de protéger le filet social\, de s’attaquer à la crise du logement ou de freiner l’explosion du coût de la vie. Il est facile pour eux d’ignorer cette violence\, ce ne sont pas des gens qui savent c’est quoi être anxieux à la fin du mois\, ni être pris avec un boss qui t’engueule pour le plaisir\, ou simplement de faire son épicerie en suivant les spéciaux. Pour la plupart propriétaires de plusieurs résidences et proches des intérêts économiques dominants\, ils défendent un système qui les avantage et où le profit passe avant le droit fondamental de se loger\, de se nourrir et de vivre dignement. Ce n’est plus le moment d’attendre des « solutions » des politiciens qui démontrent\, jour après jour\, qu’ils se foutent de nous. Il faut la grève. Dans les 40 dernières années\, tous les partis au pouvoir ont attaqué le système d’enseignement post-secondaire. Résultats : des bâtiments qui s’écroulent\, un manque d’espace pour répondre à la demande\, des programmes qui n’offrent presque plus de choix de cours\, un effacement des services aux personnes étudiantes à besoins particuliers\, une augmentation des frais de scolarité et un affaiblissement majeur de l’Aide financière aux études (AFE). On a plus de plaisir à étudier. La CAQ\, les libéraux et les péquistes ont tous joué de manière enthousiaste leur rôle dans la destruction de l’enseignement libre\, accessible\, abordable et de qualité. Cette destruction n’a pas été ralentie par les innombrables élections\, mais elle l’a été par des mobilisations étudiantes historiques\, qui ont su faire peur aux puissants. Maintenant qu’étudier est devenu un choix inaccessible pour tant de personnes\, et une réalité marquée par la précarité pour tant d’autres\, nous devons réclamer des gains qui permettent des conditions d’études dignes de ce nom. Il faut la grève. À cet effet\, la Coalition de résistance pour l’unité étudiante syndicale (CRUES) revendique une réforme de l’AFE ainsi qu’un réinvestissement en éducation post-secondaire. La réforme est nécessaire afin que les personnes étudiantes puissent réellement se consacrer à leurs études sans devoir choisir entre réussir leurs cours et payer leur loyer. Le système actuel ne tient pas compte de la réalité : le coût de la vie augmente\, mais les montants accordés demeurent insuffisants et les règles entourant le revenu protégé pénalisent même celleux qui tentent de travailler pour subvenir à leurs besoins. Être aux études ne devrait pas signifier survivre en se privant de l’essentiel\, c’est aussi avoir les moyens de vivre dignement. Mais une aide financière adéquate ne suffit pas à elle seule. Il faut aussi un réinvestissement massif en éducation pour mettre fin à la dégradation de nos institutions. L’éducation ne peut pas être traitée comme une dépense à réduire\, alors qu’elle constitue un bien collectif essentiel. La CRUES ne demande pas des privilèges\, elle réclame les conditions minimales pour que chaque personne puisse étudier et vivre dignement. Et pour gagner\, il faut la grève. En effet\, votez n’a jamais été suffisant pour défendre les intérêts étudiants\, et en ce moment c’en est presque inutile. Notre gouvernement est tiré de tous les côtés par des forces qui se battent pour faire passer leurs intérêts en premier. Que ce soit l’OTAN qui pousse pour une économie de guerre se construisant sur notre exploitation\, les lobbys des grandes industries qui veulent maximiser leur profits à tout prix\, ou encore la CORPIQ qui défend le droit de ton propriétaire de ne pas réparer tes tuyaux qui fuitent\, tout le monde veut sa part du gâteau. Face à cela\, il est à nous de défendre nos intérêts et de forcer le gouvernement à arrêter de nous ignorer. En tant que personnes étudiantes\, nous n’avons pas de leviers géopolitique\, ni des millions de dollars à investir dans le lobbying. Mais nous avons un outil extrêmement puissant : la grève. La société repose sur le travail\, et en tant que futur travailleur.euse.s\, nous avons la capacité de suspendre nos études afin de menacer le gouvernement de ne pas avoir de graduation pour une session\, ce qui endommagerait de manière considérable la productivité économique du soi-disant québec\, et ça\, le gouvernement aime pas ça. C’est par cette pression collective que nous pouvons créer un véritable rapport de force et arracher des gains\, comme le mouvement étudiant nous l’a déjà prouvé par le passé. Le chemin vers de meilleures conditions d’études\, vers un monde où l’on peut étudier sans être précaire\, est clair : il passe par notre capacité à nous organiser et à faire la grève. Les urnes peuvent changer un gouvernement\, mais elles ne remplaceront jamais l’organisation collective. Le 3 octobre\, retrouvons-nous dans la rue lors des manifestations à Tiothià:ke (Montréal) et à Kebec (Québec). Ne tombez pas dans leur piège\, pour gagner\, il faut la grève. ENDOSSER LES MANIFESTATIONS ICI : https://forms.gle/p5WCtKtcZ5CatKhx8
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9069
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1850,6 +1850,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mobilisation 6600 : 10 ans de luttes
+UID:evenement9225 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261004
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260911T181706Z 
+LOCATION:Boisé Steinberg, (métro Viau) 
+DESCRIPTION:Venez célébrer les dix ans de luttes de Mobilisation 6600 ! 25 septembre Résister et festoyer : 10 ans de luttes ! https://www.facebook.com/share/1DKwu7dRKj/ 26 septembre Micro ouvert du Terrain Vague https://www.facebook.com/share/19HkokHiSP/ 27 septembre Les enfants de la Friche - Lancement du zine https://www.facebook.com/share/19a2xMcadn/ 28 septembre Visite guidée du Terrain Vague https://www.facebook.com/share/18BCPmddf7/ 29 septembre Résister et Quizzer https://www.facebook.com/share/1ArJEuTbfU/ 30 septembre Lutte et art en friche - Exposition et création d'œuvre collective https://www.facebook.com/share/1DocZADWiF/ 1 octobre CinéMob - Ciné-discussion de Mob6600 https://www.facebook.com/share/1J7BTrwBtd/ 2 octobre Garder le feu - Cirque en friche ! https://www.facebook.com/share/1DvFfAqJmU/ 3 octobre Foire Paysanne https://www.facebook.com/share/19MvtYFB1Z/ Gala des 10 ans 4 octobre La grasse matinée Depuis 2016\, des citoyen·nes se mobilisent contre les expansions industrialo-portuaires et l’installation de la plateforme de transbordement de Ray-Mont Logistiques qui menacent des boisés\, des prairies et leur biodiversité au coeur de l'arrondissement MHM. Depuis 10 ans\, la mobilisation a fait d’importants gains ! Ensemble\, nous avons protégé les boisés Vimont et Steinberg ainsi qu’une portion de la friche ferroviaire\, ralenti l’installation de Ray-Mont Logistiques et empêché l’augmentation du camionnage dans le quartier. Mais notre plus grande victoire\, c’est d’avoir bâti une communauté de lutte et d’usage du terrain vague\, une communauté qui veille sans cesse à la préservation de cet espace vert et vivant\, pour un quartier solidaire et en santé. Ensemble\, retrouvons-nous pour célébrer ces dix années de mobilisation populaire et partager la mémoire de cette décennie d’engagement pour la justice environnementale dans Mercier-Hochelaga-Maisonneuve. Résister et fleurir tant qu'il faudra !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9225
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présence autochtone
 UID:evenement9003 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -1875,6 +1890,21 @@ LOCATION:Partout
 DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9029
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobilisation 6600 : 10 ans de luttes
+UID:evenement9224 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260911T181706Z 
+LOCATION:Boisé Steinberg, (métro Viau) 
+DESCRIPTION:Venez célébrer les dix ans de luttes de Mobilisation 6600 ! 25 septembre Résister et festoyer : 10 ans de luttes ! https://www.facebook.com/share/1DKwu7dRKj/ 26 septembre Micro ouvert du Terrain Vague https://www.facebook.com/share/19HkokHiSP/ 27 septembre Les enfants de la Friche - Lancement du zine https://www.facebook.com/share/19a2xMcadn/ 28 septembre Visite guidée du Terrain Vague https://www.facebook.com/share/18BCPmddf7/ 29 septembre Résister et Quizzer https://www.facebook.com/share/1ArJEuTbfU/ 30 septembre Lutte et art en friche - Exposition et création d'œuvre collective https://www.facebook.com/share/1DocZADWiF/ 1 octobre CinéMob - Ciné-discussion de Mob6600 https://www.facebook.com/share/1J7BTrwBtd/ 2 octobre Garder le feu - Cirque en friche ! https://www.facebook.com/share/1DvFfAqJmU/ 3 octobre Foire Paysanne https://www.facebook.com/share/19MvtYFB1Z/ Gala des 10 ans 4 octobre La grasse matinée Depuis 2016\, des citoyen·nes se mobilisent contre les expansions industrialo-portuaires et l’installation de la plateforme de transbordement de Ray-Mont Logistiques qui menacent des boisés\, des prairies et leur biodiversité au coeur de l'arrondissement MHM. Depuis 10 ans\, la mobilisation a fait d’importants gains ! Ensemble\, nous avons protégé les boisés Vimont et Steinberg ainsi qu’une portion de la friche ferroviaire\, ralenti l’installation de Ray-Mont Logistiques et empêché l’augmentation du camionnage dans le quartier. Mais notre plus grande victoire\, c’est d’avoir bâti une communauté de lutte et d’usage du terrain vague\, une communauté qui veille sans cesse à la préservation de cet espace vert et vivant\, pour un quartier solidaire et en santé. Ensemble\, retrouvons-nous pour célébrer ces dix années de mobilisation populaire et partager la mémoire de cette décennie d’engagement pour la justice environnementale dans Mercier-Hochelaga-Maisonneuve. Résister et fleurir tant qu'il faudra !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9224
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1938,6 +1968,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mobilisation 6600 : 10 ans de luttes
+UID:evenement9223 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261002
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260911T181706Z 
+LOCATION:Boisé Steinberg, (métro Viau) 
+DESCRIPTION:Venez célébrer les dix ans de luttes de Mobilisation 6600 ! 25 septembre Résister et festoyer : 10 ans de luttes ! https://www.facebook.com/share/1DKwu7dRKj/ 26 septembre Micro ouvert du Terrain Vague https://www.facebook.com/share/19HkokHiSP/ 27 septembre Les enfants de la Friche - Lancement du zine https://www.facebook.com/share/19a2xMcadn/ 28 septembre Visite guidée du Terrain Vague https://www.facebook.com/share/18BCPmddf7/ 29 septembre Résister et Quizzer https://www.facebook.com/share/1ArJEuTbfU/ 30 septembre Lutte et art en friche - Exposition et création d'œuvre collective https://www.facebook.com/share/1DocZADWiF/ 1 octobre CinéMob - Ciné-discussion de Mob6600 https://www.facebook.com/share/1J7BTrwBtd/ 2 octobre Garder le feu - Cirque en friche ! https://www.facebook.com/share/1DvFfAqJmU/ 3 octobre Foire Paysanne https://www.facebook.com/share/19MvtYFB1Z/ Gala des 10 ans 4 octobre La grasse matinée Depuis 2016\, des citoyen·nes se mobilisent contre les expansions industrialo-portuaires et l’installation de la plateforme de transbordement de Ray-Mont Logistiques qui menacent des boisés\, des prairies et leur biodiversité au coeur de l'arrondissement MHM. Depuis 10 ans\, la mobilisation a fait d’importants gains ! Ensemble\, nous avons protégé les boisés Vimont et Steinberg ainsi qu’une portion de la friche ferroviaire\, ralenti l’installation de Ray-Mont Logistiques et empêché l’augmentation du camionnage dans le quartier. Mais notre plus grande victoire\, c’est d’avoir bâti une communauté de lutte et d’usage du terrain vague\, une communauté qui veille sans cesse à la préservation de cet espace vert et vivant\, pour un quartier solidaire et en santé. Ensemble\, retrouvons-nous pour célébrer ces dix années de mobilisation populaire et partager la mémoire de cette décennie d’engagement pour la justice environnementale dans Mercier-Hochelaga-Maisonneuve. Résister et fleurir tant qu'il faudra !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9223
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Education and Revolution : Course
 UID:evenement9123 @ http://www.resistancemontreal.org
 DTSTAMP:20260822T135029Z
@@ -1978,6 +2023,21 @@ LOCATION:Partout
 DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9027
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobilisation 6600 : 10 ans de luttes
+UID:evenement9222 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260911T181706Z 
+LOCATION:Boisé Steinberg, (métro Viau) 
+DESCRIPTION:Venez célébrer les dix ans de luttes de Mobilisation 6600 ! 25 septembre Résister et festoyer : 10 ans de luttes ! https://www.facebook.com/share/1DKwu7dRKj/ 26 septembre Micro ouvert du Terrain Vague https://www.facebook.com/share/19HkokHiSP/ 27 septembre Les enfants de la Friche - Lancement du zine https://www.facebook.com/share/19a2xMcadn/ 28 septembre Visite guidée du Terrain Vague https://www.facebook.com/share/18BCPmddf7/ 29 septembre Résister et Quizzer https://www.facebook.com/share/1ArJEuTbfU/ 30 septembre Lutte et art en friche - Exposition et création d'œuvre collective https://www.facebook.com/share/1DocZADWiF/ 1 octobre CinéMob - Ciné-discussion de Mob6600 https://www.facebook.com/share/1J7BTrwBtd/ 2 octobre Garder le feu - Cirque en friche ! https://www.facebook.com/share/1DvFfAqJmU/ 3 octobre Foire Paysanne https://www.facebook.com/share/19MvtYFB1Z/ Gala des 10 ans 4 octobre La grasse matinée Depuis 2016\, des citoyen·nes se mobilisent contre les expansions industrialo-portuaires et l’installation de la plateforme de transbordement de Ray-Mont Logistiques qui menacent des boisés\, des prairies et leur biodiversité au coeur de l'arrondissement MHM. Depuis 10 ans\, la mobilisation a fait d’importants gains ! Ensemble\, nous avons protégé les boisés Vimont et Steinberg ainsi qu’une portion de la friche ferroviaire\, ralenti l’installation de Ray-Mont Logistiques et empêché l’augmentation du camionnage dans le quartier. Mais notre plus grande victoire\, c’est d’avoir bâti une communauté de lutte et d’usage du terrain vague\, une communauté qui veille sans cesse à la préservation de cet espace vert et vivant\, pour un quartier solidaire et en santé. Ensemble\, retrouvons-nous pour célébrer ces dix années de mobilisation populaire et partager la mémoire de cette décennie d’engagement pour la justice environnementale dans Mercier-Hochelaga-Maisonneuve. Résister et fleurir tant qu'il faudra !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9222
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -2026,6 +2086,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mobilisation 6600 : 10 ans de luttes
+UID:evenement9221 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260911T181706Z 
+LOCATION:Boisé Steinberg, (métro Viau) 
+DESCRIPTION:Venez célébrer les dix ans de luttes de Mobilisation 6600 ! 25 septembre Résister et festoyer : 10 ans de luttes ! https://www.facebook.com/share/1DKwu7dRKj/ 26 septembre Micro ouvert du Terrain Vague https://www.facebook.com/share/19HkokHiSP/ 27 septembre Les enfants de la Friche - Lancement du zine https://www.facebook.com/share/19a2xMcadn/ 28 septembre Visite guidée du Terrain Vague https://www.facebook.com/share/18BCPmddf7/ 29 septembre Résister et Quizzer https://www.facebook.com/share/1ArJEuTbfU/ 30 septembre Lutte et art en friche - Exposition et création d'œuvre collective https://www.facebook.com/share/1DocZADWiF/ 1 octobre CinéMob - Ciné-discussion de Mob6600 https://www.facebook.com/share/1J7BTrwBtd/ 2 octobre Garder le feu - Cirque en friche ! https://www.facebook.com/share/1DvFfAqJmU/ 3 octobre Foire Paysanne https://www.facebook.com/share/19MvtYFB1Z/ Gala des 10 ans 4 octobre La grasse matinée Depuis 2016\, des citoyen·nes se mobilisent contre les expansions industrialo-portuaires et l’installation de la plateforme de transbordement de Ray-Mont Logistiques qui menacent des boisés\, des prairies et leur biodiversité au coeur de l'arrondissement MHM. Depuis 10 ans\, la mobilisation a fait d’importants gains ! Ensemble\, nous avons protégé les boisés Vimont et Steinberg ainsi qu’une portion de la friche ferroviaire\, ralenti l’installation de Ray-Mont Logistiques et empêché l’augmentation du camionnage dans le quartier. Mais notre plus grande victoire\, c’est d’avoir bâti une communauté de lutte et d’usage du terrain vague\, une communauté qui veille sans cesse à la préservation de cet espace vert et vivant\, pour un quartier solidaire et en santé. Ensemble\, retrouvons-nous pour célébrer ces dix années de mobilisation populaire et partager la mémoire de cette décennie d’engagement pour la justice environnementale dans Mercier-Hochelaga-Maisonneuve. Résister et fleurir tant qu'il faudra !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9221
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présence autochtone
 UID:evenement8999 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -2066,6 +2141,21 @@ LOCATION:Partout
 DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9025
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobilisation 6600 : 10 ans de luttes
+UID:evenement9220 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260929
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260911T181706Z 
+LOCATION:Boisé Steinberg, (métro Viau) 
+DESCRIPTION:Venez célébrer les dix ans de luttes de Mobilisation 6600 ! 25 septembre Résister et festoyer : 10 ans de luttes ! https://www.facebook.com/share/1DKwu7dRKj/ 26 septembre Micro ouvert du Terrain Vague https://www.facebook.com/share/19HkokHiSP/ 27 septembre Les enfants de la Friche - Lancement du zine https://www.facebook.com/share/19a2xMcadn/ 28 septembre Visite guidée du Terrain Vague https://www.facebook.com/share/18BCPmddf7/ 29 septembre Résister et Quizzer https://www.facebook.com/share/1ArJEuTbfU/ 30 septembre Lutte et art en friche - Exposition et création d'œuvre collective https://www.facebook.com/share/1DocZADWiF/ 1 octobre CinéMob - Ciné-discussion de Mob6600 https://www.facebook.com/share/1J7BTrwBtd/ 2 octobre Garder le feu - Cirque en friche ! https://www.facebook.com/share/1DvFfAqJmU/ 3 octobre Foire Paysanne https://www.facebook.com/share/19MvtYFB1Z/ Gala des 10 ans 4 octobre La grasse matinée Depuis 2016\, des citoyen·nes se mobilisent contre les expansions industrialo-portuaires et l’installation de la plateforme de transbordement de Ray-Mont Logistiques qui menacent des boisés\, des prairies et leur biodiversité au coeur de l'arrondissement MHM. Depuis 10 ans\, la mobilisation a fait d’importants gains ! Ensemble\, nous avons protégé les boisés Vimont et Steinberg ainsi qu’une portion de la friche ferroviaire\, ralenti l’installation de Ray-Mont Logistiques et empêché l’augmentation du camionnage dans le quartier. Mais notre plus grande victoire\, c’est d’avoir bâti une communauté de lutte et d’usage du terrain vague\, une communauté qui veille sans cesse à la préservation de cet espace vert et vivant\, pour un quartier solidaire et en santé. Ensemble\, retrouvons-nous pour célébrer ces dix années de mobilisation populaire et partager la mémoire de cette décennie d’engagement pour la justice environnementale dans Mercier-Hochelaga-Maisonneuve. Résister et fleurir tant qu'il faudra !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9220
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -2114,6 +2204,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mobilisation 6600 : 10 ans de luttes
+UID:evenement9219 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260928
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260911T181706Z 
+LOCATION:Boisé Steinberg, (métro Viau) 
+DESCRIPTION:Venez célébrer les dix ans de luttes de Mobilisation 6600 ! 25 septembre Résister et festoyer : 10 ans de luttes ! https://www.facebook.com/share/1DKwu7dRKj/ 26 septembre Micro ouvert du Terrain Vague https://www.facebook.com/share/19HkokHiSP/ 27 septembre Les enfants de la Friche - Lancement du zine https://www.facebook.com/share/19a2xMcadn/ 28 septembre Visite guidée du Terrain Vague https://www.facebook.com/share/18BCPmddf7/ 29 septembre Résister et Quizzer https://www.facebook.com/share/1ArJEuTbfU/ 30 septembre Lutte et art en friche - Exposition et création d'œuvre collective https://www.facebook.com/share/1DocZADWiF/ 1 octobre CinéMob - Ciné-discussion de Mob6600 https://www.facebook.com/share/1J7BTrwBtd/ 2 octobre Garder le feu - Cirque en friche ! https://www.facebook.com/share/1DvFfAqJmU/ 3 octobre Foire Paysanne https://www.facebook.com/share/19MvtYFB1Z/ Gala des 10 ans 4 octobre La grasse matinée Depuis 2016\, des citoyen·nes se mobilisent contre les expansions industrialo-portuaires et l’installation de la plateforme de transbordement de Ray-Mont Logistiques qui menacent des boisés\, des prairies et leur biodiversité au coeur de l'arrondissement MHM. Depuis 10 ans\, la mobilisation a fait d’importants gains ! Ensemble\, nous avons protégé les boisés Vimont et Steinberg ainsi qu’une portion de la friche ferroviaire\, ralenti l’installation de Ray-Mont Logistiques et empêché l’augmentation du camionnage dans le quartier. Mais notre plus grande victoire\, c’est d’avoir bâti une communauté de lutte et d’usage du terrain vague\, une communauté qui veille sans cesse à la préservation de cet espace vert et vivant\, pour un quartier solidaire et en santé. Ensemble\, retrouvons-nous pour célébrer ces dix années de mobilisation populaire et partager la mémoire de cette décennie d’engagement pour la justice environnementale dans Mercier-Hochelaga-Maisonneuve. Résister et fleurir tant qu'il faudra !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9219
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présence autochtone
 UID:evenement8997 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -2139,110 +2244,6 @@ LOCATION:Montréal
 DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9109
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Varning from Montreal
-UID:evenement9208 @ http://www.resistancemontreal.org
-DTSTAMP:20260908T020718Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260919
-CREATED:20260908T020718Z
-LAST-MODIFIED:20260908T020718Z 
-LOCATION:Pirhana Bar, 680 Ste-Catherine Ouest (métro McGill ou Bonaventure) 
-DESCRIPTION:Annual DIY Punk Festival
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9208
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Pride ! /// Fierté Indomptable !
-UID:evenement9023 @ http://www.resistancemontreal.org
-DTSTAMP:20260718T125140Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260801
-CREATED:20260718T125140Z
-LAST-MODIFIED:20260718T125410Z 
-LOCATION:Partout
-DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9023
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marché de Lëon 2026
-UID:evenement8968 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20261206T160000Z
-DTEND:20261206T031200Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260704T011431Z 
-LOCATION:Bâtiment 7, 1900 Le Ber (métro Charlevoix) 
-DESCRIPTION:Notre traditionnel marché festif\, avec activités spéciales dans les ateliers du B7\, réunit les artisan·es et artistes de Pointe-Sainte-Charles ou d’un peu plus loin ! Céramiques - Bijoux - Photographies - Illustrations - Soins corporels - Ébénisterie - Savons - Articles pour pitous - Créations textiles et bien plus... 🎁 Marché festif réunissant artisan·es et artistes du coin ou d’un peu plus loin ➕ activités spéciales avec Les Ateliers du B7 et les occupants du Bâtiment 7 🗓 Samedi 5 décembre de 11h à19h et dimanche 6 décembre de 11h à17h 📍1 900 rue le Ber\, Montréal\, Québec H3K 2A4 *** Our traditional festive market\, with special activities in the B7 studios\, brings together artisans and artists from Pointe-Sainte-Charles and beyond ! Ceramics - Jewellery - Photography - Illustration - Body care - Woodworking - Soaps - Poodle items - Textile creations and much more... 🎁 A festive market featuring local craftspeople and artists ➕ special activities with Les Ateliers du B7 and Bâtiment 7 🗓 Saturday\, December 5 from 11am to 7pm and Sunday\, December 6 from 11am to 5pm 📍1 900 rue le Ber\, Montreal\, Quebec H3K 2A4
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8968
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vente de garage « payez-ce-que-vous-pouvez » 
-UID:evenement9058 @ http://www.resistancemontreal.org
-DTSTAMP:20260801T011113Z
-DTSTART:20260809T150000Z
-DTEND:20260809T031000Z
-CREATED:20260801T011113Z
-LAST-MODIFIED:20260801T011113Z 
-LOCATION:Espace des possibles, 6450 avenue Christophe-Colomb 
-DESCRIPTION:https://www.facebook.com/events/1733215327880071/ et https://www.facebook.com/events/1037109179035565/ Rejoignez notre prochaine vente de garage\, un événement convivial où chaque objet acheté contribuera directement à une cause locale. L'ensemble des bénéfices générés sera versé intégralement à J’chu ben !\, un projet montréalais qui crée du lien humain et favorise le bien-être des citoyen.nes. En participant\, vous ne faites pas seulement des trouvailles intéressantes\, vous soutenez concrètement la création de moments de partage et de solidarité. Venez découvrir des articles variés tout en contribuant à une démarche humaine et positive\, car ensemble\, nous faisons grandir le mieux-être à Montréal. *En cas de pluie\, l'événement se tiendra la fin de semaine du 22 et 23 août. *
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9058
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Convergence transféministe et antiraciste
-UID:evenement9169 @ http://www.resistancemontreal.org
-DTSTAMP:20260827T232922Z
-DTSTART:20260830T130000Z
-DTEND:20260830T012800Z
-CREATED:20260827T232922Z
-LAST-MODIFIED:20260827T232922Z 
-LOCATION:Centre St-Pierre, 1212 Panet (métro Beaudry) 
-DESCRIPTION:Deux ans se sont écoulés depuis le premier congrès du Mouvement transféministe. Depuis\, des pas de géants ont été franchis pour doter les femmes trans d'un organe politique capable de défendre leurs intérêts au niveau national. Le deuxième congrès d'orientation\, le 29 août 2026 sera l'occasion pour les membres de faire le bilan de ce qui a été accompli et de décider de l'avenir de notre mouvement. Pour souligner les efforts investis dans la convergence des luttes par le Mouvement transféministe pendant cette période\, ses militantes invitent également les forces antifascistes à converger à Tiohtià:ke (Montréal) le 30 août prochain pour participer à une suite de dialogues militants entres des figures importantes des luttes actuelles contre l'autoritarisme\, l'impéralisme et les puissances réactionnaires de tout acabit.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9169
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Présence autochtone
-UID:evenement8996 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260806
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260711T114529Z 
-LOCATION:Tio'tia:ke / Mooniyang / Montréal
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8996
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Expozine 2026
-UID:evenement9038 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261115
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260718T135730Z 
-LOCATION:À déterminer
-DESCRIPTION:Expozine 2026\, the 25th annual edition of Montreal’s international independent publishing festival\, will take place from November 6 – 15 2026. The Expozine fair will take place on Saturday\, November 14 and Sunday\, November 15\, 2026. Applications for the Expozine fair will be available through the Expozine website starting in August\, 2026. Instagram : @expozinemtl
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9038
 
 STATUS:CONFIRMED
 END:VEVENT
