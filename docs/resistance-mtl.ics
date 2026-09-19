@@ -24,36 +24,6 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salon du livre anarchiste
-UID:evenement8832 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20261010T040100Z
-DTEND:20261010T050100Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Détails à venir, (détails à venir) 
-DESCRIPTION:Détails à venir
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8832
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salon du livre anarchiste
-UID:evenement8833 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20261011T040100Z
-DTEND:20261011T050100Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Détails à venir, (détails à venir) 
-DESCRIPTION:Détails à venir
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8833
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Montreal Anarchist Tech Convergence
 UID:evenement8803 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -668,6 +638,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Salon du livre anarchiste
+UID:evenement8832 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261010
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260918T172532Z 
+LOCATION:CEDA, 2515 Rue Delisle (métro lionel-groulx) 
+DESCRIPTION:POPPING THE BUBBLE Montreal Anarchist Bookfair 2026 A lot has changed in the 27 years since the Montreal Anarchist Bookfair began. As the scale and scope of our collective struggle has shifted\, so too have our global practices of resistance\, care\, and collective survival. This year’s theme\, Popping the Bubble\, is about breaking with the insularity of anarchist subculture and the political isolation that keeps movements small\, fragmented\, and disconnected from one another\, and which end up reproducing the very exclusions we seek to challenge. We ask : What becomes possible when we begin from connection rather than separation ? What are we building that people would want to belong to ? Who is missing from our spaces and why ? There are far more people already practising solidarity than traditional political spaces often recognize : through care work and mutual aid\, art\, teaching\, basic survival\, and everyday acts of interdependence. These practices are what this year’s bookfair seeks to connect with and learn from. Popping the Bubble is an invitation to look honestly at how we organize as anarchists\, to strengthen our accountability\, and to build spaces grounded in care. It is a call to orient ourselves toward a shared struggle across borders\, migrations\, and histories of colonization\, and to value the caregivers\, workers\, migrants\, disabled people\, elders\, neighbours\, organizers\, and activists who sustain our movements in visible and invisible ways. Let us keep finding each other beyond all the bubbles we inherit and the ones we learn to unmake. Check our site for more info soon ! Want to volunteer at the bookfair ? If you want to lend a helping hand before or during the event\, we would be stoked to have you ! Send us an email at info(AT)anarchistbookfair.ca
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8832
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présence autochtone
 UID:evenement8995 @ http://www.resistancemontreal.org
 DTSTAMP:20260711T114529Z
@@ -697,21 +682,6 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Disorientation
-UID:evenement9108 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T031113Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260830
-CREATED:20260815T031113Z
-LAST-MODIFIED:20260815T031113Z 
-LOCATION:Montréal
-DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wild Pride ! /// Fierté Indomptable !
 UID:evenement9021 @ http://www.resistancemontreal.org
 DTSTAMP:20260718T125140Z
@@ -723,6 +693,21 @@ LOCATION:Partout
 DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9021
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disorientation
+UID:evenement9108 @ http://www.resistancemontreal.org
+DTSTAMP:20260815T031113Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260830
+CREATED:20260815T031113Z
+LAST-MODIFIED:20260815T031113Z 
+LOCATION:Montréal
+DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -753,6 +738,21 @@ LOCATION:Statue de Félix Leclerc du Parc Lafontaine, (métro Mont-Royal)
 DESCRIPTION:Élection piège à cons\, pour gagner grèvons. En octobre\, nous voilà face à une bien belle situation : trois partis qui se foutent de nous\, une blague de gauche et zéro avenue où on se fait pas arnaquer. En effet\, la Coalition Avenir Québec (CAQ) a déjà largement démontré son mépris pour la jeunesse et le peuple. Le Parti Québecois (PQ)\, pour sa part\, demeure focalisé sur des fantaisies nationalistes racistes\, tandis que le Parti Libéral reste fidèle à lui-même : toujours les mêmes menteurs aux service des riches. De son côté\, Québec Solidaire sera chanceux s’il réussit à conserver ne serait-ce qu’un seul siège à l’Assemblée nationale. La réalité est claire : peu importe les résultats des élections\, l’austérité reste au menu. Aucun parti n’agira contre la précarité que les personnes étudiantes vivent. Du moins\, aucun ne le fera de gaieté de cœur\, car lorsque que le système électoral échoue à adresser nos besoins\, la solution est simple : il faut prendre action par nous-même afin de leur forcer la main. Il faut la grève. Aujourd’hui\, c’est dur de vivre. L’épicerie coûte de plus en plus cher\, les loyers explosent et les fins de mois angoissent. Beaucoup sautent des repas\, travaillent tout en étudiant à temps plein ou demeurent dans des logements insalubres\, faute de pouvoir se permettre mieux. D’autres restent prisonnier.ère.s de situations familiales malsaines simplement parce qu’iels n’ont pas les moyens de partir. C’est alors que pendant que nous cherchons comment payer notre prochain loyer ou notre prochaine facture d’épicerie\, les politicien.e.s agitent les discours identitaires racistes pour détourner notre colère vers les personnes immigrantes. Fidèles aux intérêts des grandes entreprises qui financent et influencent leur pouvoir\, ces mêmes politiciens qui nous chantent leurs discours cet automne\, préfèreront toujours protéger les profits du privé plutôt que répondre à la crise. On se fout de nous. Parce que leurs intérêts sont fondamentalement opposés à ceux de la majorité de la population\, ils se choisiront toujours avant de gouverner pour celleux qu’ils prétendent représenter. On le voit bien lorsque des travailleureuses utilisent symboliquement la guillotine pour exprimer leur colère : toute la classe politique se serre les coudes pour dénoncer une prétendue violence. Pourtant\, la véritable violence est ailleurs. Elle réside dans leur refus de protéger le filet social\, de s’attaquer à la crise du logement ou de freiner l’explosion du coût de la vie. Il est facile pour eux d’ignorer cette violence\, ce ne sont pas des gens qui savent c’est quoi être anxieux à la fin du mois\, ni être pris avec un boss qui t’engueule pour le plaisir\, ou simplement de faire son épicerie en suivant les spéciaux. Pour la plupart propriétaires de plusieurs résidences et proches des intérêts économiques dominants\, ils défendent un système qui les avantage et où le profit passe avant le droit fondamental de se loger\, de se nourrir et de vivre dignement. Ce n’est plus le moment d’attendre des « solutions » des politiciens qui démontrent\, jour après jour\, qu’ils se foutent de nous. Il faut la grève. Dans les 40 dernières années\, tous les partis au pouvoir ont attaqué le système d’enseignement post-secondaire. Résultats : des bâtiments qui s’écroulent\, un manque d’espace pour répondre à la demande\, des programmes qui n’offrent presque plus de choix de cours\, un effacement des services aux personnes étudiantes à besoins particuliers\, une augmentation des frais de scolarité et un affaiblissement majeur de l’Aide financière aux études (AFE). On a plus de plaisir à étudier. La CAQ\, les libéraux et les péquistes ont tous joué de manière enthousiaste leur rôle dans la destruction de l’enseignement libre\, accessible\, abordable et de qualité. Cette destruction n’a pas été ralentie par les innombrables élections\, mais elle l’a été par des mobilisations étudiantes historiques\, qui ont su faire peur aux puissants. Maintenant qu’étudier est devenu un choix inaccessible pour tant de personnes\, et une réalité marquée par la précarité pour tant d’autres\, nous devons réclamer des gains qui permettent des conditions d’études dignes de ce nom. Il faut la grève. À cet effet\, la Coalition de résistance pour l’unité étudiante syndicale (CRUES) revendique une réforme de l’AFE ainsi qu’un réinvestissement en éducation post-secondaire. La réforme est nécessaire afin que les personnes étudiantes puissent réellement se consacrer à leurs études sans devoir choisir entre réussir leurs cours et payer leur loyer. Le système actuel ne tient pas compte de la réalité : le coût de la vie augmente\, mais les montants accordés demeurent insuffisants et les règles entourant le revenu protégé pénalisent même celleux qui tentent de travailler pour subvenir à leurs besoins. Être aux études ne devrait pas signifier survivre en se privant de l’essentiel\, c’est aussi avoir les moyens de vivre dignement. Mais une aide financière adéquate ne suffit pas à elle seule. Il faut aussi un réinvestissement massif en éducation pour mettre fin à la dégradation de nos institutions. L’éducation ne peut pas être traitée comme une dépense à réduire\, alors qu’elle constitue un bien collectif essentiel. La CRUES ne demande pas des privilèges\, elle réclame les conditions minimales pour que chaque personne puisse étudier et vivre dignement. Et pour gagner\, il faut la grève. En effet\, votez n’a jamais été suffisant pour défendre les intérêts étudiants\, et en ce moment c’en est presque inutile. Notre gouvernement est tiré de tous les côtés par des forces qui se battent pour faire passer leurs intérêts en premier. Que ce soit l’OTAN qui pousse pour une économie de guerre se construisant sur notre exploitation\, les lobbys des grandes industries qui veulent maximiser leur profits à tout prix\, ou encore la CORPIQ qui défend le droit de ton propriétaire de ne pas réparer tes tuyaux qui fuitent\, tout le monde veut sa part du gâteau. Face à cela\, il est à nous de défendre nos intérêts et de forcer le gouvernement à arrêter de nous ignorer. En tant que personnes étudiantes\, nous n’avons pas de leviers géopolitique\, ni des millions de dollars à investir dans le lobbying. Mais nous avons un outil extrêmement puissant : la grève. La société repose sur le travail\, et en tant que futur travailleur.euse.s\, nous avons la capacité de suspendre nos études afin de menacer le gouvernement de ne pas avoir de graduation pour une session\, ce qui endommagerait de manière considérable la productivité économique du soi-disant québec\, et ça\, le gouvernement aime pas ça. C’est par cette pression collective que nous pouvons créer un véritable rapport de force et arracher des gains\, comme le mouvement étudiant nous l’a déjà prouvé par le passé. Le chemin vers de meilleures conditions d’études\, vers un monde où l’on peut étudier sans être précaire\, est clair : il passe par notre capacité à nous organiser et à faire la grève. Les urnes peuvent changer un gouvernement\, mais elles ne remplaceront jamais l’organisation collective. Le 3 octobre\, retrouvons-nous dans la rue lors des manifestations à Tiothià:ke (Montréal) et à Kebec (Québec). Ne tombez pas dans leur piège\, pour gagner\, il faut la grève. ENDOSSER LES MANIFESTATIONS ICI : https://forms.gle/p5WCtKtcZ5CatKhx8
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9069
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libère ton stationnement !
+UID:evenement9104 @ http://www.resistancemontreal.org
+DTSTAMP:20260815T024729Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260921
+CREATED:20260815T024729Z
+LAST-MODIFIED:20260815T024729Z 
+LOCATION:Partout
+DESCRIPTION:Joignez-vous au mouvement dans les stationnements des cégeps et des universités du Québec La semaine du 21 septembre 2026\, organisez des actions positives inspirées de l’événement international PARK(ing) Day ! LibERE TON STATIONNEMENT ! LibERE TON STATIONNEMENT !Aménagés pour garer les voitures pendant que nous travaillons ou étudions\, les stationnements sont des lieux d’immobilité par excellence. Généralement asphaltés\, les stationnements sont aussi d’importants îlots de chaleur qui nuisent à la santé. Le temps d’une journée\, transformez votre stationnement local en un espace vivant et célébrez une autre manière de se déplacer au travail ou aux études ! Libérez des cases de stationnement et faites-en un lieu de rassemblement convivial ou d’éducation populaire. Organisez cette journée d’activités en collaboration avec votre institution\, votre comité environnement\, votre association étudiante ou votre syndicat\, et profitez-en pour réfléchir collectivement\, par exemple\, à l’aménagement urbain autour de l’automobile et au sous-financement du transport collectif qui contribuent au maintien de la dépendance à l’automobile. LibERE TON STATIONNEMENT !Cette journée d’action est mise de l’avant par le groupe de travail en mobilisation enseignante du projet Transformations en cours. Elle fait partie du plan d’action élaboré lors des États généraux de l’enseignement pour la transition écologique et sociale de janvier 2026. Transformations en cours À propos du PARK(ing) Day Le PARK(ing) Day est un événement international ayant vu le jour à San Francisco en 2005. Son objectif est de mobiliser la population dans le but de transformer temporairement des places de stationnement en espaces personnalisés\, engagés et conviviaux. Il se tient le 3e vendredi du mois de septembre. Pendant cette journée\, des espaces bétonnés deviennent ainsi des lieux d’initiatives citoyennes\, créatives et écologiques. À l’occasion d’une parenthèse ludique\, informative et participative\, le public est donc invité à réfléchir au partage de l’espace urbain. Ce dernier est alors conçu comme un lieu d’implication citoyenne et d’échanges sur des enjeux contemporains\, notamment environnementaux. L’activité met aussi l’accent sur la revitalisation des centres-villes\, la place de la voiture et le lien social au cœur de la cité. Références Carte des îlots de chaleur urbains au Québec de l’INSPQ Guide de mise en œuvre d’un stationnement écoresponsable enjeux environnementaux et moyens concrets pour verdir les stationnements Guide d’organisation (en français) pour l’organisation d’un PARK(ing) Day local réussi. Pour informations : contactez Nova Doyon\, co-coordonnatrice du projet. Carte des vulnérabilités aux vagues de chaleur de l’Université Laval
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9104
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1731,6 +1731,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last Generation - Intro Talk
+UID:evenement9246 @ http://www.resistancemontreal.org
+DTSTAMP:20260918T171322Z
+DTSTART:20261005T230000Z
+DTEND:20261005T191200Z
+CREATED:20260918T171322Z
+LAST-MODIFIED:20260918T171322Z 
+LOCATION:Espace des possibles, 1052 Beaubien Est (métro Beaubien) 
+DESCRIPTION:Intro talk Monday\, September 21\, 2026\, 7:00 pm - 8:00 pm EDT Introduction to Last Generation Canada Open talk about climate action\, followed by a presentation about non violent theory and the Last Generation campaign. Discussion ouverte sur l'action climatique\, suivie d'une présentation sur la théorie de la non-violence et la campagne Dernière Génération. Espace des possibles 6450 Av. Christophe-Colomb Montreal H2S 2G7
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9246
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wild Pride ! /// Fierté Indomptable !
 UID:evenement9035 @ http://www.resistancemontreal.org
 DTSTAMP:20260718T125140Z
@@ -2229,21 +2244,6 @@ LAST-MODIFIED:20260711T114529Z
 LOCATION:Tio'tia:ke / Mooniyang / Montréal
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8997
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disorientation
-UID:evenement9109 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260901
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260815T031113Z 
-LOCATION:Montréal
-DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9109
 
 STATUS:CONFIRMED
 END:VEVENT
