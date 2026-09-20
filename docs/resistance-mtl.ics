@@ -10,35 +10,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
-SUMMARY:Hamilton Anarchist Bookfair
-UID:evenement8873 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20261003T040100Z
-DTEND:20261003T050100Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Hamilton, TBD 
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8873
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Montreal Anarchist Tech Convergence
-UID:evenement8803 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20261017T040100Z
-DTEND:20261017T050100Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Bâtiment 7, 1900 Le Ber (métro Charlevoix) 
-DESCRIPTION:Détails à venir
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8803
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tsí Tkarón:to (Toronto) Anarchist Bookfair
 UID:evenement8874 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -50,21 +21,6 @@ LOCATION:Tsí Tkarón:to (Toronto), United Steelworkers Hall\, 25 Cecil St
 DESCRIPTION:Announcing the 2026 Tsí Tkarón:to Anarchist Bookfair : a gathering place for anarchists and our friends to come together and share ideas\, build relationships\, and rekindle the spirit of anarchy in so-called Toronto !
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8874
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Montreal Anarchist Tech Convergence
-UID:evenement8804 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20261018T040100Z
-DTEND:20261018T050100Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Bâtiment 7, 1900 Le Ber (métro Charlevoix) 
-DESCRIPTION:Détails à venir
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8804
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -185,21 +141,6 @@ LOCATION:Lac aux Castors, (sur le Mont-Royal)
 DESCRIPTION:Regroupement disparate de millions d’existences urbanisées\, les villes sont aussi le théâtre de nos rêves et de nos préoccupations les plus intimes. Porté par une temporalité flottante\, Chronique d’une ville se tisse au fil de rencontres et prend la forme d’une errance dans un doux purgatoire. Oscillant entre fantasme et réalité\, jusqu’à donner place aux voix fantomatiques de nos métropoles\, cet essai déambulatoire rappelle que nous habitons La Ville\, autant qu’elle nous habite en retour. Une immersion aussi sonore que visuelle qui invite à voir notre urbanité comme un monde de sensations qui nous traversent et nous ouvrent vers l’Autre\, malgré la solitude ambiante.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9007
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riposte populaire !
-UID:evenement8980 @ http://www.resistancemontreal.org
-DTSTAMP:20260704T120639Z
-DTSTART:20261001T040100Z
-DTEND:20261001T140500Z
-CREATED:20260704T120639Z
-LAST-MODIFIED:20260704T120639Z 
-LOCATION:Partout !
-DESCRIPTION:Appel à l’action et la convergence – Du 25 septembre au 3 octobre 2026 - Action à Montréal le 1er octobre Vie chère\, attaques autoritaires\, climat précaire\, riposte populaire ! Au quotidien\, de plus en plus de personnes en arrachent\, les inégalités augmentent. La réponse de nos gouvernements : des coupures\, des lois et des réformes qui attaquent les droits sociaux. Les contre-pouvoirs sont visés directement par les dirigeants qui souhaitent empêcher la contestation et l’opposition aux orientations de droite. Pendant qu’on ignore la population\, on continue de travailler main dans la main avec les élites riches qui maintiennent un statu quo qui menace les écosystèmes sur terre. Nous inonder de projets de lois et de compressions budgétaires est une tactique politique connue. Elle vise à nous paralyser\, nous mettre en mode survie et nous amener à nous replier sur nous-mêmes. Nous n’avons plus le luxe de rester cantonné.e.s dans nos luttes respectives ou sectorielles. Il nous faut bâtir un mouvement social large\, combatif et populaire de résistance contre la vie chère\, la montée de la droite et la destruction de notre planète. Nous appelons l’ensemble des groupes de la société civile : étudiants\, syndicaux\, communautaires et citoyens à tisser des liens dans l’action en s’organisant pour une semaine d’actions et de grève régionales du 25 septembre au 3 octobre. Unissons nos forces pour solidifier un mouvement de lutte combatif ! Nommons qui profitent des crises que nous vivons et exigeons des conditions de vie décentes pour tous et toutes ! Construisons des alliances sur le long terme pour bâtir un rapport de force ! Mettons de l’avant les forces de chacune et chacun et respectons les moyens diversifiés de passer à l’action ! Le 30 septembre\, en solidarité avec les peuples autochtones ! Le 30 septembre est la Journée nationale de la vérité et de la réconciliation. Nous invitons tout le monde à participer aux mobilisations qui auront lieu un peu partout sur le territoire ce jour-là et à soutenir les luttes portées par les peuples autochtones. Le 3 octobre\, convergeons avec les étudiant.e.s ! La CRUES (Coalition de résistance pour l’unité étudiante syndicale) vous invite à converger à deux grandes manifestations à Tiohtià:ké (Montréal) et à Kebec (Québec). Que nous soyons du mouvement étudiant\, syndical\, communautaire ou affinitaire\, nos ennemis sont les mêmes et iels s’enrichissent de notre misère. Le 3 octobre\, prenons la rue ensemble. Profitons de l’aube des élections pour créer un réel contre-discours sur la précarité et l’austérité. Pour tous les détails : https://crues.org/ Voir au-delà des élections Peu importe la couleur du prochain gouvernement au lendemain des élections provinciales du 5 octobre 2026\, nous serons toujours dans un climat politique favorable aux mesures d’austérité\, à la montée de la droite\, à l’affaiblissement de nos droits démocratiques et à l’inaction environnementale. Les avancées sociales sont le résultat de mouvements de luttes sociales et non pas des élections. Nos alliances bâties à l’automne nous permettrons de poursuivre la résistance pour d’autres moments en 2026-2027.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8980
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -638,6 +579,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Montreal Anarchist Tech Convergence
+UID:evenement8803 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261017
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260919T134839Z 
+LOCATION:Bâtiment 7, 1900 Le Ber (métro Charlevoix) 
+DESCRIPTION:You zoom towards the edges of the sprawling machine that farms our attention\, past the conveyor belts of neatly packaged preferences in glittering boxes. From this distance the network of twisting cables takes on a sinister shape. The outward uniqueness of content belies the conditioned experiences they contain. Upon reaching the fringe of augmented reality\, you find that behind every blinking cursor and LCD glow sits an individual with dreams and desires. So here's a plate of copy pasta before you go. Here's what we've attempted and what we want to try next. Here are the blueprints for the world we want to dismantle. The glimpses of a world we could want reflected in shards of glass. And the connections we've made through the refuse of capitalism. October 17 and 18 2026 A 2-day event : October 17 and 18 2026 At Batiment 7 in Tiohtia:ke Montreal Welcome to anarcho-curious techies\, tech-curious anarchists\, and everyone in between.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8803
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Salon du livre anarchiste
 UID:evenement8832 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
@@ -653,6 +609,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hamilton Anarchist Bookfair
+UID:evenement8873 @ http://www.resistancemontreal.org
+DTSTAMP:20000101T050000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+CREATED:20000101T050000Z
+LAST-MODIFIED:20260919T134659Z 
+LOCATION:Hamilton, Workers Arts and Heritage Centre (WAHC) 
+DESCRIPTION:Hamilton Anarchist Bookfair Due to noblogs no longer being available due to targeting by the US state\, North Shore is hosting pages for some local anarchist projects that have lost their platforms. Below is the static content from Bookfair’s noblogs site. For updates about the Bookfair\, including workshops and table information\, see here : https://north-shore.info/tag/hamiltonanarchistbookfair/ Hamilton Anarchist Bookfair 2026 The 2026 Hamilton Anarchist Bookfair will take place on Saturday October 3rd from 10am-5pm at the Workers Arts and Heritage Centre\, 51 Stuart St. Anarchists\, anti-authoritarians and those curious about anarchy are invited for a day of workshops\, discussions\, and tables featuring zines\, art\, books\, and info on local projects. We hope this will be a day to share knowledge in the spirit of spreading practices of autonomy\, direct action\, and solidarity. We also hope it will be a day to make connections and strengthen our networks\, with the goal of building strong resistance movements in this region and beyond. Admission is free\, food is provided\, and childcare and kids activities will be available all day. Make a weekend of it with our outdoor social in conjunction with Hamilton Running Down the Walls the following day. Table and workshop applications are now closed. All applicants will be contacted soon. The Space The 2026 Bookfair will be hosted at the Workers Arts and Heritage Centre (WAHC) in downtown Hamilton. Tables\, food\, and childcare will be found on the first floor of the building. Workshops will take place on the first and second floor. The venue includes a large\, tree-filled courtyard\, which we plan to use for a food-serving and chill out area. Bathrooms are located in the basement. The building is wheelchair-accessible\, with a ramp to the front door and elevators for navigating between floors. More information about venue accessibility can be found here : https://wahc-museum.ca/accessibility/ Thank you to WAHC for having us ! To learn more about the space\, visit https://wahc-museum.ca/ Getting there : The closest bus routes to WAHC are the A-line express (route 20) and the Burlington St bus (route 4). There is free parking on Stuart Street\, as well as at the nearby West Harbour GO station. WAHC is less than a 5-minute walk from the West Harbour GO station. Just take the McNab exit from the station and head south down McNab to Stuart Street. Contact Us You can reach the organizing collective via email at Hamiltonbookfair[at]Riseup.net PGP Key — –BEGIN PGP PUBLIC KEY BLOCK—– Comment : User-ID : Hamilton Anarchist Bookfair Comment : Created : 2023-05-25 1:39 PM Comment : Expires : 2025-05-25 12:00 PM Comment : Type : 255-bit EdDSA (secret key available) Comment : Usage : Signing\, Encryption\, Certifying User-IDs Comment : Fingerprint : A96E2AF1916FCCF26E65B97BCF5536D15B402AE3 mDMEZG+dTxYJKwYBBAHaRw8BAQdApDmRuuvMQZ8I58S2osx49/I8TG/yjjc/rcZ15144q6+0OUhhbWlsdG9uIEFuYXJjaGlzdCBCb29rZmFpciA8aGFtaWx0b25ib29rZmFpckByaXNldXAubmV0PoiaBBMWCgBCFiEEqW4q8ZFvzPJuZbl7z1U20VtAKuMFAmRvnU8CGwMFCQPDoTEFCwkIBwIDIgIBBhUKCQgLAgQWAgMBAh4HAheAAAoJEM9VNtFbQCrjXsgA/28wFt0rhcoBY4lsrURXNPitbK0O/zfu7iRTZZuYoCuCAQCtevLOamVS+PvXoH1pmf0qW7+Mq1OBoK6R2u2oku/jDrg4BGRvnU8SCisGAQQBl1UBBQEBB0AqbiTWKAJV7Yhrtvv4jC5Y/EazYRvfh25IqvTrKA1OZAMBCAeIfgQYFgoAJhYhBKluKvGRb8zybmW5e89VNtFbQCrjBQJkb51PAhsMBQkDw6ExAAoJEM9VNtFbQCrjS3kA/jmjTTI2vfjnhN/2yVHLRWcjJw72UnWg4HTAOWqhydG2AP41F1NQyUPie9K9 iV/dzUy0Y1TffzpsOVOiZsAECPi7Aw===vRIB — –END PGP PUBLIC KEY BLOCK—– Volunteer Every year\, the Hamilton Anarchist Bookfair brings together hundreds of people from southern Ontario and beyond to share ideas and build connections\, and we’d love your help in pulling it off ! There are a variety of ways to get involved\, both in the lead-up to and day of the event. Volunteer Information Night On Tuesday\, July 21\, we’ll be hosting a volunteer information night at Black Oak Social Space\, 492 James St N from 7:00-8:30PM. This is a low-pressure event to hear more about the bookfair and ways to help out. There will be a short presentation followed by a chance to chat with folks involved in the bookfair. You’re not obligated to take on any roles by attending the event\, and you also don’t need to attend the event to help out ! If you can’t make the volunteer information night but would like to help out\, please fill out this form and we will get in touch soon. Help Spread the Word ! Printable Poster PDF PNG Online graphic JPG
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8873
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présence autochtone
 UID:evenement8995 @ http://www.resistancemontreal.org
 DTSTAMP:20260711T114529Z
@@ -663,6 +634,21 @@ LAST-MODIFIED:20260711T114529Z
 LOCATION:Tio'tia:ke / Mooniyang / Montréal
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8995
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riposte populaire !
+UID:evenement8980 @ http://www.resistancemontreal.org
+DTSTAMP:20260704T120639Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+CREATED:20260704T120639Z
+LAST-MODIFIED:20260919T134415Z 
+LOCATION:Partout !
+DESCRIPTION:Appel à l’action et la convergence – Du 25 septembre au 3 octobre 2026 - Action à Montréal le 1er octobre Vie chère\, attaques autoritaires\, climat précaire\, riposte populaire ! Au quotidien\, de plus en plus de personnes en arrachent\, les inégalités augmentent. La réponse de nos gouvernements : des coupures\, des lois et des réformes qui attaquent les droits sociaux. Les contre-pouvoirs sont visés directement par les dirigeants qui souhaitent empêcher la contestation et l’opposition aux orientations de droite. Pendant qu’on ignore la population\, on continue de travailler main dans la main avec les élites riches qui maintiennent un statu quo qui menace les écosystèmes sur terre. Nous inonder de projets de lois et de compressions budgétaires est une tactique politique connue. Elle vise à nous paralyser\, nous mettre en mode survie et nous amener à nous replier sur nous-mêmes. Nous n’avons plus le luxe de rester cantonné.e.s dans nos luttes respectives ou sectorielles. Il nous faut bâtir un mouvement social large\, combatif et populaire de résistance contre la vie chère\, la montée de la droite et la destruction de notre planète. Nous appelons l’ensemble des groupes de la société civile : étudiants\, syndicaux\, communautaires et citoyens à tisser des liens dans l’action en s’organisant pour une semaine d’actions et de grève régionales du 25 septembre au 3 octobre. Unissons nos forces pour solidifier un mouvement de lutte combatif ! Nommons qui profitent des crises que nous vivons et exigeons des conditions de vie décentes pour tous et toutes ! Construisons des alliances sur le long terme pour bâtir un rapport de force ! Mettons de l’avant les forces de chacune et chacun et respectons les moyens diversifiés de passer à l’action ! Le 30 septembre\, en solidarité avec les peuples autochtones ! Le 30 septembre est la Journée nationale de la vérité et de la réconciliation. Nous invitons tout le monde à participer aux mobilisations qui auront lieu un peu partout sur le territoire ce jour-là et à soutenir les luttes portées par les peuples autochtones. Le 3 octobre\, convergeons avec les étudiant.e.s ! La CRUES (Coalition de résistance pour l’unité étudiante syndicale) vous invite à converger à deux grandes manifestations à Tiohtià:ké (Montréal) et à Kebec (Québec). Que nous soyons du mouvement étudiant\, syndical\, communautaire ou affinitaire\, nos ennemis sont les mêmes et iels s’enrichissent de notre misère. Le 3 octobre\, prenons la rue ensemble. Profitons de l’aube des élections pour créer un réel contre-discours sur la précarité et l’austérité. Pour tous les détails : https://crues.org/ Voir au-delà des élections Peu importe la couleur du prochain gouvernement au lendemain des élections provinciales du 5 octobre 2026\, nous serons toujours dans un climat politique favorable aux mesures d’austérité\, à la montée de la droite\, à l’affaiblissement de nos droits démocratiques et à l’inaction environnementale. Les avancées sociales sont le résultat de mouvements de luttes sociales et non pas des élections. Nos alliances bâties à l’automne nous permettrons de poursuivre la résistance pour d’autres moments en 2026-2027.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8980
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -682,21 +668,6 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wild Pride ! /// Fierté Indomptable !
-UID:evenement9021 @ http://www.resistancemontreal.org
-DTSTAMP:20260718T125140Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-CREATED:20260718T125140Z
-LAST-MODIFIED:20260718T125410Z 
-LOCATION:Partout
-DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9021
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disorientation
 UID:evenement9108 @ http://www.resistancemontreal.org
 DTSTAMP:20260815T031113Z
@@ -708,6 +679,21 @@ LOCATION:Montréal
 DESCRIPTION:Your intro to organizing on campus and beyond : DisOrientation 2026 🚨 Events include naloxone training\, workshops on sex workers’ rights\, tatreez embroidery\, Palestinian solidarity in Montreal\, grassroots journalism\, and much more... In collaboration with @asfaconcordia @csumtl @radfrosh @organismestella @cutv.community @checkpoint.mtl and more Stay tuned for individual event info + registration ! 🌳 Poster design : @studio_molotov
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9108
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Pride ! /// Fierté Indomptable !
+UID:evenement9021 @ http://www.resistancemontreal.org
+DTSTAMP:20260718T125140Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+CREATED:20260718T125140Z
+LAST-MODIFIED:20260718T125410Z 
+LOCATION:Partout
+DESCRIPTION:About Us Wild Pride was born from a simple realization : real community only exists when the people in that community build it themselves. A community\, that represents us\, supports us\, and gives us space to grow\, cannot be handed down by corporations or institutions. It has to be made by us. In 2025\, a small group of queer people in Montréal\, fed up with corporate pride and the illusion of representation\, decided to push back. Wild Pride is grassroots and volunteer led. It is a platform for queer people in Montréal to practice organizing\, to create the events we want to see\, and to gather with each other without sacrificing our values. Our goal is to help build a vision of community that nourishes us\, strengthens us\, and brings us together in solidarity\, without relying on political or corporate handouts. Wild Pride is built on the belief that we have an obligation to support each other and the land and spaces where we live and play. Without unity and solidarity\, we are vulnerable to being taken advantage of. This vulnerability is exactly what has allowed corporate pride to gain a stranglehold over queer life in Montréal. Pride celebrations can be a huge opportunity for queer creators\, entrepreneurs\, and collectives to gain visibility and support. But these opportunities often come at the cost of our values and our solidarity with other oppressed peoples. We cannot talk about why Wild Pride exists without acknowledging that organizations behind corporate pride are tied to institutions involved in colonial violence and global oppression. These are not abstract concepts. Right now\, people are being displaced\, harmed\, and killed. This is part of a long history of land theft and domination\, from European colonization on this land to other colonial projects around the world. It is important to resist colonialism and oppression wherever we can. Some groups choose direct disruption and we support them. Wild Pride wants to create something in addition : building our own systems of support so we can move away from complicity\, not as isolated individuals but as a strong and organized collective. This is how we strengthen our bonds here at home and with those we feel kinship with abroad. If we want to stand with people in Gaza\, Sudan\, the Congo\, and everywhere else imperialism leaves devastation\, then we must show that we are willing to break our reliance on the institutions that cause that harm. We must show that queer liberation is not tied to corporate or colonial power. Many oppressed peoples around the world see queerness as a Western product used to mask violence. And why wouldn’t they\, our governments and corporations use queer identity as a shield for their image\, and we are encouraged to thank them for it. Wild Pride says no more. If we want a global movement of solidarity\, we must refuse to be used this way. We can only do that by standing together and building something of our own. Wild Pride is an invitation to do exactly that. Our Values Accessibility Accessibility is a political commitment\, not an afterthought. We try our best to curate events and spaces so disabled\, neurodivergent\, low‑income\, and marginalized community members can participate with few barriers. Anti‑Capitalism Capitalism exploits our communities and commodifies queer identity. We build systems of mutual aid and collective care that challenge profit‑first logic at its root. Anti‑Colonialism Wild Pride rejects all forms of colonial domination and stands with peoples resisting land theft\, occupation\, and cultural erasure. Our Pride is rooted in the understanding that queer liberation cannot exist on stolen land without confronting colonial violence. Anti‑Racism We confront anti‑Blackness\, anti‑Indigeneity\, Islamophobia\, and all racialized violence within and beyond queer spaces. Anti‑racism is a daily practice of redistribution\, listening\, and refusing to replicate white supremacy. Anti‑Zionism Anti‑Zionism is part of our anticolonial commitment to opposing occupation\, apartheid\, and state violence. We refuse to let queer identity be used to sanitize oppression. Community Solidarity means showing up for one another materially\, emotionally\, and politically\, especially for Black\, Indigenous\, and racialized communities who face the harshest impacts of oppression. Our liberation is collective\, never individual. Community Care Community care is how we survive in a world that isolates us. We share labor\, resources\, and emotional support so our communities can rest\, heal\, and thrive. Liberation of Oppressed Peoples We align ourselves with communities worldwide resisting imperialism\, extraction\, and militarized violence. Queer liberation is bound up with global struggles for land\, safety\, dignity\, and self‑determination. Prison abolition We hate the police and prisons as much as you do ! 🙂 Pro‑Palestine Wild Pride stands with Palestinians resisting occupation\, apartheid\, and genocide. Our solidarity rejects pinkwashing and affirms that queer liberation is inseparable from global anticolonial struggle. Queer and trans Joy Queer and trans joy is a form of resistance that honors our beauty\, creativity\, and survival. Joy reminds us that liberation is not only struggle\, but celebration. Transformative Justice We address harm through repair\, accountability\, and community support rather than punishment or policing. Transformative justice helps us build structures that prevent harm and strengthen our relationships. Transparency Transparency prevents hierarchy\, ego politics\, and hidden power. We share decisions\, budgets\, and timelines openly so our community can trust the process and participate fully.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9021
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -753,6 +739,21 @@ LOCATION:Partout
 DESCRIPTION:Joignez-vous au mouvement dans les stationnements des cégeps et des universités du Québec La semaine du 21 septembre 2026\, organisez des actions positives inspirées de l’événement international PARK(ing) Day ! LibERE TON STATIONNEMENT ! LibERE TON STATIONNEMENT !Aménagés pour garer les voitures pendant que nous travaillons ou étudions\, les stationnements sont des lieux d’immobilité par excellence. Généralement asphaltés\, les stationnements sont aussi d’importants îlots de chaleur qui nuisent à la santé. Le temps d’une journée\, transformez votre stationnement local en un espace vivant et célébrez une autre manière de se déplacer au travail ou aux études ! Libérez des cases de stationnement et faites-en un lieu de rassemblement convivial ou d’éducation populaire. Organisez cette journée d’activités en collaboration avec votre institution\, votre comité environnement\, votre association étudiante ou votre syndicat\, et profitez-en pour réfléchir collectivement\, par exemple\, à l’aménagement urbain autour de l’automobile et au sous-financement du transport collectif qui contribuent au maintien de la dépendance à l’automobile. LibERE TON STATIONNEMENT !Cette journée d’action est mise de l’avant par le groupe de travail en mobilisation enseignante du projet Transformations en cours. Elle fait partie du plan d’action élaboré lors des États généraux de l’enseignement pour la transition écologique et sociale de janvier 2026. Transformations en cours À propos du PARK(ing) Day Le PARK(ing) Day est un événement international ayant vu le jour à San Francisco en 2005. Son objectif est de mobiliser la population dans le but de transformer temporairement des places de stationnement en espaces personnalisés\, engagés et conviviaux. Il se tient le 3e vendredi du mois de septembre. Pendant cette journée\, des espaces bétonnés deviennent ainsi des lieux d’initiatives citoyennes\, créatives et écologiques. À l’occasion d’une parenthèse ludique\, informative et participative\, le public est donc invité à réfléchir au partage de l’espace urbain. Ce dernier est alors conçu comme un lieu d’implication citoyenne et d’échanges sur des enjeux contemporains\, notamment environnementaux. L’activité met aussi l’accent sur la revitalisation des centres-villes\, la place de la voiture et le lien social au cœur de la cité. Références Carte des îlots de chaleur urbains au Québec de l’INSPQ Guide de mise en œuvre d’un stationnement écoresponsable enjeux environnementaux et moyens concrets pour verdir les stationnements Guide d’organisation (en français) pour l’organisation d’un PARK(ing) Day local réussi. Pour informations : contactez Nova Doyon\, co-coordonnatrice du projet. Carte des vulnérabilités aux vagues de chaleur de l’Université Laval
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9104
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foire paysanne
+UID:evenement9147 @ http://www.resistancemontreal.org
+DTSTAMP:20260827T222616Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261003
+CREATED:20260827T222616Z
+LAST-MODIFIED:20260827T223008Z 
+LOCATION:Terrain vague Hochelaga , Friche ferroviaire\, antenne Longue-Pointe (entrée au sud de la rue Rouen\, à l’intersection de la rue Viau) 
+DESCRIPTION:Marché paysan et kiosques militants 10 h à 17 h C’est le retour du marché paysan du terrain vague. Organisé avec les greniers agricoles\, les fermes maraîchères les Jardinosaures et Aux 3 petits pois seront présentes. Une belle occasion pour faire le plein de légumes frais\, miel\, et autres surprises et soutenir une agriculture respectueuse de la terre et du vivant. Panel discussion : Luttes contre les pesticides 11 h En réponse à un appel international des Soulèvements de la terre contre les pesticides en cette journée du 3 octobre\, Les greniers agricoles vous convient à un échange avec XXX. Ce moment de réflexion est une contribution à la lutte contre l’empoisonnement du monde. (texte à confirmer) Dîner 12 h 30 Repas collectif offert par le Comité environnement du Conseil central du Montréal métropolitain de la CSN 13 h 30 : Panel discussion : Nous ne sommes pas seul·es – 10 ans de luttes et d’alliances Les luttes populaires sont nombreuses et durant les 10 ans de mobilisation\, nous avons pu faire des rencontres et des alliances avec de nombreux groupes. Comment vont nos luttes alliées ? Comment continuer ensemble à renforcer nos capacités collectives ? Voici les questions qui seront discutées pour célébrer 10 ans de lutte et d’alliances afin de réfléchir nos luttes en commun. 16 h Gala des 10 ans. Les Conteneurs d’or Friche ferroviaire\, antenne Longue-Pointe (Entrée au sud de la rue Rouen\, à l’intersection de la rue Viau Venez à la remise des prix « Conteneur d’or » décernés dans le cadre du Gala des 10 ans. Un gala pas du tout protocolaire pour souligner les faits d’armes de ceux et celles qui ont marqué la lutte pour le meilleur et parfois aussi pour… le pire. À partir de 17 h 30 Souper\, DJ\, musicien·es militant·es et party Repas collectif au menu végétarien aux rythmes du DJ. La suite en festivités !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9147
 
 STATUS:CONFIRMED
 END:VEVENT
