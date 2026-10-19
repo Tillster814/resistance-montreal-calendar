@@ -10,21 +10,6 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
-SUMMARY:Tsí Tkarón:to (Toronto) Anarchist Bookfair
-UID:evenement8874 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20261017T150000Z
-DTEND:20261017T160000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Tsí Tkarón:to (Toronto), United Steelworkers Hall\, 25 Cecil St 
-DESCRIPTION:Announcing the 2026 Tsí Tkarón:to Anarchist Bookfair : a gathering place for anarchists and our friends to come together and share ideas\, build relationships\, and rekindle the spirit of anarchy in so-called Toronto !
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8874
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Projection de films pour la Palestine devant la caisse de de dépôts et placements
 UID:evenement9107 @ http://www.resistancemontreal.org
 DTSTAMP:20260815T030421Z
@@ -280,6 +265,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Causerie et lancement du roman de Nyla Matuk\, « Leila and Khaled »
+UID:evenement9407 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T121856Z
+DTSTART:20261023T223000Z
+DTEND:20261023T141800Z
+CREATED:20261017T121856Z
+LAST-MODIFIED:20261017T121856Z 
+LOCATION:Librairie féministe L’Euguélionne, 1426 Beaudry (métro Beaudry) 
+DESCRIPTION:Causerie et lancement du roman de Nyla Matuk\, « Leila and Khaled » (House of Anansi\, 2026) avec Sarah Nicole Prickett\, le vendredi 23 octobre à la Librairie Féministe L’Euguélionne\, située en face de la station de métro Beaudry. Nyla Matuk est poète et autrice montréalaise (Sumptuary Laws\, Stranger\, Resisting Canada). @nylamatuk Sarah Nicole Prickett est autrice\, critique littéraire et d’art\, éditrice\, et organisatrice. Ses essais et ses critiques ont été publiés dans n+1\, The New Inquiry et de nombreuses autres publications. Elle contribue régulièrement à Bookforum. Leila\, a Palestinian Canadian film scholar\, joins a delegation of academics on her first journey to Occupied Palestine. What begins as an intellectual pilgrimage becomes an intimate\, destabilizing return to an ancestral land her family was exiled from. There\, she meets Khaled—a younger Palestinian man who pulls her into a mesmeric trance of desire\, curiosity\, and confrontation. Their brief\, charged affair unfolds in a landscape shaped by rupture and resistance\, each of them bearing different inheritances of the same loss. Leila and Khaled is a love story and a reckoning—a lyrical\, unflinching meditation on belonging\, memory\, and the enduring wounds of colonialism.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9407
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Réparothon (pour les vélos)
 UID:evenement9011 @ http://www.resistancemontreal.org
 DTSTAMP:20260711T122938Z
@@ -310,6 +310,36 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinema Politica : In This Together
+UID:evenement9408 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T122715Z
+DTSTART:20261103T000000Z
+DTEND:20261103T142600Z
+CREATED:20261017T122715Z
+LAST-MODIFIED:20261017T122715Z 
+LOCATION:Concordia University - Hall Building, Local H-110\, 1455 Maisonneuve W (metro Guy) 
+DESCRIPTION:Dutch Uber drivers organize for labour rights\, against billionaire tech bros’ plans to enslave the working class.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9408
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Politica : The Wind's Thirst
+UID:evenement9409 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T122812Z
+DTSTART:20261110T000000Z
+DTEND:20261110T142700Z
+CREATED:20261017T122812Z
+LAST-MODIFIED:20261017T122812Z 
+LOCATION:Concordia University - Hall Building, Local H-110\, 1455 Maisonneuve W (metro Guy) 
+DESCRIPTION:In the wind-scoured desert of La Guajira\, where rivers dry\, and machines tear open the land\, three Wayuu guardians rise against a siege disguised as progress. Tita\, a young elder rooted in ancestral wisdom\, sees wind-energy giants arrive with smooth promises masking the same old theft—land stripped\, voices muted\, communities fractured. Misael lives on the edge of a wound\, the coal mine that devours rivers and poisons the air\, yet he stays and fights\, guided by dreams where the Bruno River still flows. Jazmine’s war is political and intimate\, a voice for Wayuu women against corruption and patriarchal chains ; when her sister is taken too soon\, grief turns to fire. The Wind’s Thirst is a story of defiance\, of a people who refuse to disappear\, because for the Wayuu\, to resist is to remember\, and remembering is survival.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9409
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Frigo Vert - Come over for tea
 UID:evenement9283 @ http://www.resistancemontreal.org
 DTSTAMP:20260926T123027Z
@@ -336,6 +366,21 @@ LOCATION:10985 Alfred, (à côté de la pateaugoire)
 DESCRIPTION:☀️ C’est l’été\, ce qui veut dire une chose : les réparothons sont de retour dans les parcs ! 🚲🛠️ Tu as un vieux vélo qui traîne ? Tu aimerais qu’il reprenne la route ? C’est le moment de le sortir et de le faire réparer gratuitement ! Notre équipe sera dans les parcs à Montréal-Nord pour t’aider à réparer ton vélo\, apprendre quelques bases de mécanique et échanger dans une ambiance chaleureuse. Les réparothons\, c’est bien plus que de la mécanique. C’est se rencontrer\, partager des connaissances et rendre le vélo accessible. Peu importe ton âge ou ton niveau\, passe nous voir ! Viens avec ton vélo\, tes questions ou simplement pour jaser avec nous. On a hâte de te retrouver dans les parcs 🌳
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9012
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gala de luttes III 10$
+UID:evenement9410 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T123331Z
+DTSTART:20261218T003000Z
+DTEND:20261218T143000Z
+CREATED:20261017T123331Z
+LAST-MODIFIED:20261017T123331Z 
+LOCATION:IWS – L’enfer, 4609 Rue D'Iberville (métro Frontenac) 
+DESCRIPTION:Pour souligner la fin de l’année\, le Conseil central du Montréal métropolitain – CSN vous invite à son traditionnel Gala de luttes ! Nous célébrerons nos luttes syndicales\, anti-capitalistes et pour les droits des personnes LGBTQ+\, entre autres ! Date : 17 décembre Lieu : IWS – L’enfer\, 4609 Rue D'Iberville Heure : 19h30 Humour avec Caro Monast 1er match : Sexxxy Eddy VS Alex Mase 2e match : Kacey Diamond VS HEAVY Rox 3e match : Fred Romeo VS Marko Estrada 4e match : James Le Saint Tavares et Johnny C VS Thomas Dubois et Mathieu St Jaques Boissons vendues sur place Évènement bénéfice pour nos syndicats en conflit Les billets sont en vente au cout de 10$ - lien pour acheter les billets disponible bientôt
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9410
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -415,6 +460,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Journée de l'Association des travailleurs grecs du Québec - Projection du documentaire
+UID:evenement9411 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T123842Z
+DTSTART:20261025T190000Z
+DTEND:20261025T143700Z
+CREATED:20261017T123842Z
+LAST-MODIFIED:20261017T123842Z 
+LOCATION:Association des travailleurs grecs du Québec Ergatikos, 5359 Parc (métro Laurier) 
+DESCRIPTION:Ο Εργατικός Σύλλογος σας προσκαλεί στην Ημέρα του Εργατικού Συλλόγου\, μια εκδήλωση για να τιμήσουμε\, να θυμηθούμε και να συνεχίσουμε την ιστορία μας. Θα προβληθεί για πρώτη φορά το ντοκιμαντέρ του Εργατικού Συλλόγου. 📅 Κυριακή 25 Οκτωβρίου\, στις 3:00 μ.μ. 📍 Στην αίθουσα του Συλλόγου\, 5359 Ave du Parc ΕΙΣΟΔΟΣ ΕΛΕΥΘΕΡΗ *** L’Association des travailleurs grecs du Québec vous invite à sa Journée\, un événement pour honorer\, se souvenir et continuer son histoire. Le documentaire de l’Association sera présenté pour la première fois. 📅 Le dimanche 25 octobre à 15 h 📍 Dans la salle de l’Association\, 5359\, avenue du Parc ENTRÉE LIBRE
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9411
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vigil for Palestine
 UID:evenement9015 @ http://www.resistancemontreal.org
 DTSTAMP:20260711T123950Z
@@ -471,6 +531,21 @@ LOCATION:Coop La Livrerie, 1289 Ontario Est (métro Beaudry)
 DESCRIPTION:Heure à déterminer. — Les éditions du Lézard amoureux et la Livrerie vous invitent au lancement de Là où l'espagnol me fait mal de Natalie Fontalvo. — Une femme cherche sa langue à travers les couches de ses multiples vies et les traces du passé. Née au Sud\, habitée par ce qu’elle a laissé derrière\, elle avance entre les histoires familiales qui l’ont construite et cette terre nouvelle qu’il lui faut apprivoiser. S’adressant tour à tour à sa sœur\, ses tantes\, sa mère ou son fils\, la poète défie l’absence et réaffirme la puissance du lien. D’une voix lucide\, explorant minutieusement ce qui constitue son identité\, animée d’une volonté de se lire\, de se dire\, la poète raconte les bateaux qui toujours lèvent l’ancre pour rebricoler l’espoir. En français et en espagnol\, sa poésie éclate avec force et sensibilité\, créant un espace de rencontre entre l’hiver et la savane\, la glace et la mangrove. Du mal du pays aux élans de l’espoir\, ces poèmes célèbrent ce qui persiste\, malgré la distance\, malgré l’errance. j’ai compris trop tard des blocs de glace persistante s’étaient installés comme de la mauvaise herbe había perdido el camino hacia el corral ni siquiera lloré sous l’enclos vivaient aussi mes espèces endogées celles intouchées par des lueurs endothermes inflammables — Autrice\, performeuse\, directrice artistique\, Natalie Fontalvo aurait voulu être pirate ; née au mauvais siècle pour la piraterie\, elle est devenue artiste pluridisciplinaire. Comme ses identités\, la pratique artistique de Natalie est mestiza : littérature\, théâtre\, cinéma\, arts multidisciplinaires. On a pu voir son travail dans la Ville de Québec et à l’international\, dans des salles de diffusion et des festivals. Récipiendaire de plusieurs bourses et distinctions\, elle a été finaliste au Prix Relève professionnelle en Capitale-Nationale en 2023. En arts littéraires\, en plus de sa pratique de la poésie orale\, Natalie a dirigé la création de plusieurs projets littéraires scéniques et audiovisuels\, dont Féroce Croustillant Carnaval (Festival Carrefour\, 2026) et Le vieil homme et la mer (Québec en toutes lettres\, 2023). Elle poursuit par ailleurs une maîtrise en traduction littéraire à l’Université Laval. On a pu lire certains de ses textes dans des revues littéraires et des recueils collectifs\, dont Épidermes et Il y a des joies dont on ignore l’existence (Somme toute\, 2021 ; Diverses Syllabes\, 2022). Son premier recueil de poésie en solo\, Là où l’espagnol me fait mal\, paraît au Lézard amoureux à l’automne 2026\, accompagné d’un spectacle littéraire du même nom produit par Québec en toutes lettres. Elle est aussi la cofondatrice et codirectrice du Festival international de poésie de Québec\, dont la première édition a eu lieu en mars 2026. Depuis 2023\, Natalie est la codirectrice artistique de Spoken word Québec\, où elle travaille à déposer la poésie là où on ne l’attend pas.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9288
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rassemblement : Le droit au logement avant l'armement
+UID:evenement9412 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T124247Z
+DTSTART:20261112T163000Z
+DTEND:20261112T144100Z
+CREATED:20261017T124247Z
+LAST-MODIFIED:20261017T124247Z 
+LOCATION:Devant le musée des fusiliers du mont-royal, 300 av. des Pins Est (métro Sherbrooke) 
+DESCRIPTION:🪖🍁RASSEMBLEMENT ANTIMILITARISTE pour dénoncer les dépenses accordées à l'économie de guerre ! Pendant ce temps\, il n’y a pas de plan de développement de logement social ambitieux pour répondre aux besoin des locataires ! Les locataires ne veulent pas participer à la course à l’armement\, illes veulent des logements qu’illes peuvent se payer ! Rejoignez nous devant le Musée des Fusiliers à Montréal pour demander du logement social au fédéral ! 𝐄𝐧 𝟐𝟎𝟐𝟓-𝟐𝟎𝟐𝟔\, 𝐥𝐞𝐬 𝐝𝐞́𝐩𝐞𝐧𝐬𝐞𝐬 𝐦𝐢𝐥𝐢𝐭𝐚𝐢𝐫𝐞𝐬 𝐝𝐮 𝐠𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭 𝐟𝐞́𝐝𝐞́𝐫𝐚𝐥 𝐬’𝐞́𝐥𝐞̀𝐯𝐞𝐧𝐭 𝐚̀ 𝟔𝟐\,𝟕 𝐦𝐢𝐥𝐥𝐢𝐚𝐫𝐝𝐬 $. C'est 7 fois le budget de son ministère du Logement\, de l’Infrastructure et des Collectivités. Il prévoit\, à terme\, consacrer un dollar sur trois de tous les revenus du gouvernement en dépenses militaires. Pendant ce temps\, les politiques canadiennes en habitation tendent à réduire les subventions publics et débouchent sur des logements dits « abordables ». Ces logements abordables sont trop chers pour les locataires à faibles et modestes revenus. Pour répondre à la capacité de payer des locataires et pour avoir un effet structurant sur l’ensemble du parc locatif\, il faut des logements sociaux accessibles financièrement dès le premier jour et pour toujours. Pour répondre aux besoins les plus urgents\, le gouvernement du Canada doit : • financer 500 000 logements sociaux en 10 ans ; • garder pour le logement social tout l'argent et les terrains publics prévus pour le logement ; • créer des programmes permanents de logement social\, dont un pour les logements publics comme les HLM. 𝐋𝐨𝐜𝐚𝐭𝐚𝐢𝐫𝐞𝐬\, 𝐞𝐧𝐠𝐚𝐠𝐞𝐳-𝐯𝐨𝐮𝐬 𝐩𝐨𝐮𝐫 𝐥𝐞 𝐥𝐨𝐠𝐞𝐦𝐞𝐧𝐭 𝐬𝐨𝐜𝐢𝐚𝐥. Matériel de mob (affiche\, tract en langage clair) : https://www.frapru.qc.ca/action-armement/ 💌D'ici là\, vous pouvez participer à notre campagne de lettres au fédéral : https://win.newmode.net/.../carneyastuducoeurlelogementso...
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9412
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -595,6 +670,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Manif en vélo pour la Palestine
+UID:evenement9413 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T125043Z
+DTSTART:20261101T180000Z
+DTEND:20261101T144900Z
+CREATED:20261017T125043Z
+LAST-MODIFIED:20261017T125043Z 
+LOCATION:Statue de George-Étienne-Cartier, Coin du Parc/Rachel (métro Mont-Royal) 
+DESCRIPTION:Rejoignez-nous tous les premiers samedis de chaque mois à 13h\, à la statue du Mont Royal. On roule pour arrêter le génocide\, en finir avec sionisme et pour une Palestine libre\, de la rivière jusqu’à à la mer 🚲🇵🇸🔻 Join us on the first Saturday of every month at 1pm\, at the statue at the base of Mount Royal\, as we ride to stop the genocide\, end zionism\, and for a free Palestine\, from the river to the sea ! 🚲🇵🇸🔻
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9413
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UPop - La fierté de Gaza Histoire\, culture et résistance en Palestine
 UID:evenement9302 @ http://www.resistancemontreal.org
 DTSTAMP:20260926T125237Z
@@ -606,6 +696,21 @@ LOCATION:Librairie n’était-ce pas l’été, 6792 St-Laurent (métro de Caste
 DESCRIPTION:La fierté de Gaza Histoire\, culture et résistance en Palestine\, autour du livre La fierté de Gaza\, de Emmanuel Dror (2025) Présentation Dans son livre\, Emmanuel Dror cherche à faire connaître les multiples facettes de ce qui fait la fierté de Gaza\, la créativité\, l’ingéniosité\, le courage… L’histoire et la culture de Gaza\, qui s’inscrivent dans celles de la Palestine\, permettent un regard différent\, qui mêle art et politique. La culture est l’une des formes de résistance de ce peuple\, dans un contexte plus général de lutte contre le joug colonial. Nous n’oublierons pas d’aborder ce que nous\, en occident\, pouvons faire pour soutenir ce peuple qui résiste. Professeur-e(s) DrorChercheur de profession\, Emmanuel Dror est aussi militant internationaliste\, écrivain et journaliste musical. Il participe à la commission internationale de l’Union syndicale Solidaires\, où il coordonne\, avec d’autres\, le travail de solidarité et d’information sur la Palestine\, ainsi qu'à la campagne BDS\, au Fracbi\, aux collectifs Urgence Palestine et Artistes pour la Palestine. Il a participé à de nombreuses formations et conférences\, et écrit des articles dans ce cadre. http://emmanuel.dror.free.fr/
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9302
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Souper de Mob du comité BAILS : Les HORREURS de la gentrification
+UID:evenement9414 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T125609Z
+DTSTART:20261028T220000Z
+DTEND:20261028T145500Z
+CREATED:20261017T125609Z
+LAST-MODIFIED:20261017T125609Z 
+LOCATION:L’Achoppe, 1800 Letourneux (métro Pie-IX) 
+DESCRIPTION:Prochain souper mob du Comité BAILS : les horreurs de la gentrification à Hochelaga Pour ce souper thématique Halloween\, il n’y a pas fallu chercher très loin pour dénicher nos petites horreurs locales : ces proprios qui rachètent en cachette le quartier\, ou encore ces développeurs à qui on accorde des dérogations sans consultation populaire pour leurs tours à condos... Il suffit parfois de quelques recherches pour retrouver dans la pénombre ces monstres de l’immobilier sans visage ; et les gros projets de logement cher\, eux\, passent par les instances publiques de l’arrondissement... encore plus facile ! Il semble donc tout indiqué de profiter de l’Halloween pour nous éduquer à leur sujet. Know your ennemies ! Nous vous accueillerons le MERCREDI 28 OCTOBRE À 18H à l’Achoppe avec un bon souper chaud (gratuit !) préparé par nos membres. Si vous voulez venir plus tôt\, on prend toujours de l'aide pour cuisiner ! Ensuite nous passerons à un jeu participatif pour nous réapproprier collectivement la connaissance de notre quartier.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9414
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -640,122 +745,32 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BQAM-e : De scrap à strappe
-UID:evenement8981 @ http://www.resistancemontreal.org
-DTSTAMP:20260704T130831Z
-DTSTART:20260708T210000Z
-DTEND:20260708T150600Z
-CREATED:20260704T130831Z
-LAST-MODIFIED:20260704T130831Z 
-LOCATION:BQAM-e, 200 Sherbrooke Ouest\, pavillon SH\, local SH-R315 (métro Place-des-Arts) 
-DESCRIPTION:On vous invite à venir apprendre comment faire des sangles ajustables (straps) à partir de vieux rayons et chambres à air ! On donne l'atelier de 5 à 7 mercredi le 8 juillet qui vient. Rendez-vous à BQAM-E\, mais on va se déplacer dehors pour l'atelier en tant que tel. C'est gratuit et vous repartez avec vos straps.
+SUMMARY:Grand rassemblement des ateliers de vélo communautaires de Montréal - le retour du calendrier des mécanos
+UID:evenement9415 @ http://www.resistancemontreal.org
+DTSTAMP:20261017T130447Z
+DTSTART:20261023T220000Z
+DTEND:20261023T150300Z
+CREATED:20261017T130447Z
+LAST-MODIFIED:20261017T130447Z 
+LOCATION:Café Sain Fractal, 200 Sherbrooke Ouest\, pavillon SH\, à côté de l'atelier de BQAM-e (métro Place-des-Arts) 
+DESCRIPTION:Cette année BQAM-E acceuille le Grand Rassemblement des ateliers communautaires de Montréal ! 🎇 Pour l'occasion\, ce sera le grand retour du CALENDRIER DES MÉCANOS en dormance depuis 7 ans📆🛠 ! Une initiative de Bécyks Unis Montréal (BUM) qui vise à financer les ateliers. Ça se passe vendredi prochain 18h au Café Sain Fractal juste à côté de l'atelier. Bouffe + Musique + Rafraîchissements + Calendrier Merci à Simon Pariseau pour le visuel de l'affiche !
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8981
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9415
 
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garage Sale Fundraiser
-UID:evenement9121 @ http://www.resistancemontreal.org
-DTSTAMP:20260822T134741Z
-DTSTART:20260822T140000Z
-DTEND:20260822T154500Z
-CREATED:20260822T134741Z
-LAST-MODIFIED:20260822T134741Z 
-LOCATION:4735 ch. de la Côte-Ste-Catherine, (métro Côte-Ste-Catherine) 
-DESCRIPTION:Come join us along with @anakbayanmtl and @ichrp.quebec for our garage sale to fundraise to support our programs and also delegates attending the upcoming iCHRP conference in Toronto in September. 10 am - 4 pm Outside of Project Genesis (4735 Chem. de la Côte-Sainte-Catherine) Nearest metro Cote st. Catherine See you there !
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9121
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Education and Revolution : Course
-UID:evenement9122 @ http://www.resistancemontreal.org
-DTSTAMP:20260822T135029Z
-DTSTART:20260919T170000Z
-DTEND:20260919T154800Z
-CREATED:20260822T135029Z
-LAST-MODIFIED:20260907T145127Z 
-LOCATION:CSU Lounge, 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest)\, metro Guy-Concordia 
-DESCRIPTION:Education & Revolution is a free six-week course for educators presented by Remaking Education as Care\, Emancipation\, Struggle\, and Solidarity (RECESS)\, with support from the Pan African Student Union\, Socialist Unity\, Migrante Quebec\, and Anakbayan Montreal.The goal of the course is to compare the role of education in revolutionary resistance movements to its role in state projects established following the victory of such movements. The course will begin by studying ongoing struggles and progress toward nation-states established through popular liberation fronts. The topics of study will be the Landless Workers' Movement in Brazil\, the Zapatistas Army of National Liberation in Chiapas\, the People's Democratic Revolution in the Philippines\, Somalia and the Socialist Constitution\, Eritrea\, and the Democratic People's Republic of Korea\, in that order. The course is designed for student teachers\, working teachers\, community educators\, and organizers. However\, anyone interested in the course content is welcome to participate. Though this is the second part the Education & Revolution curriculum\, participants need not have attended the first part of the course to understand the material or register. Weekly two-and-a-half-hour lessons will take place on Saturday afternoons. Each lesson will consist of a roughly one-and-a-half-hour lecture followed by group discussion activities. Registration is optional. The dates of each lesson are : September 19\, September 26\, October 3\, and October 17\, October 24\, and October 31 from 1:00 pm to 3:30 pm. The course will be given in English at the CSU Lounge on the 7th floor of the Henry F. Hall Building (Room H701 - 1455 Blvd. De Maisonneuve Ouest). Accessibility : The building has an elevator accessible from street level. There is a prayer room nearby the CSU lounge.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9122
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trans Oil Wrestling
-UID:evenement9036 @ http://www.resistancemontreal.org
-DTSTAMP:20260718T135055Z
-DTSTART:20260808T220000Z
-DTEND:20260808T154900Z
-CREATED:20260718T135055Z
-LAST-MODIFIED:20260718T135055Z 
-LOCATION:Boisé Steinberg, (métro Viau) 
-DESCRIPTION:[This event was delayed from July 1st] It's salacious\, it vicious\, sit back and watch the show or make out in the corner. Tearing up our bodies is free and that's why it's great. When : August 8th\, 18:00 Where : Boisé Steinberg\, Montréal Price : Free for all trans people but if you bring a cis friend tell them it's 5$ and pocket the money (or give it to us as a donation) Accessibility : Seating at the front will be reserved. Noise level : loud\, but we'll keep it manageable. Location : outside on rough ground. Please tell us if there is anything we can do to accommodate you.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9036
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RadFrosh Show 15$
-UID:evenement9128 @ http://www.resistancemontreal.org
-DTSTAMP:20260822T135419Z
-DTSTART:20260830T003000Z
-DTEND:20260830T155200Z
-CREATED:20260822T135419Z
-LAST-MODIFIED:20260822T135419Z 
-LOCATION:Kawalees, 5175A Avenue du Parc (métro Laurier) 
-DESCRIPTION:August 29th at Kawalees 🎸🤸💖 For our community event\, Rad Frosh will be welcoming Vitamin Pink\, Bloodfarts\, and The Vauxhalls for one big night of awesome music\, friendship\, and good times ‼️ This show is open to froshies and the general public. Discounted tickets for froshies can be purchased with your general frosh ticket. Can’t wait to see you there… Thank you to our co-presenter CKUT 90.3 FM General tickets Doors 8:30pm\, show at 9pm Kawalees (5175A Avenue du Parc)
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9128
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manif-action contre le logement cher
-UID:evenement8869 @ http://www.resistancemontreal.org
+SUMMARY:Tsí Tkarón:to (Toronto) Anarchist Bookfair
+UID:evenement8874 @ http://www.resistancemontreal.org
 DTSTAMP:20000101T050000Z
-DTSTART:20260701T150000Z
-DTEND:20260701T160000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T160000Z
 CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T235632Z 
-LOCATION:Métro L'Assomption, (métro l'Assomption) 
-DESCRIPTION:(ENGLISH WILL FOLLOW) Le 1er juillet 2026\, à 11h\, la Coalition contre le logement cher (COLOC) tient sa toute première manif-action\, simultanément à ??????́ ?? et à ???́ ???.À Montréal : venez profitez d'un BBQ festif ! ???? ?? ??́ ???? : coin du Boulevard de l'Assomption et de la rue de Marseille (métro L'Assomption)\, un site revendiqué pour du logement social ! ???????? ?? ??? ??????? ? Parce que c'est la journée des déménagements. Le jour où la crise du logement cher ne peut être ignorée\, où des milliers de locataires se retrouvent à la rue. Pendant ce temps\, le gouvernement du Québec ne prend pas les mesures qui s'imposent\, il empire la situation. À l'approche des élections\, aucun parti ne pourra contourner la question du logement. Le 1er juillet\, on le leur rappelle. ??? ?????????????? On exige des solutions structurantes\, à la hauteur de la crise : Un réel contrôle des loyers au Québec. Le développement massif du logement social. L'inscription du droit au logement dans la Charte des droits et libertés ???? ?? ????? ???? (?? ????) ?̂ ??? ??̀ ! Locataires\, jeunes\, familles\, aîné·es\, allié·es syndicaux et communautaires\, citoyen·nes solidaires : c'est votre manif-action. Notre moment. Du transport sera organisé depuis plusieurs régions. Contactez votre comité logement local. Marquez la date\, cliquez « Je participe »\, et invitez 10 personnes. Et encore 10 ! ????? ?? ??? ??????? : ???????? ?? ??????̀ ?? On lance une vague de bannières sur les balcons et aux fenêtres du Québec. Affiche ta participation. Le principe est simple : une bannière (qui peut être une bâche bleue\, en hommage à la lutte des locataires du Manoir Lafontaine)\, un message court\, un appel. Deux idées de textes\, mais tout élan créatif bienvenu : « Je paie trop cher ! facebook.com/logementcher » « Je paie trop cher ! Toi aussi ? Viens manifester avec la Coalition contre le logement cher. 1er juillet\, 11h\, Métro l'Assomption » Partage tes photos avec #logementcher et tague @logementcher.---- ???????ON JULY 1st\, 2026\, JOIN US IN THE STREETS AGAINST THE HIGH COST OF HOUSING ! On July 1st\, 2026\, at 11am\, the Coalition Against High Housing Costs (COLOC) holds its very first manif-action\, simultaneously in ??????́ ?? and ???́ ???.In Montreal : come enjoy a festive BBQ ! ???????? ????? : corner of Boulevard de l'Assomption and rue de Marseille (Assomption metro station) : a site being claimed for social housing ! ??? ???? ???? Because it's moving day. The day when the housing crisis can no longer be ignored — when thousands of tenants find themselves out on the street. Meanwhile\, the Quebec government isn't taking the necessary action. It's making things worse. With elections on the horizon\, no party will be able to sidestep the housing question. On July 1st\, we're reminding them. ??? ??????? We demand real\, structural solutions\, ones that match the scale of this crisis : 1. True rent control in Quebec. To stop tenants from being pushed into poverty. 2. Massive investment in social housing. So that everyone can have a roof over their heads. 3. The right to housing enshrined in the Charter of Rights and Freedoms. So the law actually protects it. ???????? ??? (??? ??????) ?? ?????! Tenants\, youth\, families\, seniors\, union and community allies\, solidarity citizens : this is your manif-action. Our moment. Transportation will be organized from several regions. Contact your local housing committee. Save the date\, click "Going"\, and invite 10 people. Then 10 more ! ?????? ???? ??? : ???? ???? ?????? We're launching a wave of banners on balconies and in windows across Quebec. Show your solidarity. The idea is simple : a banner (a blue tarp works great\, as a nod to the tenant struggle at Manoir Lafontaine)\, a short message\, a call to action. Two suggested messages — but all creative ideas are welcome : "I'm paying too much ! facebook.com/logementcher" "I'm paying too much ! Are you ? Come rally with the Coalition Against High Housing Costs. July 1st\, 11am\, Assomption Metro." Share your photos with #logementcher and tag @logementcher. Housing is a right !
+LAST-MODIFIED:20260703T194352Z 
+LOCATION:Tsí Tkarón:to (Toronto), United Steelworkers Hall\, 25 Cecil St 
+DESCRIPTION:Announcing the 2026 Tsí Tkarón:to Anarchist Bookfair : a gathering place for anarchists and our friends to come together and share ideas\, build relationships\, and rekindle the spirit of anarchy in so-called Toronto !
 CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8869
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faire la nation\, défaire des corps : lecture critique des lois 21\, 94\, 9
-UID:evenement9115 @ http://www.resistancemontreal.org
-DTSTAMP:20260815T141404Z
-DTSTART:20260820T220000Z
-DTEND:20260820T161200Z
-CREATED:20260815T141404Z
-LAST-MODIFIED:20260815T141404Z 
-LOCATION:Centre St-Pierre, 1212 Panet (métro Beaudry) 
-DESCRIPTION:Rencontre-échange avec la Dre Zeinab Diab Faire la nation\, défaire des corps : lecture critique des lois 21\, 94\, 9 Jeudi 20 août à 18h30\, le collectif de lutte contre l'islamophobie reçoit la Dre Zeinab Diab pour une rencontre-échange. Situés dans une démarche anti-oppressive\, ses travaux de recherche sont une contribution importante centrée sur le vécu et la résistance des musulmanes visées par les lois islamophobes au Québec\, tout en élaborant une réflexion approfondie sur la pratique religieuse\, la laïcité\, la colonialité et le féminisme. L'événement est gratuit\, mais les places sont limitées\, l'inscription est donc fortement recommandée\, Nourriture et breuvages seront offerts. Lieu : Centre Saint-Pierre\, 1212 Panet\, Salle 203\, métro Beaudry. Accessible aux personnes à mobilité réduite. Bio:Dre Zeinab Diab est originaire du Liban-Sud et Québécoise d’adoption. Elle est chercheuse en sciences des religions\, autrice et conférencière. Ses travaux portent sur la laïcité québécoise\, l'islamophobie genrée et les études critiques musulmanes.Lauréate du Prix du 125e de l’Université de Montréal pour sa thèse de doctorat sur le sujet de la laïcité au Québec\, ses travaux ont été cités à l'Assemblée nationale du Québec et contribuent aux débats publics sur les droits fondamentaux\, la liberté de religion et l’islamophobie.Chercheuse engagée\, elle développe une réflexion située au croisement de la recherche\, de l'expérience vécue et de l'engagement citoyen. Elle est l'autrice de « Au nom de la laïcité : islamophobie genrée et mort sociale »\, à paraître à l'automne 2026 aux Éditions du Remue-ménage.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9115
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Protégeons le Parc Jarry. Allons dire à Soraya qu'un stade dans un parc c'est NON
-UID:evenement9129 @ http://www.resistancemontreal.org
-DTSTAMP:20260822T143333Z
-DTSTART:20260824T220000Z
-DTEND:20260824T163200Z
-CREATED:20260822T143333Z
-LAST-MODIFIED:20260822T143333Z 
-LOCATION:hôtel de ville de montréal, (métro champ-de-mars) 
-DESCRIPTION:@tout le monde Rendez-vous le 24 août à 18:00 devant l’Hotel de ville de Montréal. 275\, rue Notre-Dame Est Montréal Allons \,nombreuses et nombreux \, dire à Madame Ville ce que pensons de cette injure à notre intelligence ! Un stade\, dans le Parc Jarry\, à Parc Extension. En 2026 c'est NON….. Cette administration est du mauvais côté de l histoire ! Ce manque de vision est pathétique. Il est urgent que nous\, Montréalaises et \, reprenions le contrôle de NOTRE VILLE.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9129
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8874
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -1490,21 +1505,6 @@ LOCATION:1255 Ste-Catherine Ouest, (métro Peel)
 DESCRIPTION:MANIFESTATION CONTRE LES ÉTATS-UNIS ET « AMERICA 250 » • ANTI-USA / “AMERICA 250” PROTEST PHOQUE LE TRUMPISME PHOQUE L’IMPÉRIALISME PHOQUE LE FASCISME ?Devant le Apple Store au centre-ville de Montréal | In front of downtown Montreal’s Apple Store ? 13h30\, 4 juillet 2026 | 1:30pm\, 4th of July 2026 ? Après la manif\, nous allons rejoindre @espace.lesrevoltes (événement non affilié au nôtre) pour une vente de garage\, un BBQ et un film ! | After the protest\, come join us at Les Révoltes (independently organized event) for a garage sale\, BBQ and movie ! ?️ Partagez largement ! | Share widely !
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8938
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manif en vélo pour la Palestine
-UID:evenement8888 @ http://www.resistancemontreal.org
-DTSTAMP:20000101T050000Z
-DTSTART:20260704T170000Z
-DTEND:20260704T180000Z
-CREATED:20000101T050000Z
-LAST-MODIFIED:20260703T194352Z 
-LOCATION:Statue de George-Étienne-Cartier, Coin du Parc/Rachel (métro Mont-Royal) 
-DESCRIPTION: ? MANIF À VÉLO — Statue du Mont-Royal ? BIKE PROTEST — MONT ROYAL STATUE ????
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=8888
 
 STATUS:CONFIRMED
 END:VEVENT
