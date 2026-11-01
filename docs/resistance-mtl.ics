@@ -25,6 +25,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brazil x Canada : Rock Without Borders
+UID:evenement9497 @ http://www.resistancemontreal.org
+DTSTAMP:20261101T031308Z
+DTSTART:20261106T000000Z
+DTEND:20261106T051000Z
+CREATED:20261101T031308Z
+LAST-MODIFIED:20261101T031308Z 
+LOCATION:Les foufounes électriques, 87 Ste-Catherine Est (métro St-Laurent) 
+DESCRIPTION:🔥 Une soirée rock explosive aux Foufounes Électriques ! 🤘 Le 5 novembre\, Bad Skin réunit la scène rock québécoise et brésilienne pour une soirée électrisante avec Bad Skin\, Exterio\, Trampa et Two Silent Decades. Une célébration du rock\, du punk et de la musique sans frontières\, où l’énergie brute rencontre la passion et la solidarité entre artistes. 🇨🇦🇧🇷 📍 Foufounes Électriques\, Montréal 📅 5 novembre 🕖 Dès 19 h
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9497
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Visite Guidée ; Des Usines aux Luttes pour le Droit au Logement à Pointe-Saint-Charles
 UID:evenement9114 @ http://www.resistancemontreal.org
 DTSTAMP:20260815T031331Z
@@ -741,21 +756,6 @@ LOCATION:Librairie Zone libre, 262 Ste-Catherine Est (métro Berri)
 DESCRIPTION:Le genre à travers la caméra Présentation C’est quoi une manic pixie dream girl ? En quoi Buffy a-t-elle révolutionné la représentation féminine au petit écran ? Qu’est-ce que Love is Blind et Occupation Double nous apprennent sur les représentations de genre et du couple ? Est-ce qu’un film de Christopher Nolan a un jour passé le test de Beschdel ? Est-ce à moi que Brigitte Bardot s’adressait dans le film « Le Mépris » quand elle disait « Tu les trouves jolies mes fesses ? » Qu’est-ce que Scar\, Hadès\, Ursula et Jafar ont en commun ? Pourquoi les femmes hétérosexuelles tripent autant sur Heated Rivalry ? Ce sont quelques-unes des questions auxquelles nous répondrons cet automne dans le cadre des séances « le genre à travers la caméra » pour l’Upop ! De Titanic à Fleabag\, Basic Instinct à The Handmaid’s Tale\, du blockbuster au film d’auteur\, ces cours proposent une plongée au cœur des représentations du genre sur nos écrans. Nous mobiliserons des auteur-rices\, des artistes et beaucoup de contenus vidéo pour comprendre comment nous bâtissons nos stéréotypes de genre\, les fonctions que ceux-ci ont\, la manière dont le patriarcat s’est emparé de la caméra et enfin les formes de résistances que l’on peut opposer à cette objectification. Parce que les spectateur-rices ne veulent pas (toujours) faire les voyeurs et pour que ce soit enfin aux personnages masculins de demander « What do we do now ? » Professeur-e(s) Clotilde Séjourné« Clotilde Séjourné est doctorante en communication et chargée de cours à l’université de Montréal. Ses intérêts de recherche portent sur les enjeux de santé des femmes et des personnes de la communauté LGBTQIA+ ainsi que sur la coexistence d’expertises scientifiques et expérientielles en santé. Elle exerce également comme chargée des communications et partenariats à l’institut de recherche Michael Penner sur les enjeux environnementaux\, sociaux et de gouvernance. »
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9294
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rassemblement féministe pour un quartier sécuritaire
-UID:evenement9313 @ http://www.resistancemontreal.org
-DTSTAMP:20260927T125100Z
-DTSTART:20261006T153000Z
-DTEND:20261006T144800Z
-CREATED:20260927T125100Z
-LAST-MODIFIED:20260927T125100Z 
-LOCATION:Coin Ontario/Lespérance, (métro Frontenac ou Préfontaine) 
-DESCRIPTION:Nous seront au coin des rues Ontario et Lespérance Rassemblement organisé par La Marie Debout et le Centre d'éducation et d'action des femmes. Pour plus d'informations : 514-524-3901
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9313
 
 STATUS:CONFIRMED
 END:VEVENT
