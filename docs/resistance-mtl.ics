@@ -100,6 +100,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Que mille serveurs fleurissent : Autistici/Inventati et la lutte pour un internet autonome
+UID:evenement9498 @ http://www.resistancemontreal.org
+DTSTAMP:20261103T124754Z
+DTSTART:20261109T200000Z
+DTEND:20261109T134500Z
+CREATED:20261103T124754Z
+LAST-MODIFIED:20261103T124754Z 
+LOCATION:UQAM\, local J-M400, Pavillon Judits-Jasmin de l'UQAM\, local J-M400 (métro Berri) 
+DESCRIPTION:Que mille serveurs fleurissent : Autistici/Inventati et la lutte pour un internet autonome Cet atelier s'intérèssera à l'histoire d'Autistici / Inventati (A/I)\, un groupe hacktiviste italien qui fournissait des services de communication sur Internet à des collectifs opposés au fascisme\, au militarisme\, au racisme\, au sexisme\, à l'homophobie et à la transphobie. En août 2026\, l'administration Trump a inscrit ce groupe sur sa liste des organisations terroristes mondiales spécialement désignées (SDGT)\, créant un précédent dangereux pour les infrastructures autonomes. Nous explorerons le contexte de sa création\, qu'est-ce qu'ielles offraient à l'écosystème activiste\, la fin du collectif 25 ans après sa création ainsi que quoi faire après.💾 Quand : lundi 9 novembre à 15 h 💻 Où : UQAM\, salle J-M400 (accessible depuis la station de métro Berri-UQAM) Cet atelier s'inscrit dans le cadre de la semaine de l'écologie sociale organisée par le GRIP-UQAM\, en solidarité avec la grève des CRUES contre l'austérité. Page d'évènement : https://www.ilot.io/atelier-autistici-inventati/index.fr.html Atelier par Ilot\, un comité du GRIP-UQAM
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9498
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vigile commémorative pour Nooran Rezayi
 UID:evenement9183 @ http://www.resistancemontreal.org
 DTSTAMP:20260902T115055Z
@@ -741,21 +756,6 @@ LOCATION:Online
 DESCRIPTION:The Final Judgment will be livestreamed at 9:30am EDT on Wednesday\, September 30th.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9312
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UPop - Le genre à travers la caméra
-UID:evenement9294 @ http://www.resistancemontreal.org
-DTSTAMP:20260926T124756Z
-DTSTART:20261019T220000Z
-DTEND:20261019T144600Z
-CREATED:20260926T124756Z
-LAST-MODIFIED:20260926T124756Z 
-LOCATION:Librairie Zone libre, 262 Ste-Catherine Est (métro Berri) 
-DESCRIPTION:Le genre à travers la caméra Présentation C’est quoi une manic pixie dream girl ? En quoi Buffy a-t-elle révolutionné la représentation féminine au petit écran ? Qu’est-ce que Love is Blind et Occupation Double nous apprennent sur les représentations de genre et du couple ? Est-ce qu’un film de Christopher Nolan a un jour passé le test de Beschdel ? Est-ce à moi que Brigitte Bardot s’adressait dans le film « Le Mépris » quand elle disait « Tu les trouves jolies mes fesses ? » Qu’est-ce que Scar\, Hadès\, Ursula et Jafar ont en commun ? Pourquoi les femmes hétérosexuelles tripent autant sur Heated Rivalry ? Ce sont quelques-unes des questions auxquelles nous répondrons cet automne dans le cadre des séances « le genre à travers la caméra » pour l’Upop ! De Titanic à Fleabag\, Basic Instinct à The Handmaid’s Tale\, du blockbuster au film d’auteur\, ces cours proposent une plongée au cœur des représentations du genre sur nos écrans. Nous mobiliserons des auteur-rices\, des artistes et beaucoup de contenus vidéo pour comprendre comment nous bâtissons nos stéréotypes de genre\, les fonctions que ceux-ci ont\, la manière dont le patriarcat s’est emparé de la caméra et enfin les formes de résistances que l’on peut opposer à cette objectification. Parce que les spectateur-rices ne veulent pas (toujours) faire les voyeurs et pour que ce soit enfin aux personnages masculins de demander « What do we do now ? » Professeur-e(s) Clotilde Séjourné« Clotilde Séjourné est doctorante en communication et chargée de cours à l’université de Montréal. Ses intérêts de recherche portent sur les enjeux de santé des femmes et des personnes de la communauté LGBTQIA+ ainsi que sur la coexistence d’expertises scientifiques et expérientielles en santé. Elle exerce également comme chargée des communications et partenariats à l’institut de recherche Michael Penner sur les enjeux environnementaux\, sociaux et de gouvernance. »
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9294
 
 STATUS:CONFIRMED
 END:VEVENT
