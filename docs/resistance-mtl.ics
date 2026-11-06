@@ -220,6 +220,21 @@ URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenemen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Là où les cendres brûlent - Où sont les personnes trans dans l'histoire ?
+UID:evenement9499 @ http://www.resistancemontreal.org
+DTSTAMP:20261105T130934Z
+DTSTART:20261108T003000Z
+DTEND:20261108T140500Z
+CREATED:20261105T130934Z
+LAST-MODIFIED:20261105T130934Z 
+LOCATION:Centre Sanaaq, 1200 rue du Sussex (métro Atwater) 
+DESCRIPTION:Seul(e) en scène\, Charly Mullot puise dans la mythologie\, l’Histoire et la culture pop pour raconter les figures queer que le temps\, les institutions et les normes ont tenté d’effacer. Description Si certaines de ces figures appartiennent à la fiction et au folklore\, d’autres ont réellement existé. Toutes témoignent que les parcours trans et non binaires ne sont pas des réalités nouvelles\, et que leurs récits ont traversé les siècles. Entre conte\, humour et conférence\, Là où les cendres brûlent est une quête à la recherche de nos ancêtres oublié·es et de leurs héritages. Et si les histoires avaient le pouvoir de transformer nos imaginaires ? Et si nos imaginaires influençaient ce qu’on s’autorise à rêver et à vivre ?
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9499
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Québécoises musulmanes tannées - Sit-in
 UID:evenement9278 @ http://www.resistancemontreal.org
 DTSTAMP:20260926T120829Z
@@ -741,21 +756,6 @@ LOCATION:Parc monseigneur-j-a-richard, (Lasalle/5e avenue)
 DESCRIPTION:Saturday\, July 18th SLAM Verdun is holding our yearly neighborhood BBQ ! Come hang out\, rant about your landlord\, and talk about how to organize with your neighbors with people who have already done it\, are in the process of doing it\, or also want to try it. There will be Halal and veggie hot dogs\, cold lemonade\, some really cool discussions and more ! Children welcome :) Meet us at the river near boul. Lasalle / 5e avenue. Le samedi 18 juillet se tiendra le bbq annuel du SLAM Verdun ! Venez passer un bon moment\, chialer contre votre propriétaire\, et discuter de façons d’organiser vos voisin.es avec des personnes qui l’ont déjà fait\, sont en train de le faire\, ou veulent aussi le faire. Il y aura des hot dogs végés et Halal\, de la limonade froide\, de vraiment bonnes discussions\, et plus encore ! Enfants bienvenus :) Rejoignez-nous au bord de l’eau. Lasalle / 5e avenue.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9017
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Permanent Tribunal on Disappeared Indigenous Children and Unmarked Burials - Live-streaming the final judgement
-UID:evenement9312 @ http://www.resistancemontreal.org
-DTSTAMP:20260927T124637Z
-DTSTART:20260930T133000Z
-DTEND:20260930T144500Z
-CREATED:20260927T124637Z
-LAST-MODIFIED:20260927T124637Z 
-LOCATION:Online
-DESCRIPTION:The Final Judgment will be livestreamed at 9:30am EDT on Wednesday\, September 30th.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9312
 
 STATUS:CONFIRMED
 END:VEVENT
