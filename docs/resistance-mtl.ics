@@ -10,6 +10,21 @@ X-WR-RELCALID:http://www.resistancemontreal.org
 
 
 BEGIN:VEVENT
+SUMMARY:Atelier - Construire la paix en Amérique Latine
+UID:evenement9527 @ http://www.resistancemontreal.org
+DTSTAMP:20261107T040135Z
+DTSTART:20261120T223000Z
+DTEND:20261120T050000Z
+CREATED:20261107T040135Z
+LAST-MODIFIED:20261107T040135Z 
+LOCATION:UQAM\, Salle des Boiseries, Pavillon Judith-Jasmin\, local J-2805 (métro Berri) 
+DESCRIPTION:ET SI NOUS PARLIONS DE LA PAIX ? 🍃 ¿Y SI HABLAMOS DE PAZ ? 🌳 Le CDHAL vous invite à un atelier participatif autour des expériences de paix et de mémoire en Amérique latine. Au programme : une causerie autour de la Colombie et du Guatemala\, suivie d'un espace de création collective où l'art\, le storytelling et le partage des savoirs expérientiels deviennent des outils pour réfléchir ensemble à la construction d’une paix durable ici et ailleurs. Participez aux échanges et contribuez à tisser des solidarités Québec-Amérique latine dans le cadre des 50 ans du CDHAL et des Journées québécoises de la solidarité internationale - l'activité est gratuite et ouverte à tout le monde ! ⏰ Vendredi 20 novembre 2026\, de 17h30 à 20h30 📍 Université du Québec à Montréal (UQAM)\, Salle des Boiseries (J-2805) 🤝 Partenaires et intervenantes : CUAL\, Manuela Ochoa\, Rachel Hatcher 🍕 Bouchées offertes sur place 🗣️ Français et espagnol *********************************************** 🌳 El CDHAL les invita a un taller participativo en torno a las experiencias de construcción de paz en América Latina. El encuentro incluirá una conversación sobre Colombia y Guatemala\, seguida de un espacio de creación colectiva donde el arte y los relatos de vida serán herramientas para reflexionar en torno a la memoria\, la empatía y la construcción de paz aquí y allá. Participa en los diálogos y contribuye a tejer lazos de solidaridad entre Quebec y América Latina con motivo del 50 aniversario del CDHAL y de las Jornadas Quebequenses por la Solidaridad Internacional : ¡la actividad es gratuita y está abierta a todo el mundo ! ⏰ Viernes 20 de noviembre de 2026\, de las 17h30 hasta las 20h30 📍 UQAM\, Salle des Boiseries (J-2805) 🤝personas involucradas : CUAL UQAM\, Manuela Ochoa y Rachel Hatcher 🍕 Comida ofrecida 🗣️ Francés y español #ÉducationPopulaire #MémoireCollective #JQSI2026 #EducaciónPopular #MemoriaColectiva
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9527
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Projection de films pour la Palestine devant la caisse de de dépôts et placements
 UID:evenement9107 @ http://www.resistancemontreal.org
 DTSTAMP:20260815T030421Z
@@ -21,6 +36,36 @@ LOCATION:Place Jean-Paul-Riopelle, (métro Place-d'Armes)
 DESCRIPTION:📽️ Projection de films 🕰️ Quand ? Samedi\, 22 août à partir de 19h30 🏦 Où ? 1000 Place Jean-Paul-Riopelle\, devant la Caisse de Dépôt (métro Square Victoria) Désinvestir pour la Palestine vous invite le 22 août\, à partir de 19h30\, à une projection de films à la Place Jean-Paul-Riopelle\, devant la Caisse de Dépôt. Tout près de là\, le Campement populaire Al-Soumoud s’était tenu il y’a un peu plus de deux ans. L'évènement sera aussi l'occasion pour vous parler de quelques projets du collectif et d'offrir du matériel de mob ! Nous combinerons long et courts métrages\, sur la Palestine bien sûr 🇵🇸🍉 et le tout sera suivi d’une discussion. On compte sur votre présence ! **En cas de pluie 🌧️🌦️ l’évènement sera reporté !
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9107
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier d'éducation populaire\, crise du logement et violence conjugale
+UID:evenement9528 @ http://www.resistancemontreal.org
+DTSTAMP:20261107T040512Z
+DTSTART:20261119T230000Z
+DTEND:20261119T050400Z
+CREATED:20261107T040512Z
+LAST-MODIFIED:20261107T040512Z 
+LOCATION:CEDA, 2515 Rue Delisle (métro lionel-groulx) 
+DESCRIPTION:Atelier d'éducation populaire : Crise du logement : impacts sur la violence conjugale. Venez participer à une discussion avec Julie Leblanc\, organisatrice communautaire au centre d'éducation et d'action des femmes (CÉAF). Salle 119 du CEDA le jeudi 19 novembre à 18h
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9528
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24 - Échos du CRACH : Cohabitation sociale dans Ville-Marie : production de discours + imaginaires
+UID:evenement9529 @ http://www.resistancemontreal.org
+DTSTAMP:20261107T041010Z
+DTSTART:20261111T170000Z
+DTEND:20261111T050900Z
+CREATED:20261107T041010Z
+LAST-MODIFIED:20261107T041010Z 
+LOCATION:En ligne, (en ligne) 
+DESCRIPTION:Titre du séminaire : La cohabitation sociale dans Ville-Marie : production de discours et imaginaires sociaux sur Reddit Ce séminaire midi a lieu le mercredi 11 novembre à midi Résumé du séminaire : À travers les diverses mobilisations citoyennes s’inscrivant dans le mouvement « Pas dans ma cour » (NIMBY)\, la nomination du nouveau premier ministre en tant que responsable de la lutte contre l’itinérance et les nombreuses instances de concertations\, on observe une intensification des débats menant à la prise en charge institutionnelle et politique de la cohabitation sociale. Basée sur les résultats d’un mémoire de maîtrise\, cette présentation s’intéresse aux impacts des discours des personnes logées sur les compréhensions de la citoyenneté et du droit à la ville des personnes marginalisées et non logées. Les commentaires (n=1341) portant sur la présence de personnes en situation d’itinérance sur le forum r/montreal de Reddit ont été classés selon les différentes compréhensions dans le but de faire ressortir des figures de victimes\, de coupables et d’imputables de la problématique. L’analyse met en lumière les mécanismes discursifs comme les récits personnels ou l’utilisation de registres émotionnels pour légitimer l’exclusion socio-spatiale des citoyen.ne.s non logé.e.s. Cette présentation est effectuée par Léanne Tardif Léanne Tardif est une étudiante à la maîtrise en travail social sous la direction de Renaud Goyer et Mélissa Roy. Ses intérêts de recherche portent sur la production des inégalités à travers les discours et les politiques sociales. Son expérience en tant qu’intervenante dans un service de consommation supervisée influence sa posture de recherche. Cette présentation s'effectue par Zoom au lien suivant : https://umontreal.zoom.us/j/82547092256... ID de réunion 825 4709 2256 Code secret 305147 Veuillez noter que le séminaire sera enregistré pour en permettre sa diffusion ultérieure.
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9529
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -51,6 +96,51 @@ LOCATION:Parc Joe-Beef, (métro Charlevoix)
 DESCRIPTION:Pointe-Saint-Charles a de tout temps été un berceau de luttes et d'innovations. Depuis l'époque où la fumée sortait encore des usines longeant le Canal-de-Lachine jusqu'à aujourd'hui\, les gens de la Pointe se sont toujours rassemblé pour défendre leurs droits. Théâtre de plusieurs grèves et importantes mobilisations syndicales et citoyennes\, Pointe-Saint-Charles fait aujourd'hui face à une gentrification sans précédent. Les citoyennes et citoyens de la Pointe sont aujourd'hui en lutte pour défendre leur droit à un logement sain\, sécuritaire et abordable. Cette marche retracera cette longue histoire en revisitant les lieux importants des luttes citoyennes du quartier. Rejoins-nous au Parc Joe-Beef (au coin des rues Sucreries et Centre) jeudi le 20 août prochain à 13h00 pour une marche éducative sur les luttes collectives\, la gentrification et les victoires populaires du quartier de Pointe-Sainte-Charles ! La visite se terminera au Bâtiment 7 (1900 rue Le Ber) vers 16h30.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9114
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séance d'accueil à la Ligue des droits et libertés
+UID:evenement9530 @ http://www.resistancemontreal.org
+DTSTAMP:20261107T041254Z
+DTSTART:20261113T170000Z
+DTEND:20261113T051200Z
+CREATED:20261107T041254Z
+LAST-MODIFIED:20261107T041254Z 
+LOCATION:En ligne, (en ligne) 
+DESCRIPTION:La Ligue des droits et libertés (LDL) a le plaisir de vous inviter à une soirée d’accueil pour les nouveaux et nouvelles membres et toute personne intéressée à le devenir. Vous connaissez la LDL et envisagez de devenir membre ? Mais avant\, vous aimeriez en savoir plus sur notre travail et les possibilités d’implication ? Cette soirée est pour vous ! Bienvenue à tous et toutes ! Quand ? Vendredi\, 13 novembre 2026 de midi à 13h30 Où ? L'événement aura lieu en ligne sur la plate-forme zoom. Au programme Présentation de la LDL : notre mission et notre vision Structure de la LDL et aperçu de notre vie démocratique Survol des luttes en cours et moyens d’actions Comment s'impliquer pour les droits humains à la LDL ? Période de questions et d'échanges Animation Laurence Guénette\, coordonnatrice de la LDL Des questions ? Pour toute question sur la soirée d'accueil ou d'ordre technique\, n'hésitez pas à contacter Karina Toupin à info@liguedesdroits.ca ou par téléphone au (514) 849-7717\, poste 3221. Au plaisir de vous rencontrer ! L'équipe de la Ligue des droits et libertés
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9530
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le gala de l'opacité
+UID:evenement9531 @ http://www.resistancemontreal.org
+DTSTAMP:20261107T041419Z
+DTSTART:20261209T230000Z
+DTEND:20261209T051300Z
+CREATED:20261107T041419Z
+LAST-MODIFIED:20261107T041419Z 
+LOCATION:Ausgang Plaza, 6524 St-Hubert (métro Beaubien) 
+DESCRIPTION:LE GALA DE L'OPACITÉ L'art de priver la population d'informations d'intérêt public Le droit à l’information\, ça vous parle ? Intimement lié à la liberté d’expression et à la participation démocratique\, ce droit est reconnu dans la Charte des droits et libertés de la personne du Québec\, ainsi que dans le Pacte international sur les droits civils et politiques. Respecter le droit à l’information favorise la transparence\, la reddition de compte et l’imputabilité des institutions. Mais c’est aussi nécessaire pour que la société civile puisse accéder aux informations essentielles pour informer\, mobiliser et revendiquer des changements favorables à la justice sociale et des interventions pour mettre fin à des violations de droits humains ! Lorsque l’accès à l’information est entravé ou nié\, ou lorsque les groupes citoyens doivent entreprendre des démarches colossales pour accéder à des informations plutôt que d’y avoir accès d’emblée\, cela crée des obstacles à l’avancement des luttes pour les droits humains. La Ligue des droits et libertés et le Service aux collectivités de l'UQAM vous invitent à un Gala pas comme les autres ! Venez découvrir\, avec l’animation colorée de Catherine Éthier et les interventions de militant-es pour les droits humains de divers secteurs\, le premier rapport de recherche documentant les conséquences des dénis du droit à l’information sur les droits et libertés au Québec ! Chapeautée par le professeur Renaud Goyer de l’école de travail social de l’UQAM\, cette recherche puise dans l’expérience militante de personnes mobilisées sur divers enjeux (impunité policière\, droit au logement\, conditions de travail\, environnement\, etc) pour comprendre comment l’opacité nuit aux luttes pour les droits. À travers des prix célébrant l’opacité tour à tour absurde\, épique ou largement inadmissible de certaines institutions sur des enjeux de société\, venez découvrir les mécanismes par lesquels la population est souvent privée d’informations d’intérêt public\, et pourquoi le droit à l’information doit faire partie des exigences des Québécois-es pour l’avenir. Date Le mercredi 9 décembre 2026 à 18h Les portes ouvrent à 17h Lieu Ausgang Plaza 6524 Rue St-Hubert Montréal\, Québec\, H2S 2M3 (métro Beaubien) L'entrée est gratuite La LDL remercie le Services aux collectivités de l’UQAM\, le Centre québécois du droit de l’environnement et l’Observatoire des profilages pour leur soutien qui rend possible cet événement\, et toutes les organisations qui ont participé aux réflexions des dernières années au sujet du droit à l’information !
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9531
+
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BQAM-e : Formation laçage de roue
+UID:evenement9532 @ http://www.resistancemontreal.org
+DTSTAMP:20261107T041646Z
+DTSTART:20261202T180000Z
+DTEND:20261202T051600Z
+CREATED:20261107T041646Z
+LAST-MODIFIED:20261107T041646Z 
+LOCATION:BQAM-e, 200 Sherbrooke Ouest\, pavillon SH\, local SH-R315 (métro Place-des-Arts) 
+DESCRIPTION:❕Laçage et montage de roue ❗ Viens apprendre à monter ta propre roue à partir d'un moyeu\, d'une jante\, de rayons et de leur tête☸. Savoir préalablement aligner une roue est un atout ! 📧Inscription par courriel au atelier(a)bqam-e . org
+CATEGORIES:événements
+URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9532
 
 STATUS:CONFIRMED
 END:VEVENT
@@ -666,96 +756,6 @@ LOCATION:Coop La Livrerie, 1289 Ontario Est (métro Beaudry)
 DESCRIPTION:Heure à déterminer. — Les éditions du Lézard amoureux et la Livrerie vous invitent au lancement de Là où l'espagnol me fait mal de Natalie Fontalvo. — Une femme cherche sa langue à travers les couches de ses multiples vies et les traces du passé. Née au Sud\, habitée par ce qu’elle a laissé derrière\, elle avance entre les histoires familiales qui l’ont construite et cette terre nouvelle qu’il lui faut apprivoiser. S’adressant tour à tour à sa sœur\, ses tantes\, sa mère ou son fils\, la poète défie l’absence et réaffirme la puissance du lien. D’une voix lucide\, explorant minutieusement ce qui constitue son identité\, animée d’une volonté de se lire\, de se dire\, la poète raconte les bateaux qui toujours lèvent l’ancre pour rebricoler l’espoir. En français et en espagnol\, sa poésie éclate avec force et sensibilité\, créant un espace de rencontre entre l’hiver et la savane\, la glace et la mangrove. Du mal du pays aux élans de l’espoir\, ces poèmes célèbrent ce qui persiste\, malgré la distance\, malgré l’errance. j’ai compris trop tard des blocs de glace persistante s’étaient installés comme de la mauvaise herbe había perdido el camino hacia el corral ni siquiera lloré sous l’enclos vivaient aussi mes espèces endogées celles intouchées par des lueurs endothermes inflammables — Autrice\, performeuse\, directrice artistique\, Natalie Fontalvo aurait voulu être pirate ; née au mauvais siècle pour la piraterie\, elle est devenue artiste pluridisciplinaire. Comme ses identités\, la pratique artistique de Natalie est mestiza : littérature\, théâtre\, cinéma\, arts multidisciplinaires. On a pu voir son travail dans la Ville de Québec et à l’international\, dans des salles de diffusion et des festivals. Récipiendaire de plusieurs bourses et distinctions\, elle a été finaliste au Prix Relève professionnelle en Capitale-Nationale en 2023. En arts littéraires\, en plus de sa pratique de la poésie orale\, Natalie a dirigé la création de plusieurs projets littéraires scéniques et audiovisuels\, dont Féroce Croustillant Carnaval (Festival Carrefour\, 2026) et Le vieil homme et la mer (Québec en toutes lettres\, 2023). Elle poursuit par ailleurs une maîtrise en traduction littéraire à l’Université Laval. On a pu lire certains de ses textes dans des revues littéraires et des recueils collectifs\, dont Épidermes et Il y a des joies dont on ignore l’existence (Somme toute\, 2021 ; Diverses Syllabes\, 2022). Son premier recueil de poésie en solo\, Là où l’espagnol me fait mal\, paraît au Lézard amoureux à l’automne 2026\, accompagné d’un spectacle littéraire du même nom produit par Québec en toutes lettres. Elle est aussi la cofondatrice et codirectrice du Festival international de poésie de Québec\, dont la première édition a eu lieu en mars 2026. Depuis 2023\, Natalie est la codirectrice artistique de Spoken word Québec\, où elle travaille à déposer la poésie là où on ne l’attend pas.
 CATEGORIES:événements
 URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9288
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rassemblement : Le droit au logement avant l'armement
-UID:evenement9412 @ http://www.resistancemontreal.org
-DTSTAMP:20261017T124247Z
-DTSTART:20261112T163000Z
-DTEND:20261112T144100Z
-CREATED:20261017T124247Z
-LAST-MODIFIED:20261017T124247Z 
-LOCATION:Devant le musée des fusiliers du mont-royal, 300 av. des Pins Est (métro Sherbrooke) 
-DESCRIPTION:🪖🍁RASSEMBLEMENT ANTIMILITARISTE pour dénoncer les dépenses accordées à l'économie de guerre ! Pendant ce temps\, il n’y a pas de plan de développement de logement social ambitieux pour répondre aux besoin des locataires ! Les locataires ne veulent pas participer à la course à l’armement\, illes veulent des logements qu’illes peuvent se payer ! Rejoignez nous devant le Musée des Fusiliers à Montréal pour demander du logement social au fédéral ! 𝐄𝐧 𝟐𝟎𝟐𝟓-𝟐𝟎𝟐𝟔\, 𝐥𝐞𝐬 𝐝𝐞́𝐩𝐞𝐧𝐬𝐞𝐬 𝐦𝐢𝐥𝐢𝐭𝐚𝐢𝐫𝐞𝐬 𝐝𝐮 𝐠𝐨𝐮𝐯𝐞𝐫𝐧𝐞𝐦𝐞𝐧𝐭 𝐟𝐞́𝐝𝐞́𝐫𝐚𝐥 𝐬’𝐞́𝐥𝐞̀𝐯𝐞𝐧𝐭 𝐚̀ 𝟔𝟐\,𝟕 𝐦𝐢𝐥𝐥𝐢𝐚𝐫𝐝𝐬 $. C'est 7 fois le budget de son ministère du Logement\, de l’Infrastructure et des Collectivités. Il prévoit\, à terme\, consacrer un dollar sur trois de tous les revenus du gouvernement en dépenses militaires. Pendant ce temps\, les politiques canadiennes en habitation tendent à réduire les subventions publics et débouchent sur des logements dits « abordables ». Ces logements abordables sont trop chers pour les locataires à faibles et modestes revenus. Pour répondre à la capacité de payer des locataires et pour avoir un effet structurant sur l’ensemble du parc locatif\, il faut des logements sociaux accessibles financièrement dès le premier jour et pour toujours. Pour répondre aux besoins les plus urgents\, le gouvernement du Canada doit : • financer 500 000 logements sociaux en 10 ans ; • garder pour le logement social tout l'argent et les terrains publics prévus pour le logement ; • créer des programmes permanents de logement social\, dont un pour les logements publics comme les HLM. 𝐋𝐨𝐜𝐚𝐭𝐚𝐢𝐫𝐞𝐬\, 𝐞𝐧𝐠𝐚𝐠𝐞𝐳-𝐯𝐨𝐮𝐬 𝐩𝐨𝐮𝐫 𝐥𝐞 𝐥𝐨𝐠𝐞𝐦𝐞𝐧𝐭 𝐬𝐨𝐜𝐢𝐚𝐥. Matériel de mob (affiche\, tract en langage clair) : https://www.frapru.qc.ca/action-armement/ 💌D'ici là\, vous pouvez participer à notre campagne de lettres au fédéral : https://win.newmode.net/.../carneyastuducoeurlelogementso...
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9412
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRUES : Manifestation contre l'austérité et la précarité
-UID:evenement9430 @ http://www.resistancemontreal.org
-DTSTAMP:20261025T124316Z
-DTSTART:20261113T190000Z
-DTEND:20261113T144100Z
-CREATED:20261025T124316Z
-LAST-MODIFIED:20261025T124316Z 
-LOCATION:Square Victoria, (métro Square-Victoria) 
-DESCRIPTION:À ceux et celles qui en ont marre\, Du 9 au 13 novembre prochain\, nous serons des dizaines de milliers d’étudiant-e-s en grève. La grève\, c’est pour que cessent les mesures austères du gouvernement\, pour que notre éducation soit libre\, accessible et de qualité et surtout pour que le gouvernement prennent action face à la vie chère et la précarité grandissante chez les personnes étudiantes. Cependant\, la grève ne suffira pas. On l’a vu mainte et mainte fois\, pour qu’on nous écoute\, nous devons prendre action\, nous devons prendre la rue. Ça suffit ! La CRUES appelle toute la population étudiante et la société civile à manifester le 13 novembre prochain à Tiohtià:ke (Montréal). On se rejoint à 14h au Square Victoria ! Nos campus s’écroulent\, les crises multiples aggravent la précarité étudiante. Le gouvernement a les moyens de répondre à ces crises\, il refuse simplement de le faire. Le 13 novembre\, il ne pourra pas nous ignorer. Nos demandes sont claires : Une réforme de l’aide financière aux études (AFE) Un refinancement dans les institutions d’enseignement postsecondaire\, pour adresser le déclin constant de la qualité et de l’accessibilité de l’éducation\, en excluant le financement de la répression et de la surveillance. Plus que de simples enjeux étudiants\, ces revendications démontrent que les coupures se font dans l’ensemble des services et du filet social. La CRUES encourage donc toute personne\, groupe\, association qui décrit l’austérité du gouvernement à endosser la manifestation et à nous rejoindre le 13 novembre. Uni.e.s par nos luttes\, ensemble dans la rue ! Voyez notre campagne ici : https://crues.org/campagne/
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9430
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exposure Trip : a triple Reportback from the Philippines
-UID:evenement9020 @ http://www.resistancemontreal.org
-DTSTAMP:20260718T124504Z
-DTSTART:20260728T210000Z
-DTEND:20260728T144200Z
-CREATED:20260718T124504Z
-LAST-MODIFIED:20260718T124504Z 
-LOCATION:Au Monastère, 4450 St-Hubert (métro Mont-Royal) 
-DESCRIPTION:Earlier this year\, members of the Montreal-based Anakbayan chapter spent a month in the Philippines living alongside our people. Through this exposure trip\, we witnessed firsthand the semi-feudal and semi-colonial conditions of the Philippine society that continue to force thousands of Filipinos to leave the country every day in search of jobs abroad\, like here in Canada. Join us as we share our experiences\, reflections\, and lessons from the communities we immersed in\, and discuss what these realities mean for the struggle of the Filipino people—both in the Philippines and in the diaspora. ⏰ July 28\, Tuesday from 5–8 PM 📍Au monastère (4450 rue Saint-Hubert\, room 600) ♿ wheelchair accessible entrace 4449\, rue Berri Near Metro Mont-Royal Free event ! hybrid TBD
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9020
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UPop - Histoire des luttes et alternatives au logement capitaliste
-UID:evenement9289 @ http://www.resistancemontreal.org
-DTSTAMP:20260926T124537Z
-DTSTART:20261013T230000Z
-DTEND:20261013T144200Z
-CREATED:20260926T124537Z
-LAST-MODIFIED:20260926T124537Z 
-LOCATION:Bar HAL, 3673 Ontario Est (métro Joliette) 
-DESCRIPTION:Histoire des luttes et alternatives au logement capitaliste Présentation Les luttes pour le droit au logement ont comme élément commun de contester le mode de propriété capitaliste dans le champ de l’habitation. Faire reconnaître le droit fondamental à un logement adéquat (accessible financièrement\, en bon état et sécuritaire) c’est contester la marchandisation du logement qui conçoit le logement comme un investissement dont une minorité peut profiter. Dans ce cours\, nous allons partir des luttes passées et actuelles pour le droit au logement et l’amélioration des conditions de vie des locataires. Luttes que nous opposerons à la marchandisation et la financiarisation du logement qui fait de nos milieux de vie des objets de profit aux dépens des locataires qui vivent en ses murs. Dans un deuxième temps\, nous verrons comment les différentes alternatives au logement capitaliste (les OSBL\, les HLM et les Coopératives d’habitation) se sont développées et comment elles arrivent à être résilientes et à survivre dans le marché capitaliste de l’habitation. En sommes nous espérons que ces cinq séances pourront nourrir les réflexions et l’action des prochaines années contre le logement capitaliste et pour le droit au logement pour toutes et tous. Professeur-e(s) François SaillantFrançois Saillant a été coordonnateur et porte-parole du Front d’action populaire en réaménagement urbain (FRAPRU) de 1979 à 2016. Animateur du Regroupement de solidarité avec les Autochtones puis membre fondateur de Québec solidaire. Il est l’auteur de plusieurs livres sur l’histoire et l’actualité des luttes pour le droit au logement. Francis DolanFrancis est organisateur communautaire dans le milieu du logement. Depuis plusieurs années\, il travaille à la pleine reconnaissance du droit au logement et à l’amélioration des conditions de logement dans les quartiers populaires montréalais. Avec le Regroupement Information Logement\, il s'investit au développement de logements sociaux en réponse aux besoins des personnes mal-logées de Pointe-Saint-Charles et du Sud-Ouest. Patricia ViannayPatricia Viannay est coordonnatrice de la Fédération des locataires de HLM\, un regroupement de locataires de HLM qui s'organisent collectivement pour améliorer leur qualité de vie et défendre leurs droits. Depuis plus de 25 ans\, elle lutte auprès des locataires pour le droit au logement. Olivier DupuisOlivier Dupuis est agent à la formation et au développement à la Fédération des OSBL d’habitation de Montréal. Il a travaillé auparavant en défense collective des droits dans le milieu associatif des personnes en situation de handicap.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9289
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Les 50 ans du CDHAL : La solidarité internationale pour le bien commun
-UID:evenement9016 @ http://www.resistancemontreal.org
-DTSTAMP:20260711T124408Z
-DTSTART:20260925T130000Z
-DTEND:20260925T144300Z
-CREATED:20260711T124408Z
-LAST-MODIFIED:20260711T124408Z 
-LOCATION:Centre St-Pierre, 1212 Panet (métro Beaudry) 
-DESCRIPTION:Nous célébrons 50 ans de lutte\, de mémoire et de solidarité ! ✊🏾 Le programme sera révélé peu à peu\, mais nous pouvons déjà vous dire qu'il y aura : Défenseures du territoire directement depuis l'Amérique latine Élaboration de fanzines Tables rondes Une juntanza (rassemblement-discussion collective) Notre Assemblée générale Lancement du dernier numéro de la revue Caminando Une fête et bien plus encore ! Suivez-nous pour ne rien manquer ! 🎉 ******** ¡Celebramos 50 años de lucha\, memoria y solidaridad ! ✊🏾 El programa se irá revelando poco a poco\, pero ya podemos decirte que habrá : Defensoras del territorio directamente desde América Latina Creación de fanzines Conversatorios Una juntanza Nuestra Asamblea General Lanzamiento del nuevo número de la revista Caminando ¡Una fiesta y mucho más ! ¡Síguenos para no perderte nada ! 🎉
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9016
-
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BBQ de quartier de Verdun / Verdun neighborhood BBQ
-UID:evenement9017 @ http://www.resistancemontreal.org
-DTSTAMP:20260711T124817Z
-DTSTART:20260718T160000Z
-DTEND:20260718T144500Z
-CREATED:20260711T124817Z
-LAST-MODIFIED:20260711T124817Z 
-LOCATION:Parc monseigneur-j-a-richard, (Lasalle/5e avenue) 
-DESCRIPTION:Saturday\, July 18th SLAM Verdun is holding our yearly neighborhood BBQ ! Come hang out\, rant about your landlord\, and talk about how to organize with your neighbors with people who have already done it\, are in the process of doing it\, or also want to try it. There will be Halal and veggie hot dogs\, cold lemonade\, some really cool discussions and more ! Children welcome :) Meet us at the river near boul. Lasalle / 5e avenue. Le samedi 18 juillet se tiendra le bbq annuel du SLAM Verdun ! Venez passer un bon moment\, chialer contre votre propriétaire\, et discuter de façons d’organiser vos voisin.es avec des personnes qui l’ont déjà fait\, sont en train de le faire\, ou veulent aussi le faire. Il y aura des hot dogs végés et Halal\, de la limonade froide\, de vraiment bonnes discussions\, et plus encore ! Enfants bienvenus :) Rejoignez-nous au bord de l’eau. Lasalle / 5e avenue.
-CATEGORIES:événements
-URL:https://www.resistancemontreal.org/calendrier/article/evenements?id_evenement=9017
 
 STATUS:CONFIRMED
 END:VEVENT
